@@ -23,6 +23,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe evaluate_topics.py
 .\.venv\Scripts\python.exe lab6.py verify
 .\.venv\Scripts\python.exe lab6.py serve
+Открыть интерфейс в браузере http://127.0.0.1:8006
 ```
 
 После нового прогона идентификаторы видео могут измениться из-за другого пути к папке проекта.

@@ -14,6 +14,7 @@
 ```powershell
 git clone https://github.com/ArtemyZurin/lab6-video-analysis.git
 cd lab6-video-analysis
+или скачать архив, распаковать, затем в папке с проектом:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements-lock.txt
 # Для загрузки YouTube нужен Node.js 22+ либо Deno в PATH

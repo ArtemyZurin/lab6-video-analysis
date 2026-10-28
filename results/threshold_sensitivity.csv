@@ -1,0 +1,19 @@
+﻿threshold,video,frames,boxes,person_frames
+0.4,Solar System 101 | National Geographic,90,50,0
+0.4,Black Holes 101 | National Geographic,90,6,1
+0.4,Stars 101 | National Geographic,90,28,0
+0.4,Volcanoes 101 | National Geographic,90,11,2
+0.4,Earthquakes 101 | National Geographic,180,145,20
+0.4,Continental Drift 101 | National Geographic,144,154,112
+0.6,Solar System 101 | National Geographic,90,31,0
+0.6,Black Holes 101 | National Geographic,90,0,0
+0.6,Stars 101 | National Geographic,90,12,0
+0.6,Volcanoes 101 | National Geographic,90,4,2
+0.6,Earthquakes 101 | National Geographic,180,87,20
+0.6,Continental Drift 101 | National Geographic,144,125,110
+0.8,Solar System 101 | National Geographic,90,8,0
+0.8,Black Holes 101 | National Geographic,90,0,0
+0.8,Stars 101 | National Geographic,90,4,0
+0.8,Volcanoes 101 | National Geographic,90,0,0
+0.8,Earthquakes 101 | National Geographic,180,17,11
+0.8,Continental Drift 101 | National Geographic,144,112,109

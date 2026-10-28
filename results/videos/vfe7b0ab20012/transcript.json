@@ -1,0 +1,198 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Like fireflies, on a still summer night,",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 3.78,
+      "end": 7.66,
+      "text": "they gently dot and illuminate the infinite Velveteen sky.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 11.86,
+      "end": 12.62,
+      "text": "Stars.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 13.62,
+      "end": 17.08,
+      "text": "Be they millions or billions of years old",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 17.08,
+      "end": 22.02,
+      "text": "are all born in nebulae, clouds of dust and mostly hydrogen gas.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 23.26,
+      "end": 24.86,
+      "text": "Within these stellar nurseries,",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 25.5,
+      "end": 27.62,
+      "text": "stars begin life as proto stars",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 27.62,
+      "end": 30.18,
+      "text": "or hot cores formed by the collection",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 30.18,
+      "end": 32.16,
+      "text": "and collapse of dust and gas.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 33.08,
+      "end": 35.34,
+      "text": "As the proto-stars become hotter,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 35.88,
+      "end": 37.88,
+      "text": "hydrogen nuclei inside of the cores",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 37.88,
+      "end": 40.42,
+      "text": "begin to fuse and create helium.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 41.18,
+      "end": 42.84,
+      "text": "It is this chemical reaction,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 43.46,
+      "end": 44.58,
+      "text": "thermonuclear fusion,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 45.04,
+      "end": 47.4,
+      "text": "that generates a star's heat and energy",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 47.4,
+      "end": 48.9,
+      "text": "and causes it to shine.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 50.62,
+      "end": 53.54,
+      "text": "Stars are categorized by a number of characteristics.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 53.54,
+      "end": 59.3,
+      "text": "One of these classifications is by surface temperature, called spectral classes,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 59.94,
+      "end": 64.82,
+      "text": "these seven major groups range from the coolest stars, which are designated as M,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 65.34,
+      "end": 68.56,
+      "text": "and up to the hottest stars, which are designated as O.",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 69.48,
+      "end": 73.94,
+      "text": "Stars are also classified by the amount of light they emit or luminosity.",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 74.46,
+      "end": 81.22,
+      "text": "Called luminosity classes, these nine major groups range from the small, less bright white dwarves,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 81.22,
+      "end": 85.2,
+      "text": "to the large and extremely bright, hypergiants.",
+      "avg_logprob": -0.36937713623046875,
+      "no_speech_prob": 0.3344818353652954,
+      "compression_ratio": 1.146067415730337
+    },
+    {
+      "start": 86.88,
+      "end": 89.94,
+      "text": "But no matter their luminosity or surface temperature.",
+      "avg_logprob": -0.36937713623046875,
+      "no_speech_prob": 0.3344818353652954,
+      "compression_ratio": 1.146067415730337
+    }
+  ],
+  "warnings": []
+}

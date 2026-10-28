@@ -1,0 +1,46 @@
+{
+  "source": {
+    "title": "OpenCV — Megamind sample",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\megamind\\original.avi",
+    "filename": "original.avi",
+    "sha256": "0057387cb7e75c8fd1663b62cfdc51fa53f527795d0fe3c1fea2fd159d3130b5",
+    "collected_at": "2026-10-27T08:58:37.030882+00:00",
+    "source_kind": "local",
+    "origin_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi"
+  },
+  "technical": {
+    "duration": 11.261261,
+    "fps": 23.976,
+    "fps_fraction": "2997/125",
+    "width": 720,
+    "height": 528,
+    "codec": "mpeg4",
+    "pixel_format": "yuv420p",
+    "container": "avi",
+    "bit_rate": 844857,
+    "bytes": 1189270,
+    "has_audio": true,
+    "audio_codec": "ac3",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 11.302302,
+    "fps": 23.976,
+    "fps_fraction": "2997/125",
+    "width": 720,
+    "height": 528,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 689243,
+    "bytes": 973755,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

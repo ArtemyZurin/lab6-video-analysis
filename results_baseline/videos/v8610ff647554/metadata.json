@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "OpenCV — pedestrians",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\pedestrians\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "78d5b2f7ffe4ec39e63bb9a81dbbf27cdc86cbdbf8d08ce9be3b60612af95ee1",
+    "collected_at": "2026-10-27T08:58:35.497962+00:00",
+    "source_kind": "local",
+    "origin_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi",
+    "clip_seconds": 15
+  },
+  "technical": {
+    "duration": 15.0,
+    "fps": 10.0,
+    "fps_fraction": "10/1",
+    "width": 768,
+    "height": 576,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 538242,
+    "bytes": 1009205,
+    "has_audio": false,
+    "audio_codec": null,
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 15.0,
+    "fps": 10.0,
+    "fps_fraction": "10/1",
+    "width": 768,
+    "height": 576,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 455701,
+    "bytes": 854441,
+    "has_audio": false,
+    "audio_codec": null,
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

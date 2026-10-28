@@ -1,0 +1,1055 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-28T09:19:20.817904+00:00",
+  "config": {
+    "interval": null,
+    "confidence": 0.4,
+    "scene_threshold": 0.45,
+    "yolo": "yolov8n.pt",
+    "whisper": "base",
+    "language": null,
+    "device": "cpu"
+  },
+  "videos": [
+    {
+      "id": "vb03a107a1954",
+      "title": "W3C — timer test",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\w3c_movie\\clip.mp4",
+      "metadata": {
+        "title": "W3C — timer test",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\w3c_movie\\clip.mp4",
+        "filename": "original.mp4",
+        "sha256": "974d7c6d818b3aba9f8e6379a37037d75f46da8c266dc1ef28ce742d6303df10",
+        "collected_at": "2026-10-27T08:58:26.991147+00:00",
+        "source_kind": "local",
+        "origin_url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+        "clip_seconds": 60
+      },
+      "technical": {
+        "duration": 60.0,
+        "fps": 24.0,
+        "fps_fraction": "24/1",
+        "width": 320,
+        "height": 240,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "container": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bit_rate": 73131,
+        "bytes": 548486,
+        "has_audio": true,
+        "audio_codec": "aac",
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 60.0,
+      "media": "videos/vb03a107a1954/video.mp4",
+      "interval": 1.0,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.011476205094368197,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/vb03a107a1954/frames/000000.jpg",
+          "objects": [],
+          "brightness": 0.9005753165849673,
+          "sharpness": 3469.2540104166665,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 1.0,
+          "image": "videos/vb03a107a1954/frames/000001.jpg",
+          "objects": [],
+          "brightness": 0.9081021752450981,
+          "sharpness": 3192.546640625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 2.0,
+          "image": "videos/vb03a107a1954/frames/000002.jpg",
+          "objects": [],
+          "brightness": 0.9024386233660131,
+          "sharpness": 3440.1517447916667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 3.0,
+          "image": "videos/vb03a107a1954/frames/000003.jpg",
+          "objects": [],
+          "brightness": 0.9028621323529411,
+          "sharpness": 3450.6865625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 4.0,
+          "image": "videos/vb03a107a1954/frames/000004.jpg",
+          "objects": [],
+          "brightness": 0.9020717422385621,
+          "sharpness": 3484.4296354166668,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 5.0,
+          "image": "videos/vb03a107a1954/frames/000005.jpg",
+          "objects": [],
+          "brightness": 0.9015125612745097,
+          "sharpness": 3421.8571875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 6.0,
+          "image": "videos/vb03a107a1954/frames/000006.jpg",
+          "objects": [],
+          "brightness": 0.8999868259803921,
+          "sharpness": 3503.4752864583334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 7.0,
+          "image": "videos/vb03a107a1954/frames/000007.jpg",
+          "objects": [],
+          "brightness": 0.9068225081699347,
+          "sharpness": 3234.753125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 8.0,
+          "image": "videos/vb03a107a1954/frames/000008.jpg",
+          "objects": [],
+          "brightness": 0.8992762459150326,
+          "sharpness": 3529.76171875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 9.0,
+          "image": "videos/vb03a107a1954/frames/000009.jpg",
+          "objects": [],
+          "brightness": 0.8998515114379084,
+          "sharpness": 3512.993151041667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 10.0,
+          "image": "videos/vb03a107a1954/frames/000010.jpg",
+          "objects": [],
+          "brightness": 0.9080920649509804,
+          "sharpness": 3165.132838541667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 11.0,
+          "image": "videos/vb03a107a1954/frames/000011.jpg",
+          "objects": [],
+          "brightness": 0.9156598243464051,
+          "sharpness": 2879.7297395833334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 12.0,
+          "image": "videos/vb03a107a1954/frames/000012.jpg",
+          "objects": [],
+          "brightness": 0.9090806781045752,
+          "sharpness": 3245.8284375,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 13.0,
+          "image": "videos/vb03a107a1954/frames/000013.jpg",
+          "objects": [],
+          "brightness": 0.9095130208333334,
+          "sharpness": 3248.0065885416666,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 14.0,
+          "image": "videos/vb03a107a1954/frames/000014.jpg",
+          "objects": [],
+          "brightness": 0.9100147569444444,
+          "sharpness": 3105.6547135416668,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 15.0,
+          "image": "videos/vb03a107a1954/frames/000015.jpg",
+          "objects": [],
+          "brightness": 0.8304269812091503,
+          "sharpness": 3929.09109375,
+          "scene_distance": 0.2766592169851148
+        },
+        {
+          "time": 16.0,
+          "image": "videos/vb03a107a1954/frames/000016.jpg",
+          "objects": [],
+          "brightness": 0.8281200980392157,
+          "sharpness": 4073.858880208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 17.0,
+          "image": "videos/vb03a107a1954/frames/000017.jpg",
+          "objects": [],
+          "brightness": 0.8349445465686275,
+          "sharpness": 3813.540052083333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 18.0,
+          "image": "videos/vb03a107a1954/frames/000018.jpg",
+          "objects": [],
+          "brightness": 0.8274672691993464,
+          "sharpness": 4133.9548958333335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 19.0,
+          "image": "videos/vb03a107a1954/frames/000019.jpg",
+          "objects": [],
+          "brightness": 0.8280274714052287,
+          "sharpness": 4111.981536458334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 20.0,
+          "image": "videos/vb03a107a1954/frames/000020.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.4296441078186035,
+              "xyxy": [
+                136.593017578125,
+                133.02345275878906,
+                184.50347900390625,
+                159.3097381591797
+              ]
+            }
+          ],
+          "brightness": 0.8241150939542483,
+          "sharpness": 4208.36453125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 21.0,
+          "image": "videos/vb03a107a1954/frames/000021.jpg",
+          "objects": [],
+          "brightness": 0.8316887765522876,
+          "sharpness": 3958.1649479166667,
+          "scene_distance": 0.04892639707097205
+        },
+        {
+          "time": 22.0,
+          "image": "videos/vb03a107a1954/frames/000022.jpg",
+          "objects": [],
+          "brightness": 0.8260447814542483,
+          "sharpness": 4265.3325,
+          "scene_distance": 0.015848910204817754
+        },
+        {
+          "time": 23.0,
+          "image": "videos/vb03a107a1954/frames/000023.jpg",
+          "objects": [],
+          "brightness": 0.8264712520424837,
+          "sharpness": 4250.578880208333,
+          "scene_distance": 0.015590261913382808
+        },
+        {
+          "time": 24.0,
+          "image": "videos/vb03a107a1954/frames/000024.jpg",
+          "objects": [],
+          "brightness": 0.8256287275326798,
+          "sharpness": 4281.750572916667,
+          "scene_distance": 0.013176827773516217
+        },
+        {
+          "time": 25.0,
+          "image": "videos/vb03a107a1954/frames/000025.jpg",
+          "objects": [],
+          "brightness": 0.8242052185457517,
+          "sharpness": 4321.404635416667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 26.0,
+          "image": "videos/vb03a107a1954/frames/000026.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.47167882323265076,
+              "xyxy": [
+                136.59393310546875,
+                132.90887451171875,
+                184.68402099609375,
+                156.47860717773438
+              ]
+            }
+          ],
+          "brightness": 0.8227070567810457,
+          "sharpness": 4395.584583333333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 27.0,
+          "image": "videos/vb03a107a1954/frames/000027.jpg",
+          "objects": [],
+          "brightness": 0.8295355392156863,
+          "sharpness": 4125.708411458333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 28.0,
+          "image": "videos/vb03a107a1954/frames/000028.jpg",
+          "objects": [],
+          "brightness": 0.8220121017156863,
+          "sharpness": 4412.793880208334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 29.0,
+          "image": "videos/vb03a107a1954/frames/000029.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.4322810471057892,
+              "xyxy": [
+                136.64944458007812,
+                132.75326538085938,
+                184.68173217773438,
+                164.06057739257812
+              ]
+            }
+          ],
+          "brightness": 0.8225440665849673,
+          "sharpness": 4399.172213541667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 30.0,
+          "image": "videos/vb03a107a1954/frames/000030.jpg",
+          "objects": [],
+          "brightness": 0.8239536356209151,
+          "sharpness": 4210.828515625,
+          "scene_distance": 0.3832052248947948
+        },
+        {
+          "time": 31.0,
+          "image": "videos/vb03a107a1954/frames/000031.jpg",
+          "objects": [],
+          "brightness": 0.8313716299019608,
+          "sharpness": 3940.407760416667,
+          "scene_distance": 0.037511688501330284
+        },
+        {
+          "time": 32.0,
+          "image": "videos/vb03a107a1954/frames/000032.jpg",
+          "objects": [],
+          "brightness": 0.8246767769607843,
+          "sharpness": 4364.6755989583335,
+          "scene_distance": 0.061610243555205724
+        },
+        {
+          "time": 33.0,
+          "image": "videos/vb03a107a1954/frames/000033.jpg",
+          "objects": [],
+          "brightness": 0.8251071282679738,
+          "sharpness": 4371.5447395833335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 34.0,
+          "image": "videos/vb03a107a1954/frames/000034.jpg",
+          "objects": [],
+          "brightness": 0.8256036049836601,
+          "sharpness": 4238.949921875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 35.0,
+          "image": "videos/vb03a107a1954/frames/000035.jpg",
+          "objects": [],
+          "brightness": 0.8249695159313726,
+          "sharpness": 4162.0448177083335,
+          "scene_distance": 0.009621944204793374
+        },
+        {
+          "time": 36.0,
+          "image": "videos/vb03a107a1954/frames/000036.jpg",
+          "objects": [],
+          "brightness": 0.8226811683006535,
+          "sharpness": 4303.7471875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 37.0,
+          "image": "videos/vb03a107a1954/frames/000037.jpg",
+          "objects": [],
+          "brightness": 0.8295121017156863,
+          "sharpness": 4035.212421875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 38.0,
+          "image": "videos/vb03a107a1954/frames/000038.jpg",
+          "objects": [],
+          "brightness": 0.8220545343137255,
+          "sharpness": 4379.6290625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 39.0,
+          "image": "videos/vb03a107a1954/frames/000039.jpg",
+          "objects": [],
+          "brightness": 0.8226287275326797,
+          "sharpness": 4330.656640625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 40.0,
+          "image": "videos/vb03a107a1954/frames/000040.jpg",
+          "objects": [],
+          "brightness": 0.8229778390522876,
+          "sharpness": 4310.126380208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 41.0,
+          "image": "videos/vb03a107a1954/frames/000041.jpg",
+          "objects": [],
+          "brightness": 0.8304924938725491,
+          "sharpness": 4018.0042708333335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 42.0,
+          "image": "videos/vb03a107a1954/frames/000042.jpg",
+          "objects": [],
+          "brightness": 0.8246402675653596,
+          "sharpness": 4300.2853125,
+          "scene_distance": 0.025949929745901643
+        },
+        {
+          "time": 43.0,
+          "image": "videos/vb03a107a1954/frames/000043.jpg",
+          "objects": [],
+          "brightness": 0.8250730187908497,
+          "sharpness": 4306.245520833333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 44.0,
+          "image": "videos/vb03a107a1954/frames/000044.jpg",
+          "objects": [],
+          "brightness": 0.8242294730392157,
+          "sharpness": 4338.154739583333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 45.0,
+          "image": "videos/vb03a107a1954/frames/000045.jpg",
+          "objects": [],
+          "brightness": 0.7980551470588235,
+          "sharpness": 4852.09265625,
+          "scene_distance": 0.3833786372384975
+        },
+        {
+          "time": 46.0,
+          "image": "videos/vb03a107a1954/frames/000046.jpg",
+          "objects": [],
+          "brightness": 0.7965620404411765,
+          "sharpness": 4928.6736458333335,
+          "scene_distance": 0.01789045937785263
+        },
+        {
+          "time": 47.0,
+          "image": "videos/vb03a107a1954/frames/000047.jpg",
+          "objects": [],
+          "brightness": 0.8033945567810458,
+          "sharpness": 4672.7328125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 48.0,
+          "image": "videos/vb03a107a1954/frames/000048.jpg",
+          "objects": [
+            {
+              "label": "traffic light",
+              "confidence": 0.5164008736610413,
+              "xyxy": [
+                229.859619140625,
+                40.818931579589844,
+                273.2279052734375,
+                106.51622772216797
+              ]
+            }
+          ],
+          "brightness": 0.7958671364379085,
+          "sharpness": 4977.200416666667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 49.0,
+          "image": "videos/vb03a107a1954/frames/000049.jpg",
+          "objects": [],
+          "brightness": 0.7964072712418301,
+          "sharpness": 4935.369296875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 50.0,
+          "image": "videos/vb03a107a1954/frames/000050.jpg",
+          "objects": [],
+          "brightness": 0.7973079554738562,
+          "sharpness": 4755.731536458334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 51.0,
+          "image": "videos/vb03a107a1954/frames/000051.jpg",
+          "objects": [],
+          "brightness": 0.8048141339869281,
+          "sharpness": 4479.654661458333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 52.0,
+          "image": "videos/vb03a107a1954/frames/000052.jpg",
+          "objects": [],
+          "brightness": 0.7982288092320261,
+          "sharpness": 4860.873125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 53.0,
+          "image": "videos/vb03a107a1954/frames/000053.jpg",
+          "objects": [],
+          "brightness": 0.798617289624183,
+          "sharpness": 4863.7667447916665,
+          "scene_distance": 0.026468736274944452
+        },
+        {
+          "time": 54.0,
+          "image": "videos/vb03a107a1954/frames/000054.jpg",
+          "objects": [],
+          "brightness": 0.7991156045751634,
+          "sharpness": 4719.449140625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 55.0,
+          "image": "videos/vb03a107a1954/frames/000055.jpg",
+          "objects": [],
+          "brightness": 0.7985464154411764,
+          "sharpness": 4673.886927083333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 56.0,
+          "image": "videos/vb03a107a1954/frames/000056.jpg",
+          "objects": [],
+          "brightness": 0.7962206903594772,
+          "sharpness": 4824.074739583333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 57.0,
+          "image": "videos/vb03a107a1954/frames/000057.jpg",
+          "objects": [],
+          "brightness": 0.803095281862745,
+          "sharpness": 4549.107630208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 58.0,
+          "image": "videos/vb03a107a1954/frames/000058.jpg",
+          "objects": [],
+          "brightness": 0.7956136642156864,
+          "sharpness": 4890.572682291667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 59.0,
+          "image": "videos/vb03a107a1954/frames/000059.jpg",
+          "objects": [],
+          "brightness": 0.7961774407679738,
+          "sharpness": 4859.102239583333,
+          "scene_distance": 0.0
+        }
+      ],
+      "segments": [],
+      "audio": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "dbfs": -36.43688327049617,
+          "peak": false
+        },
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "dbfs": -36.42774697111974,
+          "peak": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "dbfs": -36.34370342338866,
+          "peak": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "dbfs": -36.347366545607876,
+          "peak": false
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "dbfs": -36.39972644481766,
+          "peak": false
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "dbfs": -36.37449310149321,
+          "peak": false
+        },
+        {
+          "start": 6.0,
+          "end": 7.0,
+          "dbfs": -36.37707534639127,
+          "peak": false
+        },
+        {
+          "start": 7.0,
+          "end": 8.0,
+          "dbfs": -36.38263630789243,
+          "peak": false
+        },
+        {
+          "start": 8.0,
+          "end": 9.0,
+          "dbfs": -36.378643722007205,
+          "peak": false
+        },
+        {
+          "start": 9.0,
+          "end": 10.0,
+          "dbfs": -36.36101394097182,
+          "peak": false
+        },
+        {
+          "start": 10.0,
+          "end": 11.0,
+          "dbfs": -36.38781495120209,
+          "peak": false
+        },
+        {
+          "start": 11.0,
+          "end": 12.0,
+          "dbfs": -36.37794959290352,
+          "peak": false
+        },
+        {
+          "start": 12.0,
+          "end": 13.0,
+          "dbfs": -36.39735651691667,
+          "peak": false
+        },
+        {
+          "start": 13.0,
+          "end": 14.0,
+          "dbfs": -36.43016274885297,
+          "peak": false
+        },
+        {
+          "start": 14.0,
+          "end": 15.0,
+          "dbfs": -36.35766576584617,
+          "peak": false
+        },
+        {
+          "start": 15.0,
+          "end": 16.0,
+          "dbfs": -36.501318212914356,
+          "peak": false
+        },
+        {
+          "start": 16.0,
+          "end": 17.0,
+          "dbfs": -36.398545942178714,
+          "peak": false
+        },
+        {
+          "start": 17.0,
+          "end": 18.0,
+          "dbfs": -36.3655802634128,
+          "peak": false
+        },
+        {
+          "start": 18.0,
+          "end": 19.0,
+          "dbfs": -36.38420195362495,
+          "peak": false
+        },
+        {
+          "start": 19.0,
+          "end": 20.0,
+          "dbfs": -36.3872535066291,
+          "peak": false
+        },
+        {
+          "start": 20.0,
+          "end": 21.0,
+          "dbfs": -36.39110482771385,
+          "peak": false
+        },
+        {
+          "start": 21.0,
+          "end": 22.0,
+          "dbfs": -36.34764438345117,
+          "peak": false
+        },
+        {
+          "start": 22.0,
+          "end": 23.0,
+          "dbfs": -36.38065231737719,
+          "peak": false
+        },
+        {
+          "start": 23.0,
+          "end": 24.0,
+          "dbfs": -36.43208405329893,
+          "peak": false
+        },
+        {
+          "start": 24.0,
+          "end": 25.0,
+          "dbfs": -36.36168702996189,
+          "peak": false
+        },
+        {
+          "start": 25.0,
+          "end": 26.0,
+          "dbfs": -36.38094615404995,
+          "peak": false
+        },
+        {
+          "start": 26.0,
+          "end": 27.0,
+          "dbfs": -36.390071235589815,
+          "peak": false
+        },
+        {
+          "start": 27.0,
+          "end": 28.0,
+          "dbfs": -36.38702669758294,
+          "peak": false
+        },
+        {
+          "start": 28.0,
+          "end": 29.0,
+          "dbfs": -36.3429409319255,
+          "peak": false
+        },
+        {
+          "start": 29.0,
+          "end": 30.0,
+          "dbfs": -36.34056839749547,
+          "peak": false
+        },
+        {
+          "start": 30.0,
+          "end": 31.0,
+          "dbfs": -36.51388520980298,
+          "peak": false
+        },
+        {
+          "start": 31.0,
+          "end": 32.0,
+          "dbfs": -36.35660157820984,
+          "peak": false
+        },
+        {
+          "start": 32.0,
+          "end": 33.0,
+          "dbfs": -36.36843250560984,
+          "peak": false
+        },
+        {
+          "start": 33.0,
+          "end": 34.0,
+          "dbfs": -36.36317226694705,
+          "peak": false
+        },
+        {
+          "start": 34.0,
+          "end": 35.0,
+          "dbfs": -36.40356084508799,
+          "peak": false
+        },
+        {
+          "start": 35.0,
+          "end": 36.0,
+          "dbfs": -36.368498005837765,
+          "peak": false
+        },
+        {
+          "start": 36.0,
+          "end": 37.0,
+          "dbfs": -36.37787176007263,
+          "peak": false
+        },
+        {
+          "start": 37.0,
+          "end": 38.0,
+          "dbfs": -36.38597971706565,
+          "peak": false
+        },
+        {
+          "start": 38.0,
+          "end": 39.0,
+          "dbfs": -36.337217480587455,
+          "peak": false
+        },
+        {
+          "start": 39.0,
+          "end": 40.0,
+          "dbfs": -36.38701762534427,
+          "peak": false
+        },
+        {
+          "start": 40.0,
+          "end": 41.0,
+          "dbfs": -36.36594545998777,
+          "peak": false
+        },
+        {
+          "start": 41.0,
+          "end": 42.0,
+          "dbfs": -36.46121631585122,
+          "peak": false
+        },
+        {
+          "start": 42.0,
+          "end": 43.0,
+          "dbfs": -36.37253387907955,
+          "peak": false
+        },
+        {
+          "start": 43.0,
+          "end": 44.0,
+          "dbfs": -36.36099957521406,
+          "peak": false
+        },
+        {
+          "start": 44.0,
+          "end": 45.0,
+          "dbfs": -36.34195340319533,
+          "peak": false
+        },
+        {
+          "start": 45.0,
+          "end": 46.0,
+          "dbfs": -36.37681149049301,
+          "peak": false
+        },
+        {
+          "start": 46.0,
+          "end": 47.0,
+          "dbfs": -36.400038030220514,
+          "peak": false
+        },
+        {
+          "start": 47.0,
+          "end": 48.0,
+          "dbfs": -36.29936783011544,
+          "peak": false
+        },
+        {
+          "start": 48.0,
+          "end": 49.0,
+          "dbfs": -36.37105183471259,
+          "peak": false
+        },
+        {
+          "start": 49.0,
+          "end": 50.0,
+          "dbfs": -36.42460451634646,
+          "peak": false
+        },
+        {
+          "start": 50.0,
+          "end": 51.0,
+          "dbfs": -36.35207611551249,
+          "peak": false
+        },
+        {
+          "start": 51.0,
+          "end": 52.0,
+          "dbfs": -36.38482348920978,
+          "peak": false
+        },
+        {
+          "start": 52.0,
+          "end": 53.0,
+          "dbfs": -36.39625860716866,
+          "peak": false
+        },
+        {
+          "start": 53.0,
+          "end": 54.0,
+          "dbfs": -36.350587991685096,
+          "peak": false
+        },
+        {
+          "start": 54.0,
+          "end": 55.0,
+          "dbfs": -36.34263351175305,
+          "peak": false
+        },
+        {
+          "start": 55.0,
+          "end": 56.0,
+          "dbfs": -36.36687555618177,
+          "peak": false
+        },
+        {
+          "start": 56.0,
+          "end": 57.0,
+          "dbfs": -36.35123954595549,
+          "peak": false
+        },
+        {
+          "start": 57.0,
+          "end": 58.0,
+          "dbfs": -36.38505931091552,
+          "peak": false
+        },
+        {
+          "start": 58.0,
+          "end": 59.0,
+          "dbfs": -36.427875116481125,
+          "peak": false
+        },
+        {
+          "start": 59.0,
+          "end": 60.0,
+          "dbfs": -36.378655451239766,
+          "peak": false
+        }
+      ],
+      "events": [
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 20.0,
+          "end": 21.0,
+          "confidence": 0.4296441078186035,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000020.jpg",
+          "id": "e00000"
+        },
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 26.0,
+          "end": 27.0,
+          "confidence": 0.47167882323265076,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000026.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 29.0,
+          "end": 30.0,
+          "confidence": 0.4322810471057892,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000029.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "object",
+          "label": "traffic light",
+          "start": 48.0,
+          "end": 49.0,
+          "confidence": 0.5164008736610413,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000048.jpg",
+          "id": "e00003"
+        }
+      ],
+      "entities": [
+        {
+          "label": "scissors",
+          "detections": 3,
+          "frames": 3,
+          "max_simultaneous": 1,
+          "intervals": 3,
+          "seconds": 3.0,
+          "mean_confidence": 0.44453465938568115,
+          "frame_share": 0.05,
+          "duration_share": 0.05
+        },
+        {
+          "label": "traffic light",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 1.0,
+          "mean_confidence": 0.5164008736610413,
+          "frame_share": 0.016666666666666666,
+          "duration_share": 0.016666666666666666
+        }
+      ],
+      "warnings": [
+        "empty_transcript: речь не распознана; проверьте тишину/музыку/качество аудио"
+      ],
+      "detected_language": "en",
+      "signature": "ac26b15d220073f980802c3a64930aca8a4a40a492f806af9fa183c27d072850",
+      "processing_seconds": 64.688,
+      "cluster": 0,
+      "topic_words": [
+        "w3c",
+        "traffic",
+        "timer",
+        "test",
+        "scissors",
+        "light"
+      ]
+    }
+  ],
+  "failures": [],
+  "topics": {
+    "method": "TF-IDF + KMeans",
+    "selected_k": 1,
+    "seed": 42,
+    "silhouette": null,
+    "candidates": [],
+    "topics": [
+      {
+        "cluster": 0,
+        "keywords": [
+          "w3c",
+          "traffic",
+          "timer",
+          "test",
+          "scissors",
+          "light"
+        ],
+        "video_ids": [
+          "vb03a107a1954"
+        ],
+        "count": 1,
+        "share": 1.0
+      }
+    ],
+    "unassigned": 0,
+    "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+  }
+}

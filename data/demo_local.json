@@ -1,0 +1,50 @@
+[
+  {
+    "source": "demo/solar_system/clip.mp4",
+    "name": "solar_system",
+    "title": "Solar System 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 90,
+    "origin_url": "https://www.youtube.com/watch?v=libKVRa01L8"
+  },
+  {
+    "source": "demo/black_holes/clip.mp4",
+    "name": "black_holes",
+    "title": "Black Holes 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 90,
+    "origin_url": "https://www.youtube.com/watch?v=kOEDG3j1bjs"
+  },
+  {
+    "source": "demo/stars/clip.mp4",
+    "name": "stars",
+    "title": "Stars 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 90,
+    "origin_url": "https://www.youtube.com/watch?v=EFO_bsg1sw8"
+  },
+  {
+    "source": "demo/volcanoes/clip.mp4",
+    "name": "volcanoes",
+    "title": "Volcanoes 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 90,
+    "origin_url": "https://www.youtube.com/watch?v=yDy28QtdYJY"
+  },
+  {
+    "source": "demo/earthquakes/clip.mp4",
+    "name": "earthquakes",
+    "title": "Earthquakes 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 90,
+    "origin_url": "https://www.youtube.com/watch?v=e7ho6z32yyo"
+  },
+  {
+    "source": "demo/continental_drift/clip.mp4",
+    "name": "continental_drift",
+    "title": "Continental Drift 101 | National Geographic",
+    "language": "en",
+    "clip_seconds": 72,
+    "origin_url": "https://www.youtube.com/watch?v=Wq9kLzm36h0"
+  }
+]

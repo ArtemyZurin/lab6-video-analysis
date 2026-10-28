@@ -1,0 +1,19 @@
+{
+  "title": "Megamind",
+  "description": null,
+  "tags": null,
+  "categories": null,
+  "upload_date": null,
+  "duration": null,
+  "view_count": null,
+  "like_count": null,
+  "comment_count": null,
+  "webpage_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi",
+  "extractor": "generic",
+  "id": "Megamind",
+  "source": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi",
+  "filename": "original.avi",
+  "sha256": "0057387cb7e75c8fd1663b62cfdc51fa53f527795d0fe3c1fea2fd159d3130b5",
+  "collected_at": "2026-10-27T08:55:50.443073+00:00",
+  "source_kind": "url"
+}

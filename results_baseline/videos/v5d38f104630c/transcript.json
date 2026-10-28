@@ -1,0 +1,32 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 11.819999999999997,
+      "end": 14.18,
+      "text": "What brings you to the land of the gatekeepers?",
+      "avg_logprob": -0.5009483669115149,
+      "no_speech_prob": 0.1109752357006073,
+      "compression_ratio": 0.9736842105263158
+    },
+    {
+      "start": 18.26,
+      "end": 19.76,
+      "text": "I'm searching for someone.",
+      "avg_logprob": -0.5009483669115149,
+      "no_speech_prob": 0.1109752357006073,
+      "compression_ratio": 0.9736842105263158
+    },
+    {
+      "start": 41.120000000000005,
+      "end": 43.74,
+      "text": "I've been alone for as long as I can remember.",
+      "avg_logprob": -0.676856803894043,
+      "no_speech_prob": 0.11882484704256058,
+      "compression_ratio": 0.92
+    }
+  ],
+  "warnings": [
+    "asr_quality: 1 подозрительных сегментов исключено из поиска; см. rejected_segments.json"
+  ]
+}

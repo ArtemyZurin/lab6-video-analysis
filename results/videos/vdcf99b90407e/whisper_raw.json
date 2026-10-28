@@ -1,0 +1,1697 @@
+{
+  "text": " Black holes are among the most fascinating objects in our universe, and also the most mysterious. A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape. The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see. When something crosses the event horizon, it collapses into the black hole's singularity, an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply. Scientists have theorized several different types of black holes, with stellar and supermassive black holes being the most common. Stellar black holes form when massive stars die and collapse. They roughly tend to 20 times the mass of our sun and scatter throughout the universe. There could be millions of these stellar black holes in the Milky Way alone. Supermassive black holes are giants by comparison, measuring millions, even billions of times more massive than our Sun. Scientists can only guess how they form, but we do know they exist at the center of just about every large galaxy, including our own. Sagittarius A.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.2199999999999984,
+      "end": 9.48,
+      "text": " Black holes are among the most fascinating objects in our universe, and also the most mysterious.",
+      "tokens": [
+        50364,
+        4076,
+        8118,
+        366,
+        3654,
+        264,
+        881,
+        10343,
+        6565,
+        294,
+        527,
+        6445,
+        11,
+        293,
+        611,
+        264,
+        881,
+        13831,
+        13,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18451135808771307,
+      "compression_ratio": 1.544871794871795,
+      "no_speech_prob": 0.226235494017601,
+      "words": [
+        {
+          "word": " Black",
+          "start": 2.2199999999999984,
+          "end": 2.82,
+          "probability": 0.7362921237945557
+        },
+        {
+          "word": " holes",
+          "start": 2.82,
+          "end": 3.14,
+          "probability": 0.9693318009376526
+        },
+        {
+          "word": " are",
+          "start": 3.14,
+          "end": 3.5,
+          "probability": 0.9964051246643066
+        },
+        {
+          "word": " among",
+          "start": 3.5,
+          "end": 3.7,
+          "probability": 0.9750065207481384
+        },
+        {
+          "word": " the",
+          "start": 3.7,
+          "end": 3.86,
+          "probability": 0.9985482096672058
+        },
+        {
+          "word": " most",
+          "start": 3.86,
+          "end": 4.1,
+          "probability": 0.9950875639915466
+        },
+        {
+          "word": " fascinating",
+          "start": 4.1,
+          "end": 4.62,
+          "probability": 0.9945582151412964
+        },
+        {
+          "word": " objects",
+          "start": 4.62,
+          "end": 5.14,
+          "probability": 0.9965662956237793
+        },
+        {
+          "word": " in",
+          "start": 5.14,
+          "end": 5.44,
+          "probability": 0.9964213371276855
+        },
+        {
+          "word": " our",
+          "start": 5.44,
+          "end": 5.66,
+          "probability": 0.997890055179596
+        },
+        {
+          "word": " universe,",
+          "start": 5.66,
+          "end": 6.24,
+          "probability": 0.9799085259437561
+        },
+        {
+          "word": " and",
+          "start": 6.48,
+          "end": 7.54,
+          "probability": 0.9832403063774109
+        },
+        {
+          "word": " also",
+          "start": 7.54,
+          "end": 8.1,
+          "probability": 0.9781411290168762
+        },
+        {
+          "word": " the",
+          "start": 8.1,
+          "end": 8.4,
+          "probability": 0.9823556542396545
+        },
+        {
+          "word": " most",
+          "start": 8.4,
+          "end": 8.82,
+          "probability": 0.9979836940765381
+        },
+        {
+          "word": " mysterious.",
+          "start": 8.82,
+          "end": 9.48,
+          "probability": 0.996987521648407
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.98,
+      "end": 21.76,
+      "text": " A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape.",
+      "tokens": [
+        51014,
+        316,
+        2211,
+        5458,
+        307,
+        257,
+        4458,
+        294,
+        1901,
+        689,
+        264,
+        3464,
+        295,
+        12110,
+        307,
+        370,
+        2068,
+        11,
+        406,
+        754,
+        1442,
+        11,
+        264,
+        14573,
+        2570,
+        13977,
+        294,
+        527,
+        6445,
+        393,
+        7615,
+        13,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18451135808771307,
+      "compression_ratio": 1.544871794871795,
+      "no_speech_prob": 0.226235494017601,
+      "words": [
+        {
+          "word": " A",
+          "start": 12.98,
+          "end": 13.58,
+          "probability": 0.8917642831802368
+        },
+        {
+          "word": " black",
+          "start": 13.58,
+          "end": 13.84,
+          "probability": 0.9566344618797302
+        },
+        {
+          "word": " hole",
+          "start": 13.84,
+          "end": 14.18,
+          "probability": 0.998114824295044
+        },
+        {
+          "word": " is",
+          "start": 14.18,
+          "end": 14.44,
+          "probability": 0.9947222471237183
+        },
+        {
+          "word": " a",
+          "start": 14.44,
+          "end": 14.52,
+          "probability": 0.9718329906463623
+        },
+        {
+          "word": " region",
+          "start": 14.52,
+          "end": 14.78,
+          "probability": 0.9872926473617554
+        },
+        {
+          "word": " in",
+          "start": 14.78,
+          "end": 14.9,
+          "probability": 0.9797608852386475
+        },
+        {
+          "word": " space",
+          "start": 14.9,
+          "end": 15.28,
+          "probability": 0.9976397752761841
+        },
+        {
+          "word": " where",
+          "start": 15.28,
+          "end": 15.62,
+          "probability": 0.8272150158882141
+        },
+        {
+          "word": " the",
+          "start": 15.62,
+          "end": 15.74,
+          "probability": 0.9962839484214783
+        },
+        {
+          "word": " force",
+          "start": 15.74,
+          "end": 16.02,
+          "probability": 0.9912430047988892
+        },
+        {
+          "word": " of",
+          "start": 16.02,
+          "end": 16.2,
+          "probability": 0.9990384578704834
+        },
+        {
+          "word": " gravity",
+          "start": 16.2,
+          "end": 16.62,
+          "probability": 0.9987338185310364
+        },
+        {
+          "word": " is",
+          "start": 16.62,
+          "end": 16.92,
+          "probability": 0.9979064464569092
+        },
+        {
+          "word": " so",
+          "start": 16.92,
+          "end": 17.18,
+          "probability": 0.9930892586708069
+        },
+        {
+          "word": " strong,",
+          "start": 17.18,
+          "end": 17.74,
+          "probability": 0.99906986951828
+        },
+        {
+          "word": " not",
+          "start": 17.86,
+          "end": 18.06,
+          "probability": 0.9971117973327637
+        },
+        {
+          "word": " even",
+          "start": 18.06,
+          "end": 18.28,
+          "probability": 0.9987173080444336
+        },
+        {
+          "word": " light,",
+          "start": 18.28,
+          "end": 18.6,
+          "probability": 0.9972983002662659
+        },
+        {
+          "word": " the",
+          "start": 18.98,
+          "end": 19.06,
+          "probability": 0.9942856431007385
+        },
+        {
+          "word": " fastest",
+          "start": 19.06,
+          "end": 19.5,
+          "probability": 0.981868326663971
+        },
+        {
+          "word": " known",
+          "start": 19.5,
+          "end": 19.76,
+          "probability": 0.7026735544204712
+        },
+        {
+          "word": " entity",
+          "start": 19.76,
+          "end": 20.2,
+          "probability": 0.9973583817481995
+        },
+        {
+          "word": " in",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.9978699684143066
+        },
+        {
+          "word": " our",
+          "start": 20.38,
+          "end": 20.58,
+          "probability": 0.9971017241477966
+        },
+        {
+          "word": " universe",
+          "start": 20.58,
+          "end": 21.14,
+          "probability": 0.9967779517173767
+        },
+        {
+          "word": " can",
+          "start": 21.14,
+          "end": 21.4,
+          "probability": 0.9484964609146118
+        },
+        {
+          "word": " escape.",
+          "start": 21.4,
+          "end": 21.76,
+          "probability": 0.9955199956893921
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2176,
+      "start": 22.54,
+      "end": 30.32,
+      "text": " The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see.",
+      "tokens": [
+        50364,
+        440,
+        12866,
+        295,
+        257,
+        2211,
+        5458,
+        307,
+        1219,
+        264,
+        2280,
+        18046,
+        11,
+        257,
+        935,
+        295,
+        572,
+        2736,
+        11,
+        4399,
+        597,
+        321,
+        4908,
+        2644,
+        536,
+        13,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14466432114722025,
+      "compression_ratio": 1.6243386243386244,
+      "no_speech_prob": 0.2296152114868164,
+      "words": [
+        {
+          "word": " The",
+          "start": 22.54,
+          "end": 23.22,
+          "probability": 0.4577305316925049
+        },
+        {
+          "word": " boundary",
+          "start": 23.22,
+          "end": 23.62,
+          "probability": 0.9856062531471252
+        },
+        {
+          "word": " of",
+          "start": 23.62,
+          "end": 23.88,
+          "probability": 0.9973945617675781
+        },
+        {
+          "word": " a",
+          "start": 23.88,
+          "end": 23.96,
+          "probability": 0.9935930371284485
+        },
+        {
+          "word": " black",
+          "start": 23.96,
+          "end": 24.18,
+          "probability": 0.9709324836730957
+        },
+        {
+          "word": " hole",
+          "start": 24.18,
+          "end": 24.46,
+          "probability": 0.987248957157135
+        },
+        {
+          "word": " is",
+          "start": 24.46,
+          "end": 24.72,
+          "probability": 0.9969522953033447
+        },
+        {
+          "word": " called",
+          "start": 24.72,
+          "end": 25.0,
+          "probability": 0.9979615211486816
+        },
+        {
+          "word": " the",
+          "start": 25.0,
+          "end": 25.32,
+          "probability": 0.9101538062095642
+        },
+        {
+          "word": " event",
+          "start": 25.32,
+          "end": 25.66,
+          "probability": 0.5131445527076721
+        },
+        {
+          "word": " horizon,",
+          "start": 25.66,
+          "end": 26.1,
+          "probability": 0.9330676198005676
+        },
+        {
+          "word": " a",
+          "start": 26.62,
+          "end": 26.72,
+          "probability": 0.9882076382637024
+        },
+        {
+          "word": " point",
+          "start": 26.72,
+          "end": 26.98,
+          "probability": 0.9964407086372375
+        },
+        {
+          "word": " of",
+          "start": 26.98,
+          "end": 27.18,
+          "probability": 0.9785131216049194
+        },
+        {
+          "word": " no",
+          "start": 27.18,
+          "end": 27.4,
+          "probability": 0.9945473670959473
+        },
+        {
+          "word": " return,",
+          "start": 27.4,
+          "end": 27.94,
+          "probability": 0.9887251257896423
+        },
+        {
+          "word": " beyond",
+          "start": 28.4,
+          "end": 28.64,
+          "probability": 0.996016800403595
+        },
+        {
+          "word": " which",
+          "start": 28.64,
+          "end": 29.04,
+          "probability": 0.9992959499359131
+        },
+        {
+          "word": " we",
+          "start": 29.04,
+          "end": 29.24,
+          "probability": 0.9898864030838013
+        },
+        {
+          "word": " truly",
+          "start": 29.24,
+          "end": 29.56,
+          "probability": 0.9946783781051636
+        },
+        {
+          "word": " cannot",
+          "start": 29.56,
+          "end": 29.96,
+          "probability": 0.981113076210022
+        },
+        {
+          "word": " see.",
+          "start": 29.96,
+          "end": 30.32,
+          "probability": 0.9989579916000366
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2176,
+      "start": 31.14,
+      "end": 36.62,
+      "text": " When something crosses the event horizon, it collapses into the black hole's singularity,",
+      "tokens": [
+        50814,
+        1133,
+        746,
+        28467,
+        264,
+        2280,
+        18046,
+        11,
+        309,
+        48765,
+        666,
+        264,
+        2211,
+        5458,
+        311,
+        20010,
+        507,
+        11,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14466432114722025,
+      "compression_ratio": 1.6243386243386244,
+      "no_speech_prob": 0.2296152114868164,
+      "words": [
+        {
+          "word": " When",
+          "start": 31.14,
+          "end": 31.82,
+          "probability": 0.9907071590423584
+        },
+        {
+          "word": " something",
+          "start": 31.82,
+          "end": 32.24,
+          "probability": 0.9985068440437317
+        },
+        {
+          "word": " crosses",
+          "start": 32.24,
+          "end": 32.66,
+          "probability": 0.9978132247924805
+        },
+        {
+          "word": " the",
+          "start": 32.66,
+          "end": 32.9,
+          "probability": 0.9984000325202942
+        },
+        {
+          "word": " event",
+          "start": 32.9,
+          "end": 33.12,
+          "probability": 0.9973452687263489
+        },
+        {
+          "word": " horizon,",
+          "start": 33.12,
+          "end": 33.62,
+          "probability": 0.9986497759819031
+        },
+        {
+          "word": " it",
+          "start": 33.96,
+          "end": 34.04,
+          "probability": 0.9967811107635498
+        },
+        {
+          "word": " collapses",
+          "start": 34.04,
+          "end": 34.56,
+          "probability": 0.9944331049919128
+        },
+        {
+          "word": " into",
+          "start": 34.56,
+          "end": 34.98,
+          "probability": 0.9969207048416138
+        },
+        {
+          "word": " the",
+          "start": 34.98,
+          "end": 35.18,
+          "probability": 0.9916770458221436
+        },
+        {
+          "word": " black",
+          "start": 35.18,
+          "end": 35.4,
+          "probability": 0.9839678406715393
+        },
+        {
+          "word": " hole's",
+          "start": 35.4,
+          "end": 35.98,
+          "probability": 0.8559326827526093
+        },
+        {
+          "word": " singularity,",
+          "start": 35.98,
+          "end": 36.62,
+          "probability": 0.9934544265270233
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2176,
+      "start": 36.96,
+      "end": 43.62,
+      "text": " an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply.",
+      "tokens": [
+        51114,
+        364,
+        36227,
+        1359,
+        11,
+        36227,
+        18011,
+        935,
+        689,
+        1901,
+        11,
+        565,
+        11,
+        293,
+        264,
+        6064,
+        295,
+        10649,
+        572,
+        2854,
+        3079,
+        13,
+        51514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14466432114722025,
+      "compression_ratio": 1.6243386243386244,
+      "no_speech_prob": 0.2296152114868164,
+      "words": [
+        {
+          "word": " an",
+          "start": 36.96,
+          "end": 37.06,
+          "probability": 0.7867229580879211
+        },
+        {
+          "word": " infinitely",
+          "start": 37.06,
+          "end": 37.48,
+          "probability": 0.995025098323822
+        },
+        {
+          "word": " small,",
+          "start": 37.48,
+          "end": 37.94,
+          "probability": 0.9910026788711548
+        },
+        {
+          "word": " infinitely",
+          "start": 38.38,
+          "end": 38.84,
+          "probability": 0.971224308013916
+        },
+        {
+          "word": " dense",
+          "start": 38.84,
+          "end": 39.2,
+          "probability": 0.9968168139457703
+        },
+        {
+          "word": " point",
+          "start": 39.2,
+          "end": 39.76,
+          "probability": 0.9972577691078186
+        },
+        {
+          "word": " where",
+          "start": 39.76,
+          "end": 40.24,
+          "probability": 0.6129360198974609
+        },
+        {
+          "word": " space,",
+          "start": 40.24,
+          "end": 40.56,
+          "probability": 0.9987611770629883
+        },
+        {
+          "word": " time,",
+          "start": 40.9,
+          "end": 41.16,
+          "probability": 0.9993494153022766
+        },
+        {
+          "word": " and",
+          "start": 41.44,
+          "end": 41.46,
+          "probability": 0.9970406889915466
+        },
+        {
+          "word": " the",
+          "start": 41.46,
+          "end": 41.56,
+          "probability": 0.9955841898918152
+        },
+        {
+          "word": " laws",
+          "start": 41.56,
+          "end": 41.76,
+          "probability": 0.9876519441604614
+        },
+        {
+          "word": " of",
+          "start": 41.76,
+          "end": 41.96,
+          "probability": 0.9975383281707764
+        },
+        {
+          "word": " physics",
+          "start": 41.96,
+          "end": 42.3,
+          "probability": 0.9974138140678406
+        },
+        {
+          "word": " no",
+          "start": 42.3,
+          "end": 42.68,
+          "probability": 0.9955381155014038
+        },
+        {
+          "word": " longer",
+          "start": 42.68,
+          "end": 43.0,
+          "probability": 0.9989544153213501
+        },
+        {
+          "word": " apply.",
+          "start": 43.0,
+          "end": 43.62,
+          "probability": 0.9967793822288513
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4362,
+      "start": 45.4,
+      "end": 51.42,
+      "text": " Scientists have theorized several different types of black holes, with stellar and supermassive",
+      "tokens": [
+        50364,
+        32958,
+        362,
+        27423,
+        1602,
+        2940,
+        819,
+        3467,
+        295,
+        2211,
+        8118,
+        11,
+        365,
+        42333,
+        293,
+        1687,
+        47386,
+        488,
+        50756
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19645453691482545,
+      "compression_ratio": 1.6713615023474178,
+      "no_speech_prob": 0.3902103900909424,
+      "words": [
+        {
+          "word": " Scientists",
+          "start": 45.4,
+          "end": 46.08,
+          "probability": 0.8105918765068054
+        },
+        {
+          "word": " have",
+          "start": 46.08,
+          "end": 46.34,
+          "probability": 0.9931582808494568
+        },
+        {
+          "word": " theorized",
+          "start": 46.34,
+          "end": 46.96,
+          "probability": 0.9807509779930115
+        },
+        {
+          "word": " several",
+          "start": 46.96,
+          "end": 47.52,
+          "probability": 0.996215283870697
+        },
+        {
+          "word": " different",
+          "start": 47.52,
+          "end": 47.94,
+          "probability": 0.9983047246932983
+        },
+        {
+          "word": " types",
+          "start": 47.94,
+          "end": 48.28,
+          "probability": 0.9985033273696899
+        },
+        {
+          "word": " of",
+          "start": 48.28,
+          "end": 48.5,
+          "probability": 0.998737633228302
+        },
+        {
+          "word": " black",
+          "start": 48.5,
+          "end": 48.74,
+          "probability": 0.9469634890556335
+        },
+        {
+          "word": " holes,",
+          "start": 48.74,
+          "end": 49.12,
+          "probability": 0.9935719966888428
+        },
+        {
+          "word": " with",
+          "start": 49.56,
+          "end": 49.8,
+          "probability": 0.989495575428009
+        },
+        {
+          "word": " stellar",
+          "start": 49.8,
+          "end": 50.16,
+          "probability": 0.9506871700286865
+        },
+        {
+          "word": " and",
+          "start": 50.16,
+          "end": 50.58,
+          "probability": 0.9937503933906555
+        },
+        {
+          "word": " supermassive",
+          "start": 50.58,
+          "end": 51.42,
+          "probability": 0.9842181007067362
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4362,
+      "start": 51.42,
+      "end": 53.26,
+      "text": " black holes being the most common.",
+      "tokens": [
+        50756,
+        2211,
+        8118,
+        885,
+        264,
+        881,
+        2689,
+        13,
+        50896
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19645453691482545,
+      "compression_ratio": 1.6713615023474178,
+      "no_speech_prob": 0.3902103900909424,
+      "words": [
+        {
+          "word": " black",
+          "start": 51.42,
+          "end": 51.64,
+          "probability": 0.9960414171218872
+        },
+        {
+          "word": " holes",
+          "start": 51.64,
+          "end": 52.0,
+          "probability": 0.9977772831916809
+        },
+        {
+          "word": " being",
+          "start": 52.0,
+          "end": 52.42,
+          "probability": 0.9882870316505432
+        },
+        {
+          "word": " the",
+          "start": 52.42,
+          "end": 52.6,
+          "probability": 0.9977599382400513
+        },
+        {
+          "word": " most",
+          "start": 52.6,
+          "end": 52.88,
+          "probability": 0.9991797804832458
+        },
+        {
+          "word": " common.",
+          "start": 52.88,
+          "end": 53.26,
+          "probability": 0.9997256398200989
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4362,
+      "start": 53.94,
+      "end": 57.52,
+      "text": " Stellar black holes form when massive stars die and collapse.",
+      "tokens": [
+        50896,
+        37364,
+        289,
+        2211,
+        8118,
+        1254,
+        562,
+        5994,
+        6105,
+        978,
+        293,
+        15584,
+        13,
+        51116
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19645453691482545,
+      "compression_ratio": 1.6713615023474178,
+      "no_speech_prob": 0.3902103900909424,
+      "words": [
+        {
+          "word": " Stellar",
+          "start": 53.94,
+          "end": 54.34,
+          "probability": 0.7944198548793793
+        },
+        {
+          "word": " black",
+          "start": 54.34,
+          "end": 54.54,
+          "probability": 0.9434853196144104
+        },
+        {
+          "word": " holes",
+          "start": 54.54,
+          "end": 54.88,
+          "probability": 0.9969931840896606
+        },
+        {
+          "word": " form",
+          "start": 54.88,
+          "end": 55.26,
+          "probability": 0.980402946472168
+        },
+        {
+          "word": " when",
+          "start": 55.26,
+          "end": 55.6,
+          "probability": 0.9977745413780212
+        },
+        {
+          "word": " massive",
+          "start": 55.6,
+          "end": 55.98,
+          "probability": 0.9632891416549683
+        },
+        {
+          "word": " stars",
+          "start": 55.98,
+          "end": 56.42,
+          "probability": 0.9898309111595154
+        },
+        {
+          "word": " die",
+          "start": 56.42,
+          "end": 56.92,
+          "probability": 0.9910529255867004
+        },
+        {
+          "word": " and",
+          "start": 56.92,
+          "end": 57.2,
+          "probability": 0.9887601137161255
+        },
+        {
+          "word": " collapse.",
+          "start": 57.2,
+          "end": 57.52,
+          "probability": 0.9959896206855774
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4362,
+      "start": 58.48,
+      "end": 63.3,
+      "text": " They roughly tend to 20 times the mass of our sun and scatter throughout the universe.",
+      "tokens": [
+        51116,
+        814,
+        9810,
+        3928,
+        281,
+        945,
+        1413,
+        264,
+        2758,
+        295,
+        527,
+        3295,
+        293,
+        34951,
+        3710,
+        264,
+        6445,
+        13,
+        51438
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19645453691482545,
+      "compression_ratio": 1.6713615023474178,
+      "no_speech_prob": 0.3902103900909424,
+      "words": [
+        {
+          "word": " They",
+          "start": 58.48,
+          "end": 58.66,
+          "probability": 0.951530933380127
+        },
+        {
+          "word": " roughly",
+          "start": 58.66,
+          "end": 58.96,
+          "probability": 0.6495668292045593
+        },
+        {
+          "word": " tend",
+          "start": 58.96,
+          "end": 59.32,
+          "probability": 0.8258088231086731
+        },
+        {
+          "word": " to",
+          "start": 59.32,
+          "end": 59.62,
+          "probability": 0.9982740879058838
+        },
+        {
+          "word": " 20",
+          "start": 59.62,
+          "end": 59.9,
+          "probability": 0.8362792134284973
+        },
+        {
+          "word": " times",
+          "start": 59.9,
+          "end": 60.32,
+          "probability": 0.9914263486862183
+        },
+        {
+          "word": " the",
+          "start": 60.32,
+          "end": 60.52,
+          "probability": 0.9962425231933594
+        },
+        {
+          "word": " mass",
+          "start": 60.52,
+          "end": 60.7,
+          "probability": 0.6559137105941772
+        },
+        {
+          "word": " of",
+          "start": 60.7,
+          "end": 60.86,
+          "probability": 0.9976893663406372
+        },
+        {
+          "word": " our",
+          "start": 60.86,
+          "end": 61.04,
+          "probability": 0.9962007403373718
+        },
+        {
+          "word": " sun",
+          "start": 61.04,
+          "end": 61.46,
+          "probability": 0.6179755926132202
+        },
+        {
+          "word": " and",
+          "start": 61.46,
+          "end": 61.92,
+          "probability": 0.7549521923065186
+        },
+        {
+          "word": " scatter",
+          "start": 61.92,
+          "end": 62.28,
+          "probability": 0.6138948798179626
+        },
+        {
+          "word": " throughout",
+          "start": 62.28,
+          "end": 62.74,
+          "probability": 0.8471403121948242
+        },
+        {
+          "word": " the",
+          "start": 62.74,
+          "end": 62.92,
+          "probability": 0.9990918636322021
+        },
+        {
+          "word": " universe.",
+          "start": 62.92,
+          "end": 63.3,
+          "probability": 0.9682089686393738
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4362,
+      "start": 64.4,
+      "end": 68.42,
+      "text": " There could be millions of these stellar black holes in the Milky Way alone.",
+      "tokens": [
+        51438,
+        821,
+        727,
+        312,
+        6803,
+        295,
+        613,
+        42333,
+        2211,
+        8118,
+        294,
+        264,
+        38465,
+        9558,
+        3312,
+        13,
+        51716
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19645453691482545,
+      "compression_ratio": 1.6713615023474178,
+      "no_speech_prob": 0.3902103900909424,
+      "words": [
+        {
+          "word": " There",
+          "start": 64.4,
+          "end": 65.08,
+          "probability": 0.9977664947509766
+        },
+        {
+          "word": " could",
+          "start": 65.08,
+          "end": 65.24,
+          "probability": 0.969959557056427
+        },
+        {
+          "word": " be",
+          "start": 65.24,
+          "end": 65.4,
+          "probability": 0.9992511868476868
+        },
+        {
+          "word": " millions",
+          "start": 65.4,
+          "end": 65.82,
+          "probability": 0.9988847374916077
+        },
+        {
+          "word": " of",
+          "start": 65.82,
+          "end": 66.04,
+          "probability": 0.9976950287818909
+        },
+        {
+          "word": " these",
+          "start": 66.04,
+          "end": 66.2,
+          "probability": 0.9965871572494507
+        },
+        {
+          "word": " stellar",
+          "start": 66.2,
+          "end": 66.52,
+          "probability": 0.9912335276603699
+        },
+        {
+          "word": " black",
+          "start": 66.52,
+          "end": 66.82,
+          "probability": 0.9933182001113892
+        },
+        {
+          "word": " holes",
+          "start": 66.82,
+          "end": 67.16,
+          "probability": 0.9989124536514282
+        },
+        {
+          "word": " in",
+          "start": 67.16,
+          "end": 67.44,
+          "probability": 0.9961355924606323
+        },
+        {
+          "word": " the",
+          "start": 67.44,
+          "end": 67.56,
+          "probability": 0.9954934120178223
+        },
+        {
+          "word": " Milky",
+          "start": 67.56,
+          "end": 67.78,
+          "probability": 0.9169115424156189
+        },
+        {
+          "word": " Way",
+          "start": 67.78,
+          "end": 68.08,
+          "probability": 0.9865503311157227
+        },
+        {
+          "word": " alone.",
+          "start": 68.08,
+          "end": 68.42,
+          "probability": 0.9988131523132324
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6842,
+      "start": 70.46000000000001,
+      "end": 76.36,
+      "text": " Supermassive black holes are giants by comparison, measuring millions, even billions of times",
+      "tokens": [
+        50364,
+        4548,
+        47386,
+        488,
+        2211,
+        8118,
+        366,
+        31894,
+        538,
+        9660,
+        11,
+        13389,
+        6803,
+        11,
+        754,
+        17375,
+        295,
+        1413,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21286826347237203,
+      "compression_ratio": 1.4861878453038675,
+      "no_speech_prob": 0.6870532631874084,
+      "words": [
+        {
+          "word": " Supermassive",
+          "start": 70.46000000000001,
+          "end": 71.12,
+          "probability": 0.9049241344134012
+        },
+        {
+          "word": " black",
+          "start": 71.12,
+          "end": 71.28,
+          "probability": 0.7847478985786438
+        },
+        {
+          "word": " holes",
+          "start": 71.28,
+          "end": 71.58,
+          "probability": 0.9855504035949707
+        },
+        {
+          "word": " are",
+          "start": 71.58,
+          "end": 71.94,
+          "probability": 0.9978690147399902
+        },
+        {
+          "word": " giants",
+          "start": 71.94,
+          "end": 72.3,
+          "probability": 0.9686316847801208
+        },
+        {
+          "word": " by",
+          "start": 72.3,
+          "end": 72.56,
+          "probability": 0.9658827781677246
+        },
+        {
+          "word": " comparison,",
+          "start": 72.56,
+          "end": 73.2,
+          "probability": 0.9985101819038391
+        },
+        {
+          "word": " measuring",
+          "start": 73.56,
+          "end": 74.4,
+          "probability": 0.9927147030830383
+        },
+        {
+          "word": " millions,",
+          "start": 74.4,
+          "end": 74.84,
+          "probability": 0.9937471151351929
+        },
+        {
+          "word": " even",
+          "start": 75.2,
+          "end": 75.4,
+          "probability": 0.9983397722244263
+        },
+        {
+          "word": " billions",
+          "start": 75.4,
+          "end": 75.84,
+          "probability": 0.9966772794723511
+        },
+        {
+          "word": " of",
+          "start": 75.84,
+          "end": 76.04,
+          "probability": 0.9687822461128235
+        },
+        {
+          "word": " times",
+          "start": 76.04,
+          "end": 76.36,
+          "probability": 0.9979113936424255
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 6842,
+      "start": 76.36,
+      "end": 77.82,
+      "text": " more massive than our Sun.",
+      "tokens": [
+        50764,
+        544,
+        5994,
+        813,
+        527,
+        6163,
+        13,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21286826347237203,
+      "compression_ratio": 1.4861878453038675,
+      "no_speech_prob": 0.6870532631874084,
+      "words": [
+        {
+          "word": " more",
+          "start": 76.36,
+          "end": 76.62,
+          "probability": 0.7891605496406555
+        },
+        {
+          "word": " massive",
+          "start": 76.62,
+          "end": 77.0,
+          "probability": 0.9954128861427307
+        },
+        {
+          "word": " than",
+          "start": 77.0,
+          "end": 77.18,
+          "probability": 0.9791644811630249
+        },
+        {
+          "word": " our",
+          "start": 77.18,
+          "end": 77.44,
+          "probability": 0.9968620538711548
+        },
+        {
+          "word": " Sun.",
+          "start": 77.44,
+          "end": 77.82,
+          "probability": 0.3279207944869995
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6842,
+      "start": 78.84,
+      "end": 83.74,
+      "text": " Scientists can only guess how they form, but we do know they exist at the center of just",
+      "tokens": [
+        50914,
+        32958,
+        393,
+        787,
+        2041,
+        577,
+        436,
+        1254,
+        11,
+        457,
+        321,
+        360,
+        458,
+        436,
+        2514,
+        412,
+        264,
+        3056,
+        295,
+        445,
+        51134
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21286826347237203,
+      "compression_ratio": 1.4861878453038675,
+      "no_speech_prob": 0.6870532631874084,
+      "words": [
+        {
+          "word": " Scientists",
+          "start": 78.84,
+          "end": 79.32,
+          "probability": 0.9820221662521362
+        },
+        {
+          "word": " can",
+          "start": 79.32,
+          "end": 79.62,
+          "probability": 0.9970434308052063
+        },
+        {
+          "word": " only",
+          "start": 79.62,
+          "end": 79.96,
+          "probability": 0.9993836879730225
+        },
+        {
+          "word": " guess",
+          "start": 79.96,
+          "end": 80.26,
+          "probability": 0.9981270432472229
+        },
+        {
+          "word": " how",
+          "start": 80.26,
+          "end": 80.46,
+          "probability": 0.9988646507263184
+        },
+        {
+          "word": " they",
+          "start": 80.46,
+          "end": 80.6,
+          "probability": 0.998890221118927
+        },
+        {
+          "word": " form,",
+          "start": 80.6,
+          "end": 80.92,
+          "probability": 0.9973781108856201
+        },
+        {
+          "word": " but",
+          "start": 81.32,
+          "end": 81.48,
+          "probability": 0.9972067475318909
+        },
+        {
+          "word": " we",
+          "start": 81.48,
+          "end": 81.64,
+          "probability": 0.9970592260360718
+        },
+        {
+          "word": " do",
+          "start": 81.64,
+          "end": 81.88,
+          "probability": 0.9915488958358765
+        },
+        {
+          "word": " know",
+          "start": 81.88,
+          "end": 82.14,
+          "probability": 0.9987335801124573
+        },
+        {
+          "word": " they",
+          "start": 82.14,
+          "end": 82.38,
+          "probability": 0.9612833261489868
+        },
+        {
+          "word": " exist",
+          "start": 82.38,
+          "end": 82.72,
+          "probability": 0.9930764436721802
+        },
+        {
+          "word": " at",
+          "start": 82.72,
+          "end": 82.94,
+          "probability": 0.990545392036438
+        },
+        {
+          "word": " the",
+          "start": 82.94,
+          "end": 83.04,
+          "probability": 0.9973050355911255
+        },
+        {
+          "word": " center",
+          "start": 83.04,
+          "end": 83.4,
+          "probability": 0.9162089228630066
+        },
+        {
+          "word": " of",
+          "start": 83.4,
+          "end": 83.62,
+          "probability": 0.9891964197158813
+        },
+        {
+          "word": " just",
+          "start": 83.62,
+          "end": 83.74,
+          "probability": 0.9966368675231934
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 6842,
+      "start": 83.74,
+      "end": 87.26,
+      "text": " about every large galaxy, including our own.",
+      "tokens": [
+        51134,
+        466,
+        633,
+        2416,
+        17639,
+        11,
+        3009,
+        527,
+        1065,
+        13,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21286826347237203,
+      "compression_ratio": 1.4861878453038675,
+      "no_speech_prob": 0.6870532631874084,
+      "words": [
+        {
+          "word": " about",
+          "start": 83.74,
+          "end": 84.02,
+          "probability": 0.9945223331451416
+        },
+        {
+          "word": " every",
+          "start": 84.02,
+          "end": 84.5,
+          "probability": 0.9957914352416992
+        },
+        {
+          "word": " large",
+          "start": 84.5,
+          "end": 84.88,
+          "probability": 0.9902582168579102
+        },
+        {
+          "word": " galaxy,",
+          "start": 84.88,
+          "end": 85.46,
+          "probability": 0.9930025935173035
+        },
+        {
+          "word": " including",
+          "start": 85.82,
+          "end": 86.28,
+          "probability": 0.9983704686164856
+        },
+        {
+          "word": " our",
+          "start": 86.28,
+          "end": 86.96,
+          "probability": 0.9493269324302673
+        },
+        {
+          "word": " own.",
+          "start": 86.96,
+          "end": 87.26,
+          "probability": 0.997337281703949
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 6842,
+      "start": 89.42,
+      "end": 89.86,
+      "text": " Sagittarius A.",
+      "tokens": [
+        51414,
+        34551,
+        593,
+        27440,
+        316,
+        13,
+        51444
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21286826347237203,
+      "compression_ratio": 1.4861878453038675,
+      "no_speech_prob": 0.6870532631874084,
+      "words": [
+        {
+          "word": " Sagittarius",
+          "start": 89.17,
+          "end": 89.5,
+          "probability": 0.9710645278294882
+        },
+        {
+          "word": " A.",
+          "start": 89.5,
+          "end": 89.86,
+          "probability": 0.9538857936859131
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

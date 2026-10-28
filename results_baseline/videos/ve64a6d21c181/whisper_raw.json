@@ -1,0 +1,351 @@
+{
+  "text": " Of course. You don't judge a book by its cover or a person from the outside. Oh, that's a relief to hear. You judge them based on their actions. Well, that seems kind of petty, don't you think?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.2,
+      "text": " Of course. You don't judge a book by its cover or a person from the outside.",
+      "tokens": [
+        50364,
+        2720,
+        1164,
+        13,
+        509,
+        500,
+        380,
+        6995,
+        257,
+        1446,
+        538,
+        1080,
+        2060,
+        420,
+        257,
+        954,
+        490,
+        264,
+        2380,
+        13,
+        50580
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.29754737327838765,
+      "compression_ratio": 1.3687943262411348,
+      "no_speech_prob": 0.25040924549102783,
+      "words": [
+        {
+          "word": " Of",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.3312477767467499
+        },
+        {
+          "word": " course.",
+          "start": 0.48,
+          "end": 0.48,
+          "probability": 0.9767357707023621
+        },
+        {
+          "word": " You",
+          "start": 1.02,
+          "end": 1.1,
+          "probability": 0.9705307483673096
+        },
+        {
+          "word": " don't",
+          "start": 1.1,
+          "end": 1.26,
+          "probability": 0.9954239428043365
+        },
+        {
+          "word": " judge",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.9981409311294556
+        },
+        {
+          "word": " a",
+          "start": 1.44,
+          "end": 1.56,
+          "probability": 0.9967954754829407
+        },
+        {
+          "word": " book",
+          "start": 1.56,
+          "end": 1.76,
+          "probability": 0.9993771910667419
+        },
+        {
+          "word": " by",
+          "start": 1.76,
+          "end": 2.04,
+          "probability": 0.994429349899292
+        },
+        {
+          "word": " its",
+          "start": 2.04,
+          "end": 2.2,
+          "probability": 0.9305915236473083
+        },
+        {
+          "word": " cover",
+          "start": 2.2,
+          "end": 2.56,
+          "probability": 0.9975007176399231
+        },
+        {
+          "word": " or",
+          "start": 2.56,
+          "end": 2.8,
+          "probability": 0.8349010944366455
+        },
+        {
+          "word": " a",
+          "start": 2.8,
+          "end": 2.98,
+          "probability": 0.34789958596229553
+        },
+        {
+          "word": " person",
+          "start": 2.98,
+          "end": 3.28,
+          "probability": 0.9960640072822571
+        },
+        {
+          "word": " from",
+          "start": 3.28,
+          "end": 3.56,
+          "probability": 0.988857090473175
+        },
+        {
+          "word": " the",
+          "start": 3.56,
+          "end": 3.72,
+          "probability": 0.9976296424865723
+        },
+        {
+          "word": " outside.",
+          "start": 3.72,
+          "end": 4.2,
+          "probability": 0.9983453750610352
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.4,
+      "end": 6.1,
+      "text": " Oh, that's a relief to hear.",
+      "tokens": [
+        50580,
+        876,
+        11,
+        300,
+        311,
+        257,
+        10915,
+        281,
+        1568,
+        13,
+        50672
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.29754737327838765,
+      "compression_ratio": 1.3687943262411348,
+      "no_speech_prob": 0.25040924549102783,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 4.4,
+          "end": 4.56,
+          "probability": 0.30663543939590454
+        },
+        {
+          "word": " that's",
+          "start": 5.02,
+          "end": 5.42,
+          "probability": 0.9902449250221252
+        },
+        {
+          "word": " a",
+          "start": 5.42,
+          "end": 5.44,
+          "probability": 0.801798939704895
+        },
+        {
+          "word": " relief",
+          "start": 5.44,
+          "end": 5.72,
+          "probability": 0.9794358015060425
+        },
+        {
+          "word": " to",
+          "start": 5.72,
+          "end": 5.94,
+          "probability": 0.9048250913619995
+        },
+        {
+          "word": " hear.",
+          "start": 5.94,
+          "end": 6.1,
+          "probability": 0.9302452206611633
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.28,
+      "end": 7.76,
+      "text": " You judge them based on their actions.",
+      "tokens": [
+        50672,
+        509,
+        6995,
+        552,
+        2361,
+        322,
+        641,
+        5909,
+        13,
+        50760
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.29754737327838765,
+      "compression_ratio": 1.3687943262411348,
+      "no_speech_prob": 0.25040924549102783,
+      "words": [
+        {
+          "word": " You",
+          "start": 6.28,
+          "end": 6.36,
+          "probability": 0.9673976898193359
+        },
+        {
+          "word": " judge",
+          "start": 6.36,
+          "end": 6.66,
+          "probability": 0.9920030832290649
+        },
+        {
+          "word": " them",
+          "start": 6.66,
+          "end": 6.84,
+          "probability": 0.9969123601913452
+        },
+        {
+          "word": " based",
+          "start": 6.84,
+          "end": 7.1,
+          "probability": 0.9983664155006409
+        },
+        {
+          "word": " on",
+          "start": 7.1,
+          "end": 7.26,
+          "probability": 0.9992319345474243
+        },
+        {
+          "word": " their",
+          "start": 7.26,
+          "end": 7.4,
+          "probability": 0.9985467791557312
+        },
+        {
+          "word": " actions.",
+          "start": 7.4,
+          "end": 7.76,
+          "probability": 0.9979531764984131
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.26,
+      "end": 11.14,
+      "text": " Well, that seems kind of petty, don't you think?",
+      "tokens": [
+        50832,
+        1042,
+        11,
+        300,
+        2544,
+        733,
+        295,
+        39334,
+        11,
+        500,
+        380,
+        291,
+        519,
+        30,
+        50932
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.29754737327838765,
+      "compression_ratio": 1.3687943262411348,
+      "no_speech_prob": 0.25040924549102783,
+      "words": [
+        {
+          "word": " Well,",
+          "start": 9.26,
+          "end": 9.62,
+          "probability": 0.9807530045509338
+        },
+        {
+          "word": " that",
+          "start": 9.62,
+          "end": 9.7,
+          "probability": 0.9844543933868408
+        },
+        {
+          "word": " seems",
+          "start": 9.7,
+          "end": 9.86,
+          "probability": 0.9941416382789612
+        },
+        {
+          "word": " kind",
+          "start": 9.86,
+          "end": 10.06,
+          "probability": 0.9728177189826965
+        },
+        {
+          "word": " of",
+          "start": 10.06,
+          "end": 10.22,
+          "probability": 0.9990098476409912
+        },
+        {
+          "word": " petty,",
+          "start": 10.22,
+          "end": 10.4,
+          "probability": 0.9548642039299011
+        },
+        {
+          "word": " don't",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.9974813163280487
+        },
+        {
+          "word": " you",
+          "start": 10.9,
+          "end": 10.98,
+          "probability": 0.995999813079834
+        },
+        {
+          "word": " think?",
+          "start": 10.98,
+          "end": 11.14,
+          "probability": 0.9379284381866455
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

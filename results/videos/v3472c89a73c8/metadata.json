@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Solar System 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\solar_system\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "66afe93c69354143bd36f8364578088fc21562a958ec0f490bb11266e757fcde",
+    "collected_at": "2026-10-28T09:21:31.653908+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=libKVRa01L8",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.017574,
+    "fps": 29.97192513368984,
+    "fps_fraction": "22419/748",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2511614,
+    "bytes": 28261182,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 90.017574,
+    "fps": 29.97192513368984,
+    "fps_fraction": "22419/748",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2424116,
+    "bytes": 27276640,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

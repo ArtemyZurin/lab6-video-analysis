@@ -1,0 +1,6 @@
+﻿video_id,title,id,type,start,end,label,frame,verdict,comment
+v5d38f104630c,Sintel — trailer,e00008,object,12.0,13.0,person,videos/v5d38f104630c/frames/000012.jpg,,
+v2a202706f0e9,Big Buck Bunny — trailer,e00001,scene,4.52,4.62,Смена сцены,videos/v2a202706f0e9/frames/000009.jpg,,
+vb03a107a1954,W3C — timer test,e00002,object,29.0,30.0,scissors,videos/vb03a107a1954/frames/000029.jpg,,
+v8610ff647554,OpenCV — pedestrians,e00001,object,0.0,15.0,person,videos/v8610ff647554/frames/000000.jpg,,
+ve64a6d21c181,OpenCV — Megamind sample,e00002,scene,1.001,1.101,Смена сцены,videos/ve64a6d21c181/frames/000001.jpg,,

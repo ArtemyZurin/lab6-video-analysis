@@ -1,0 +1,1794 @@
+{
+  "text": " Talk about the ultimate breakup. Europe and Africa have been splitting apart from the American continents for millions of years. At a rate of approximately 2.5 centimeters per year, the continents are moving about as fast as our fingernails grow, and as they continue to split, the rift between them. Otherwise known as the Atlantic Ocean, we'll get even wider. And all this drama is leaving behind a major scar. An underwater valley called the mid-Atlantic ridge, which tears more and more as the continents slowly move apart. Looking back on the continental relationship, puts us in mere 300 million years ago, when Africa, Europe, the Americas, and all the other continents for one big landmass, the famed supercontinent, Pangaea. Due to the constant churning of magma underneath the Earth's crust, they all split up and moved to their modern day positions. But if destiny and the form of magma and tectonic plates has anything to say about it, the continents might have a chance of getting back together, but how will these stubborn continents kiss and make up? Scientists believe the plates will shift, causing the continents to rearrange and get back together. But in true tectonic plate style, it'll take about 250 minutes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.940000000000003,
+      "end": 5.68,
+      "text": " Talk about the ultimate breakup. Europe and Africa have been splitting apart from the",
+      "tokens": [
+        50364,
+        8780,
+        466,
+        264,
+        9705,
+        38492,
+        13,
+        3315,
+        293,
+        7349,
+        362,
+        668,
+        30348,
+        4936,
+        490,
+        264,
+        50646
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19166511535644531,
+      "compression_ratio": 1.6296296296296295,
+      "no_speech_prob": 0.10748270899057388,
+      "words": [
+        {
+          "word": " Talk",
+          "start": 0.940000000000003,
+          "end": 1.54,
+          "probability": 0.6635643243789673
+        },
+        {
+          "word": " about",
+          "start": 1.54,
+          "end": 1.82,
+          "probability": 0.9893695116043091
+        },
+        {
+          "word": " the",
+          "start": 1.82,
+          "end": 2.02,
+          "probability": 0.9798105955123901
+        },
+        {
+          "word": " ultimate",
+          "start": 2.02,
+          "end": 2.34,
+          "probability": 0.7710583806037903
+        },
+        {
+          "word": " breakup.",
+          "start": 2.34,
+          "end": 2.8,
+          "probability": 0.5089021325111389
+        },
+        {
+          "word": " Europe",
+          "start": 3.24,
+          "end": 3.64,
+          "probability": 0.9890950322151184
+        },
+        {
+          "word": " and",
+          "start": 3.64,
+          "end": 3.82,
+          "probability": 0.9847951531410217
+        },
+        {
+          "word": " Africa",
+          "start": 3.82,
+          "end": 4.26,
+          "probability": 0.9971405267715454
+        },
+        {
+          "word": " have",
+          "start": 4.26,
+          "end": 4.5,
+          "probability": 0.9659944772720337
+        },
+        {
+          "word": " been",
+          "start": 4.5,
+          "end": 4.6,
+          "probability": 0.9987038373947144
+        },
+        {
+          "word": " splitting",
+          "start": 4.6,
+          "end": 4.98,
+          "probability": 0.993691086769104
+        },
+        {
+          "word": " apart",
+          "start": 4.98,
+          "end": 5.32,
+          "probability": 0.9965309500694275
+        },
+        {
+          "word": " from",
+          "start": 5.32,
+          "end": 5.58,
+          "probability": 0.9948480129241943
+        },
+        {
+          "word": " the",
+          "start": 5.58,
+          "end": 5.68,
+          "probability": 0.9504673480987549
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.68,
+      "end": 11.34,
+      "text": " American continents for millions of years. At a rate of approximately 2.5 centimeters per",
+      "tokens": [
+        50646,
+        2665,
+        38598,
+        337,
+        6803,
+        295,
+        924,
+        13,
+        1711,
+        257,
+        3314,
+        295,
+        10447,
+        568,
+        13,
+        20,
+        23300,
+        680,
+        50932
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19166511535644531,
+      "compression_ratio": 1.6296296296296295,
+      "no_speech_prob": 0.10748270899057388,
+      "words": [
+        {
+          "word": " American",
+          "start": 5.68,
+          "end": 5.98,
+          "probability": 0.9901883006095886
+        },
+        {
+          "word": " continents",
+          "start": 5.98,
+          "end": 6.4,
+          "probability": 0.8828028440475464
+        },
+        {
+          "word": " for",
+          "start": 6.4,
+          "end": 6.7,
+          "probability": 0.9764395952224731
+        },
+        {
+          "word": " millions",
+          "start": 6.7,
+          "end": 7.1,
+          "probability": 0.9923415184020996
+        },
+        {
+          "word": " of",
+          "start": 7.1,
+          "end": 7.38,
+          "probability": 0.9967799782752991
+        },
+        {
+          "word": " years.",
+          "start": 7.38,
+          "end": 7.86,
+          "probability": 0.9985295534133911
+        },
+        {
+          "word": " At",
+          "start": 8.32,
+          "end": 8.56,
+          "probability": 0.9903574585914612
+        },
+        {
+          "word": " a",
+          "start": 8.56,
+          "end": 8.66,
+          "probability": 0.9904834032058716
+        },
+        {
+          "word": " rate",
+          "start": 8.66,
+          "end": 8.82,
+          "probability": 0.9985052347183228
+        },
+        {
+          "word": " of",
+          "start": 8.82,
+          "end": 9.0,
+          "probability": 0.9932957291603088
+        },
+        {
+          "word": " approximately",
+          "start": 9.0,
+          "end": 9.68,
+          "probability": 0.9655907154083252
+        },
+        {
+          "word": " 2",
+          "start": 9.68,
+          "end": 10.1,
+          "probability": 0.9651492238044739
+        },
+        {
+          "word": ".5",
+          "start": 10.1,
+          "end": 10.6,
+          "probability": 0.9972150027751923
+        },
+        {
+          "word": " centimeters",
+          "start": 10.6,
+          "end": 11.04,
+          "probability": 0.7773523926734924
+        },
+        {
+          "word": " per",
+          "start": 11.04,
+          "end": 11.34,
+          "probability": 0.9932544827461243
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.34,
+      "end": 15.9,
+      "text": " year, the continents are moving about as fast as our fingernails grow, and as they continue",
+      "tokens": [
+        50932,
+        1064,
+        11,
+        264,
+        38598,
+        366,
+        2684,
+        466,
+        382,
+        2370,
+        382,
+        527,
+        48880,
+        4174,
+        1852,
+        11,
+        293,
+        382,
+        436,
+        2354,
+        51160
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19166511535644531,
+      "compression_ratio": 1.6296296296296295,
+      "no_speech_prob": 0.10748270899057388,
+      "words": [
+        {
+          "word": " year,",
+          "start": 11.34,
+          "end": 11.62,
+          "probability": 0.9989157915115356
+        },
+        {
+          "word": " the",
+          "start": 12.04,
+          "end": 12.1,
+          "probability": 0.9896183609962463
+        },
+        {
+          "word": " continents",
+          "start": 12.1,
+          "end": 12.46,
+          "probability": 0.9974302649497986
+        },
+        {
+          "word": " are",
+          "start": 12.46,
+          "end": 12.64,
+          "probability": 0.9964019060134888
+        },
+        {
+          "word": " moving",
+          "start": 12.64,
+          "end": 12.88,
+          "probability": 0.9970415234565735
+        },
+        {
+          "word": " about",
+          "start": 12.88,
+          "end": 13.2,
+          "probability": 0.8707400560379028
+        },
+        {
+          "word": " as",
+          "start": 13.2,
+          "end": 13.38,
+          "probability": 0.9994465708732605
+        },
+        {
+          "word": " fast",
+          "start": 13.38,
+          "end": 13.66,
+          "probability": 0.9979375600814819
+        },
+        {
+          "word": " as",
+          "start": 13.66,
+          "end": 13.88,
+          "probability": 0.9988208413124084
+        },
+        {
+          "word": " our",
+          "start": 13.88,
+          "end": 14.02,
+          "probability": 0.9912573099136353
+        },
+        {
+          "word": " fingernails",
+          "start": 14.02,
+          "end": 14.5,
+          "probability": 0.9824654459953308
+        },
+        {
+          "word": " grow,",
+          "start": 14.5,
+          "end": 14.72,
+          "probability": 0.9855374693870544
+        },
+        {
+          "word": " and",
+          "start": 15.18,
+          "end": 15.3,
+          "probability": 0.9824566841125488
+        },
+        {
+          "word": " as",
+          "start": 15.3,
+          "end": 15.44,
+          "probability": 0.9905914664268494
+        },
+        {
+          "word": " they",
+          "start": 15.44,
+          "end": 15.56,
+          "probability": 0.9961941242218018
+        },
+        {
+          "word": " continue",
+          "start": 15.56,
+          "end": 15.9,
+          "probability": 0.9960188269615173
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.9,
+      "end": 20.5,
+      "text": " to split, the rift between them. Otherwise known as the Atlantic Ocean, we'll get even",
+      "tokens": [
+        51160,
+        281,
+        7472,
+        11,
+        264,
+        367,
+        2008,
+        1296,
+        552,
+        13,
+        10328,
+        2570,
+        382,
+        264,
+        20233,
+        18101,
+        11,
+        321,
+        603,
+        483,
+        754,
+        51390
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19166511535644531,
+      "compression_ratio": 1.6296296296296295,
+      "no_speech_prob": 0.10748270899057388,
+      "words": [
+        {
+          "word": " to",
+          "start": 15.9,
+          "end": 16.04,
+          "probability": 0.9994346499443054
+        },
+        {
+          "word": " split,",
+          "start": 16.04,
+          "end": 16.34,
+          "probability": 0.9862483143806458
+        },
+        {
+          "word": " the",
+          "start": 16.68,
+          "end": 16.88,
+          "probability": 0.8442646861076355
+        },
+        {
+          "word": " rift",
+          "start": 16.88,
+          "end": 17.22,
+          "probability": 0.8508957922458649
+        },
+        {
+          "word": " between",
+          "start": 17.22,
+          "end": 17.6,
+          "probability": 0.9967548251152039
+        },
+        {
+          "word": " them.",
+          "start": 17.6,
+          "end": 17.9,
+          "probability": 0.9977487921714783
+        },
+        {
+          "word": " Otherwise",
+          "start": 18.28,
+          "end": 18.56,
+          "probability": 0.9861125349998474
+        },
+        {
+          "word": " known",
+          "start": 18.56,
+          "end": 18.84,
+          "probability": 0.8847672343254089
+        },
+        {
+          "word": " as",
+          "start": 18.84,
+          "end": 19.0,
+          "probability": 0.9958270192146301
+        },
+        {
+          "word": " the",
+          "start": 19.0,
+          "end": 19.06,
+          "probability": 0.9845053553581238
+        },
+        {
+          "word": " Atlantic",
+          "start": 19.06,
+          "end": 19.28,
+          "probability": 0.9946840405464172
+        },
+        {
+          "word": " Ocean,",
+          "start": 19.28,
+          "end": 19.64,
+          "probability": 0.936555027961731
+        },
+        {
+          "word": " we'll",
+          "start": 19.92,
+          "end": 20.14,
+          "probability": 0.9668745994567871
+        },
+        {
+          "word": " get",
+          "start": 20.14,
+          "end": 20.26,
+          "probability": 0.9970219731330872
+        },
+        {
+          "word": " even",
+          "start": 20.26,
+          "end": 20.5,
+          "probability": 0.9884583353996277
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.5,
+      "end": 26.44,
+      "text": " wider. And all this drama is leaving behind a major scar. An underwater valley called",
+      "tokens": [
+        51390,
+        11842,
+        13,
+        400,
+        439,
+        341,
+        9412,
+        307,
+        5012,
+        2261,
+        257,
+        2563,
+        10569,
+        13,
+        1107,
+        20967,
+        17636,
+        1219,
+        51690
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19166511535644531,
+      "compression_ratio": 1.6296296296296295,
+      "no_speech_prob": 0.10748270899057388,
+      "words": [
+        {
+          "word": " wider.",
+          "start": 20.5,
+          "end": 20.82,
+          "probability": 0.9687876105308533
+        },
+        {
+          "word": " And",
+          "start": 21.44,
+          "end": 21.6,
+          "probability": 0.979013979434967
+        },
+        {
+          "word": " all",
+          "start": 21.6,
+          "end": 21.92,
+          "probability": 0.9867255687713623
+        },
+        {
+          "word": " this",
+          "start": 21.92,
+          "end": 22.24,
+          "probability": 0.9883443117141724
+        },
+        {
+          "word": " drama",
+          "start": 22.24,
+          "end": 22.6,
+          "probability": 0.9969034790992737
+        },
+        {
+          "word": " is",
+          "start": 22.6,
+          "end": 22.82,
+          "probability": 0.9969473481178284
+        },
+        {
+          "word": " leaving",
+          "start": 22.82,
+          "end": 23.02,
+          "probability": 0.4706804156303406
+        },
+        {
+          "word": " behind",
+          "start": 23.02,
+          "end": 23.34,
+          "probability": 0.994731068611145
+        },
+        {
+          "word": " a",
+          "start": 23.34,
+          "end": 23.62,
+          "probability": 0.990542471408844
+        },
+        {
+          "word": " major",
+          "start": 23.62,
+          "end": 24.12,
+          "probability": 0.9791374206542969
+        },
+        {
+          "word": " scar.",
+          "start": 24.12,
+          "end": 24.56,
+          "probability": 0.9610385894775391
+        },
+        {
+          "word": " An",
+          "start": 25.1,
+          "end": 25.22,
+          "probability": 0.8797056078910828
+        },
+        {
+          "word": " underwater",
+          "start": 25.22,
+          "end": 25.56,
+          "probability": 0.9561090469360352
+        },
+        {
+          "word": " valley",
+          "start": 25.56,
+          "end": 26.16,
+          "probability": 0.9874275922775269
+        },
+        {
+          "word": " called",
+          "start": 26.16,
+          "end": 26.44,
+          "probability": 0.7140612006187439
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2644,
+      "start": 26.44,
+      "end": 31.06,
+      "text": " the mid-Atlantic ridge, which tears more and more as the continents slowly move apart.",
+      "tokens": [
+        50364,
+        264,
+        2062,
+        12,
+        18684,
+        75,
+        7128,
+        34651,
+        11,
+        597,
+        10462,
+        544,
+        293,
+        544,
+        382,
+        264,
+        38598,
+        5692,
+        1286,
+        4936,
+        13,
+        50626
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " the",
+          "start": 26.44,
+          "end": 26.56,
+          "probability": 0.5719799399375916
+        },
+        {
+          "word": " mid",
+          "start": 26.56,
+          "end": 26.76,
+          "probability": 0.673404335975647
+        },
+        {
+          "word": "-Atlantic",
+          "start": 26.76,
+          "end": 27.04,
+          "probability": 0.9506783783435822
+        },
+        {
+          "word": " ridge,",
+          "start": 27.04,
+          "end": 27.4,
+          "probability": 0.7113285660743713
+        },
+        {
+          "word": " which",
+          "start": 27.84,
+          "end": 28.0,
+          "probability": 0.9920734763145447
+        },
+        {
+          "word": " tears",
+          "start": 28.0,
+          "end": 28.36,
+          "probability": 0.9388759732246399
+        },
+        {
+          "word": " more",
+          "start": 28.36,
+          "end": 28.76,
+          "probability": 0.9863135814666748
+        },
+        {
+          "word": " and",
+          "start": 28.76,
+          "end": 28.98,
+          "probability": 0.9910303354263306
+        },
+        {
+          "word": " more",
+          "start": 28.98,
+          "end": 29.24,
+          "probability": 0.9990658164024353
+        },
+        {
+          "word": " as",
+          "start": 29.24,
+          "end": 29.52,
+          "probability": 0.9163458943367004
+        },
+        {
+          "word": " the",
+          "start": 29.52,
+          "end": 29.62,
+          "probability": 0.9860600233078003
+        },
+        {
+          "word": " continents",
+          "start": 29.62,
+          "end": 29.96,
+          "probability": 0.93551105260849
+        },
+        {
+          "word": " slowly",
+          "start": 29.96,
+          "end": 30.5,
+          "probability": 0.9972457885742188
+        },
+        {
+          "word": " move",
+          "start": 30.5,
+          "end": 30.74,
+          "probability": 0.9971156120300293
+        },
+        {
+          "word": " apart.",
+          "start": 30.74,
+          "end": 31.06,
+          "probability": 0.989860475063324
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2644,
+      "start": 31.42,
+      "end": 36.64,
+      "text": " Looking back on the continental relationship, puts us in mere 300 million years ago, when",
+      "tokens": [
+        50626,
+        11053,
+        646,
+        322,
+        264,
+        42479,
+        2480,
+        11,
+        8137,
+        505,
+        294,
+        8401,
+        6641,
+        2459,
+        924,
+        2057,
+        11,
+        562,
+        50876
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " Looking",
+          "start": 31.42,
+          "end": 31.66,
+          "probability": 0.9822062253952026
+        },
+        {
+          "word": " back",
+          "start": 31.66,
+          "end": 31.92,
+          "probability": 0.9980931878089905
+        },
+        {
+          "word": " on",
+          "start": 31.92,
+          "end": 32.12,
+          "probability": 0.9762933254241943
+        },
+        {
+          "word": " the",
+          "start": 32.12,
+          "end": 32.22,
+          "probability": 0.9678370952606201
+        },
+        {
+          "word": " continental",
+          "start": 32.22,
+          "end": 32.54,
+          "probability": 0.9549510478973389
+        },
+        {
+          "word": " relationship,",
+          "start": 32.54,
+          "end": 33.36,
+          "probability": 0.9719921350479126
+        },
+        {
+          "word": " puts",
+          "start": 33.58,
+          "end": 33.82,
+          "probability": 0.6931836605072021
+        },
+        {
+          "word": " us",
+          "start": 33.82,
+          "end": 33.92,
+          "probability": 0.9032529592514038
+        },
+        {
+          "word": " in",
+          "start": 33.92,
+          "end": 34.08,
+          "probability": 0.6916097402572632
+        },
+        {
+          "word": " mere",
+          "start": 34.08,
+          "end": 34.26,
+          "probability": 0.5055139064788818
+        },
+        {
+          "word": " 300",
+          "start": 34.26,
+          "end": 34.92,
+          "probability": 0.9427305459976196
+        },
+        {
+          "word": " million",
+          "start": 34.92,
+          "end": 35.44,
+          "probability": 0.9457980394363403
+        },
+        {
+          "word": " years",
+          "start": 35.44,
+          "end": 35.74,
+          "probability": 0.9980623126029968
+        },
+        {
+          "word": " ago,",
+          "start": 35.74,
+          "end": 36.1,
+          "probability": 0.9962906837463379
+        },
+        {
+          "word": " when",
+          "start": 36.54,
+          "end": 36.64,
+          "probability": 0.9773690700531006
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2644,
+      "start": 36.64,
+      "end": 42.12,
+      "text": " Africa, Europe, the Americas, and all the other continents for one big landmass, the",
+      "tokens": [
+        50876,
+        7349,
+        11,
+        3315,
+        11,
+        264,
+        38415,
+        11,
+        293,
+        439,
+        264,
+        661,
+        38598,
+        337,
+        472,
+        955,
+        2117,
+        47386,
+        11,
+        264,
+        51148
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " Africa,",
+          "start": 36.64,
+          "end": 37.08,
+          "probability": 0.9927446842193604
+        },
+        {
+          "word": " Europe,",
+          "start": 37.5,
+          "end": 37.7,
+          "probability": 0.9990482926368713
+        },
+        {
+          "word": " the",
+          "start": 38.08,
+          "end": 38.12,
+          "probability": 0.9550389051437378
+        },
+        {
+          "word": " Americas,",
+          "start": 38.12,
+          "end": 38.56,
+          "probability": 0.9898248314857483
+        },
+        {
+          "word": " and",
+          "start": 38.92,
+          "end": 38.92,
+          "probability": 0.9913552403450012
+        },
+        {
+          "word": " all",
+          "start": 38.92,
+          "end": 39.28,
+          "probability": 0.9923221468925476
+        },
+        {
+          "word": " the",
+          "start": 39.28,
+          "end": 39.54,
+          "probability": 0.9043735265731812
+        },
+        {
+          "word": " other",
+          "start": 39.54,
+          "end": 39.7,
+          "probability": 0.997475802898407
+        },
+        {
+          "word": " continents",
+          "start": 39.7,
+          "end": 40.08,
+          "probability": 0.9981655478477478
+        },
+        {
+          "word": " for",
+          "start": 40.08,
+          "end": 40.34,
+          "probability": 0.5205942988395691
+        },
+        {
+          "word": " one",
+          "start": 40.34,
+          "end": 40.58,
+          "probability": 0.9884113073348999
+        },
+        {
+          "word": " big",
+          "start": 40.58,
+          "end": 40.96,
+          "probability": 0.9889457821846008
+        },
+        {
+          "word": " landmass,",
+          "start": 40.96,
+          "end": 41.58,
+          "probability": 0.7695506811141968
+        },
+        {
+          "word": " the",
+          "start": 42.04,
+          "end": 42.12,
+          "probability": 0.9681737422943115
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2644,
+      "start": 42.12,
+      "end": 44.42,
+      "text": " famed supercontinent, Pangaea.",
+      "tokens": [
+        51148,
+        1087,
+        292,
+        1687,
+        9000,
+        11058,
+        11,
+        49499,
+        8346,
+        64,
+        13,
+        51298
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " famed",
+          "start": 42.12,
+          "end": 42.46,
+          "probability": 0.7805031538009644
+        },
+        {
+          "word": " supercontinent,",
+          "start": 42.46,
+          "end": 43.1,
+          "probability": 0.807468593120575
+        },
+        {
+          "word": " Pangaea.",
+          "start": 43.6,
+          "end": 44.42,
+          "probability": 0.6466320951779684
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2644,
+      "start": 44.92,
+      "end": 50.1,
+      "text": " Due to the constant churning of magma underneath the Earth's crust, they all split up and",
+      "tokens": [
+        51298,
+        18980,
+        281,
+        264,
+        5754,
+        417,
+        10656,
+        295,
+        2258,
+        1696,
+        7223,
+        264,
+        4755,
+        311,
+        18156,
+        11,
+        436,
+        439,
+        7472,
+        493,
+        293,
+        51548
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " Due",
+          "start": 44.92,
+          "end": 45.22,
+          "probability": 0.9930909872055054
+        },
+        {
+          "word": " to",
+          "start": 45.22,
+          "end": 45.36,
+          "probability": 0.9977512955665588
+        },
+        {
+          "word": " the",
+          "start": 45.36,
+          "end": 45.48,
+          "probability": 0.9835295081138611
+        },
+        {
+          "word": " constant",
+          "start": 45.48,
+          "end": 45.92,
+          "probability": 0.9992676377296448
+        },
+        {
+          "word": " churning",
+          "start": 45.92,
+          "end": 46.38,
+          "probability": 0.9599422812461853
+        },
+        {
+          "word": " of",
+          "start": 46.38,
+          "end": 46.62,
+          "probability": 0.9978271126747131
+        },
+        {
+          "word": " magma",
+          "start": 46.62,
+          "end": 47.06,
+          "probability": 0.9692686200141907
+        },
+        {
+          "word": " underneath",
+          "start": 47.06,
+          "end": 47.5,
+          "probability": 0.6771056056022644
+        },
+        {
+          "word": " the",
+          "start": 47.5,
+          "end": 47.7,
+          "probability": 0.9458066821098328
+        },
+        {
+          "word": " Earth's",
+          "start": 47.7,
+          "end": 48.02,
+          "probability": 0.8782921433448792
+        },
+        {
+          "word": " crust,",
+          "start": 48.02,
+          "end": 48.26,
+          "probability": 0.9990286827087402
+        },
+        {
+          "word": " they",
+          "start": 48.74,
+          "end": 48.84,
+          "probability": 0.9936601519584656
+        },
+        {
+          "word": " all",
+          "start": 48.84,
+          "end": 49.06,
+          "probability": 0.9981100559234619
+        },
+        {
+          "word": " split",
+          "start": 49.06,
+          "end": 49.4,
+          "probability": 0.9971526861190796
+        },
+        {
+          "word": " up",
+          "start": 49.4,
+          "end": 49.62,
+          "probability": 0.9943331480026245
+        },
+        {
+          "word": " and",
+          "start": 49.62,
+          "end": 50.1,
+          "probability": 0.9135497212409973
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2644,
+      "start": 50.1,
+      "end": 51.62,
+      "text": " moved to their modern day positions.",
+      "tokens": [
+        51548,
+        4259,
+        281,
+        641,
+        4363,
+        786,
+        8432,
+        13,
+        51654
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24690784917813596,
+      "compression_ratio": 1.6115384615384616,
+      "no_speech_prob": 0.015747329220175743,
+      "words": [
+        {
+          "word": " moved",
+          "start": 50.1,
+          "end": 50.3,
+          "probability": 0.6497936844825745
+        },
+        {
+          "word": " to",
+          "start": 50.3,
+          "end": 50.52,
+          "probability": 0.9905593395233154
+        },
+        {
+          "word": " their",
+          "start": 50.52,
+          "end": 50.62,
+          "probability": 0.976507306098938
+        },
+        {
+          "word": " modern",
+          "start": 50.62,
+          "end": 50.86,
+          "probability": 0.9930453896522522
+        },
+        {
+          "word": " day",
+          "start": 50.86,
+          "end": 51.04,
+          "probability": 0.6295903921127319
+        },
+        {
+          "word": " positions.",
+          "start": 51.04,
+          "end": 51.62,
+          "probability": 0.9942734837532043
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5162,
+      "start": 51.62,
+      "end": 56.64,
+      "text": " But if destiny and the form of magma and tectonic plates has anything to say about it,",
+      "tokens": [
+        50364,
+        583,
+        498,
+        17893,
+        293,
+        264,
+        1254,
+        295,
+        2258,
+        1696,
+        293,
+        535,
+        349,
+        11630,
+        14231,
+        575,
+        1340,
+        281,
+        584,
+        466,
+        309,
+        11,
+        50628
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " But",
+          "start": 51.62,
+          "end": 52.22,
+          "probability": 0.7494150996208191
+        },
+        {
+          "word": " if",
+          "start": 52.22,
+          "end": 52.4,
+          "probability": 0.9056562781333923
+        },
+        {
+          "word": " destiny",
+          "start": 52.4,
+          "end": 52.92,
+          "probability": 0.47188565135002136
+        },
+        {
+          "word": " and",
+          "start": 52.92,
+          "end": 53.1,
+          "probability": 0.4155464470386505
+        },
+        {
+          "word": " the",
+          "start": 53.1,
+          "end": 53.18,
+          "probability": 0.9938899278640747
+        },
+        {
+          "word": " form",
+          "start": 53.18,
+          "end": 53.36,
+          "probability": 0.9964718818664551
+        },
+        {
+          "word": " of",
+          "start": 53.36,
+          "end": 53.6,
+          "probability": 0.9960970282554626
+        },
+        {
+          "word": " magma",
+          "start": 53.6,
+          "end": 53.98,
+          "probability": 0.8477007746696472
+        },
+        {
+          "word": " and",
+          "start": 53.98,
+          "end": 54.14,
+          "probability": 0.8386061787605286
+        },
+        {
+          "word": " tectonic",
+          "start": 54.14,
+          "end": 54.52,
+          "probability": 0.8704030911127726
+        },
+        {
+          "word": " plates",
+          "start": 54.52,
+          "end": 54.76,
+          "probability": 0.9943692088127136
+        },
+        {
+          "word": " has",
+          "start": 54.76,
+          "end": 55.0,
+          "probability": 0.9810810685157776
+        },
+        {
+          "word": " anything",
+          "start": 55.0,
+          "end": 55.66,
+          "probability": 0.8683887720108032
+        },
+        {
+          "word": " to",
+          "start": 55.66,
+          "end": 55.98,
+          "probability": 0.9987659454345703
+        },
+        {
+          "word": " say",
+          "start": 55.98,
+          "end": 56.16,
+          "probability": 0.9975563287734985
+        },
+        {
+          "word": " about",
+          "start": 56.16,
+          "end": 56.4,
+          "probability": 0.9937437176704407
+        },
+        {
+          "word": " it,",
+          "start": 56.4,
+          "end": 56.64,
+          "probability": 0.9842404127120972
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5162,
+      "start": 56.88,
+      "end": 60.74,
+      "text": " the continents might have a chance of getting back together, but how will these stubborn",
+      "tokens": [
+        50628,
+        264,
+        38598,
+        1062,
+        362,
+        257,
+        2931,
+        295,
+        1242,
+        646,
+        1214,
+        11,
+        457,
+        577,
+        486,
+        613,
+        24137,
+        50824
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " the",
+          "start": 56.88,
+          "end": 56.98,
+          "probability": 0.9551341533660889
+        },
+        {
+          "word": " continents",
+          "start": 56.98,
+          "end": 57.32,
+          "probability": 0.8553892374038696
+        },
+        {
+          "word": " might",
+          "start": 57.32,
+          "end": 57.7,
+          "probability": 0.9879050254821777
+        },
+        {
+          "word": " have",
+          "start": 57.7,
+          "end": 57.88,
+          "probability": 0.9923467636108398
+        },
+        {
+          "word": " a",
+          "start": 57.88,
+          "end": 57.96,
+          "probability": 0.9924464821815491
+        },
+        {
+          "word": " chance",
+          "start": 57.96,
+          "end": 58.16,
+          "probability": 0.9986704587936401
+        },
+        {
+          "word": " of",
+          "start": 58.16,
+          "end": 58.36,
+          "probability": 0.8703996539115906
+        },
+        {
+          "word": " getting",
+          "start": 58.36,
+          "end": 58.5,
+          "probability": 0.9965883493423462
+        },
+        {
+          "word": " back",
+          "start": 58.5,
+          "end": 58.72,
+          "probability": 0.9874666333198547
+        },
+        {
+          "word": " together,",
+          "start": 58.72,
+          "end": 59.18,
+          "probability": 0.9975883960723877
+        },
+        {
+          "word": " but",
+          "start": 59.46,
+          "end": 59.66,
+          "probability": 0.9740126729011536
+        },
+        {
+          "word": " how",
+          "start": 59.66,
+          "end": 60.16,
+          "probability": 0.9459495544433594
+        },
+        {
+          "word": " will",
+          "start": 60.16,
+          "end": 60.32,
+          "probability": 0.9481368064880371
+        },
+        {
+          "word": " these",
+          "start": 60.32,
+          "end": 60.44,
+          "probability": 0.9642195701599121
+        },
+        {
+          "word": " stubborn",
+          "start": 60.44,
+          "end": 60.74,
+          "probability": 0.988593339920044
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5162,
+      "start": 60.74,
+      "end": 61.96,
+      "text": " continents kiss and make up?",
+      "tokens": [
+        50824,
+        38598,
+        7704,
+        293,
+        652,
+        493,
+        30,
+        50910
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " continents",
+          "start": 60.74,
+          "end": 61.18,
+          "probability": 0.9840716123580933
+        },
+        {
+          "word": " kiss",
+          "start": 61.18,
+          "end": 61.48,
+          "probability": 0.9627348184585571
+        },
+        {
+          "word": " and",
+          "start": 61.48,
+          "end": 61.62,
+          "probability": 0.9826237559318542
+        },
+        {
+          "word": " make",
+          "start": 61.62,
+          "end": 61.74,
+          "probability": 0.9753831028938293
+        },
+        {
+          "word": " up?",
+          "start": 61.74,
+          "end": 61.96,
+          "probability": 0.9977450966835022
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5162,
+      "start": 62.34,
+      "end": 66.64,
+      "text": " Scientists believe the plates will shift, causing the continents to rearrange and get back",
+      "tokens": [
+        50910,
+        32958,
+        1697,
+        264,
+        14231,
+        486,
+        5513,
+        11,
+        9853,
+        264,
+        38598,
+        281,
+        39568,
+        293,
+        483,
+        646,
+        51130
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " Scientists",
+          "start": 62.34,
+          "end": 62.58,
+          "probability": 0.9034633040428162
+        },
+        {
+          "word": " believe",
+          "start": 62.58,
+          "end": 62.96,
+          "probability": 0.9734488725662231
+        },
+        {
+          "word": " the",
+          "start": 62.96,
+          "end": 63.16,
+          "probability": 0.9646624326705933
+        },
+        {
+          "word": " plates",
+          "start": 63.16,
+          "end": 63.36,
+          "probability": 0.9927703738212585
+        },
+        {
+          "word": " will",
+          "start": 63.36,
+          "end": 63.56,
+          "probability": 0.9967130422592163
+        },
+        {
+          "word": " shift,",
+          "start": 63.56,
+          "end": 64.0,
+          "probability": 0.9915620684623718
+        },
+        {
+          "word": " causing",
+          "start": 64.36,
+          "end": 64.68,
+          "probability": 0.9858858585357666
+        },
+        {
+          "word": " the",
+          "start": 64.68,
+          "end": 64.82,
+          "probability": 0.9917020201683044
+        },
+        {
+          "word": " continents",
+          "start": 64.82,
+          "end": 65.12,
+          "probability": 0.9939844012260437
+        },
+        {
+          "word": " to",
+          "start": 65.12,
+          "end": 65.38,
+          "probability": 0.9982972741127014
+        },
+        {
+          "word": " rearrange",
+          "start": 65.38,
+          "end": 65.68,
+          "probability": 0.9557604193687439
+        },
+        {
+          "word": " and",
+          "start": 65.68,
+          "end": 66.12,
+          "probability": 0.9745817184448242
+        },
+        {
+          "word": " get",
+          "start": 66.12,
+          "end": 66.3,
+          "probability": 0.9887497425079346
+        },
+        {
+          "word": " back",
+          "start": 66.3,
+          "end": 66.64,
+          "probability": 0.9681811332702637
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5162,
+      "start": 66.64,
+      "end": 67.18,
+      "text": " together.",
+      "tokens": [
+        51130,
+        1214,
+        13,
+        51180
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " together.",
+          "start": 66.64,
+          "end": 67.18,
+          "probability": 0.9989965558052063
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5162,
+      "start": 67.68,
+      "end": 72.0,
+      "text": " But in true tectonic plate style, it'll take about 250 minutes.",
+      "tokens": [
+        51180,
+        583,
+        294,
+        2074,
+        535,
+        349,
+        11630,
+        5924,
+        3758,
+        11,
+        309,
+        603,
+        747,
+        466,
+        11650,
+        2077,
+        13,
+        51384
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24419385931465062,
+      "compression_ratio": 1.6772727272727272,
+      "no_speech_prob": 0.2458738535642624,
+      "words": [
+        {
+          "word": " But",
+          "start": 67.68,
+          "end": 67.96,
+          "probability": 0.9011141061782837
+        },
+        {
+          "word": " in",
+          "start": 67.96,
+          "end": 68.32,
+          "probability": 0.6707978248596191
+        },
+        {
+          "word": " true",
+          "start": 68.32,
+          "end": 68.5,
+          "probability": 0.8408563137054443
+        },
+        {
+          "word": " tectonic",
+          "start": 68.5,
+          "end": 68.88,
+          "probability": 0.9933082461357117
+        },
+        {
+          "word": " plate",
+          "start": 68.88,
+          "end": 69.12,
+          "probability": 0.5148103833198547
+        },
+        {
+          "word": " style,",
+          "start": 69.12,
+          "end": 69.54,
+          "probability": 0.9039533138275146
+        },
+        {
+          "word": " it'll",
+          "start": 70.08,
+          "end": 70.32,
+          "probability": 0.8710767030715942
+        },
+        {
+          "word": " take",
+          "start": 70.32,
+          "end": 70.48,
+          "probability": 0.9969243407249451
+        },
+        {
+          "word": " about",
+          "start": 70.48,
+          "end": 70.76,
+          "probability": 0.9934232234954834
+        },
+        {
+          "word": " 250",
+          "start": 70.76,
+          "end": 71.8,
+          "probability": 0.8045443296432495
+        },
+        {
+          "word": " minutes.",
+          "start": 71.8,
+          "end": 72.0,
+          "probability": 0.5668938755989075
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

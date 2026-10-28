@@ -1,0 +1,248 @@
+{
+  "text": " What brings you to the land of the gatekeepers? I'm searching for someone. I've been alone for as long as I can remember. You",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 11.819999999999997,
+      "end": 14.18,
+      "text": " What brings you to the land of the gatekeepers?",
+      "tokens": [
+        50364,
+        708,
+        5607,
+        291,
+        281,
+        264,
+        2117,
+        295,
+        264,
+        8539,
+        43153,
+        30,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5009483669115149,
+      "compression_ratio": 0.9736842105263158,
+      "no_speech_prob": 0.1109752357006073,
+      "words": [
+        {
+          "word": " What",
+          "start": 11.819999999999997,
+          "end": 12.34,
+          "probability": 0.8331313729286194
+        },
+        {
+          "word": " brings",
+          "start": 12.34,
+          "end": 12.6,
+          "probability": 0.9979172348976135
+        },
+        {
+          "word": " you",
+          "start": 12.6,
+          "end": 12.82,
+          "probability": 0.9980003237724304
+        },
+        {
+          "word": " to",
+          "start": 12.82,
+          "end": 12.94,
+          "probability": 0.9940789937973022
+        },
+        {
+          "word": " the",
+          "start": 12.94,
+          "end": 13.08,
+          "probability": 0.9909917116165161
+        },
+        {
+          "word": " land",
+          "start": 13.08,
+          "end": 13.32,
+          "probability": 0.9208204746246338
+        },
+        {
+          "word": " of",
+          "start": 13.32,
+          "end": 13.58,
+          "probability": 0.9866878390312195
+        },
+        {
+          "word": " the",
+          "start": 13.58,
+          "end": 13.7,
+          "probability": 0.9646394848823547
+        },
+        {
+          "word": " gatekeepers?",
+          "start": 13.7,
+          "end": 14.18,
+          "probability": 0.8258514702320099
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 18.26,
+      "end": 19.76,
+      "text": " I'm searching for someone.",
+      "tokens": [
+        50864,
+        286,
+        478,
+        10808,
+        337,
+        1580,
+        13,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5009483669115149,
+      "compression_ratio": 0.9736842105263158,
+      "no_speech_prob": 0.1109752357006073,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 18.26,
+          "end": 18.78,
+          "probability": 0.9735118746757507
+        },
+        {
+          "word": " searching",
+          "start": 18.78,
+          "end": 19.18,
+          "probability": 0.9978715181350708
+        },
+        {
+          "word": " for",
+          "start": 19.18,
+          "end": 19.44,
+          "probability": 0.996005117893219
+        },
+        {
+          "word": " someone.",
+          "start": 19.44,
+          "end": 19.76,
+          "probability": 0.973494291305542
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1976,
+      "start": 41.120000000000005,
+      "end": 43.74,
+      "text": " I've been alone for as long as I can remember.",
+      "tokens": [
+        50364,
+        286,
+        600,
+        668,
+        3312,
+        337,
+        382,
+        938,
+        382,
+        286,
+        393,
+        1604,
+        13,
+        51564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.676856803894043,
+      "compression_ratio": 0.92,
+      "no_speech_prob": 0.11882484704256058,
+      "words": [
+        {
+          "word": " I've",
+          "start": 41.120000000000005,
+          "end": 41.56,
+          "probability": 0.09843778284266591
+        },
+        {
+          "word": " been",
+          "start": 41.56,
+          "end": 42.0,
+          "probability": 0.9570454955101013
+        },
+        {
+          "word": " alone",
+          "start": 42.0,
+          "end": 42.28,
+          "probability": 0.9894205331802368
+        },
+        {
+          "word": " for",
+          "start": 42.28,
+          "end": 42.5,
+          "probability": 0.994094967842102
+        },
+        {
+          "word": " as",
+          "start": 42.5,
+          "end": 42.68,
+          "probability": 0.9920490384101868
+        },
+        {
+          "word": " long",
+          "start": 42.68,
+          "end": 42.84,
+          "probability": 0.9998136162757874
+        },
+        {
+          "word": " as",
+          "start": 42.84,
+          "end": 43.04,
+          "probability": 0.994208812713623
+        },
+        {
+          "word": " I",
+          "start": 43.04,
+          "end": 43.14,
+          "probability": 0.992352306842804
+        },
+        {
+          "word": " can",
+          "start": 43.14,
+          "end": 43.3,
+          "probability": 0.9901224970817566
+        },
+        {
+          "word": " remember.",
+          "start": 43.3,
+          "end": 43.74,
+          "probability": 0.9887552857398987
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4976,
+      "start": 50.52,
+      "end": 51.92,
+      "text": " You",
+      "tokens": [
+        50364,
+        509,
+        50464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.9616933465003967,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.7072707414627075,
+      "words": [
+        {
+          "word": " You",
+          "start": 50.52,
+          "end": 51.92,
+          "probability": 0.039110612124204636
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

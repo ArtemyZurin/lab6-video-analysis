@@ -1,0 +1,2373 @@
+{
+  "id": "v3472c89a73c8",
+  "title": "Solar System 101 | National Geographic",
+  "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\solar_system\\clip.mp4",
+  "metadata": {
+    "title": "Solar System 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\solar_system\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "66afe93c69354143bd36f8364578088fc21562a958ec0f490bb11266e757fcde",
+    "collected_at": "2026-10-28T09:21:31.653908+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=libKVRa01L8",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.017574,
+    "fps": 29.97192513368984,
+    "fps_fraction": "22419/748",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2511614,
+    "bytes": 28261182,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 90.017574,
+  "media": "videos/v3472c89a73c8/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.05036403052508831,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/v3472c89a73c8/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.10344351965323166,
+      "sharpness": 944.9445232401298,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.000937,
+      "image": "videos/v3472c89a73c8/frames/000001.jpg",
+      "objects": [],
+      "brightness": 0.09556140311062697,
+      "sharpness": 646.8491265160811,
+      "scene_distance": 0.2765021757638113
+    },
+    {
+      "time": 2.001873,
+      "image": "videos/v3472c89a73c8/frames/000002.jpg",
+      "objects": [],
+      "brightness": 0.0998704630386105,
+      "sharpness": 836.9664644053498,
+      "scene_distance": 0.30967822159325614
+    },
+    {
+      "time": 3.00281,
+      "image": "videos/v3472c89a73c8/frames/000003.jpg",
+      "objects": [],
+      "brightness": 0.10581082818930042,
+      "sharpness": 793.0253498081695,
+      "scene_distance": 0.23672247468311386
+    },
+    {
+      "time": 4.003747,
+      "image": "videos/v3472c89a73c8/frames/000004.jpg",
+      "objects": [],
+      "brightness": 0.11081974514342774,
+      "sharpness": 852.4864136972915,
+      "scene_distance": 0.18540138033304687
+    },
+    {
+      "time": 5.004684,
+      "image": "videos/v3472c89a73c8/frames/000005.jpg",
+      "objects": [],
+      "brightness": 0.11245342759017186,
+      "sharpness": 807.4501957938005,
+      "scene_distance": 0.247081784562861
+    },
+    {
+      "time": 6.00562,
+      "image": "videos/v3472c89a73c8/frames/000006.jpg",
+      "objects": [],
+      "brightness": 0.10615070692628903,
+      "sharpness": 880.1442407896171,
+      "scene_distance": 0.21591171202903417
+    },
+    {
+      "time": 7.006557,
+      "image": "videos/v3472c89a73c8/frames/000007.jpg",
+      "objects": [],
+      "brightness": 0.12642861519607843,
+      "sharpness": 830.0157741930213,
+      "scene_distance": 0.762107615796154
+    },
+    {
+      "time": 8.007494,
+      "image": "videos/v3472c89a73c8/frames/000008.jpg",
+      "objects": [],
+      "brightness": 0.3047193457244009,
+      "sharpness": 750.2246106680391,
+      "scene_distance": 0.9386478847908813
+    },
+    {
+      "time": 9.00843,
+      "image": "videos/v3472c89a73c8/frames/000009.jpg",
+      "objects": [],
+      "brightness": 0.9713746633684338,
+      "sharpness": 0.5849426114917692,
+      "scene_distance": 0.9821133130853533
+    },
+    {
+      "time": 10.009367,
+      "image": "videos/v3472c89a73c8/frames/000010.jpg",
+      "objects": [],
+      "brightness": 0.6533751645334059,
+      "sharpness": 35.84906245373849,
+      "scene_distance": 0.938866385593659
+    },
+    {
+      "time": 11.010304,
+      "image": "videos/v3472c89a73c8/frames/000011.jpg",
+      "objects": [],
+      "brightness": 0.22795714566690872,
+      "sharpness": 362.05603201637217,
+      "scene_distance": 0.9807939073181676
+    },
+    {
+      "time": 12.01124,
+      "image": "videos/v3472c89a73c8/frames/000012.jpg",
+      "objects": [],
+      "brightness": 0.22848600142217382,
+      "sharpness": 372.08014536106765,
+      "scene_distance": 0.13349734690043152
+    },
+    {
+      "time": 13.012177,
+      "image": "videos/v3472c89a73c8/frames/000013.jpg",
+      "objects": [],
+      "brightness": 0.2282657365801259,
+      "sharpness": 382.9758738367868,
+      "scene_distance": 0.14093905286583736
+    },
+    {
+      "time": 14.013114,
+      "image": "videos/v3472c89a73c8/frames/000014.jpg",
+      "objects": [],
+      "brightness": 0.22583363024993947,
+      "sharpness": 384.7055698471174,
+      "scene_distance": 0.15212329457302948
+    },
+    {
+      "time": 15.014051,
+      "image": "videos/v3472c89a73c8/frames/000015.jpg",
+      "objects": [],
+      "brightness": 0.21885092327826192,
+      "sharpness": 318.01260074317,
+      "scene_distance": 0.15240358704041007
+    },
+    {
+      "time": 16.014987,
+      "image": "videos/v3472c89a73c8/frames/000016.jpg",
+      "objects": [],
+      "brightness": 0.20824340731663035,
+      "sharpness": 230.06977718901226,
+      "scene_distance": 0.14954769890595612
+    },
+    {
+      "time": 17.015924,
+      "image": "videos/v3472c89a73c8/frames/000017.jpg",
+      "objects": [],
+      "brightness": 0.20099789699830548,
+      "sharpness": 226.23291423955845,
+      "scene_distance": 0.13345898181182347
+    },
+    {
+      "time": 18.016861,
+      "image": "videos/v3472c89a73c8/frames/000018.jpg",
+      "objects": [],
+      "brightness": 0.19023996346223676,
+      "sharpness": 266.8786614512444,
+      "scene_distance": 0.14822338169469249
+    },
+    {
+      "time": 19.017797,
+      "image": "videos/v3472c89a73c8/frames/000019.jpg",
+      "objects": [],
+      "brightness": 0.18382823279774874,
+      "sharpness": 235.15518813145013,
+      "scene_distance": 0.13771938786024243
+    },
+    {
+      "time": 20.018734,
+      "image": "videos/v3472c89a73c8/frames/000020.jpg",
+      "objects": [],
+      "brightness": 0.17603798074013555,
+      "sharpness": 258.0180519605093,
+      "scene_distance": 0.13819400861627065
+    },
+    {
+      "time": 21.019671,
+      "image": "videos/v3472c89a73c8/frames/000021.jpg",
+      "objects": [],
+      "brightness": 0.1712907702432825,
+      "sharpness": 222.20533564305398,
+      "scene_distance": 0.1347256773521587
+    },
+    {
+      "time": 22.020608,
+      "image": "videos/v3472c89a73c8/frames/000022.jpg",
+      "objects": [],
+      "brightness": 0.1662578843651658,
+      "sharpness": 243.64942846696408,
+      "scene_distance": 0.12855272301323065
+    },
+    {
+      "time": 23.021544,
+      "image": "videos/v3472c89a73c8/frames/000023.jpg",
+      "objects": [],
+      "brightness": 0.16360407967199225,
+      "sharpness": 279.73432966497165,
+      "scene_distance": 0.13397194645330354
+    },
+    {
+      "time": 24.022481,
+      "image": "videos/v3472c89a73c8/frames/000024.jpg",
+      "objects": [],
+      "brightness": 0.16309121202493343,
+      "sharpness": 285.90272617362183,
+      "scene_distance": 0.07467560529849937
+    },
+    {
+      "time": 25.023418,
+      "image": "videos/v3472c89a73c8/frames/000025.jpg",
+      "objects": [],
+      "brightness": 0.2622532906681191,
+      "sharpness": 111.49902149927773,
+      "scene_distance": 0.7068286261638068
+    },
+    {
+      "time": 26.024354,
+      "image": "videos/v3472c89a73c8/frames/000026.jpg",
+      "objects": [],
+      "brightness": 0.2695661367556282,
+      "sharpness": 160.1449300574597,
+      "scene_distance": 0.08997562595950992
+    },
+    {
+      "time": 27.025291,
+      "image": "videos/v3472c89a73c8/frames/000027.jpg",
+      "objects": [],
+      "brightness": 0.27532823090656017,
+      "sharpness": 159.25080005106983,
+      "scene_distance": 0.08744710914555681
+    },
+    {
+      "time": 28.026228,
+      "image": "videos/v3472c89a73c8/frames/000028.jpg",
+      "objects": [],
+      "brightness": 0.28495739152142335,
+      "sharpness": 194.77681852479577,
+      "scene_distance": 0.09709842465342988
+    },
+    {
+      "time": 29.027164,
+      "image": "videos/v3472c89a73c8/frames/000029.jpg",
+      "objects": [],
+      "brightness": 0.2891701596919632,
+      "sharpness": 147.99909143276557,
+      "scene_distance": 0.0960857319415988
+    },
+    {
+      "time": 30.028101,
+      "image": "videos/v3472c89a73c8/frames/000030.jpg",
+      "objects": [],
+      "brightness": 0.2962881490559187,
+      "sharpness": 115.6602487849148,
+      "scene_distance": 0.09704907824528959
+    },
+    {
+      "time": 31.029038,
+      "image": "videos/v3472c89a73c8/frames/000031.jpg",
+      "objects": [],
+      "brightness": 0.30441721889373036,
+      "sharpness": 94.80819492329252,
+      "scene_distance": 0.0976039943527043
+    },
+    {
+      "time": 32.029975,
+      "image": "videos/v3472c89a73c8/frames/000032.jpg",
+      "objects": [],
+      "brightness": 0.31532440692326313,
+      "sharpness": 112.83209383217559,
+      "scene_distance": 0.09328022744075762
+    },
+    {
+      "time": 33.030911,
+      "image": "videos/v3472c89a73c8/frames/000033.jpg",
+      "objects": [],
+      "brightness": 0.32516032929375455,
+      "sharpness": 120.09999392847736,
+      "scene_distance": 0.10095219857680761
+    },
+    {
+      "time": 34.031848,
+      "image": "videos/v3472c89a73c8/frames/000034.jpg",
+      "objects": [],
+      "brightness": 0.3341732688059792,
+      "sharpness": 116.02970823688065,
+      "scene_distance": 0.08496159438506215
+    },
+    {
+      "time": 35.032785,
+      "image": "videos/v3472c89a73c8/frames/000035.jpg",
+      "objects": [],
+      "brightness": 0.3410082569293149,
+      "sharpness": 69.49200563677924,
+      "scene_distance": 0.09247958247401471
+    },
+    {
+      "time": 36.000357,
+      "image": "videos/v3472c89a73c8/frames/000036.jpg",
+      "objects": [],
+      "brightness": 0.3185589332183491,
+      "sharpness": 116.56405188846362,
+      "scene_distance": 0.30948953795859646
+    },
+    {
+      "time": 37.001294,
+      "image": "videos/v3472c89a73c8/frames/000037.jpg",
+      "objects": [],
+      "brightness": 0.3259198741224885,
+      "sharpness": 109.14425582370626,
+      "scene_distance": 0.10772869083319371
+    },
+    {
+      "time": 38.00223,
+      "image": "videos/v3472c89a73c8/frames/000038.jpg",
+      "objects": [],
+      "brightness": 0.3308495767519971,
+      "sharpness": 113.49869397491749,
+      "scene_distance": 0.10370256767557513
+    },
+    {
+      "time": 39.003167,
+      "image": "videos/v3472c89a73c8/frames/000039.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.4606468677520752,
+          "xyxy": [
+            211.12062072753906,
+            116.32850646972656,
+            841.3515014648438,
+            725.4027099609375
+          ]
+        }
+      ],
+      "brightness": 0.33488385832728157,
+      "sharpness": 110.29565731078723,
+      "scene_distance": 0.10443800554679565
+    },
+    {
+      "time": 40.004104,
+      "image": "videos/v3472c89a73c8/frames/000040.jpg",
+      "objects": [],
+      "brightness": 0.1064569433097313,
+      "sharpness": 132.92242956510503,
+      "scene_distance": 0.684902147284002
+    },
+    {
+      "time": 41.00504,
+      "image": "videos/v3472c89a73c8/frames/000041.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7371860146522522,
+          "xyxy": [
+            814.9171752929688,
+            361.4551696777344,
+            952.3193359375,
+            498.4376525878906
+          ]
+        }
+      ],
+      "brightness": 0.1262100732268216,
+      "sharpness": 209.17466771687302,
+      "scene_distance": 0.15887070996726765
+    },
+    {
+      "time": 42.005977,
+      "image": "videos/v3472c89a73c8/frames/000042.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6631676554679871,
+          "xyxy": [
+            814.1993408203125,
+            362.05767822265625,
+            951.26220703125,
+            499.32452392578125
+          ]
+        }
+      ],
+      "brightness": 0.13094702213447107,
+      "sharpness": 220.0446377686214,
+      "scene_distance": 0.10723831566280619
+    },
+    {
+      "time": 43.006914,
+      "image": "videos/v3472c89a73c8/frames/000043.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7134713530540466,
+          "xyxy": [
+            814.020263671875,
+            363.7897644042969,
+            951.560302734375,
+            499.13995361328125
+          ]
+        },
+        {
+          "label": "sports ball",
+          "confidence": 0.4279516041278839,
+          "xyxy": [
+            1598.227783203125,
+            364.9921875,
+            1731.6636962890625,
+            499.40771484375
+          ]
+        }
+      ],
+      "brightness": 0.1302985600490196,
+      "sharpness": 222.18805120350402,
+      "scene_distance": 0.09960099266322242
+    },
+    {
+      "time": 44.00785,
+      "image": "videos/v3472c89a73c8/frames/000044.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6797685623168945,
+          "xyxy": [
+            811.408447265625,
+            364.9100646972656,
+            952.4095458984375,
+            501.8993225097656
+          ]
+        }
+      ],
+      "brightness": 0.1315389528110627,
+      "sharpness": 209.52202302832703,
+      "scene_distance": 0.10090103373970605
+    },
+    {
+      "time": 45.008787,
+      "image": "videos/v3472c89a73c8/frames/000045.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6170854568481445,
+          "xyxy": [
+            809.91455078125,
+            364.9423828125,
+            952.8670043945312,
+            504.26531982421875
+          ]
+        }
+      ],
+      "brightness": 0.13565230119825708,
+      "sharpness": 202.0492341448879,
+      "scene_distance": 0.09508666736674647
+    },
+    {
+      "time": 46.009724,
+      "image": "videos/v3472c89a73c8/frames/000046.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6446584463119507,
+          "xyxy": [
+            809.5285034179688,
+            365.16796875,
+            950.5449829101562,
+            506.1069030761719
+          ]
+        }
+      ],
+      "brightness": 0.1362229843712176,
+      "sharpness": 204.6162041713048,
+      "scene_distance": 0.09028274736399389
+    },
+    {
+      "time": 47.010661,
+      "image": "videos/v3472c89a73c8/frames/000047.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6832015514373779,
+          "xyxy": [
+            809.3802490234375,
+            365.1723937988281,
+            949.2352905273438,
+            507.94439697265625
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.4553738832473755,
+          "xyxy": [
+            404.4372253417969,
+            365.5553283691406,
+            546.6585083007812,
+            507.4507141113281
+          ]
+        }
+      ],
+      "brightness": 0.13653790887496975,
+      "sharpness": 208.44496430281907,
+      "scene_distance": 0.1051721740178507
+    },
+    {
+      "time": 48.011597,
+      "image": "videos/v3472c89a73c8/frames/000048.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7070642709732056,
+          "xyxy": [
+            807.8093872070312,
+            366.54345703125,
+            951.7980346679688,
+            508.6439208984375
+          ]
+        }
+      ],
+      "brightness": 0.1415602419208424,
+      "sharpness": 325.1295143113606,
+      "scene_distance": 0.11313139202640643
+    },
+    {
+      "time": 49.012534,
+      "image": "videos/v3472c89a73c8/frames/000049.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.5143066644668579,
+          "xyxy": [
+            805.4722290039062,
+            368.00335693359375,
+            951.9159545898438,
+            509.95184326171875
+          ]
+        }
+      ],
+      "brightness": 0.14448581419450496,
+      "sharpness": 376.68939766342777,
+      "scene_distance": 0.10534157710462044
+    },
+    {
+      "time": 50.013471,
+      "image": "videos/v3472c89a73c8/frames/000050.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.774146318435669,
+          "xyxy": [
+            1317.0433349609375,
+            284.39825439453125,
+            1534.85009765625,
+            501.3275146484375
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.5779385566711426,
+          "xyxy": [
+            700.6082153320312,
+            285.4735107421875,
+            914.1458129882812,
+            500.5726318359375
+          ]
+        }
+      ],
+      "brightness": 0.1286349306312031,
+      "sharpness": 163.56597800867783,
+      "scene_distance": 0.3131765520166936
+    },
+    {
+      "time": 51.014407,
+      "image": "videos/v3472c89a73c8/frames/000051.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8360758423805237,
+          "xyxy": [
+            1318.5191650390625,
+            285.79132080078125,
+            1536.072265625,
+            504.1920166015625
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.6716194748878479,
+          "xyxy": [
+            698.5208740234375,
+            285.9313659667969,
+            912.6002807617188,
+            502.04461669921875
+          ]
+        }
+      ],
+      "brightness": 0.1404986421266037,
+      "sharpness": 264.9786106151251,
+      "scene_distance": 0.09743614355956352
+    },
+    {
+      "time": 52.015344,
+      "image": "videos/v3472c89a73c8/frames/000052.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.835352897644043,
+          "xyxy": [
+            1320.15283203125,
+            285.6637878417969,
+            1537.8153076171875,
+            504.4973449707031
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.7372165322303772,
+          "xyxy": [
+            697.0857543945312,
+            286.1269226074219,
+            912.357421875,
+            502.8708801269531
+          ]
+        }
+      ],
+      "brightness": 0.14209562984144275,
+      "sharpness": 278.58265382876925,
+      "scene_distance": 0.08869961766411161
+    },
+    {
+      "time": 53.016281,
+      "image": "videos/v3472c89a73c8/frames/000053.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8812841176986694,
+          "xyxy": [
+            1321.4468994140625,
+            285.7401123046875,
+            1539.6170654296875,
+            506.5981750488281
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.6746063232421875,
+          "xyxy": [
+            697.0650024414062,
+            285.55865478515625,
+            913.6963500976562,
+            504.3121032714844
+          ]
+        }
+      ],
+      "brightness": 0.14419307522391672,
+      "sharpness": 294.2939978689688,
+      "scene_distance": 0.09339835404572044
+    },
+    {
+      "time": 54.017218,
+      "image": "videos/v3472c89a73c8/frames/000054.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8626113533973694,
+          "xyxy": [
+            1323.25390625,
+            285.8656311035156,
+            1544.9278564453125,
+            507.3958740234375
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.611522912979126,
+          "xyxy": [
+            695.1829833984375,
+            285.8354187011719,
+            914.394287109375,
+            506.0987548828125
+          ]
+        }
+      ],
+      "brightness": 0.13115056886952312,
+      "sharpness": 221.59611158607805,
+      "scene_distance": 0.08822467130594343
+    },
+    {
+      "time": 55.018154,
+      "image": "videos/v3472c89a73c8/frames/000055.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.829145073890686,
+          "xyxy": [
+            1324.8656005859375,
+            286.67889404296875,
+            1548.2860107421875,
+            508.0089111328125
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.5350396037101746,
+          "xyxy": [
+            696.2103881835938,
+            285.19927978515625,
+            913.5862426757812,
+            506.4363098144531
+          ]
+        }
+      ],
+      "brightness": 0.1323677359446865,
+      "sharpness": 235.82654031633476,
+      "scene_distance": 0.08897419513862485
+    },
+    {
+      "time": 56.019091,
+      "image": "videos/v3472c89a73c8/frames/000056.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8287690281867981,
+          "xyxy": [
+            1325.5550537109375,
+            286.6497497558594,
+            1549.4827880859375,
+            508.5662841796875
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.6873704195022583,
+          "xyxy": [
+            693.9576416015625,
+            284.7078552246094,
+            913.57177734375,
+            507.01226806640625
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.48490723967552185,
+          "xyxy": [
+            1013.4197387695312,
+            286.5567626953125,
+            1232.9678955078125,
+            510.26934814453125
+          ]
+        }
+      ],
+      "brightness": 0.1348053702190753,
+      "sharpness": 291.9556351267564,
+      "scene_distance": 0.08396902607826981
+    },
+    {
+      "time": 57.020028,
+      "image": "videos/v3472c89a73c8/frames/000057.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.842752993106842,
+          "xyxy": [
+            1327.2525634765625,
+            288.2504577636719,
+            1553.1624755859375,
+            508.711669921875
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.5345707535743713,
+          "xyxy": [
+            691.2634887695312,
+            286.7394714355469,
+            912.1434326171875,
+            508.32733154296875
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.47650113701820374,
+          "xyxy": [
+            690.8604736328125,
+            286.2803649902344,
+            913.0260009765625,
+            507.369873046875
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.45703136920928955,
+          "xyxy": [
+            371.714111328125,
+            287.1723937988281,
+            592.4994506835938,
+            506.8561096191406
+          ]
+        }
+      ],
+      "brightness": 0.13517375484144276,
+      "sharpness": 327.3922434030224,
+      "scene_distance": 0.09930112560131076
+    },
+    {
+      "time": 58.020964,
+      "image": "videos/v3472c89a73c8/frames/000058.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8213076591491699,
+          "xyxy": [
+            1330.278564453125,
+            288.26251220703125,
+            1555.3133544921875,
+            510.46502685546875
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.5445414781570435,
+          "xyxy": [
+            691.3920288085938,
+            286.8392028808594,
+            913.4652709960938,
+            508.8424987792969
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.40937045216560364,
+          "xyxy": [
+            691.69775390625,
+            287.3352355957031,
+            912.4639892578125,
+            509.37469482421875
+          ]
+        }
+      ],
+      "brightness": 0.1373807019335512,
+      "sharpness": 390.13372683976206,
+      "scene_distance": 0.08276961398577297
+    },
+    {
+      "time": 59.021901,
+      "image": "videos/v3472c89a73c8/frames/000059.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7094965577125549,
+          "xyxy": [
+            1332.6741943359375,
+            288.7430419921875,
+            1557.1810302734375,
+            512.5880737304688
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.6520808935165405,
+          "xyxy": [
+            689.4354858398438,
+            288.1430969238281,
+            912.5234985351562,
+            510.2491149902344
+          ]
+        }
+      ],
+      "brightness": 0.13750713923686758,
+      "sharpness": 385.17330675103875,
+      "scene_distance": 0.08579226757024448
+    },
+    {
+      "time": 60.022838,
+      "image": "videos/v3472c89a73c8/frames/000060.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7203805446624756,
+          "xyxy": [
+            1335.7705078125,
+            290.5577697753906,
+            1560.030517578125,
+            515.0784301757812
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.5811004638671875,
+          "xyxy": [
+            688.47607421875,
+            288.68585205078125,
+            912.6691284179688,
+            513.6201171875
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.42534318566322327,
+          "xyxy": [
+            687.447021484375,
+            288.07550048828125,
+            912.7938232421875,
+            513.4759521484375
+          ]
+        }
+      ],
+      "brightness": 0.13901192583514888,
+      "sharpness": 454.9029619291245,
+      "scene_distance": 0.09492021395248854
+    },
+    {
+      "time": 61.023774,
+      "image": "videos/v3472c89a73c8/frames/000061.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.78133225440979,
+          "xyxy": [
+            1337.307861328125,
+            291.1221618652344,
+            1563.7618408203125,
+            518.29833984375
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.5560088157653809,
+          "xyxy": [
+            687.0446166992188,
+            289.98583984375,
+            911.55908203125,
+            516.3968505859375
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.554894208908081,
+          "xyxy": [
+            686.146240234375,
+            289.9447937011719,
+            911.9883422851562,
+            515.5810546875
+          ]
+        }
+      ],
+      "brightness": 0.1393331442144759,
+      "sharpness": 439.2787823000054,
+      "scene_distance": 0.09721903337840866
+    },
+    {
+      "time": 62.024711,
+      "image": "videos/v3472c89a73c8/frames/000062.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7135761976242065,
+          "xyxy": [
+            1337.5404052734375,
+            298.6673889160156,
+            1564.1500244140625,
+            526.2205810546875
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.5701656341552734,
+          "xyxy": [
+            687.9651489257812,
+            296.6162414550781,
+            911.133544921875,
+            521.375732421875
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.508381724357605,
+          "xyxy": [
+            686.7774047851562,
+            297.4324035644531,
+            911.62158203125,
+            521.87548828125
+          ]
+        }
+      ],
+      "brightness": 0.14126562121762284,
+      "sharpness": 512.3526937757639,
+      "scene_distance": 0.10060466895139931
+    },
+    {
+      "time": 63.025648,
+      "image": "videos/v3472c89a73c8/frames/000063.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7075915932655334,
+          "xyxy": [
+            1336.1253662109375,
+            301.8820495605469,
+            1563.022705078125,
+            530.0411376953125
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.6750932931900024,
+          "xyxy": [
+            687.802734375,
+            301.0718994140625,
+            911.801513671875,
+            526.1585693359375
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.5402815341949463,
+          "xyxy": [
+            1013.1146850585938,
+            300.79449462890625,
+            1238.9144287109375,
+            526.4408569335938
+          ]
+        }
+      ],
+      "brightness": 0.1407539941902687,
+      "sharpness": 501.6139249857164,
+      "scene_distance": 0.09657652796753134
+    },
+    {
+      "time": 64.026585,
+      "image": "videos/v3472c89a73c8/frames/000064.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7344046235084534,
+          "xyxy": [
+            1331.6531982421875,
+            306.1998596191406,
+            1557.872802734375,
+            533.6742553710938
+          ]
+        },
+        {
+          "label": "donut",
+          "confidence": 0.6210706233978271,
+          "xyxy": [
+            688.593017578125,
+            305.9427795410156,
+            911.9694213867188,
+            528.8628540039062
+          ]
+        }
+      ],
+      "brightness": 0.14020137186819173,
+      "sharpness": 501.1426523638104,
+      "scene_distance": 0.09690780885329266
+    },
+    {
+      "time": 65.027521,
+      "image": "videos/v3472c89a73c8/frames/000065.jpg",
+      "objects": [],
+      "brightness": 0.2295044840081094,
+      "sharpness": 81.79947526443172,
+      "scene_distance": 0.893305376821246
+    },
+    {
+      "time": 66.028458,
+      "image": "videos/v3472c89a73c8/frames/000066.jpg",
+      "objects": [],
+      "brightness": 0.23658683392338417,
+      "sharpness": 241.23617715274068,
+      "scene_distance": 0.430418206393805
+    },
+    {
+      "time": 67.029395,
+      "image": "videos/v3472c89a73c8/frames/000067.jpg",
+      "objects": [],
+      "brightness": 0.23688934844771242,
+      "sharpness": 243.83994742405946,
+      "scene_distance": 0.058416828876721415
+    },
+    {
+      "time": 68.030331,
+      "image": "videos/v3472c89a73c8/frames/000068.jpg",
+      "objects": [],
+      "brightness": 0.24434982828007748,
+      "sharpness": 233.91652918676593,
+      "scene_distance": 0.1719703651831507
+    },
+    {
+      "time": 69.031268,
+      "image": "videos/v3472c89a73c8/frames/000069.jpg",
+      "objects": [],
+      "brightness": 0.27319177786855486,
+      "sharpness": 383.2604603342258,
+      "scene_distance": 0.4411107909588206
+    },
+    {
+      "time": 70.032205,
+      "image": "videos/v3472c89a73c8/frames/000070.jpg",
+      "objects": [],
+      "brightness": 0.29885444656257565,
+      "sharpness": 371.4222327085328,
+      "scene_distance": 0.25030428722203324
+    },
+    {
+      "time": 71.033142,
+      "image": "videos/v3472c89a73c8/frames/000071.jpg",
+      "objects": [],
+      "brightness": 0.30194762731481484,
+      "sharpness": 371.94568333579457,
+      "scene_distance": 0.06788427587860268
+    },
+    {
+      "time": 72.000714,
+      "image": "videos/v3472c89a73c8/frames/000072.jpg",
+      "objects": [],
+      "brightness": 0.3015201317023723,
+      "sharpness": 365.3634476262076,
+      "scene_distance": 0.05792132479474818
+    },
+    {
+      "time": 73.00165,
+      "image": "videos/v3472c89a73c8/frames/000073.jpg",
+      "objects": [],
+      "brightness": 0.2999526295085936,
+      "sharpness": 371.20198350669114,
+      "scene_distance": 0.07889104553419678
+    },
+    {
+      "time": 74.002587,
+      "image": "videos/v3472c89a73c8/frames/000074.jpg",
+      "objects": [],
+      "brightness": 0.4041899831305979,
+      "sharpness": 102.53535243615927,
+      "scene_distance": 0.7418395743447148
+    },
+    {
+      "time": 75.003524,
+      "image": "videos/v3472c89a73c8/frames/000075.jpg",
+      "objects": [],
+      "brightness": 0.4049695424080126,
+      "sharpness": 174.75189139358247,
+      "scene_distance": 0.08309269885238162
+    },
+    {
+      "time": 76.004461,
+      "image": "videos/v3472c89a73c8/frames/000076.jpg",
+      "objects": [],
+      "brightness": 0.42421466503267974,
+      "sharpness": 168.03273339477224,
+      "scene_distance": 0.1440326459202592
+    },
+    {
+      "time": 77.005397,
+      "image": "videos/v3472c89a73c8/frames/000077.jpg",
+      "objects": [],
+      "brightness": 0.4514868203068264,
+      "sharpness": 172.75526572069498,
+      "scene_distance": 0.17815863756121036
+    },
+    {
+      "time": 78.006334,
+      "image": "videos/v3472c89a73c8/frames/000078.jpg",
+      "objects": [],
+      "brightness": 0.4530500635439361,
+      "sharpness": 170.8084157134854,
+      "scene_distance": 0.10655622484819166
+    },
+    {
+      "time": 79.007271,
+      "image": "videos/v3472c89a73c8/frames/000079.jpg",
+      "objects": [],
+      "brightness": 0.4524002492586541,
+      "sharpness": 139.27114191145105,
+      "scene_distance": 0.10327638498802548
+    },
+    {
+      "time": 80.008207,
+      "image": "videos/v3472c89a73c8/frames/000080.jpg",
+      "objects": [],
+      "brightness": 0.4283811123214718,
+      "sharpness": 230.952331657018,
+      "scene_distance": 0.20327252135215684
+    },
+    {
+      "time": 81.009144,
+      "image": "videos/v3472c89a73c8/frames/000081.jpg",
+      "objects": [],
+      "brightness": 0.4163696460451464,
+      "sharpness": 265.32247636908505,
+      "scene_distance": 0.1309750615233964
+    },
+    {
+      "time": 82.010081,
+      "image": "videos/v3472c89a73c8/frames/000082.jpg",
+      "objects": [],
+      "brightness": 0.41782489295872666,
+      "sharpness": 316.6617084347235,
+      "scene_distance": 0.05293130372442576
+    },
+    {
+      "time": 83.011017,
+      "image": "videos/v3472c89a73c8/frames/000083.jpg",
+      "objects": [],
+      "brightness": 0.4217371815238441,
+      "sharpness": 340.72922308771365,
+      "scene_distance": 0.0641345058071718
+    },
+    {
+      "time": 84.011954,
+      "image": "videos/v3472c89a73c8/frames/000084.jpg",
+      "objects": [],
+      "brightness": 0.4228765488834422,
+      "sharpness": 345.97017679975636,
+      "scene_distance": 0.06469921044111475
+    },
+    {
+      "time": 85.012891,
+      "image": "videos/v3472c89a73c8/frames/000085.jpg",
+      "objects": [],
+      "brightness": 0.42620287347191965,
+      "sharpness": 338.15845766752267,
+      "scene_distance": 0.06609452038409142
+    },
+    {
+      "time": 86.013828,
+      "image": "videos/v3472c89a73c8/frames/000086.jpg",
+      "objects": [],
+      "brightness": 0.42786827493343016,
+      "sharpness": 338.3544253708043,
+      "scene_distance": 0.05353119142111434
+    },
+    {
+      "time": 87.014764,
+      "image": "videos/v3472c89a73c8/frames/000087.jpg",
+      "objects": [],
+      "brightness": 0.489143978077342,
+      "sharpness": 54.30602420910122,
+      "scene_distance": 0.9345644276690798
+    },
+    {
+      "time": 88.015701,
+      "image": "videos/v3472c89a73c8/frames/000088.jpg",
+      "objects": [],
+      "brightness": 0.4661914506929315,
+      "sharpness": 67.53175339666086,
+      "scene_distance": 0.17118841685020178
+    },
+    {
+      "time": 89.016638,
+      "image": "videos/v3472c89a73c8/frames/000089.jpg",
+      "objects": [],
+      "brightness": 0.6215273522603486,
+      "sharpness": 106.47525985482298,
+      "scene_distance": 0.7671406077059042
+    }
+  ],
+  "segments": [
+    {
+      "start": 2.0599999999999996,
+      "end": 8.14,
+      "text": "Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy.",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 10.120000000000001,
+      "end": 16.04,
+      "text": "The solar system came into being about 4.5 billion years ago when a cloud of interstellar",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 16.04,
+      "end": 21.72,
+      "text": "gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 21.72,
+      "end": 23.8,
+      "text": "collided to form the solar system.",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 25.28,
+      "end": 29.74,
+      "text": "The solar system is located in the Milky Way's Orion Star cluster.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 30.4,
+      "end": 37.36,
+      "text": "Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 39.94,
+      "end": 42.6,
+      "text": "Revolving around the Sun are 8 planets.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 43.34,
+      "end": 48.84,
+      "text": "The planets are divided into 2 categories based on their composition, terrestrial and Jovian.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 49.559999999999995,
+      "end": 55.5,
+      "text": "Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 56.06,
+      "end": 61.24,
+      "text": "Their surfaces are solid, they don't have ring systems, they have very few or no moons,",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 61.64,
+      "end": 63.24,
+      "text": "and they are relatively small.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 65.24000000000001,
+      "end": 70.68,
+      "text": "The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 70.68,
+      "end": 72.28,
+      "text": "at about three Earth months.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 73.16,
+      "end": 79.94,
+      "text": "Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 79.94,
+      "end": 82.98,
+      "text": "atmosphere of carbon dioxide and extensive lava flows.",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 83.76,
+      "end": 87.12,
+      "text": "Next to this world of fire is a world of water, Earth.",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 87.78,
+      "end": 89.94,
+      "text": "The water systems on this planet helped",
+      "avg_logprob": -0.4748661994934082,
+      "no_speech_prob": 0.5836451649665833,
+      "compression_ratio": 0.8297872340425532
+    }
+  ],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -31.77092913193523,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -39.3228015208044,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -20.797306320031595,
+      "peak": true
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -20.871668666664075,
+      "peak": true
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -25.324720936973133,
+      "peak": false
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -22.031435549059182,
+      "peak": false
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -28.695013386588435,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -25.398765223357785,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -37.29621269684772,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -37.430514920960555,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -21.716505263161338,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "dbfs": -24.295679131538172,
+      "peak": false
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "dbfs": -22.557904603576567,
+      "peak": false
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "dbfs": -22.696774133199757,
+      "peak": false
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "dbfs": -24.635130422766434,
+      "peak": false
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "dbfs": -22.055807553355713,
+      "peak": false
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "dbfs": -27.075386660907235,
+      "peak": false
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "dbfs": -25.208570518268402,
+      "peak": false
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "dbfs": -23.3631618346745,
+      "peak": false
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "dbfs": -24.59367664256166,
+      "peak": false
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "dbfs": -21.646873776587817,
+      "peak": true
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "dbfs": -23.70927713976238,
+      "peak": false
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "dbfs": -22.43270815780121,
+      "peak": false
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "dbfs": -25.90839302032764,
+      "peak": false
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "dbfs": -36.93509091419322,
+      "peak": false
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "dbfs": -26.64829826442152,
+      "peak": false
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "dbfs": -24.140926799978875,
+      "peak": false
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "dbfs": -20.525005527332745,
+      "peak": true
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "dbfs": -22.467057341063047,
+      "peak": false
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "dbfs": -26.172748559965054,
+      "peak": false
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "dbfs": -23.06907857142742,
+      "peak": false
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "dbfs": -24.2467198356214,
+      "peak": false
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "dbfs": -22.06711401334237,
+      "peak": false
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "dbfs": -24.363171093779417,
+      "peak": false
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "dbfs": -27.09740666287473,
+      "peak": false
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "dbfs": -20.899300869266384,
+      "peak": true
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "dbfs": -23.17817530816771,
+      "peak": false
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "dbfs": -29.62960456732748,
+      "peak": false
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "dbfs": -37.77731175742072,
+      "peak": false
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "dbfs": -37.358757613574966,
+      "peak": false
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "dbfs": -19.540567979252728,
+      "peak": true
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "dbfs": -24.043732483276116,
+      "peak": false
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "dbfs": -27.02415104253419,
+      "peak": false
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "dbfs": -24.843563791836104,
+      "peak": false
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "dbfs": -22.376925813167343,
+      "peak": false
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "dbfs": -26.330402880620774,
+      "peak": false
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "dbfs": -26.908892546696947,
+      "peak": false
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "dbfs": -24.63966797728261,
+      "peak": false
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "dbfs": -24.614004250683,
+      "peak": false
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "dbfs": -24.216108276028564,
+      "peak": false
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "dbfs": -23.34977559283908,
+      "peak": false
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "dbfs": -22.609881323869587,
+      "peak": false
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "dbfs": -25.376748721917778,
+      "peak": false
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "dbfs": -23.70108096333759,
+      "peak": false
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "dbfs": -21.393563398116683,
+      "peak": true
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "dbfs": -27.88349381896691,
+      "peak": false
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "dbfs": -22.56217908401963,
+      "peak": false
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "dbfs": -24.057976957912338,
+      "peak": false
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "dbfs": -25.138538753929392,
+      "peak": false
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "dbfs": -24.22750140154434,
+      "peak": false
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "dbfs": -24.583858091809816,
+      "peak": false
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "dbfs": -23.623904600037974,
+      "peak": false
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "dbfs": -21.49385093695875,
+      "peak": true
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "dbfs": -23.60551765889138,
+      "peak": false
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "dbfs": -36.72616832786812,
+      "peak": false
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "dbfs": -29.116626675126863,
+      "peak": false
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "dbfs": -21.526549212184754,
+      "peak": true
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "dbfs": -24.509172146109655,
+      "peak": false
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "dbfs": -23.885506426122017,
+      "peak": false
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "dbfs": -23.760354191699374,
+      "peak": false
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "dbfs": -27.206681119853883,
+      "peak": false
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "dbfs": -22.9567932902504,
+      "peak": false
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "dbfs": -32.246364021692095,
+      "peak": false
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "dbfs": -22.70052314530271,
+      "peak": false
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "dbfs": -21.454524295665212,
+      "peak": true
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "dbfs": -24.840483219234347,
+      "peak": false
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "dbfs": -25.011118783043603,
+      "peak": false
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "dbfs": -24.9302498660577,
+      "peak": false
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "dbfs": -23.193234072179937,
+      "peak": false
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "dbfs": -24.012292153627616,
+      "peak": false
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "dbfs": -23.01508649316547,
+      "peak": false
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "dbfs": -22.59292705518828,
+      "peak": false
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "dbfs": -24.246670768323533,
+      "peak": false
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "dbfs": -35.06297542135037,
+      "peak": false
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "dbfs": -22.959552504837845,
+      "peak": false
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "dbfs": -23.337421994458243,
+      "peak": false
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "dbfs": -25.02460234972777,
+      "peak": false
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "dbfs": -26.64163234426266,
+      "peak": false
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "dbfs": -22.012975915821045,
+      "peak": false
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "dbfs": -24.537206872463045,
+      "peak": false
+    },
+    {
+      "start": 90.0,
+      "end": 90.017574,
+      "dbfs": -39.30971826590284,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 2.0,
+      "end": 4.0,
+      "value": -20.797306320031595,
+      "id": "e00000"
+    },
+    {
+      "type": "speech",
+      "label": "Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy.",
+      "start": 2.06,
+      "end": 8.14,
+      "avg_logprob": -0.14428119659423827,
+      "id": "e00001"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 7.0066,
+      "end": 7.1066,
+      "value": 0.762107615796154,
+      "frame": "videos/v3472c89a73c8/frames/000007.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 8.0075,
+      "end": 8.1075,
+      "value": 0.9386478847908813,
+      "frame": "videos/v3472c89a73c8/frames/000008.jpg",
+      "id": "e00003"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 9.0084,
+      "end": 9.1084,
+      "value": 0.9821133130853533,
+      "frame": "videos/v3472c89a73c8/frames/000009.jpg",
+      "id": "e00004"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 10.0094,
+      "end": 10.1094,
+      "value": 0.938866385593659,
+      "frame": "videos/v3472c89a73c8/frames/000010.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "speech",
+      "label": "The solar system came into being about 4.5 billion years ago when a cloud of interstellar",
+      "start": 10.12,
+      "end": 16.04,
+      "avg_logprob": -0.14428119659423827,
+      "id": "e00006"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 11.0103,
+      "end": 11.1103,
+      "value": 0.9807939073181676,
+      "frame": "videos/v3472c89a73c8/frames/000011.jpg",
+      "id": "e00007"
+    },
+    {
+      "type": "speech",
+      "label": "gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that",
+      "start": 16.04,
+      "end": 21.72,
+      "avg_logprob": -0.14428119659423827,
+      "id": "e00008"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 20.0,
+      "end": 21.0,
+      "value": -21.646873776587817,
+      "id": "e00009"
+    },
+    {
+      "type": "speech",
+      "label": "collided to form the solar system.",
+      "start": 21.72,
+      "end": 23.8,
+      "avg_logprob": -0.14428119659423827,
+      "id": "e00010"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 25.0234,
+      "end": 25.1234,
+      "value": 0.7068286261638068,
+      "frame": "videos/v3472c89a73c8/frames/000025.jpg",
+      "id": "e00011"
+    },
+    {
+      "type": "speech",
+      "label": "The solar system is located in the Milky Way's Orion Star cluster.",
+      "start": 25.28,
+      "end": 29.74,
+      "avg_logprob": -0.20927518208821613,
+      "id": "e00012"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 27.0,
+      "end": 28.0,
+      "value": -20.525005527332745,
+      "id": "e00013"
+    },
+    {
+      "type": "speech",
+      "label": "Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun.",
+      "start": 30.4,
+      "end": 37.36,
+      "avg_logprob": -0.20927518208821613,
+      "id": "e00014"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 35.0,
+      "end": 36.0,
+      "value": -20.899300869266384,
+      "id": "e00015"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 39.0032,
+      "end": 40.0041,
+      "confidence": 0.4606468677520752,
+      "samples": 1,
+      "frame": "videos/v3472c89a73c8/frames/000039.jpg",
+      "id": "e00016"
+    },
+    {
+      "type": "speech",
+      "label": "Revolving around the Sun are 8 planets.",
+      "start": 39.94,
+      "end": 42.6,
+      "avg_logprob": -0.20927518208821613,
+      "id": "e00017"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 40.0,
+      "end": 41.0,
+      "value": -19.540567979252728,
+      "id": "e00018"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 40.0041,
+      "end": 40.1041,
+      "value": 0.684902147284002,
+      "frame": "videos/v3472c89a73c8/frames/000040.jpg",
+      "id": "e00019"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 41.005,
+      "end": 65.0275,
+      "confidence": 0.7432557096083959,
+      "samples": 24,
+      "frame": "videos/v3472c89a73c8/frames/000041.jpg",
+      "id": "e00020"
+    },
+    {
+      "type": "object",
+      "label": "sports ball",
+      "start": 43.0069,
+      "end": 44.0078,
+      "confidence": 0.4279516041278839,
+      "samples": 1,
+      "frame": "videos/v3472c89a73c8/frames/000043.jpg",
+      "id": "e00021"
+    },
+    {
+      "type": "speech",
+      "label": "The planets are divided into 2 categories based on their composition, terrestrial and Jovian.",
+      "start": 43.34,
+      "end": 48.84,
+      "avg_logprob": -0.20927518208821613,
+      "id": "e00022"
+    },
+    {
+      "type": "speech",
+      "label": "Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material.",
+      "start": 49.56,
+      "end": 55.5,
+      "avg_logprob": -0.17550019990830196,
+      "id": "e00023"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 54.0,
+      "end": 55.0,
+      "value": -21.393563398116683,
+      "id": "e00024"
+    },
+    {
+      "type": "object",
+      "label": "donut",
+      "start": 55.0182,
+      "end": 59.0219,
+      "confidence": 0.541587807238102,
+      "samples": 4,
+      "frame": "videos/v3472c89a73c8/frames/000055.jpg",
+      "id": "e00025"
+    },
+    {
+      "type": "speech",
+      "label": "Their surfaces are solid, they don't have ring systems, they have very few or no moons,",
+      "start": 56.06,
+      "end": 61.24,
+      "avg_logprob": -0.17550019990830196,
+      "id": "e00026"
+    },
+    {
+      "type": "object",
+      "label": "donut",
+      "start": 60.0228,
+      "end": 65.0275,
+      "confidence": 0.5695363104343414,
+      "samples": 5,
+      "frame": "videos/v3472c89a73c8/frames/000060.jpg",
+      "id": "e00027"
+    },
+    {
+      "type": "speech",
+      "label": "and they are relatively small.",
+      "start": 61.64,
+      "end": 63.24,
+      "avg_logprob": -0.17550019990830196,
+      "id": "e00028"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 62.0,
+      "end": 63.0,
+      "value": -21.49385093695875,
+      "id": "e00029"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 65.0275,
+      "end": 65.1275,
+      "value": 0.893305376821246,
+      "frame": "videos/v3472c89a73c8/frames/000065.jpg",
+      "id": "e00030"
+    },
+    {
+      "type": "speech",
+      "label": "The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system",
+      "start": 65.24,
+      "end": 70.68,
+      "avg_logprob": -0.17550019990830196,
+      "id": "e00031"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 66.0,
+      "end": 67.0,
+      "value": -21.526549212184754,
+      "id": "e00032"
+    },
+    {
+      "type": "speech",
+      "label": "at about three Earth months.",
+      "start": 70.68,
+      "end": 72.28,
+      "avg_logprob": -0.17550019990830196,
+      "id": "e00033"
+    },
+    {
+      "type": "speech",
+      "label": "Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an",
+      "start": 73.16,
+      "end": 79.94,
+      "avg_logprob": -0.21243778864542642,
+      "id": "e00034"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 74.0,
+      "end": 75.0,
+      "value": -21.454524295665212,
+      "id": "e00035"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 74.0026,
+      "end": 74.1026,
+      "value": 0.7418395743447148,
+      "frame": "videos/v3472c89a73c8/frames/000074.jpg",
+      "id": "e00036"
+    },
+    {
+      "type": "speech",
+      "label": "atmosphere of carbon dioxide and extensive lava flows.",
+      "start": 79.94,
+      "end": 82.98,
+      "avg_logprob": -0.21243778864542642,
+      "id": "e00037"
+    },
+    {
+      "type": "speech",
+      "label": "Next to this world of fire is a world of water, Earth.",
+      "start": 83.76,
+      "end": 87.12,
+      "avg_logprob": -0.21243778864542642,
+      "id": "e00038"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 87.0148,
+      "end": 87.1148,
+      "value": 0.9345644276690798,
+      "frame": "videos/v3472c89a73c8/frames/000087.jpg",
+      "id": "e00039"
+    },
+    {
+      "type": "speech",
+      "label": "The water systems on this planet helped",
+      "start": 87.78,
+      "end": 89.94,
+      "avg_logprob": -0.4748661994934082,
+      "id": "e00040"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 89.0166,
+      "end": 89.1166,
+      "value": 0.7671406077059042,
+      "frame": "videos/v3472c89a73c8/frames/000089.jpg",
+      "id": "e00041"
+    }
+  ],
+  "entities": [
+    {
+      "label": "donut",
+      "detections": 11,
+      "frames": 9,
+      "max_simultaneous": 2,
+      "intervals": 2,
+      "seconds": 9.008400000000009,
+      "mean_confidence": 0.5490201413631439,
+      "frame_share": 0.1,
+      "duration_share": 0.10007379225749863
+    },
+    {
+      "label": "orange",
+      "detections": 38,
+      "frames": 25,
+      "max_simultaneous": 3,
+      "intervals": 2,
+      "seconds": 25.023400000000002,
+      "mean_confidence": 0.6789892857011995,
+      "frame_share": 0.2777777777777778,
+      "duration_share": 0.2779834968669563
+    },
+    {
+      "label": "sports ball",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0009000000000015,
+      "mean_confidence": 0.4279516041278839,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011118939952769684
+    }
+  ],
+  "warnings": [],
+  "detected_language": "en",
+  "signature": "d88c300d4321272d67ff43e458df773f58b36cf77242868e1e9504818ca9c50b",
+  "processing_seconds": 62.609
+}

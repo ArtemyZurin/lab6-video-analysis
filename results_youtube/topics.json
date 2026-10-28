@@ -1,0 +1,31 @@
+{
+  "method": "TF-IDF + KMeans",
+  "selected_k": 1,
+  "seed": 42,
+  "silhouette": null,
+  "candidates": [],
+  "topics": [
+    {
+      "cluster": 0,
+      "keywords": [
+        "status",
+        "whatsapp",
+        "nature",
+        "video",
+        "tamil",
+        "flower",
+        "seconds",
+        "30",
+        "malayalam",
+        "background"
+      ],
+      "video_ids": [
+        "vf988c79f4b10"
+      ],
+      "count": 1,
+      "share": 1.0
+    }
+  ],
+  "unassigned": 0,
+  "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+}

@@ -1,0 +1,6 @@
+﻿video_id,title,id,type,start,end,label,frame,verdict,comment
+v3472c89a73c8,Solar System 101 | National Geographic,e00005,scene,10.0094,10.1094,Смена сцены,videos/v3472c89a73c8/frames/000010.jpg,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00002,object,5.0048,6.0057,person,videos/vdcf99b90407e/frames/000005.jpg,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00032,scene,40.0044,40.1044,Смена сцены,videos/vfe7b0ab20012/frames/000040.jpg,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00010,object,14.0133,15.0142,orange,videos/vadfb155536b3/frames/000014.jpg,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00019,scene,18.0167,18.1167,Смена сцены,videos/vb863a946c7a4/frames/000036.jpg,,

@@ -1,0 +1,101 @@
+﻿video_id,title,id,type,start,end,label,confidence,value,frame
+v5d38f104630c,Sintel — trailer,e00000,scene,2.0,2.1,Смена сцены,,0.4569350483131934,videos/v5d38f104630c/frames/000002.jpg
+v5d38f104630c,Sintel — trailer,e00001,object,3.0,4.0,horse,0.458269864320755,,videos/v5d38f104630c/frames/000003.jpg
+v5d38f104630c,Sintel — trailer,e00002,object,6.0,10.0,person,0.8312219679355621,,videos/v5d38f104630c/frames/000006.jpg
+v5d38f104630c,Sintel — trailer,e00003,scene,6.0,6.1,Смена сцены,,0.45396513379737247,videos/v5d38f104630c/frames/000006.jpg
+v5d38f104630c,Sintel — trailer,e00004,scene,7.0,7.1,Смена сцены,,0.5795986078496264,videos/v5d38f104630c/frames/000007.jpg
+v5d38f104630c,Sintel — trailer,e00005,scene,9.0,9.1,Смена сцены,,0.7926026156574126,videos/v5d38f104630c/frames/000009.jpg
+v5d38f104630c,Sintel — trailer,e00006,scene,10.0,10.1,Смена сцены,,0.6410313271140163,videos/v5d38f104630c/frames/000010.jpg
+v5d38f104630c,Sintel — trailer,e00007,speech,11.82,14.18,What brings you to the land of the gatekeepers?,,,
+v5d38f104630c,Sintel — trailer,e00008,object,12.0,13.0,person,0.5687847137451172,,videos/v5d38f104630c/frames/000012.jpg
+v5d38f104630c,Sintel — trailer,e00009,scene,12.0,12.1,Смена сцены,,0.49559527280070437,videos/v5d38f104630c/frames/000012.jpg
+v5d38f104630c,Sintel — trailer,e00010,object,14.0,18.0,person,0.6988809630274773,,videos/v5d38f104630c/frames/000014.jpg
+v5d38f104630c,Sintel — trailer,e00011,audio,17.0,18.0,Пик громкости,,-11.761974454421933,
+v5d38f104630c,Sintel — trailer,e00012,scene,17.0,17.1,Смена сцены,,0.7356268112051703,videos/v5d38f104630c/frames/000017.jpg
+v5d38f104630c,Sintel — trailer,e00013,scene,18.0,18.1,Смена сцены,,0.6930497331562804,videos/v5d38f104630c/frames/000018.jpg
+v5d38f104630c,Sintel — trailer,e00014,speech,18.26,19.76,I'm searching for someone.,,,
+v5d38f104630c,Sintel — trailer,e00015,object,19.0,20.0,person,0.43038299679756165,,videos/v5d38f104630c/frames/000019.jpg
+v5d38f104630c,Sintel — trailer,e00016,scene,19.0,19.1,Смена сцены,,0.7289738007973895,videos/v5d38f104630c/frames/000019.jpg
+v5d38f104630c,Sintel — trailer,e00017,object,22.0,24.0,person,0.6796074956655502,,videos/v5d38f104630c/frames/000022.jpg
+v5d38f104630c,Sintel — trailer,e00018,scene,22.0,22.1,Смена сцены,,0.6670319920220475,videos/v5d38f104630c/frames/000022.jpg
+v5d38f104630c,Sintel — trailer,e00019,scene,23.0,23.1,Смена сцены,,0.6466692578044474,videos/v5d38f104630c/frames/000023.jpg
+v5d38f104630c,Sintel — trailer,e00020,object,25.0,27.0,person,0.4487500339746475,,videos/v5d38f104630c/frames/000025.jpg
+v5d38f104630c,Sintel — trailer,e00021,object,26.0,28.0,bird,0.6822921633720398,,videos/v5d38f104630c/frames/000026.jpg
+v5d38f104630c,Sintel — trailer,e00022,scene,26.0,26.1,Смена сцены,,0.5442121323247545,videos/v5d38f104630c/frames/000026.jpg
+v5d38f104630c,Sintel — trailer,e00023,audio,27.0,31.0,Пик громкости,,-10.433354933099775,
+v5d38f104630c,Sintel — trailer,e00024,scene,27.0,27.1,Смена сцены,,0.482706126826632,videos/v5d38f104630c/frames/000027.jpg
+v5d38f104630c,Sintel — trailer,e00025,scene,28.0,28.1,Смена сцены,,0.7313675292304379,videos/v5d38f104630c/frames/000028.jpg
+v5d38f104630c,Sintel — trailer,e00026,object,29.0,30.0,bird,0.6035974025726318,,videos/v5d38f104630c/frames/000029.jpg
+v5d38f104630c,Sintel — trailer,e00027,object,29.0,36.0,person,0.5990928794656482,,videos/v5d38f104630c/frames/000029.jpg
+v5d38f104630c,Sintel — trailer,e00028,scene,29.0,29.1,Смена сцены,,0.7405804649892279,videos/v5d38f104630c/frames/000029.jpg
+v5d38f104630c,Sintel — trailer,e00029,object,33.0,34.0,bird,0.6275166273117065,,videos/v5d38f104630c/frames/000033.jpg
+v5d38f104630c,Sintel — trailer,e00030,scene,33.0,33.1,Смена сцены,,0.49806068829415057,videos/v5d38f104630c/frames/000033.jpg
+v5d38f104630c,Sintel — trailer,e00031,scene,35.0,35.1,Смена сцены,,0.6640012969284805,videos/v5d38f104630c/frames/000035.jpg
+v5d38f104630c,Sintel — trailer,e00032,scene,36.0,36.1,Смена сцены,,0.7756202486358368,videos/v5d38f104630c/frames/000036.jpg
+v5d38f104630c,Sintel — trailer,e00033,object,38.0,39.0,airplane,0.44164690375328064,,videos/v5d38f104630c/frames/000038.jpg
+v5d38f104630c,Sintel — trailer,e00034,speech,41.12,43.74,I've been alone for as long as I can remember.,,,
+v5d38f104630c,Sintel — trailer,e00035,scene,42.0,42.1,Смена сцены,,0.6488689484030575,videos/v5d38f104630c/frames/000042.jpg
+v5d38f104630c,Sintel — trailer,e00036,scene,43.0,43.1,Смена сцены,,0.5802370590777814,videos/v5d38f104630c/frames/000043.jpg
+v5d38f104630c,Sintel — trailer,e00037,audio,47.0,48.0,Пик громкости,,-9.645751210231786,
+v2a202706f0e9,Big Buck Bunny — trailer,e00000,scene,4.0,4.1,Смена сцены,,0.9129152512249288,videos/v2a202706f0e9/frames/000008.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00001,scene,4.52,4.62,Смена сцены,,0.6356563944427049,videos/v2a202706f0e9/frames/000009.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00002,scene,6.52,6.62,Смена сцены,,0.5116628165836465,videos/v2a202706f0e9/frames/000013.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00003,scene,7.0,7.1,Смена сцены,,0.8233723547996338,videos/v2a202706f0e9/frames/000014.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00004,scene,7.52,7.62,Смена сцены,,0.851253461235201,videos/v2a202706f0e9/frames/000015.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00005,object,9.52,10.52,sheep,0.6993017792701721,,videos/v2a202706f0e9/frames/000019.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00006,scene,9.52,9.62,Смена сцены,,0.9891843367220383,videos/v2a202706f0e9/frames/000019.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00007,object,10.0,11.52,bird,0.7679239511489868,,videos/v2a202706f0e9/frames/000020.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00008,scene,11.52,11.62,Смена сцены,,0.9897272669586191,videos/v2a202706f0e9/frames/000023.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00009,object,13.52,14.0,cow,0.4332793056964874,,videos/v2a202706f0e9/frames/000027.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00010,scene,13.52,13.62,Смена сцены,,0.9907922872135221,videos/v2a202706f0e9/frames/000027.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00011,object,14.0,14.52,bird,0.8193379640579224,,videos/v2a202706f0e9/frames/000028.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00012,scene,14.0,14.1,Смена сцены,,0.6697707211201704,videos/v2a202706f0e9/frames/000028.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00013,object,15.0,16.0,cow,0.5977952480316162,,videos/v2a202706f0e9/frames/000030.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00014,object,15.0,15.52,sheep,0.42636099457740784,,videos/v2a202706f0e9/frames/000030.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00015,scene,15.0,15.1,Смена сцены,,0.6360542045188277,videos/v2a202706f0e9/frames/000030.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00016,object,16.0,16.52,person,0.8842337727546692,,videos/v2a202706f0e9/frames/000032.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00017,scene,16.0,16.1,Смена сцены,,0.6780931488165121,videos/v2a202706f0e9/frames/000032.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00018,scene,17.0,17.1,Смена сцены,,0.9984040784951187,videos/v2a202706f0e9/frames/000034.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00019,object,19.0,19.52,person,0.5119855999946594,,videos/v2a202706f0e9/frames/000038.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00020,scene,19.0,19.1,Смена сцены,,0.794894469408883,videos/v2a202706f0e9/frames/000038.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00021,object,19.52,20.0,apple,0.47540193796157837,,videos/v2a202706f0e9/frames/000039.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00022,object,19.52,21.0,bird,0.618261069059372,,videos/v2a202706f0e9/frames/000039.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00023,scene,19.52,19.62,Смена сцены,,0.5671199761563954,videos/v2a202706f0e9/frames/000039.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00024,audio,20.0,23.0,Пик громкости,,-20.142775455082,
+v2a202706f0e9,Big Buck Bunny — trailer,e00025,scene,20.0,20.1,Смена сцены,,0.6949097099292627,videos/v2a202706f0e9/frames/000040.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00026,object,21.0,22.0,person,0.6684341132640839,,videos/v2a202706f0e9/frames/000042.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00027,scene,21.0,21.1,Смена сцены,,0.7273323337216503,videos/v2a202706f0e9/frames/000042.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00028,object,21.52,22.0,frisbee,0.40172192454338074,,videos/v2a202706f0e9/frames/000043.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00029,object,22.0,22.52,boat,0.4149157404899597,,videos/v2a202706f0e9/frames/000044.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00030,scene,22.0,22.1,Смена сцены,,0.7264514263194602,videos/v2a202706f0e9/frames/000044.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00031,scene,23.0,23.1,Смена сцены,,0.9773890728959933,videos/v2a202706f0e9/frames/000046.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00032,object,25.0,27.0,person,0.7845969945192337,,videos/v2a202706f0e9/frames/000050.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00033,scene,25.0,25.1,Смена сцены,,0.9407926204306596,videos/v2a202706f0e9/frames/000050.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00034,object,25.52,26.0,sports ball,0.5988232493400574,,videos/v2a202706f0e9/frames/000051.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00035,object,25.52,26.0,umbrella,0.6213685870170593,,videos/v2a202706f0e9/frames/000051.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00036,scene,26.0,26.1,Смена сцены,,0.7466616328720648,videos/v2a202706f0e9/frames/000052.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00037,scene,27.0,27.1,Смена сцены,,0.9977458309626568,videos/v2a202706f0e9/frames/000054.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00038,audio,30.0,31.0,Пик громкости,,-21.508800650069336,
+v2a202706f0e9,Big Buck Bunny — trailer,e00039,object,30.0,30.52,person,0.6060093641281128,,videos/v2a202706f0e9/frames/000060.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00040,scene,30.0,30.1,Смена сцены,,0.9405775688565371,videos/v2a202706f0e9/frames/000060.jpg
+v2a202706f0e9,Big Buck Bunny — trailer,e00041,scene,30.52,30.62,Смена сцены,,0.9405954572442843,videos/v2a202706f0e9/frames/000061.jpg
+vb03a107a1954,W3C — timer test,e00000,object,20.0,21.0,scissors,0.4296441078186035,,videos/vb03a107a1954/frames/000020.jpg
+vb03a107a1954,W3C — timer test,e00001,object,26.0,27.0,scissors,0.47167882323265076,,videos/vb03a107a1954/frames/000026.jpg
+vb03a107a1954,W3C — timer test,e00002,object,29.0,30.0,scissors,0.4322810471057892,,videos/vb03a107a1954/frames/000029.jpg
+vb03a107a1954,W3C — timer test,e00003,object,48.0,49.0,traffic light,0.5164008736610413,,videos/vb03a107a1954/frames/000048.jpg
+v8610ff647554,OpenCV — pedestrians,e00000,object,0.0,15.0,car,0.6873046318689983,,videos/v8610ff647554/frames/000000.jpg
+v8610ff647554,OpenCV — pedestrians,e00001,object,0.0,15.0,person,0.8518776297569275,,videos/v8610ff647554/frames/000000.jpg
+v8610ff647554,OpenCV — pedestrians,e00002,object,0.0,15.0,truck,0.6652119000752766,,videos/v8610ff647554/frames/000000.jpg
+v8610ff647554,OpenCV — pedestrians,e00003,object,1.0,2.0,bird,0.4378887712955475,,videos/v8610ff647554/frames/000001.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00000,speech,0.0,4.2,Of course. You don't judge a book by its cover or a person from the outside.,,,
+ve64a6d21c181,OpenCV — Megamind sample,e00001,object,1.001,11.3023,person,0.8466367829929698,,videos/ve64a6d21c181/frames/000001.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00002,scene,1.001,1.101,Смена сцены,,0.9736315263991528,videos/ve64a6d21c181/frames/000001.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00003,object,2.002,5.005,chair,0.5010754267374674,,videos/ve64a6d21c181/frames/000002.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00004,audio,3.0,5.0,Пик громкости,,-28.242986156270877,
+ve64a6d21c181,OpenCV — Megamind sample,e00005,object,3.003,5.005,wine glass,0.48298129439353943,,videos/ve64a6d21c181/frames/000003.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00006,object,4.004,5.005,cup,0.4114537835121155,,videos/ve64a6d21c181/frames/000004.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00007,speech,4.4,6.1,"Oh, that's a relief to hear.",,,
+ve64a6d21c181,OpenCV — Megamind sample,e00008,speech,6.28,7.76,You judge them based on their actions.,,,
+ve64a6d21c181,OpenCV — Megamind sample,e00009,object,7.007,8.008,wine glass,0.433733195066452,,videos/ve64a6d21c181/frames/000007.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00010,object,8.008,9.009,cup,0.5502734184265137,,videos/ve64a6d21c181/frames/000008.jpg
+ve64a6d21c181,OpenCV — Megamind sample,e00011,speech,9.26,11.14,"Well, that seems kind of petty, don't you think?",,,

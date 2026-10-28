@@ -1,0 +1,763 @@
+{
+  "text": " First at 10, a hit and run caught on camera. The vehicle at the center of this crash stolen from an 80-year-old woman. What did I ever do to take it? Nothing. The emotional significance behind this car now heavily damaged. And a big development tonight in the arrest of a student accused of reporting a teacher under her skirt. The shocking way the teacher found out. Rain and storm chances go up this weekend with the risk for severe storms I've got that timing the news starts right now",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.5,
+      "text": " First at 10, a hit and run caught on camera. The vehicle at the center of this crash stolen from an 80-year-old woman.",
+      "tokens": [
+        50364,
+        2386,
+        412,
+        1266,
+        11,
+        257,
+        2045,
+        293,
+        1190,
+        5415,
+        322,
+        2799,
+        13,
+        440,
+        5864,
+        412,
+        264,
+        3056,
+        295,
+        341,
+        8252,
+        15900,
+        490,
+        364,
+        4688,
+        12,
+        5294,
+        12,
+        2641,
+        3059,
+        13,
+        50714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21688375368223087,
+      "compression_ratio": 1.4979591836734694,
+      "no_speech_prob": 0.7194976210594177,
+      "words": [
+        {
+          "word": " First",
+          "start": 0.0,
+          "end": 0.94,
+          "probability": 0.12413235008716583
+        },
+        {
+          "word": " at",
+          "start": 0.94,
+          "end": 1.18,
+          "probability": 0.6007295846939087
+        },
+        {
+          "word": " 10,",
+          "start": 1.18,
+          "end": 1.4,
+          "probability": 0.5024524331092834
+        },
+        {
+          "word": " a",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.7431743741035461
+        },
+        {
+          "word": " hit",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.9335809946060181
+        },
+        {
+          "word": " and",
+          "start": 1.76,
+          "end": 1.88,
+          "probability": 0.8799114227294922
+        },
+        {
+          "word": " run",
+          "start": 1.88,
+          "end": 2.08,
+          "probability": 0.992062509059906
+        },
+        {
+          "word": " caught",
+          "start": 2.08,
+          "end": 2.42,
+          "probability": 0.8459513187408447
+        },
+        {
+          "word": " on",
+          "start": 2.42,
+          "end": 2.78,
+          "probability": 0.991908848285675
+        },
+        {
+          "word": " camera.",
+          "start": 2.78,
+          "end": 3.22,
+          "probability": 0.9814877510070801
+        },
+        {
+          "word": " The",
+          "start": 3.34,
+          "end": 3.42,
+          "probability": 0.983963668346405
+        },
+        {
+          "word": " vehicle",
+          "start": 3.42,
+          "end": 3.82,
+          "probability": 0.9976093769073486
+        },
+        {
+          "word": " at",
+          "start": 3.82,
+          "end": 4.04,
+          "probability": 0.9796095490455627
+        },
+        {
+          "word": " the",
+          "start": 4.04,
+          "end": 4.18,
+          "probability": 0.9961974620819092
+        },
+        {
+          "word": " center",
+          "start": 4.18,
+          "end": 4.48,
+          "probability": 0.848453938961029
+        },
+        {
+          "word": " of",
+          "start": 4.48,
+          "end": 4.72,
+          "probability": 0.9961853623390198
+        },
+        {
+          "word": " this",
+          "start": 4.72,
+          "end": 4.84,
+          "probability": 0.9279278516769409
+        },
+        {
+          "word": " crash",
+          "start": 4.84,
+          "end": 5.18,
+          "probability": 0.9777383804321289
+        },
+        {
+          "word": " stolen",
+          "start": 5.18,
+          "end": 5.7,
+          "probability": 0.7849852442741394
+        },
+        {
+          "word": " from",
+          "start": 5.7,
+          "end": 6.0,
+          "probability": 0.9925766587257385
+        },
+        {
+          "word": " an",
+          "start": 6.0,
+          "end": 6.26,
+          "probability": 0.9247757196426392
+        },
+        {
+          "word": " 80",
+          "start": 6.26,
+          "end": 6.54,
+          "probability": 0.9719908833503723
+        },
+        {
+          "word": "-year",
+          "start": 6.54,
+          "end": 6.8,
+          "probability": 0.6429839879274368
+        },
+        {
+          "word": "-old",
+          "start": 6.8,
+          "end": 7.02,
+          "probability": 0.9296488165855408
+        },
+        {
+          "word": " woman.",
+          "start": 7.02,
+          "end": 7.5,
+          "probability": 0.9982286095619202
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.66,
+      "end": 11.86,
+      "text": " What did I ever do to take it? Nothing.",
+      "tokens": [
+        50714,
+        708,
+        630,
+        286,
+        1562,
+        360,
+        281,
+        747,
+        309,
+        30,
+        6693,
+        13,
+        50964
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21688375368223087,
+      "compression_ratio": 1.4979591836734694,
+      "no_speech_prob": 0.7194976210594177,
+      "words": [
+        {
+          "word": " What",
+          "start": 7.66,
+          "end": 8.0,
+          "probability": 0.4380286931991577
+        },
+        {
+          "word": " did",
+          "start": 8.0,
+          "end": 8.26,
+          "probability": 0.9874398708343506
+        },
+        {
+          "word": " I",
+          "start": 8.26,
+          "end": 8.42,
+          "probability": 0.9921270608901978
+        },
+        {
+          "word": " ever",
+          "start": 8.42,
+          "end": 8.86,
+          "probability": 0.9408670663833618
+        },
+        {
+          "word": " do",
+          "start": 8.86,
+          "end": 9.14,
+          "probability": 0.9966589212417603
+        },
+        {
+          "word": " to",
+          "start": 9.14,
+          "end": 9.66,
+          "probability": 0.5789963006973267
+        },
+        {
+          "word": " take",
+          "start": 9.66,
+          "end": 10.78,
+          "probability": 0.6011670231819153
+        },
+        {
+          "word": " it?",
+          "start": 10.78,
+          "end": 10.94,
+          "probability": 0.2925751507282257
+        },
+        {
+          "word": " Nothing.",
+          "start": 11.5,
+          "end": 11.86,
+          "probability": 0.9585132598876953
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.34,
+      "end": 16.7,
+      "text": " The emotional significance behind this car now heavily damaged.",
+      "tokens": [
+        50964,
+        440,
+        6863,
+        17687,
+        2261,
+        341,
+        1032,
+        586,
+        10950,
+        14080,
+        13,
+        51214
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21688375368223087,
+      "compression_ratio": 1.4979591836734694,
+      "no_speech_prob": 0.7194976210594177,
+      "words": [
+        {
+          "word": " The",
+          "start": 12.34,
+          "end": 12.66,
+          "probability": 0.9088916182518005
+        },
+        {
+          "word": " emotional",
+          "start": 12.66,
+          "end": 13.14,
+          "probability": 0.9915987253189087
+        },
+        {
+          "word": " significance",
+          "start": 13.14,
+          "end": 13.78,
+          "probability": 0.9964338541030884
+        },
+        {
+          "word": " behind",
+          "start": 13.78,
+          "end": 14.26,
+          "probability": 0.9989515542984009
+        },
+        {
+          "word": " this",
+          "start": 14.26,
+          "end": 14.72,
+          "probability": 0.9964495897293091
+        },
+        {
+          "word": " car",
+          "start": 14.72,
+          "end": 15.12,
+          "probability": 0.999004065990448
+        },
+        {
+          "word": " now",
+          "start": 15.12,
+          "end": 15.58,
+          "probability": 0.9320887923240662
+        },
+        {
+          "word": " heavily",
+          "start": 15.58,
+          "end": 16.22,
+          "probability": 0.9878624677658081
+        },
+        {
+          "word": " damaged.",
+          "start": 16.22,
+          "end": 16.7,
+          "probability": 0.982505202293396
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.16,
+      "end": 23.44,
+      "text": " And a big development tonight in the arrest of a student accused of reporting a teacher under her skirt.",
+      "tokens": [
+        51214,
+        400,
+        257,
+        955,
+        3250,
+        4440,
+        294,
+        264,
+        7823,
+        295,
+        257,
+        3107,
+        17085,
+        295,
+        10031,
+        257,
+        5027,
+        833,
+        720,
+        20134,
+        13,
+        51514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21688375368223087,
+      "compression_ratio": 1.4979591836734694,
+      "no_speech_prob": 0.7194976210594177,
+      "words": [
+        {
+          "word": " And",
+          "start": 17.16,
+          "end": 17.54,
+          "probability": 0.9454346299171448
+        },
+        {
+          "word": " a",
+          "start": 17.54,
+          "end": 17.68,
+          "probability": 0.9866639375686646
+        },
+        {
+          "word": " big",
+          "start": 17.68,
+          "end": 17.9,
+          "probability": 0.9940504431724548
+        },
+        {
+          "word": " development",
+          "start": 17.9,
+          "end": 18.48,
+          "probability": 0.9909819960594177
+        },
+        {
+          "word": " tonight",
+          "start": 18.48,
+          "end": 18.9,
+          "probability": 0.8975111842155457
+        },
+        {
+          "word": " in",
+          "start": 18.9,
+          "end": 19.1,
+          "probability": 0.7893922924995422
+        },
+        {
+          "word": " the",
+          "start": 19.1,
+          "end": 19.22,
+          "probability": 0.9839275479316711
+        },
+        {
+          "word": " arrest",
+          "start": 19.22,
+          "end": 19.48,
+          "probability": 0.9852598905563354
+        },
+        {
+          "word": " of",
+          "start": 19.48,
+          "end": 19.76,
+          "probability": 0.9980600476264954
+        },
+        {
+          "word": " a",
+          "start": 19.76,
+          "end": 19.84,
+          "probability": 0.9971653819084167
+        },
+        {
+          "word": " student",
+          "start": 19.84,
+          "end": 20.18,
+          "probability": 0.9992364645004272
+        },
+        {
+          "word": " accused",
+          "start": 20.18,
+          "end": 20.9,
+          "probability": 0.8121664524078369
+        },
+        {
+          "word": " of",
+          "start": 20.9,
+          "end": 21.12,
+          "probability": 0.9958729147911072
+        },
+        {
+          "word": " reporting",
+          "start": 21.12,
+          "end": 21.52,
+          "probability": 0.834870457649231
+        },
+        {
+          "word": " a",
+          "start": 21.52,
+          "end": 21.78,
+          "probability": 0.9981585144996643
+        },
+        {
+          "word": " teacher",
+          "start": 21.78,
+          "end": 22.24,
+          "probability": 0.9932711720466614
+        },
+        {
+          "word": " under",
+          "start": 22.24,
+          "end": 22.76,
+          "probability": 0.9693263173103333
+        },
+        {
+          "word": " her",
+          "start": 22.76,
+          "end": 23.04,
+          "probability": 0.9719693660736084
+        },
+        {
+          "word": " skirt.",
+          "start": 23.04,
+          "end": 23.44,
+          "probability": 0.9935727119445801
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.82,
+      "end": 26.08,
+      "text": " The shocking way the teacher found out.",
+      "tokens": [
+        51514,
+        440,
+        18776,
+        636,
+        264,
+        5027,
+        1352,
+        484,
+        13,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21688375368223087,
+      "compression_ratio": 1.4979591836734694,
+      "no_speech_prob": 0.7194976210594177,
+      "words": [
+        {
+          "word": " The",
+          "start": 23.82,
+          "end": 23.92,
+          "probability": 0.9843916893005371
+        },
+        {
+          "word": " shocking",
+          "start": 23.92,
+          "end": 24.3,
+          "probability": 0.9874288439750671
+        },
+        {
+          "word": " way",
+          "start": 24.3,
+          "end": 24.62,
+          "probability": 0.9831460118293762
+        },
+        {
+          "word": " the",
+          "start": 24.62,
+          "end": 24.9,
+          "probability": 0.951472282409668
+        },
+        {
+          "word": " teacher",
+          "start": 24.9,
+          "end": 25.26,
+          "probability": 0.9972183704376221
+        },
+        {
+          "word": " found",
+          "start": 25.26,
+          "end": 25.64,
+          "probability": 0.9991967082023621
+        },
+        {
+          "word": " out.",
+          "start": 25.64,
+          "end": 26.08,
+          "probability": 0.9993529915809631
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2608,
+      "start": 26.08,
+      "end": 34.38,
+      "text": " Rain and storm chances go up this weekend with the risk for severe storms I've got that timing the news starts right now",
+      "tokens": [
+        50364,
+        14487,
+        293,
+        7679,
+        10486,
+        352,
+        493,
+        341,
+        6711,
+        365,
+        264,
+        3148,
+        337,
+        8922,
+        23288,
+        286,
+        600,
+        658,
+        300,
+        10822,
+        264,
+        2583,
+        3719,
+        558,
+        586,
+        50776
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3734093772040473,
+      "compression_ratio": 1.2371134020618557,
+      "no_speech_prob": 0.23169299960136414,
+      "words": [
+        {
+          "word": " Rain",
+          "start": 26.08,
+          "end": 26.76,
+          "probability": 0.16105955839157104
+        },
+        {
+          "word": " and",
+          "start": 26.76,
+          "end": 27.02,
+          "probability": 0.9089759588241577
+        },
+        {
+          "word": " storm",
+          "start": 27.02,
+          "end": 27.38,
+          "probability": 0.9725587368011475
+        },
+        {
+          "word": " chances",
+          "start": 27.38,
+          "end": 27.88,
+          "probability": 0.940719485282898
+        },
+        {
+          "word": " go",
+          "start": 27.88,
+          "end": 28.24,
+          "probability": 0.9660249352455139
+        },
+        {
+          "word": " up",
+          "start": 28.24,
+          "end": 28.42,
+          "probability": 0.9227198958396912
+        },
+        {
+          "word": " this",
+          "start": 28.42,
+          "end": 28.64,
+          "probability": 0.9593901634216309
+        },
+        {
+          "word": " weekend",
+          "start": 28.64,
+          "end": 29.02,
+          "probability": 0.6846421360969543
+        },
+        {
+          "word": " with",
+          "start": 29.02,
+          "end": 29.32,
+          "probability": 0.92093425989151
+        },
+        {
+          "word": " the",
+          "start": 29.32,
+          "end": 29.5,
+          "probability": 0.9373960494995117
+        },
+        {
+          "word": " risk",
+          "start": 29.5,
+          "end": 29.88,
+          "probability": 0.9551709294319153
+        },
+        {
+          "word": " for",
+          "start": 29.88,
+          "end": 30.16,
+          "probability": 0.547590434551239
+        },
+        {
+          "word": " severe",
+          "start": 30.16,
+          "end": 30.52,
+          "probability": 0.9906084537506104
+        },
+        {
+          "word": " storms",
+          "start": 30.52,
+          "end": 31.22,
+          "probability": 0.977931797504425
+        },
+        {
+          "word": " I've",
+          "start": 31.22,
+          "end": 31.5,
+          "probability": 0.5778542459011078
+        },
+        {
+          "word": " got",
+          "start": 31.5,
+          "end": 31.58,
+          "probability": 0.9888655543327332
+        },
+        {
+          "word": " that",
+          "start": 31.58,
+          "end": 31.78,
+          "probability": 0.9756272435188293
+        },
+        {
+          "word": " timing",
+          "start": 31.78,
+          "end": 32.24,
+          "probability": 0.9817097783088684
+        },
+        {
+          "word": " the",
+          "start": 32.24,
+          "end": 32.82,
+          "probability": 0.31736814975738525
+        },
+        {
+          "word": " news",
+          "start": 32.82,
+          "end": 33.26,
+          "probability": 0.9775136709213257
+        },
+        {
+          "word": " starts",
+          "start": 33.26,
+          "end": 33.8,
+          "probability": 0.9432777762413025
+        },
+        {
+          "word": " right",
+          "start": 33.8,
+          "end": 34.06,
+          "probability": 0.9583975076675415
+        },
+        {
+          "word": " now",
+          "start": 34.06,
+          "end": 34.38,
+          "probability": 0.9944379329681396
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

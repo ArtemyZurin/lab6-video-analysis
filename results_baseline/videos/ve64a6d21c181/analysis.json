@@ -1,0 +1,679 @@
+{
+  "id": "ve64a6d21c181",
+  "title": "OpenCV — Megamind sample",
+  "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\megamind\\original.avi",
+  "metadata": {
+    "title": "OpenCV — Megamind sample",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\megamind\\original.avi",
+    "filename": "original.avi",
+    "sha256": "0057387cb7e75c8fd1663b62cfdc51fa53f527795d0fe3c1fea2fd159d3130b5",
+    "collected_at": "2026-10-27T08:58:37.030882+00:00",
+    "source_kind": "local",
+    "origin_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi"
+  },
+  "technical": {
+    "duration": 11.261261,
+    "fps": 23.976,
+    "fps_fraction": "2997/125",
+    "width": 720,
+    "height": 528,
+    "codec": "mpeg4",
+    "pixel_format": "yuv420p",
+    "container": "avi",
+    "bit_rate": 844857,
+    "bytes": 1189270,
+    "has_audio": true,
+    "audio_codec": "ac3",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 11.302302,
+  "media": "videos/ve64a6d21c181/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.06537969200871885,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/ve64a6d21c181/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.0,
+      "sharpness": 0.0,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.001001,
+      "image": "videos/ve64a6d21c181/frames/000001.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8606781959533691,
+          "xyxy": [
+            76.71045684814453,
+            55.91872024536133,
+            413.2549743652344,
+            518.48583984375
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.7737100720405579,
+          "xyxy": [
+            358.0671691894531,
+            149.0334930419922,
+            544.39306640625,
+            391.5398254394531
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.43444058299064636,
+          "xyxy": [
+            656.7290649414062,
+            317.0600280761719,
+            719.8180541992188,
+            526.0208740234375
+          ]
+        }
+      ],
+      "brightness": 0.13572256469928037,
+      "sharpness": 46.411250421410976,
+      "scene_distance": 0.9736315263991528
+    },
+    {
+      "time": 2.002002,
+      "image": "videos/ve64a6d21c181/frames/000002.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.9085147380828857,
+          "xyxy": [
+            33.94075012207031,
+            26.938074111938477,
+            414.1661071777344,
+            520.0897216796875
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.8848817944526672,
+          "xyxy": [
+            363.4571838378906,
+            142.7469482421875,
+            561.3519287109375,
+            387.8247985839844
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.4729052484035492,
+          "xyxy": [
+            661.1138305664062,
+            342.148193359375,
+            719.8538818359375,
+            526.5072021484375
+          ]
+        },
+        {
+          "label": "chair",
+          "confidence": 0.46248915791511536,
+          "xyxy": [
+            438.98809814453125,
+            385.929931640625,
+            540.6535034179688,
+            524.919189453125
+          ]
+        }
+      ],
+      "brightness": 0.14017862448009505,
+      "sharpness": 55.07919029988409,
+      "scene_distance": 0.10244684292933676
+    },
+    {
+      "time": 3.003003,
+      "image": "videos/ve64a6d21c181/frames/000003.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8629106283187866,
+          "xyxy": [
+            384.839599609375,
+            138.20668029785156,
+            568.4060668945312,
+            389.2065124511719
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.7401803135871887,
+          "xyxy": [
+            92.5206069946289,
+            109.39402770996094,
+            426.12103271484375,
+            521.4990234375
+          ]
+        },
+        {
+          "label": "wine glass",
+          "confidence": 0.5098844766616821,
+          "xyxy": [
+            80.31759643554688,
+            297.2249755859375,
+            139.02447509765625,
+            431.5083312988281
+          ]
+        },
+        {
+          "label": "chair",
+          "confidence": 0.45954057574272156,
+          "xyxy": [
+            440.3811340332031,
+            388.37481689453125,
+            545.627685546875,
+            524.7274169921875
+          ]
+        }
+      ],
+      "brightness": 0.1443200076747871,
+      "sharpness": 34.69713504744165,
+      "scene_distance": 0.09781556105473406
+    },
+    {
+      "time": 4.004004,
+      "image": "videos/ve64a6d21c181/frames/000004.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.9037054777145386,
+          "xyxy": [
+            33.24407958984375,
+            11.123626708984375,
+            407.0261535644531,
+            518.52978515625
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.8577322959899902,
+          "xyxy": [
+            372.84912109375,
+            136.2035369873047,
+            571.6921997070312,
+            386.93280029296875
+          ]
+        },
+        {
+          "label": "chair",
+          "confidence": 0.5811965465545654,
+          "xyxy": [
+            446.0577697753906,
+            389.3470458984375,
+            551.7623291015625,
+            523.8501586914062
+          ]
+        },
+        {
+          "label": "wine glass",
+          "confidence": 0.45607811212539673,
+          "xyxy": [
+            118.47946166992188,
+            306.6042175292969,
+            168.75457763671875,
+            441.6730041503906
+          ]
+        },
+        {
+          "label": "cup",
+          "confidence": 0.4114537835121155,
+          "xyxy": [
+            568.584228515625,
+            310.8236083984375,
+            612.3067626953125,
+            408.2118835449219
+          ]
+        }
+      ],
+      "brightness": 0.14343638591800356,
+      "sharpness": 45.63208359089341,
+      "scene_distance": 0.09920801228887699
+    },
+    {
+      "time": 5.005005,
+      "image": "videos/ve64a6d21c181/frames/000005.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8593083024024963,
+          "xyxy": [
+            334.37451171875,
+            7.558228492736816,
+            718.0758666992188,
+            521.3567504882812
+          ]
+        }
+      ],
+      "brightness": 0.1378009981349442,
+      "sharpness": 51.454341463143635,
+      "scene_distance": 0.30012301083053783
+    },
+    {
+      "time": 6.006006,
+      "image": "videos/ve64a6d21c181/frames/000006.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.7407439947128296,
+          "xyxy": [
+            368.8345031738281,
+            9.465986251831055,
+            717.0275268554688,
+            522.6018676757812
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.4542941153049469,
+          "xyxy": [
+            0.7678070068359375,
+            9.13231372833252,
+            219.67784118652344,
+            517.700927734375
+          ]
+        }
+      ],
+      "brightness": 0.13898252335445963,
+      "sharpness": 50.286731490404705,
+      "scene_distance": 0.11018563575748053
+    },
+    {
+      "time": 7.007007,
+      "image": "videos/ve64a6d21c181/frames/000007.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8274328112602234,
+          "xyxy": [
+            20.711185455322266,
+            5.441547870635986,
+            444.7304382324219,
+            519.742431640625
+          ]
+        },
+        {
+          "label": "wine glass",
+          "confidence": 0.433733195066452,
+          "xyxy": [
+            88.47696685791016,
+            299.49249267578125,
+            141.22239685058594,
+            440.51983642578125
+          ]
+        }
+      ],
+      "brightness": 0.1603850494322308,
+      "sharpness": 51.49908285321004,
+      "scene_distance": 0.3355333729937488
+    },
+    {
+      "time": 8.008008,
+      "image": "videos/ve64a6d21c181/frames/000008.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8249906301498413,
+          "xyxy": [
+            84.579345703125,
+            21.387237548828125,
+            491.1526184082031,
+            523.9349975585938
+          ]
+        },
+        {
+          "label": "cup",
+          "confidence": 0.5502734184265137,
+          "xyxy": [
+            359.1187438964844,
+            422.19403076171875,
+            479.1031188964844,
+            525.4774780273438
+          ]
+        }
+      ],
+      "brightness": 0.15931467452300788,
+      "sharpness": 45.33289886265298,
+      "scene_distance": 0.10387091742407246
+    },
+    {
+      "time": 9.009009,
+      "image": "videos/ve64a6d21c181/frames/000009.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8260330557823181,
+          "xyxy": [
+            93.63201141357422,
+            1.578070878982544,
+            720.0,
+            519.4363403320312
+          ]
+        }
+      ],
+      "brightness": 0.16660398923879316,
+      "sharpness": 62.07620732779801,
+      "scene_distance": 0.32811761683495083
+    },
+    {
+      "time": 10.01001,
+      "image": "videos/ve64a6d21c181/frames/000010.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8469375371932983,
+          "xyxy": [
+            95.76940155029297,
+            5.337447166442871,
+            719.7323608398438,
+            520.8894653320312
+          ]
+        }
+      ],
+      "brightness": 0.15035463911995775,
+      "sharpness": 37.81495815679504,
+      "scene_distance": 0.1532558113751611
+    },
+    {
+      "time": 11.011011,
+      "image": "videos/ve64a6d21c181/frames/000011.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.8517492413520813,
+          "xyxy": [
+            130.0378875732422,
+            2.9204893112182617,
+            718.9381713867188,
+            519.2032470703125
+          ]
+        }
+      ],
+      "brightness": 0.13451191861424702,
+      "sharpness": 39.49175016819075,
+      "scene_distance": 0.11645561479313313
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Of course. You don't judge a book by its cover or a person from the outside.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 4.4,
+      "end": 6.1,
+      "text": "Oh, that's a relief to hear.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 6.28,
+      "end": 7.76,
+      "text": "You judge them based on their actions.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 9.26,
+      "end": 11.14,
+      "text": "Well, that seems kind of petty, don't you think?",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    }
+  ],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -38.49911079227161,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -33.57165984460464,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -34.8415516783877,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -30.007985352596215,
+      "peak": true
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -28.242986156270877,
+      "peak": true
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -35.82782457750821,
+      "peak": false
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -30.68526413273368,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -30.654229193402927,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -60.23111009790095,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -33.40395300503814,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -35.12853157437557,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 11.264,
+      "dbfs": -38.19920004836344,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "speech",
+      "label": "Of course. You don't judge a book by its cover or a person from the outside.",
+      "start": 0.0,
+      "end": 4.2,
+      "avg_logprob": -0.29754737327838765,
+      "id": "e00000"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 1.001,
+      "end": 11.3023,
+      "confidence": 0.8466367829929698,
+      "samples": 11,
+      "frame": "videos/ve64a6d21c181/frames/000001.jpg",
+      "id": "e00001"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 1.001,
+      "end": 1.101,
+      "value": 0.9736315263991528,
+      "frame": "videos/ve64a6d21c181/frames/000001.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "object",
+      "label": "chair",
+      "start": 2.002,
+      "end": 5.005,
+      "confidence": 0.5010754267374674,
+      "samples": 3,
+      "frame": "videos/ve64a6d21c181/frames/000002.jpg",
+      "id": "e00003"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 3.0,
+      "end": 5.0,
+      "value": -28.242986156270877,
+      "id": "e00004"
+    },
+    {
+      "type": "object",
+      "label": "wine glass",
+      "start": 3.003,
+      "end": 5.005,
+      "confidence": 0.48298129439353943,
+      "samples": 2,
+      "frame": "videos/ve64a6d21c181/frames/000003.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 4.004,
+      "end": 5.005,
+      "confidence": 0.4114537835121155,
+      "samples": 1,
+      "frame": "videos/ve64a6d21c181/frames/000004.jpg",
+      "id": "e00006"
+    },
+    {
+      "type": "speech",
+      "label": "Oh, that's a relief to hear.",
+      "start": 4.4,
+      "end": 6.1,
+      "avg_logprob": -0.29754737327838765,
+      "id": "e00007"
+    },
+    {
+      "type": "speech",
+      "label": "You judge them based on their actions.",
+      "start": 6.28,
+      "end": 7.76,
+      "avg_logprob": -0.29754737327838765,
+      "id": "e00008"
+    },
+    {
+      "type": "object",
+      "label": "wine glass",
+      "start": 7.007,
+      "end": 8.008,
+      "confidence": 0.433733195066452,
+      "samples": 1,
+      "frame": "videos/ve64a6d21c181/frames/000007.jpg",
+      "id": "e00009"
+    },
+    {
+      "type": "object",
+      "label": "cup",
+      "start": 8.008,
+      "end": 9.009,
+      "confidence": 0.5502734184265137,
+      "samples": 1,
+      "frame": "videos/ve64a6d21c181/frames/000008.jpg",
+      "id": "e00010"
+    },
+    {
+      "type": "speech",
+      "label": "Well, that seems kind of petty, don't you think?",
+      "start": 9.26,
+      "end": 11.14,
+      "avg_logprob": -0.29754737327838765,
+      "id": "e00011"
+    }
+  ],
+  "entities": [
+    {
+      "label": "chair",
+      "detections": 3,
+      "frames": 3,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 3.003,
+      "mean_confidence": 0.5010754267374674,
+      "frame_share": 0.25,
+      "duration_share": 0.26569808522193095
+    },
+    {
+      "label": "cup",
+      "detections": 2,
+      "frames": 2,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 2.0020000000000016,
+      "mean_confidence": 0.4808636009693146,
+      "frame_share": 0.16666666666666666,
+      "duration_share": 0.17713205681462074
+    },
+    {
+      "label": "person",
+      "detections": 18,
+      "frames": 11,
+      "max_simultaneous": 3,
+      "intervals": 1,
+      "seconds": 10.301300000000001,
+      "mean_confidence": 0.7739527242051231,
+      "frame_share": 0.9166666666666666,
+      "duration_share": 0.9114337946375881
+    },
+    {
+      "label": "wine glass",
+      "detections": 3,
+      "frames": 3,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 3.0029999999999992,
+      "mean_confidence": 0.4665652612845103,
+      "frame_share": 0.25,
+      "duration_share": 0.26569808522193084
+    }
+  ],
+  "warnings": [],
+  "detected_language": "en",
+  "signature": "7c16fd150d4faa45eb280f97ea009cbd7fd08e85c7b68f3e0a1d07ba015df363",
+  "processing_seconds": 6.141
+}

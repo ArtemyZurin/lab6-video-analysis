@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.0599999999999996,
+      "end": 8.14,
+      "text": "Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy.",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 10.120000000000001,
+      "end": 16.04,
+      "text": "The solar system came into being about 4.5 billion years ago when a cloud of interstellar",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 16.04,
+      "end": 21.72,
+      "text": "gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 21.72,
+      "end": 23.8,
+      "text": "collided to form the solar system.",
+      "avg_logprob": -0.14428119659423827,
+      "no_speech_prob": 0.015818441286683083,
+      "compression_ratio": 1.5520833333333333
+    },
+    {
+      "start": 25.28,
+      "end": 29.74,
+      "text": "The solar system is located in the Milky Way's Orion Star cluster.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 30.4,
+      "end": 37.36,
+      "text": "Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 39.94,
+      "end": 42.6,
+      "text": "Revolving around the Sun are 8 planets.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 43.34,
+      "end": 48.84,
+      "text": "The planets are divided into 2 categories based on their composition, terrestrial and Jovian.",
+      "avg_logprob": -0.20927518208821613,
+      "no_speech_prob": 0.05837695300579071,
+      "compression_ratio": 1.4898989898989898
+    },
+    {
+      "start": 49.559999999999995,
+      "end": 55.5,
+      "text": "Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 56.06,
+      "end": 61.24,
+      "text": "Their surfaces are solid, they don't have ring systems, they have very few or no moons,",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 61.64,
+      "end": 63.24,
+      "text": "and they are relatively small.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 65.24000000000001,
+      "end": 70.68,
+      "text": "The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 70.68,
+      "end": 72.28,
+      "text": "at about three Earth months.",
+      "avg_logprob": -0.17550019990830196,
+      "no_speech_prob": 0.024992551654577255,
+      "compression_ratio": 1.6093023255813954
+    },
+    {
+      "start": 73.16,
+      "end": 79.94,
+      "text": "Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 79.94,
+      "end": 82.98,
+      "text": "atmosphere of carbon dioxide and extensive lava flows.",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 83.76,
+      "end": 87.12,
+      "text": "Next to this world of fire is a world of water, Earth.",
+      "avg_logprob": -0.21243778864542642,
+      "no_speech_prob": 0.14148052036762238,
+      "compression_ratio": 1.3776223776223777
+    },
+    {
+      "start": 87.78,
+      "end": 89.94,
+      "text": "The water systems on this planet helped",
+      "avg_logprob": -0.4748661994934082,
+      "no_speech_prob": 0.5836451649665833,
+      "compression_ratio": 0.8297872340425532
+    }
+  ],
+  "warnings": []
+}

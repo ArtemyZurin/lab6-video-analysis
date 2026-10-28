@@ -1,0 +1,1821 @@
+{
+  "id": "vdcf99b90407e",
+  "title": "Black Holes 101 | National Geographic",
+  "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\black_holes\\clip.mp4",
+  "metadata": {
+    "title": "Black Holes 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\black_holes\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "27fcef91951bfd4dc16a4e40a6adb14e9dea51f6ac09036fdaac434d54188be9",
+    "collected_at": "2026-10-28T09:22:34.267876+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018978,
+    "fps": 29.971457696228338,
+    "fps_fraction": "29402/981",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2097527,
+    "bytes": 23602162,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 90.018978,
+  "media": "videos/vdcf99b90407e/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.05791324234451167,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/vdcf99b90407e/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.01355776635499879,
+      "sharpness": 77.57076581372526,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.000952,
+      "image": "videos/vdcf99b90407e/frames/000001.jpg",
+      "objects": [],
+      "brightness": 0.018117068355119826,
+      "sharpness": 67.35665165983602,
+      "scene_distance": 0.09334866228005356
+    },
+    {
+      "time": 2.001905,
+      "image": "videos/vdcf99b90407e/frames/000002.jpg",
+      "objects": [],
+      "brightness": 0.025857069641128057,
+      "sharpness": 66.25764418943429,
+      "scene_distance": 0.09656159802055228
+    },
+    {
+      "time": 3.002857,
+      "image": "videos/vdcf99b90407e/frames/000003.jpg",
+      "objects": [],
+      "brightness": 0.04028310525599128,
+      "sharpness": 64.41102229057118,
+      "scene_distance": 0.1133019998751388
+    },
+    {
+      "time": 4.003809,
+      "image": "videos/vdcf99b90407e/frames/000004.jpg",
+      "objects": [],
+      "brightness": 0.06887630302892761,
+      "sharpness": 65.20640046262713,
+      "scene_distance": 0.14793181997696148
+    },
+    {
+      "time": 5.004762,
+      "image": "videos/vdcf99b90407e/frames/000005.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.5678589344024658,
+          "xyxy": [
+            15.8961181640625,
+            64.7325439453125,
+            1612.397216796875,
+            1057.208251953125
+          ]
+        }
+      ],
+      "brightness": 0.12145414624183007,
+      "sharpness": 48.57722893729504,
+      "scene_distance": 0.19594961748148734
+    },
+    {
+      "time": 6.005714,
+      "image": "videos/vdcf99b90407e/frames/000006.jpg",
+      "objects": [],
+      "brightness": 0.2084814644607843,
+      "sharpness": 33.32110915945967,
+      "scene_distance": 0.2543738156332716
+    },
+    {
+      "time": 7.006666,
+      "image": "videos/vdcf99b90407e/frames/000007.jpg",
+      "objects": [],
+      "brightness": 0.409111555540426,
+      "sharpness": 14.95693665123457,
+      "scene_distance": 0.7524383369719015
+    },
+    {
+      "time": 8.007619,
+      "image": "videos/vdcf99b90407e/frames/000008.jpg",
+      "objects": [],
+      "brightness": 0.18949855134955215,
+      "sharpness": 375.7261222021225,
+      "scene_distance": 0.7473084040538873
+    },
+    {
+      "time": 9.008571,
+      "image": "videos/vdcf99b90407e/frames/000009.jpg",
+      "objects": [],
+      "brightness": 0.19752097706366498,
+      "sharpness": 382.23888985315693,
+      "scene_distance": 0.34686722978605117
+    },
+    {
+      "time": 10.009523,
+      "image": "videos/vdcf99b90407e/frames/000010.jpg",
+      "objects": [],
+      "brightness": 0.18576029563059793,
+      "sharpness": 379.3793287036888,
+      "scene_distance": 0.5368349171100854
+    },
+    {
+      "time": 11.010475,
+      "image": "videos/vdcf99b90407e/frames/000011.jpg",
+      "objects": [],
+      "brightness": 0.18641146400689906,
+      "sharpness": 339.18204185955295,
+      "scene_distance": 0.6266941694181771
+    },
+    {
+      "time": 12.011428,
+      "image": "videos/vdcf99b90407e/frames/000012.jpg",
+      "objects": [],
+      "brightness": 0.0006111621732026144,
+      "sharpness": 8.234716435185184,
+      "scene_distance": 0.9313479457062385
+    },
+    {
+      "time": 13.01238,
+      "image": "videos/vdcf99b90407e/frames/000013.jpg",
+      "objects": [],
+      "brightness": 0.07109562227668845,
+      "sharpness": 108.87938946755911,
+      "scene_distance": 0.0509431376735062
+    },
+    {
+      "time": 14.013332,
+      "image": "videos/vdcf99b90407e/frames/000014.jpg",
+      "objects": [],
+      "brightness": 0.1060996864409344,
+      "sharpness": 373.6665962577076,
+      "scene_distance": 0.05799741336762823
+    },
+    {
+      "time": 15.014285,
+      "image": "videos/vdcf99b90407e/frames/000015.jpg",
+      "objects": [],
+      "brightness": 0.10740545191842168,
+      "sharpness": 417.0538966048927,
+      "scene_distance": 0.027932844250365758
+    },
+    {
+      "time": 16.015237,
+      "image": "videos/vdcf99b90407e/frames/000016.jpg",
+      "objects": [],
+      "brightness": 0.10748254243827161,
+      "sharpness": 394.918503568654,
+      "scene_distance": 0.021692097342693863
+    },
+    {
+      "time": 17.016189,
+      "image": "videos/vdcf99b90407e/frames/000017.jpg",
+      "objects": [],
+      "brightness": 0.10813307537521182,
+      "sharpness": 421.85443094105653,
+      "scene_distance": 0.0228969682158111
+    },
+    {
+      "time": 18.017142,
+      "image": "videos/vdcf99b90407e/frames/000018.jpg",
+      "objects": [],
+      "brightness": 0.10889251807976277,
+      "sharpness": 478.1016020447196,
+      "scene_distance": 0.056981172590139156
+    },
+    {
+      "time": 19.018094,
+      "image": "videos/vdcf99b90407e/frames/000019.jpg",
+      "objects": [],
+      "brightness": 0.110993462161099,
+      "sharpness": 629.326171875,
+      "scene_distance": 0.09447881786038255
+    },
+    {
+      "time": 20.019046,
+      "image": "videos/vdcf99b90407e/frames/000020.jpg",
+      "objects": [],
+      "brightness": 0.11220398549080125,
+      "sharpness": 699.6305025067635,
+      "scene_distance": 0.07769607228676763
+    },
+    {
+      "time": 21.019999,
+      "image": "videos/vdcf99b90407e/frames/000021.jpg",
+      "objects": [],
+      "brightness": 0.11219758192628904,
+      "sharpness": 717.6708883100512,
+      "scene_distance": 0.07995044463951226
+    },
+    {
+      "time": 22.020951,
+      "image": "videos/vdcf99b90407e/frames/000022.jpg",
+      "objects": [],
+      "brightness": 0.11220482139615105,
+      "sharpness": 717.4879200414557,
+      "scene_distance": 0.05246825527011224
+    },
+    {
+      "time": 23.021903,
+      "image": "videos/vdcf99b90407e/frames/000023.jpg",
+      "objects": [],
+      "brightness": 0.11271124387254902,
+      "sharpness": 310.17785927731,
+      "scene_distance": 0.0871243674248894
+    },
+    {
+      "time": 24.022856,
+      "image": "videos/vdcf99b90407e/frames/000024.jpg",
+      "objects": [],
+      "brightness": 0.0945639581063907,
+      "sharpness": 93.78952015273482,
+      "scene_distance": 0.08244490365095454
+    },
+    {
+      "time": 25.023808,
+      "image": "videos/vdcf99b90407e/frames/000025.jpg",
+      "objects": [],
+      "brightness": 0.1048726473614137,
+      "sharpness": 141.42384690890634,
+      "scene_distance": 0.11123077419025816
+    },
+    {
+      "time": 26.02476,
+      "image": "videos/vdcf99b90407e/frames/000026.jpg",
+      "objects": [],
+      "brightness": 0.10745137754175745,
+      "sharpness": 253.9570268810696,
+      "scene_distance": 0.053041033374198174
+    },
+    {
+      "time": 27.025713,
+      "image": "videos/vdcf99b90407e/frames/000027.jpg",
+      "objects": [],
+      "brightness": 0.1080595535282014,
+      "sharpness": 319.5943204398261,
+      "scene_distance": 0.04402770273078837
+    },
+    {
+      "time": 28.026665,
+      "image": "videos/vdcf99b90407e/frames/000028.jpg",
+      "objects": [],
+      "brightness": 0.10830597918179617,
+      "sharpness": 346.68715898962154,
+      "scene_distance": 0.045613039882334054
+    },
+    {
+      "time": 29.027617,
+      "image": "videos/vdcf99b90407e/frames/000029.jpg",
+      "objects": [],
+      "brightness": 0.10818696290244492,
+      "sharpness": 361.1891656664232,
+      "scene_distance": 0.0809643138704373
+    },
+    {
+      "time": 30.028569,
+      "image": "videos/vdcf99b90407e/frames/000030.jpg",
+      "objects": [],
+      "brightness": 0.1016590054617526,
+      "sharpness": 320.93259110880825,
+      "scene_distance": 0.05639981233056904
+    },
+    {
+      "time": 31.029522,
+      "image": "videos/vdcf99b90407e/frames/000031.jpg",
+      "objects": [],
+      "brightness": 0.09963704308884047,
+      "sharpness": 170.49454089503848,
+      "scene_distance": 0.1110180013968395
+    },
+    {
+      "time": 32.030474,
+      "image": "videos/vdcf99b90407e/frames/000032.jpg",
+      "objects": [],
+      "brightness": 0.1088522225248124,
+      "sharpness": 198.1056124507691,
+      "scene_distance": 0.0718449788858717
+    },
+    {
+      "time": 33.031426,
+      "image": "videos/vdcf99b90407e/frames/000033.jpg",
+      "objects": [],
+      "brightness": 0.11009625393367224,
+      "sharpness": 437.8235734953555,
+      "scene_distance": 0.06666384995480404
+    },
+    {
+      "time": 34.032379,
+      "image": "videos/vdcf99b90407e/frames/000034.jpg",
+      "objects": [],
+      "brightness": 0.11123588795085936,
+      "sharpness": 450.8992534706584,
+      "scene_distance": 0.057238346858557415
+    },
+    {
+      "time": 35.033331,
+      "image": "videos/vdcf99b90407e/frames/000035.jpg",
+      "objects": [],
+      "brightness": 0.11190910758593561,
+      "sharpness": 502.2959413579494,
+      "scene_distance": 0.05569439619742753
+    },
+    {
+      "time": 36.000918,
+      "image": "videos/vdcf99b90407e/frames/000036.jpg",
+      "objects": [],
+      "brightness": 0.11379401552287581,
+      "sharpness": 554.7105030669957,
+      "scene_distance": 0.05426764013946377
+    },
+    {
+      "time": 37.001871,
+      "image": "videos/vdcf99b90407e/frames/000037.jpg",
+      "objects": [],
+      "brightness": 0.11299423376603729,
+      "sharpness": 565.1893851273035,
+      "scene_distance": 0.05173787035600398
+    },
+    {
+      "time": 38.002823,
+      "image": "videos/vdcf99b90407e/frames/000038.jpg",
+      "objects": [],
+      "brightness": 0.11434450836661825,
+      "sharpness": 656.5209095293126,
+      "scene_distance": 0.06578905553041083
+    },
+    {
+      "time": 39.003775,
+      "image": "videos/vdcf99b90407e/frames/000039.jpg",
+      "objects": [],
+      "brightness": 0.11424798210179134,
+      "sharpness": 726.7115060757841,
+      "scene_distance": 0.05081604023821546
+    },
+    {
+      "time": 40.004728,
+      "image": "videos/vdcf99b90407e/frames/000040.jpg",
+      "objects": [],
+      "brightness": 0.11493412233720648,
+      "sharpness": 723.3123471257435,
+      "scene_distance": 0.05578258800682062
+    },
+    {
+      "time": 41.00568,
+      "image": "videos/vdcf99b90407e/frames/000041.jpg",
+      "objects": [],
+      "brightness": 0.11426918610808522,
+      "sharpness": 725.1718721064732,
+      "scene_distance": 0.05877223591557029
+    },
+    {
+      "time": 42.006632,
+      "image": "videos/vdcf99b90407e/frames/000042.jpg",
+      "objects": [],
+      "brightness": 0.11495526393427741,
+      "sharpness": 723.642623938991,
+      "scene_distance": 0.05584279775207914
+    },
+    {
+      "time": 43.007585,
+      "image": "videos/vdcf99b90407e/frames/000043.jpg",
+      "objects": [],
+      "brightness": 0.1141175770848463,
+      "sharpness": 725.152679398125,
+      "scene_distance": 0.050161270836668756
+    },
+    {
+      "time": 44.008537,
+      "image": "videos/vdcf99b90407e/frames/000044.jpg",
+      "objects": [],
+      "brightness": 0.11473960980997337,
+      "sharpness": 726.533684895781,
+      "scene_distance": 0.05297074678060094
+    },
+    {
+      "time": 45.009489,
+      "image": "videos/vdcf99b90407e/frames/000045.jpg",
+      "objects": [],
+      "brightness": 0.11404859409041394,
+      "sharpness": 720.4467197144912,
+      "scene_distance": 0.047541883139764755
+    },
+    {
+      "time": 46.010441,
+      "image": "videos/vdcf99b90407e/frames/000046.jpg",
+      "objects": [],
+      "brightness": 0.3682513124848705,
+      "sharpness": 122.79880676071849,
+      "scene_distance": 0.9524298401008354
+    },
+    {
+      "time": 47.011394,
+      "image": "videos/vdcf99b90407e/frames/000047.jpg",
+      "objects": [],
+      "brightness": 0.33749490513798114,
+      "sharpness": 11.813471739866573,
+      "scene_distance": 0.20306927502866523
+    },
+    {
+      "time": 48.012346,
+      "image": "videos/vdcf99b90407e/frames/000048.jpg",
+      "objects": [],
+      "brightness": 0.1596753415486565,
+      "sharpness": 384.65715952929776,
+      "scene_distance": 0.3186731749194513
+    },
+    {
+      "time": 49.013298,
+      "image": "videos/vdcf99b90407e/frames/000049.jpg",
+      "objects": [],
+      "brightness": 0.154661717426168,
+      "sharpness": 557.9822993825587,
+      "scene_distance": 0.21158358980119626
+    },
+    {
+      "time": 50.014251,
+      "image": "videos/vdcf99b90407e/frames/000050.jpg",
+      "objects": [],
+      "brightness": 0.1523420573862261,
+      "sharpness": 559.1930931711139,
+      "scene_distance": 0.20799748347622568
+    },
+    {
+      "time": 51.015203,
+      "image": "videos/vdcf99b90407e/frames/000051.jpg",
+      "objects": [],
+      "brightness": 0.15819055616073588,
+      "sharpness": 402.090971257344,
+      "scene_distance": 0.17110772883557818
+    },
+    {
+      "time": 52.016155,
+      "image": "videos/vdcf99b90407e/frames/000052.jpg",
+      "objects": [],
+      "brightness": 0.16062750960723796,
+      "sharpness": 445.27249228389104,
+      "scene_distance": 0.15348324949571038
+    },
+    {
+      "time": 53.017108,
+      "image": "videos/vdcf99b90407e/frames/000053.jpg",
+      "objects": [],
+      "brightness": 0.16917677885197288,
+      "sharpness": 421.78226900011833,
+      "scene_distance": 0.21767532669458764
+    },
+    {
+      "time": 54.01806,
+      "image": "videos/vdcf99b90407e/frames/000054.jpg",
+      "objects": [],
+      "brightness": 0.1731559417362624,
+      "sharpness": 426.16931230703926,
+      "scene_distance": 0.18252070852610336
+    },
+    {
+      "time": 55.019012,
+      "image": "videos/vdcf99b90407e/frames/000055.jpg",
+      "objects": [],
+      "brightness": 0.08300667589566692,
+      "sharpness": 289.33880098520194,
+      "scene_distance": 0.9317569914796157
+    },
+    {
+      "time": 56.019965,
+      "image": "videos/vdcf99b90407e/frames/000056.jpg",
+      "objects": [],
+      "brightness": 0.08269310737412248,
+      "sharpness": 304.2373594943388,
+      "scene_distance": 0.08726950801885126
+    },
+    {
+      "time": 57.020917,
+      "image": "videos/vdcf99b90407e/frames/000057.jpg",
+      "objects": [],
+      "brightness": 0.05207719075284435,
+      "sharpness": 303.02145093031845,
+      "scene_distance": 0.620564753546562
+    },
+    {
+      "time": 58.021869,
+      "image": "videos/vdcf99b90407e/frames/000058.jpg",
+      "objects": [],
+      "brightness": 0.03319132209210845,
+      "sharpness": 274.0810585396452,
+      "scene_distance": 0.32718025188076627
+    },
+    {
+      "time": 59.022822,
+      "image": "videos/vdcf99b90407e/frames/000059.jpg",
+      "objects": [],
+      "brightness": 0.03770119220527717,
+      "sharpness": 342.35068713482144,
+      "scene_distance": 0.1194868312062492
+    },
+    {
+      "time": 60.023774,
+      "image": "videos/vdcf99b90407e/frames/000060.jpg",
+      "objects": [],
+      "brightness": 0.04657306417937545,
+      "sharpness": 436.49284754999786,
+      "scene_distance": 0.1506757852348771
+    },
+    {
+      "time": 61.024726,
+      "image": "videos/vdcf99b90407e/frames/000061.jpg",
+      "objects": [],
+      "brightness": 0.053377089763374484,
+      "sharpness": 420.629192086394,
+      "scene_distance": 0.15378792715199593
+    },
+    {
+      "time": 62.025679,
+      "image": "videos/vdcf99b90407e/frames/000062.jpg",
+      "objects": [],
+      "brightness": 0.061463038610505935,
+      "sharpness": 409.4866197678888,
+      "scene_distance": 0.14659130101050255
+    },
+    {
+      "time": 63.026631,
+      "image": "videos/vdcf99b90407e/frames/000063.jpg",
+      "objects": [],
+      "brightness": 0.0678550441781651,
+      "sharpness": 405.9166197617935,
+      "scene_distance": 0.12558278505272708
+    },
+    {
+      "time": 64.027583,
+      "image": "videos/vdcf99b90407e/frames/000064.jpg",
+      "objects": [],
+      "brightness": 0.07394822871278141,
+      "sharpness": 404.17080486755765,
+      "scene_distance": 0.13687453608404426
+    },
+    {
+      "time": 65.028535,
+      "image": "videos/vdcf99b90407e/frames/000065.jpg",
+      "objects": [],
+      "brightness": 0.30561865506233354,
+      "sharpness": 177.847505776134,
+      "scene_distance": 0.8265315139250108
+    },
+    {
+      "time": 66.029488,
+      "image": "videos/vdcf99b90407e/frames/000066.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.4835790991783142,
+          "xyxy": [
+            1061.870849609375,
+            243.813720703125,
+            1379.425537109375,
+            468.3577880859375
+          ]
+        }
+      ],
+      "brightness": 0.31456824164851127,
+      "sharpness": 182.89870292622666,
+      "scene_distance": 0.13367351516824533
+    },
+    {
+      "time": 67.03044,
+      "image": "videos/vdcf99b90407e/frames/000067.jpg",
+      "objects": [],
+      "brightness": 0.32529305290789157,
+      "sharpness": 186.05217771417855,
+      "scene_distance": 0.16960746678647465
+    },
+    {
+      "time": 68.031392,
+      "image": "videos/vdcf99b90407e/frames/000068.jpg",
+      "objects": [],
+      "brightness": 0.30155428845921084,
+      "sharpness": 185.67233586767168,
+      "scene_distance": 0.1882980491306131
+    },
+    {
+      "time": 69.032345,
+      "image": "videos/vdcf99b90407e/frames/000069.jpg",
+      "objects": [],
+      "brightness": 0.14888198415940448,
+      "sharpness": 180.34148859006686,
+      "scene_distance": 0.39955256407393924
+    },
+    {
+      "time": 70.033297,
+      "image": "videos/vdcf99b90407e/frames/000070.jpg",
+      "objects": [],
+      "brightness": 0.09456410751028806,
+      "sharpness": 204.20083089868993,
+      "scene_distance": 0.500934477255972
+    },
+    {
+      "time": 71.000884,
+      "image": "videos/vdcf99b90407e/frames/000071.jpg",
+      "objects": [],
+      "brightness": 0.21122687454611475,
+      "sharpness": 245.29300196184886,
+      "scene_distance": 0.9197489833382584
+    },
+    {
+      "time": 72.001837,
+      "image": "videos/vdcf99b90407e/frames/000072.jpg",
+      "objects": [],
+      "brightness": 0.21395542846768337,
+      "sharpness": 270.2231028038403,
+      "scene_distance": 0.13689915331988284
+    },
+    {
+      "time": 73.002789,
+      "image": "videos/vdcf99b90407e/frames/000073.jpg",
+      "objects": [],
+      "brightness": 0.21146145379448075,
+      "sharpness": 369.9483239792029,
+      "scene_distance": 0.13339319841049924
+    },
+    {
+      "time": 74.003741,
+      "image": "videos/vdcf99b90407e/frames/000074.jpg",
+      "objects": [],
+      "brightness": 0.2244304799080126,
+      "sharpness": 79.11209240529509,
+      "scene_distance": 0.8524848252542392
+    },
+    {
+      "time": 75.004694,
+      "image": "videos/vdcf99b90407e/frames/000075.jpg",
+      "objects": [],
+      "brightness": 0.22712892421629144,
+      "sharpness": 298.2225481906569,
+      "scene_distance": 0.10683598096455792
+    },
+    {
+      "time": 76.005646,
+      "image": "videos/vdcf99b90407e/frames/000076.jpg",
+      "objects": [],
+      "brightness": 0.22635948090656016,
+      "sharpness": 422.29961947333476,
+      "scene_distance": 0.09414400486026256
+    },
+    {
+      "time": 77.006598,
+      "image": "videos/vdcf99b90407e/frames/000077.jpg",
+      "objects": [],
+      "brightness": 0.22387095096526266,
+      "sharpness": 430.5024252495993,
+      "scene_distance": 0.09428527155262119
+    },
+    {
+      "time": 78.007551,
+      "image": "videos/vdcf99b90407e/frames/000078.jpg",
+      "objects": [],
+      "brightness": 0.21991089854151535,
+      "sharpness": 448.3100157771776,
+      "scene_distance": 0.09640723051652177
+    },
+    {
+      "time": 79.008503,
+      "image": "videos/vdcf99b90407e/frames/000079.jpg",
+      "objects": [],
+      "brightness": 0.19610040131021544,
+      "sharpness": 395.7954692064639,
+      "scene_distance": 0.600233141813226
+    },
+    {
+      "time": 80.009455,
+      "image": "videos/vdcf99b90407e/frames/000080.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.4152846038341522,
+          "xyxy": [
+            31.02154541015625,
+            0.0,
+            1917.785888671875,
+            1054.2730712890625
+          ]
+        }
+      ],
+      "brightness": 0.20134224650508353,
+      "sharpness": 658.4454889123234,
+      "scene_distance": 0.13095694759499035
+    },
+    {
+      "time": 81.010407,
+      "image": "videos/vdcf99b90407e/frames/000081.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.44135692715644836,
+          "xyxy": [
+            21.77032470703125,
+            0.0,
+            1917.9056396484375,
+            1054.6597900390625
+          ]
+        }
+      ],
+      "brightness": 0.19670691683309127,
+      "sharpness": 660.0742721821347,
+      "scene_distance": 0.12584476740172978
+    },
+    {
+      "time": 82.01136,
+      "image": "videos/vdcf99b90407e/frames/000082.jpg",
+      "objects": [],
+      "brightness": 0.1922787649782135,
+      "sharpness": 662.3116251295302,
+      "scene_distance": 0.12615103967089378
+    },
+    {
+      "time": 83.012312,
+      "image": "videos/vdcf99b90407e/frames/000083.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.4346140921115875,
+          "xyxy": [
+            27.57073974609375,
+            0.0,
+            1914.4300537109375,
+            1051.849365234375
+          ]
+        }
+      ],
+      "brightness": 0.1870434084513435,
+      "sharpness": 663.6031870350218,
+      "scene_distance": 0.12301263710886348
+    },
+    {
+      "time": 84.013264,
+      "image": "videos/vdcf99b90407e/frames/000084.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.4384794235229492,
+          "xyxy": [
+            27.09210205078125,
+            0.0,
+            1910.41015625,
+            1054.53369140625
+          ]
+        }
+      ],
+      "brightness": 0.18320596556523844,
+      "sharpness": 659.3972042007981,
+      "scene_distance": 0.13057020102618852
+    },
+    {
+      "time": 85.014217,
+      "image": "videos/vdcf99b90407e/frames/000085.jpg",
+      "objects": [],
+      "brightness": 0.17770603175683855,
+      "sharpness": 659.0649999239075,
+      "scene_distance": 0.12948098521834456
+    },
+    {
+      "time": 86.015169,
+      "image": "videos/vdcf99b90407e/frames/000086.jpg",
+      "objects": [],
+      "brightness": 0.17317524131566206,
+      "sharpness": 657.5607337453322,
+      "scene_distance": 0.12682534198055176
+    },
+    {
+      "time": 87.016121,
+      "image": "videos/vdcf99b90407e/frames/000087.jpg",
+      "objects": [],
+      "brightness": 0.18510218470104092,
+      "sharpness": 336.0144044125485,
+      "scene_distance": 0.7982524939035983
+    },
+    {
+      "time": 88.017074,
+      "image": "videos/vdcf99b90407e/frames/000088.jpg",
+      "objects": [],
+      "brightness": 0.19203192893669815,
+      "sharpness": 336.8891993821793,
+      "scene_distance": 0.1015101598976773
+    },
+    {
+      "time": 89.018026,
+      "image": "videos/vdcf99b90407e/frames/000089.jpg",
+      "objects": [],
+      "brightness": 0.3097825738320019,
+      "sharpness": 73.78508369680834,
+      "scene_distance": 0.3785968726582311
+    }
+  ],
+  "segments": [
+    {
+      "start": 2.2199999999999984,
+      "end": 9.48,
+      "text": "Black holes are among the most fascinating objects in our universe, and also the most mysterious.",
+      "avg_logprob": -0.18451135808771307,
+      "no_speech_prob": 0.226235494017601,
+      "compression_ratio": 1.544871794871795
+    },
+    {
+      "start": 12.98,
+      "end": 21.76,
+      "text": "A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape.",
+      "avg_logprob": -0.18451135808771307,
+      "no_speech_prob": 0.226235494017601,
+      "compression_ratio": 1.544871794871795
+    },
+    {
+      "start": 22.54,
+      "end": 30.32,
+      "text": "The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see.",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 31.14,
+      "end": 36.62,
+      "text": "When something crosses the event horizon, it collapses into the black hole's singularity,",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 36.96,
+      "end": 43.62,
+      "text": "an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply.",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 45.4,
+      "end": 51.42,
+      "text": "Scientists have theorized several different types of black holes, with stellar and supermassive",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 51.42,
+      "end": 53.26,
+      "text": "black holes being the most common.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 53.94,
+      "end": 57.52,
+      "text": "Stellar black holes form when massive stars die and collapse.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 58.48,
+      "end": 63.3,
+      "text": "They roughly tend to 20 times the mass of our sun and scatter throughout the universe.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 64.4,
+      "end": 68.42,
+      "text": "There could be millions of these stellar black holes in the Milky Way alone.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    }
+  ],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -24.77418302308927,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -24.997856304762877,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -24.915170907625857,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -23.73466222575371,
+      "peak": true
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -26.374697243486157,
+      "peak": false
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -25.635295608300616,
+      "peak": false
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -24.791835860256985,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -24.796719662394842,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -25.937535399055008,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -28.55904959783547,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -32.38105885256812,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "dbfs": -33.09217311656533,
+      "peak": false
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "dbfs": -28.53733441982414,
+      "peak": false
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "dbfs": -28.7141331528407,
+      "peak": false
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "dbfs": -24.375019655180576,
+      "peak": true
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "dbfs": -27.401750692104102,
+      "peak": false
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "dbfs": -27.358968476561166,
+      "peak": false
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "dbfs": -26.836945869985527,
+      "peak": false
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "dbfs": -27.104835093313888,
+      "peak": false
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "dbfs": -26.062917539450385,
+      "peak": false
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "dbfs": -26.571135053061298,
+      "peak": false
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "dbfs": -28.705506374135922,
+      "peak": false
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "dbfs": -27.60737728173874,
+      "peak": false
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "dbfs": -23.08330683132674,
+      "peak": true
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "dbfs": -27.354230142240276,
+      "peak": false
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "dbfs": -27.26411368842615,
+      "peak": false
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "dbfs": -26.77855057942057,
+      "peak": false
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "dbfs": -25.288372238828472,
+      "peak": false
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "dbfs": -26.024017403891303,
+      "peak": false
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "dbfs": -28.12291136019713,
+      "peak": false
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "dbfs": -27.201457932711314,
+      "peak": false
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "dbfs": -26.43038016730638,
+      "peak": false
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "dbfs": -26.559682508627027,
+      "peak": false
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "dbfs": -25.382614414691925,
+      "peak": false
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "dbfs": -26.45804912162258,
+      "peak": false
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "dbfs": -26.59816182689928,
+      "peak": false
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "dbfs": -26.420661251021098,
+      "peak": false
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "dbfs": -24.175052848391758,
+      "peak": true
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "dbfs": -27.561571034552355,
+      "peak": false
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "dbfs": -28.663843635139518,
+      "peak": false
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "dbfs": -29.71761886861378,
+      "peak": false
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "dbfs": -25.32689965338715,
+      "peak": false
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "dbfs": -25.593511288406386,
+      "peak": false
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "dbfs": -31.80855261582263,
+      "peak": false
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "dbfs": -31.97806024414378,
+      "peak": false
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "dbfs": -28.428777280143372,
+      "peak": false
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "dbfs": -25.59752794554032,
+      "peak": false
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "dbfs": -26.50140437202775,
+      "peak": false
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "dbfs": -28.699907655701132,
+      "peak": false
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "dbfs": -31.46748844971762,
+      "peak": false
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "dbfs": -26.064217606049624,
+      "peak": false
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "dbfs": -26.96063191927514,
+      "peak": false
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "dbfs": -28.74998877945381,
+      "peak": false
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "dbfs": -28.65370840840864,
+      "peak": false
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "dbfs": -24.388229806187226,
+      "peak": true
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "dbfs": -25.500352168925836,
+      "peak": false
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "dbfs": -25.853635714433587,
+      "peak": false
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "dbfs": -27.80977600636659,
+      "peak": false
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "dbfs": -26.973228154011238,
+      "peak": false
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "dbfs": -25.980376315261324,
+      "peak": false
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "dbfs": -25.79222861503776,
+      "peak": false
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "dbfs": -27.792498919246796,
+      "peak": false
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "dbfs": -24.846339050644342,
+      "peak": false
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "dbfs": -28.126274599580704,
+      "peak": false
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "dbfs": -31.738024482951303,
+      "peak": false
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "dbfs": -22.338200948153307,
+      "peak": true
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "dbfs": -26.753306133038368,
+      "peak": false
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "dbfs": -24.514846296300842,
+      "peak": false
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "dbfs": -26.90998435465112,
+      "peak": false
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "dbfs": -29.954071520722945,
+      "peak": false
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "dbfs": -24.405460712571035,
+      "peak": true
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "dbfs": -25.946019196529093,
+      "peak": false
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "dbfs": -25.210755073261822,
+      "peak": false
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "dbfs": -31.8001096975986,
+      "peak": false
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "dbfs": -23.41461355930995,
+      "peak": true
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "dbfs": -23.423992002129847,
+      "peak": true
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "dbfs": -25.89956231337102,
+      "peak": false
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "dbfs": -27.423998792414636,
+      "peak": false
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "dbfs": -30.694205736215224,
+      "peak": false
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "dbfs": -23.563093920894083,
+      "peak": true
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "dbfs": -26.32661588692486,
+      "peak": false
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "dbfs": -25.841763022627458,
+      "peak": false
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "dbfs": -26.538787712219158,
+      "peak": false
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "dbfs": -28.250058579071144,
+      "peak": false
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "dbfs": -28.08634619487373,
+      "peak": false
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "dbfs": -29.124798421797685,
+      "peak": false
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "dbfs": -27.16109120431847,
+      "peak": false
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "dbfs": -28.59156657882386,
+      "peak": false
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "dbfs": -27.389257297872973,
+      "peak": false
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "dbfs": -26.89406958983242,
+      "peak": false
+    },
+    {
+      "start": 90.0,
+      "end": 90.018978,
+      "dbfs": -41.115818760622815,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "speech",
+      "label": "Black holes are among the most fascinating objects in our universe, and also the most mysterious.",
+      "start": 2.22,
+      "end": 9.48,
+      "avg_logprob": -0.18451135808771307,
+      "id": "e00000"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 3.0,
+      "end": 4.0,
+      "value": -23.73466222575371,
+      "id": "e00001"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 5.0048,
+      "end": 6.0057,
+      "confidence": 0.5678589344024658,
+      "samples": 1,
+      "frame": "videos/vdcf99b90407e/frames/000005.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 7.0067,
+      "end": 7.1067,
+      "value": 0.7524383369719015,
+      "frame": "videos/vdcf99b90407e/frames/000007.jpg",
+      "id": "e00003"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 8.0076,
+      "end": 8.1076,
+      "value": 0.7473084040538873,
+      "frame": "videos/vdcf99b90407e/frames/000008.jpg",
+      "id": "e00004"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 10.0095,
+      "end": 10.1095,
+      "value": 0.5368349171100854,
+      "frame": "videos/vdcf99b90407e/frames/000010.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 11.0105,
+      "end": 11.1105,
+      "value": 0.6266941694181771,
+      "frame": "videos/vdcf99b90407e/frames/000011.jpg",
+      "id": "e00006"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 12.0114,
+      "end": 12.1114,
+      "value": 0.9313479457062385,
+      "frame": "videos/vdcf99b90407e/frames/000012.jpg",
+      "id": "e00007"
+    },
+    {
+      "type": "speech",
+      "label": "A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape.",
+      "start": 12.98,
+      "end": 21.76,
+      "avg_logprob": -0.18451135808771307,
+      "id": "e00008"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 14.0,
+      "end": 15.0,
+      "value": -24.375019655180576,
+      "id": "e00009"
+    },
+    {
+      "type": "speech",
+      "label": "The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see.",
+      "start": 22.54,
+      "end": 30.32,
+      "avg_logprob": -0.14466432114722025,
+      "id": "e00010"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 23.0,
+      "end": 24.0,
+      "value": -23.08330683132674,
+      "id": "e00011"
+    },
+    {
+      "type": "speech",
+      "label": "When something crosses the event horizon, it collapses into the black hole's singularity,",
+      "start": 31.14,
+      "end": 36.62,
+      "avg_logprob": -0.14466432114722025,
+      "id": "e00012"
+    },
+    {
+      "type": "speech",
+      "label": "an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply.",
+      "start": 36.96,
+      "end": 43.62,
+      "avg_logprob": -0.14466432114722025,
+      "id": "e00013"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 37.0,
+      "end": 38.0,
+      "value": -24.175052848391758,
+      "id": "e00014"
+    },
+    {
+      "type": "speech",
+      "label": "Scientists have theorized several different types of black holes, with stellar and supermassive",
+      "start": 45.4,
+      "end": 51.42,
+      "avg_logprob": -0.19645453691482545,
+      "id": "e00015"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 46.0104,
+      "end": 46.1104,
+      "value": 0.9524298401008354,
+      "frame": "videos/vdcf99b90407e/frames/000046.jpg",
+      "id": "e00016"
+    },
+    {
+      "type": "speech",
+      "label": "black holes being the most common.",
+      "start": 51.42,
+      "end": 53.26,
+      "avg_logprob": -0.19645453691482545,
+      "id": "e00017"
+    },
+    {
+      "type": "speech",
+      "label": "Stellar black holes form when massive stars die and collapse.",
+      "start": 53.94,
+      "end": 57.52,
+      "avg_logprob": -0.19645453691482545,
+      "id": "e00018"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 54.0,
+      "end": 55.0,
+      "value": -24.388229806187226,
+      "id": "e00019"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 55.019,
+      "end": 55.119,
+      "value": 0.9317569914796157,
+      "frame": "videos/vdcf99b90407e/frames/000055.jpg",
+      "id": "e00020"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 57.0209,
+      "end": 57.1209,
+      "value": 0.620564753546562,
+      "frame": "videos/vdcf99b90407e/frames/000057.jpg",
+      "id": "e00021"
+    },
+    {
+      "type": "speech",
+      "label": "They roughly tend to 20 times the mass of our sun and scatter throughout the universe.",
+      "start": 58.48,
+      "end": 63.3,
+      "avg_logprob": -0.19645453691482545,
+      "id": "e00022"
+    },
+    {
+      "type": "speech",
+      "label": "There could be millions of these stellar black holes in the Milky Way alone.",
+      "start": 64.4,
+      "end": 68.42,
+      "avg_logprob": -0.19645453691482545,
+      "id": "e00023"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 65.0,
+      "end": 66.0,
+      "value": -22.338200948153307,
+      "id": "e00024"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 65.0285,
+      "end": 65.1285,
+      "value": 0.8265315139250108,
+      "frame": "videos/vdcf99b90407e/frames/000065.jpg",
+      "id": "e00025"
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 66.0295,
+      "end": 67.0304,
+      "confidence": 0.4835790991783142,
+      "samples": 1,
+      "frame": "videos/vdcf99b90407e/frames/000066.jpg",
+      "id": "e00026"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 70.0,
+      "end": 71.0,
+      "value": -24.405460712571035,
+      "id": "e00027"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 70.0333,
+      "end": 70.1333,
+      "value": 0.500934477255972,
+      "frame": "videos/vdcf99b90407e/frames/000070.jpg",
+      "id": "e00028"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 71.0009,
+      "end": 71.1009,
+      "value": 0.9197489833382584,
+      "frame": "videos/vdcf99b90407e/frames/000071.jpg",
+      "id": "e00029"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 74.0,
+      "end": 76.0,
+      "value": -23.41461355930995,
+      "id": "e00030"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 74.0037,
+      "end": 74.1037,
+      "value": 0.8524848252542392,
+      "frame": "videos/vdcf99b90407e/frames/000074.jpg",
+      "id": "e00031"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 79.0,
+      "end": 80.0,
+      "value": -23.563093920894083,
+      "id": "e00032"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 79.0085,
+      "end": 79.1085,
+      "value": 0.600233141813226,
+      "frame": "videos/vdcf99b90407e/frames/000079.jpg",
+      "id": "e00033"
+    },
+    {
+      "type": "object",
+      "label": "cake",
+      "start": 80.0095,
+      "end": 82.0114,
+      "confidence": 0.4283207654953003,
+      "samples": 2,
+      "frame": "videos/vdcf99b90407e/frames/000080.jpg",
+      "id": "e00034"
+    },
+    {
+      "type": "object",
+      "label": "cake",
+      "start": 83.0123,
+      "end": 85.0142,
+      "confidence": 0.43654675781726837,
+      "samples": 2,
+      "frame": "videos/vdcf99b90407e/frames/000083.jpg",
+      "id": "e00035"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 87.0161,
+      "end": 87.1161,
+      "value": 0.7982524939035983,
+      "frame": "videos/vdcf99b90407e/frames/000087.jpg",
+      "id": "e00036"
+    }
+  ],
+  "entities": [
+    {
+      "label": "cake",
+      "detections": 4,
+      "frames": 4,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 4.003799999999998,
+      "mean_confidence": 0.43243376165628433,
+      "frame_share": 0.044444444444444446,
+      "duration_share": 0.04447728788922707
+    },
+    {
+      "label": "person",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0008999999999997,
+      "mean_confidence": 0.5678589344024658,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011118766533874664
+    },
+    {
+      "label": "surfboard",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0009000000000015,
+      "mean_confidence": 0.4835790991783142,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011118766533874684
+    }
+  ],
+  "warnings": [
+    "asr_quality: 5 подозрительных сегментов исключено из поиска; см. rejected_segments.json"
+  ],
+  "detected_language": "en",
+  "signature": "23cc1015c1335a1ae80328e73d8922b9855deca11169ad0daabccb4f09737d67",
+  "processing_seconds": 52.953
+}

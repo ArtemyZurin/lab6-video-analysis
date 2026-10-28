@@ -1,0 +1,5 @@
+﻿video_id,title,id,type,start,end,label,confidence,value,frame
+vb03a107a1954,W3C — timer test,e00000,object,20.0,21.0,scissors,0.4296441078186035,,videos/vb03a107a1954/frames/000020.jpg
+vb03a107a1954,W3C — timer test,e00001,object,26.0,27.0,scissors,0.47167882323265076,,videos/vb03a107a1954/frames/000026.jpg
+vb03a107a1954,W3C — timer test,e00002,object,29.0,30.0,scissors,0.4322810471057892,,videos/vb03a107a1954/frames/000029.jpg
+vb03a107a1954,W3C — timer test,e00003,object,48.0,49.0,traffic light,0.5164008736610413,,videos/vb03a107a1954/frames/000048.jpg

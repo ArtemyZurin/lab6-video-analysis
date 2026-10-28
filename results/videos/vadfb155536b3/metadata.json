@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Volcanoes 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\volcanoes\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "3d58af6fb71dffce7f1f1055e6572b58dc8539a5ee19581cf5b8f31231574920",
+    "collected_at": "2026-10-28T09:24:21.111632+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=yDy28QtdYJY",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018457,
+    "fps": 29.97163120567376,
+    "fps_fraction": "4226/141",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2673928,
+    "bytes": 30087865,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 90.018457,
+    "fps": 29.97163120567376,
+    "fps_fraction": "4226/141",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2573948,
+    "bytes": 28962862,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

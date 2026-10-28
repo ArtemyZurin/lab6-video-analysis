@@ -1,0 +1,225 @@
+{
+  "index_sha256": "d856a543cce05c556315945408dc45508b31011db34255df13a89c8c5869f088",
+  "reference_sha256": "c242afa66a61db919e52da5f9e2d165b6375e5832d91457cf501ce97f018375c",
+  "selection": "Выбраны шесть разных выпусков одного канала: три об астрономии, три о геологических процессах. Анализируются первые 90 секунд. Исключение: Continental Drift ограничен 72 секундами, поскольку на 73.38 с начинается встроенный анонс Volcanoes, дублирующий другой ролик корпуса. Анонс исключён после просмотра первичного транскрипта, до расчёта оценок соответствия темам. Метки не используются для выбора k или параметров TF-IDF/KMeans.",
+  "videos": [
+    {
+      "video_id": "v3472c89a73c8",
+      "title": "Solar System 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=libKVRa01L8",
+      "reference_topic": "Астрономия",
+      "cluster": 0,
+      "transcript_only_cluster": 0,
+      "speech_segments": 17,
+      "speech_words": 210
+    },
+    {
+      "video_id": "vdcf99b90407e",
+      "title": "Black Holes 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
+      "reference_topic": "Астрономия",
+      "cluster": 0,
+      "transcript_only_cluster": 0,
+      "speech_segments": 10,
+      "speech_words": 156
+    },
+    {
+      "video_id": "vfe7b0ab20012",
+      "title": "Stars 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=EFO_bsg1sw8",
+      "reference_topic": "Астрономия",
+      "cluster": 0,
+      "transcript_only_cluster": 0,
+      "speech_segments": 24,
+      "speech_words": 185
+    },
+    {
+      "video_id": "vadfb155536b3",
+      "title": "Volcanoes 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=yDy28QtdYJY",
+      "reference_topic": "Геологические процессы",
+      "cluster": 1,
+      "transcript_only_cluster": 1,
+      "speech_segments": 21,
+      "speech_words": 225
+    },
+    {
+      "video_id": "vb863a946c7a4",
+      "title": "Earthquakes 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=e7ho6z32yyo",
+      "reference_topic": "Геологические процессы",
+      "cluster": 1,
+      "transcript_only_cluster": 1,
+      "speech_segments": 15,
+      "speech_words": 233
+    },
+    {
+      "video_id": "v14d850d4e682",
+      "title": "Continental Drift 101 | National Geographic",
+      "origin_url": "https://www.youtube.com/watch?v=Wq9kLzm36h0",
+      "reference_topic": "Геологические процессы",
+      "cluster": 1,
+      "transcript_only_cluster": 1,
+      "speech_segments": 17,
+      "speech_words": 210
+    }
+  ],
+  "full_features": {
+    "topics": {
+      "method": "TF-IDF + KMeans",
+      "selected_k": 2,
+      "seed": 42,
+      "silhouette": 0.053388376352051604,
+      "candidates": [
+        {
+          "k": 2,
+          "silhouette": 0.053388376352051604
+        },
+        {
+          "k": 3,
+          "silhouette": 0.04770485367954683
+        },
+        {
+          "k": 4,
+          "silhouette": 0.03686188767097071
+        },
+        {
+          "k": 5,
+          "silhouette": 0.025049975573929555
+        }
+      ],
+      "topics": [
+        {
+          "cluster": 0,
+          "keywords": [
+            "stars",
+            "black",
+            "solar",
+            "holes",
+            "systems",
+            "stellar",
+            "luminosity",
+            "sun",
+            "planets",
+            "hole"
+          ],
+          "video_ids": [
+            "v3472c89a73c8",
+            "vdcf99b90407e",
+            "vfe7b0ab20012"
+          ],
+          "count": 3,
+          "share": 0.5
+        },
+        {
+          "cluster": 1,
+          "keywords": [
+            "volcanoes",
+            "continents",
+            "plates",
+            "tectonic",
+            "earth",
+            "magma",
+            "violent",
+            "planet",
+            "ground",
+            "crust"
+          ],
+          "video_ids": [
+            "vadfb155536b3",
+            "vb863a946c7a4",
+            "v14d850d4e682"
+          ],
+          "count": 3,
+          "share": 0.5
+        }
+      ],
+      "unassigned": 0,
+      "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+    },
+    "adjusted_rand": 1.0,
+    "normalized_mutual_info": 1.0
+  },
+  "transcript_only": {
+    "topics": {
+      "method": "TF-IDF + KMeans",
+      "selected_k": 2,
+      "seed": 42,
+      "silhouette": 0.056815232309021045,
+      "candidates": [
+        {
+          "k": 2,
+          "silhouette": 0.056815232309021045
+        },
+        {
+          "k": 3,
+          "silhouette": 0.04930226720189098
+        },
+        {
+          "k": 4,
+          "silhouette": 0.037701098210335744
+        },
+        {
+          "k": 5,
+          "silhouette": 0.02632807745986954
+        }
+      ],
+      "topics": [
+        {
+          "cluster": 0,
+          "keywords": [
+            "stars",
+            "black",
+            "solar",
+            "holes",
+            "systems",
+            "stellar",
+            "luminosity",
+            "sun",
+            "hole",
+            "universe"
+          ],
+          "video_ids": [
+            "v3472c89a73c8",
+            "vdcf99b90407e",
+            "vfe7b0ab20012"
+          ],
+          "count": 3,
+          "share": 0.5
+        },
+        {
+          "cluster": 1,
+          "keywords": [
+            "continents",
+            "volcanoes",
+            "plates",
+            "tectonic",
+            "earth",
+            "magma",
+            "violent",
+            "planet",
+            "ground",
+            "crust"
+          ],
+          "video_ids": [
+            "vadfb155536b3",
+            "vb863a946c7a4",
+            "v14d850d4e682"
+          ],
+          "count": 3,
+          "share": 0.5
+        }
+      ],
+      "unassigned": 0,
+      "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+    },
+    "adjusted_rand": 1.0,
+    "normalized_mutual_info": 1.0
+  },
+  "baseline": {
+    "index_sha256": "f145c6a1d967ccdab79f603ed082f44cdf5e0bf57c97af6cded973c703c1eed8",
+    "videos": 5,
+    "speech_segments": 7,
+    "silhouette": 0.06876083508071565
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Stars 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\stars\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "587b36059347d2a61e94630676d8214961413fd9fb321fbbfb8f20c6480243eb",
+    "collected_at": "2026-10-28T09:23:27.226100+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=EFO_bsg1sw8",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018326,
+    "fps": 29.971674876847292,
+    "fps_fraction": "24337/812",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2512553,
+    "bytes": 28271980,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 90.018326,
+    "fps": 29.971674876847292,
+    "fps_fraction": "24337/812",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2504140,
+    "bytes": 28177315,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

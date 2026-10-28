@@ -1,0 +1,19 @@
+{
+  "title": "trailer",
+  "description": null,
+  "tags": null,
+  "categories": null,
+  "upload_date": "20100513",
+  "duration": null,
+  "view_count": null,
+  "like_count": null,
+  "comment_count": null,
+  "webpage_url": "https://media.w3.org/2010/05/bunny/trailer.mp4",
+  "extractor": "generic",
+  "id": "trailer",
+  "source": "https://media.w3.org/2010/05/bunny/trailer.mp4",
+  "filename": "original.mp4",
+  "sha256": "b2ded9ae5a20fa36ca8cec49ef923bffb5e1a51d9e8c1f8336273d2fa9d35ff0",
+  "collected_at": "2026-10-27T08:55:39.260271+00:00",
+  "source_kind": "url"
+}

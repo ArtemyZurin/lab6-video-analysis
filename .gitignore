@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+.pytest_cache/
+models/
+.cache/
+*.partial
+
+# Local credentials and editor settings
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+.vscode/
+
+# Downloaded media and intermediate audio; reproduced with prepare_demo.py / lab6.py run
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.info.json
+*.log
+*.part
+*.ytdl

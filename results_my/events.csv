@@ -1,0 +1,24 @@
+﻿video_id,title,id,type,start,end,label,confidence,value,frame
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00000,object,0.5005,8.008,car,0.5569334844748179,,videos/v024ed9252817/frames/000001.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00001,object,0.5005,1.001,train,0.47785940766334534,,videos/v024ed9252817/frames/000001.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00002,scene,0.5005,0.6005,Смена сцены,,0.9412950009530159,videos/v024ed9252817/frames/000001.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00003,audio,1.0,2.0,Пик громкости,,-23.95246278983901,
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00004,object,1.5015,2.5025,train,0.6637689471244812,,videos/v024ed9252817/frames/000003.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00005,object,5.5055,8.008,airplane,0.6864301919937134,,videos/v024ed9252817/frames/000011.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00006,object,6.5065,7.007,train,0.43459299206733704,,videos/v024ed9252817/frames/000013.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00007,object,7.007,7.5075,person,0.6962119340896606,,videos/v024ed9252817/frames/000014.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00008,scene,7.5075,7.6075,Смена сцены,,0.4964605078136722,videos/v024ed9252817/frames/000015.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00009,object,8.008,12.5125,person,0.7250066565142738,,videos/v024ed9252817/frames/000016.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00010,scene,8.008,8.108,Смена сцены,,0.6821396837983551,videos/v024ed9252817/frames/000016.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00011,object,12.5125,19.5195,car,0.6246395025934491,,videos/v024ed9252817/frames/000025.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00012,object,12.5125,13.013,truck,0.4138840138912201,,videos/v024ed9252817/frames/000025.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00013,scene,12.5125,12.6125,Смена сцены,,0.7626244220455715,videos/v024ed9252817/frames/000025.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00014,scene,17.5175,17.6175,Смена сцены,,0.5687674013306735,videos/v024ed9252817/frames/000035.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00015,object,19.5195,20.5205,bus,0.6555465161800385,,videos/v024ed9252817/frames/000039.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00016,object,19.5195,20.5205,person,0.9093098938465118,,videos/v024ed9252817/frames/000039.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00017,audio,20.0,23.0,Пик громкости,,-23.61831375650331,
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00018,scene,22.022,22.122,Смена сцены,,0.7508400124008198,videos/v024ed9252817/frames/000044.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00019,object,22.5225,34.5011,person,0.8448584775129954,,videos/v024ed9252817/frames/000045.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00020,speech,26.08,34.38,Rain and storm chances go up this weekend with the risk for severe storms I've got that timing the news starts right now,,,
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00021,scene,26.5265,26.6265,Смена сцены,,0.5030851422681978,videos/v024ed9252817/frames/000053.jpg
+v024ed9252817,WDSU Best Newscast LAB  _30 second clip,e00022,scene,34.5011,34.6011,Смена сцены,,0.986395573713116,videos/v024ed9252817/frames/000069.jpg

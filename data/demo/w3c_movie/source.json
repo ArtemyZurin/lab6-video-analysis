@@ -1,0 +1,19 @@
+{
+  "title": "movie_300",
+  "description": null,
+  "tags": null,
+  "categories": null,
+  "upload_date": "20100602",
+  "duration": null,
+  "view_count": null,
+  "like_count": null,
+  "comment_count": null,
+  "webpage_url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+  "extractor": "generic",
+  "id": "movie_300",
+  "source": "https://media.w3.org/2010/05/video/movie_300.mp4",
+  "filename": "original.mp4",
+  "sha256": "80c548058688a577ce9ca501cf9807311b95cc526cc82d292ec7e138e42257de",
+  "collected_at": "2026-10-27T08:55:42.339927+00:00",
+  "source_kind": "url"
+}

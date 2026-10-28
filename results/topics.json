@@ -1,0 +1,72 @@
+{
+  "method": "TF-IDF + KMeans",
+  "selected_k": 2,
+  "seed": 42,
+  "silhouette": 0.053388376352051604,
+  "candidates": [
+    {
+      "k": 2,
+      "silhouette": 0.053388376352051604
+    },
+    {
+      "k": 3,
+      "silhouette": 0.04770485367954683
+    },
+    {
+      "k": 4,
+      "silhouette": 0.03686188767097071
+    },
+    {
+      "k": 5,
+      "silhouette": 0.025049975573929555
+    }
+  ],
+  "topics": [
+    {
+      "cluster": 0,
+      "keywords": [
+        "stars",
+        "black",
+        "solar",
+        "holes",
+        "systems",
+        "stellar",
+        "luminosity",
+        "sun",
+        "planets",
+        "hole"
+      ],
+      "video_ids": [
+        "v3472c89a73c8",
+        "vdcf99b90407e",
+        "vfe7b0ab20012"
+      ],
+      "count": 3,
+      "share": 0.5
+    },
+    {
+      "cluster": 1,
+      "keywords": [
+        "volcanoes",
+        "continents",
+        "plates",
+        "tectonic",
+        "earth",
+        "magma",
+        "violent",
+        "planet",
+        "ground",
+        "crust"
+      ],
+      "video_ids": [
+        "vadfb155536b3",
+        "vb863a946c7a4",
+        "v14d850d4e682"
+      ],
+      "count": 3,
+      "share": 0.5
+    }
+  ],
+  "unassigned": 0,
+  "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+}

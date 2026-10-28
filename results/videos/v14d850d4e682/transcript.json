@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.940000000000003,
+      "end": 5.68,
+      "text": "Talk about the ultimate breakup. Europe and Africa have been splitting apart from the",
+      "avg_logprob": -0.19166511535644531,
+      "no_speech_prob": 0.10748270899057388,
+      "compression_ratio": 1.6296296296296295
+    },
+    {
+      "start": 5.68,
+      "end": 11.34,
+      "text": "American continents for millions of years. At a rate of approximately 2.5 centimeters per",
+      "avg_logprob": -0.19166511535644531,
+      "no_speech_prob": 0.10748270899057388,
+      "compression_ratio": 1.6296296296296295
+    },
+    {
+      "start": 11.34,
+      "end": 15.9,
+      "text": "year, the continents are moving about as fast as our fingernails grow, and as they continue",
+      "avg_logprob": -0.19166511535644531,
+      "no_speech_prob": 0.10748270899057388,
+      "compression_ratio": 1.6296296296296295
+    },
+    {
+      "start": 15.9,
+      "end": 20.5,
+      "text": "to split, the rift between them. Otherwise known as the Atlantic Ocean, we'll get even",
+      "avg_logprob": -0.19166511535644531,
+      "no_speech_prob": 0.10748270899057388,
+      "compression_ratio": 1.6296296296296295
+    },
+    {
+      "start": 20.5,
+      "end": 26.44,
+      "text": "wider. And all this drama is leaving behind a major scar. An underwater valley called",
+      "avg_logprob": -0.19166511535644531,
+      "no_speech_prob": 0.10748270899057388,
+      "compression_ratio": 1.6296296296296295
+    },
+    {
+      "start": 26.44,
+      "end": 31.06,
+      "text": "the mid-Atlantic ridge, which tears more and more as the continents slowly move apart.",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 31.42,
+      "end": 36.64,
+      "text": "Looking back on the continental relationship, puts us in mere 300 million years ago, when",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 36.64,
+      "end": 42.12,
+      "text": "Africa, Europe, the Americas, and all the other continents for one big landmass, the",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 42.12,
+      "end": 44.42,
+      "text": "famed supercontinent, Pangaea.",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 44.92,
+      "end": 50.1,
+      "text": "Due to the constant churning of magma underneath the Earth's crust, they all split up and",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 50.1,
+      "end": 51.62,
+      "text": "moved to their modern day positions.",
+      "avg_logprob": -0.24690784917813596,
+      "no_speech_prob": 0.015747329220175743,
+      "compression_ratio": 1.6115384615384616
+    },
+    {
+      "start": 51.62,
+      "end": 56.64,
+      "text": "But if destiny and the form of magma and tectonic plates has anything to say about it,",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    },
+    {
+      "start": 56.88,
+      "end": 60.74,
+      "text": "the continents might have a chance of getting back together, but how will these stubborn",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    },
+    {
+      "start": 60.74,
+      "end": 61.96,
+      "text": "continents kiss and make up?",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    },
+    {
+      "start": 62.34,
+      "end": 66.64,
+      "text": "Scientists believe the plates will shift, causing the continents to rearrange and get back",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    },
+    {
+      "start": 66.64,
+      "end": 67.18,
+      "text": "together.",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    },
+    {
+      "start": 67.68,
+      "end": 72.0,
+      "text": "But in true tectonic plate style, it'll take about 250 minutes.",
+      "avg_logprob": -0.24419385931465062,
+      "no_speech_prob": 0.2458738535642624,
+      "compression_ratio": 1.6772727272727272
+    }
+  ],
+  "warnings": []
+}

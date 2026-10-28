@@ -1,0 +1,77 @@
+{
+  "peak_threshold_dbfs": -30.072609736676885,
+  "windows": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -38.49911079227161,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -33.57165984460464,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -34.8415516783877,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -30.007985352596215,
+      "peak": true
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -28.242986156270877,
+      "peak": true
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -35.82782457750821,
+      "peak": false
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -30.68526413273368,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -30.654229193402927,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -60.23111009790095,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -33.40395300503814,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -35.12853157437557,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 11.264,
+      "dbfs": -38.19920004836344,
+      "peak": false
+    }
+  ]
+}

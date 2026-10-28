@@ -1,0 +1,20 @@
+﻿video_id,title,id,type,start,end,label,confidence,value,frame
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00000,object,1.001,2.002,apple,0.5522025227546692,,videos/vf988c79f4b10/frames/000001.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00001,object,4.004,5.005,apple,0.46513646841049194,,videos/vf988c79f4b10/frames/000004.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00002,object,7.007,9.009,orange,0.6223468035459518,,videos/vf988c79f4b10/frames/000007.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00003,object,8.008,9.009,apple,0.4727157652378082,,videos/vf988c79f4b10/frames/000008.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00004,scene,9.009,9.109,Смена сцены,,0.606772192885342,videos/vf988c79f4b10/frames/000009.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00005,object,13.013,14.014,orange,0.42184534668922424,,videos/vf988c79f4b10/frames/000013.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00006,scene,13.013,13.113,Смена сцены,,0.4534323740433856,videos/vf988c79f4b10/frames/000013.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00007,object,14.014,20.0033,bird,0.6817836364110311,,videos/vf988c79f4b10/frames/000014.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00008,scene,14.014,14.114,Смена сцены,,0.6100879484874944,videos/vf988c79f4b10/frames/000014.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00009,audio,19.0,22.0,Пик громкости,,-14.695347094403958,
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00010,object,20.0033,21.0043,bear,0.6043993830680847,,videos/vf988c79f4b10/frames/000020.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00011,scene,20.0033,20.1033,Смена сцены,,0.4641255053844071,videos/vf988c79f4b10/frames/000020.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00012,object,21.0043,23.0063,cat,0.6271112263202667,,videos/vf988c79f4b10/frames/000021.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00013,object,21.0043,22.0053,person,0.45938625931739807,,videos/vf988c79f4b10/frames/000021.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00014,object,23.0063,24.0073,bird,0.5427019000053406,,videos/vf988c79f4b10/frames/000023.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00015,object,24.0073,26.0093,bear,0.4759984314441681,,videos/vf988c79f4b10/frames/000024.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00016,object,26.0093,27.0103,cat,0.7520126104354858,,videos/vf988c79f4b10/frames/000026.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00017,scene,27.0103,27.1103,Смена сцены,,0.4640741193246799,videos/vf988c79f4b10/frames/000027.jpg
+vf988c79f4b10,Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos,e00018,audio,31.0,32.0,Пик громкости,,-14.517621302970248,

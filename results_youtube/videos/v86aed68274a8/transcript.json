@@ -1,0 +1,16 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 26.04,
+      "end": 34.32,
+      "text": "Rain and storm chances go up this weekend with the risk for severe storms I've got that timing the news starts right now",
+      "avg_logprob": -0.36480119493272567,
+      "no_speech_prob": 0.19392959773540497,
+      "compression_ratio": 1.2371134020618557
+    }
+  ],
+  "warnings": [
+    "asr_quality: 5 подозрительных сегментов исключено из поиска; см. rejected_segments.json"
+  ]
+}

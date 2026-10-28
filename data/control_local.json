@@ -1,0 +1,10 @@
+[
+  {
+    "source": "demo/w3c_movie/clip.mp4",
+    "name": "w3c_movie",
+    "title": "W3C — timer test",
+    "language": "en",
+    "clip_seconds": 60,
+    "origin_url": "https://media.w3.org/2010/05/video/movie_300.mp4"
+  }
+]

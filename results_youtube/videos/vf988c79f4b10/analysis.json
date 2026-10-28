@@ -1,0 +1,1033 @@
+{
+  "id": "vf988c79f4b10",
+  "title": "Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos",
+  "source": "https://www.youtube.com/watch?v=9iDXWx7GtZQ",
+  "metadata": {
+    "title": "Nature Video 30 Seconds|WhatsApp Status Video|Nature Background Videos",
+    "description": "Nature WhatsApp Status|Nature Beauty WhatsApp Status|Nature Status Video for WhatsApp|Nature WhatsApp Status Tamil|Nature Love WhatsApp Status|Nature WhatsApp Status Tamil Song|Nature WhatsApp Status full screen 4K|Nature Love WhatsApp Status Tamil|Flower WhatsApp Status|Flower Background Videos|Flower Status|Flower WhatsApp Status Tamil|Flower WhatsApp dp|Flower WhatsApp Status full Screen|flower WhatsApp Status Malayalam|Nature WhatsApp Status Tamil Fullscreen|Nature WhatsApp Status Telugu|WhatsApp Status Video|WhatsApp good morning Status|WhatsApp Status Video nature|WhatsApp Status for Students|WhatsApp Status Tamil|WhatsApp Status Malayalam|WhatsApp Status nature|WhatsApp Status Malayalam|Status Video|Status Video for WhatsApp|Status new 2021|Status 30 Seconds|Status Tamil|Status Song|Status Video Sad|Status Video for WhatsApp Tamil30 Seconds nature|Relax WhatsApp Status Tamil|relaxing Stress Relief|Relax WhatsApp Status Tamil|Nature Background video 30 Seconds",
+    "tags": [
+      "Nature WhatsApp Status Video 30 Seconds",
+      "Round the Clock"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20210412",
+    "duration": 33,
+    "view_count": 644553,
+    "like_count": 1421,
+    "comment_count": 12,
+    "webpage_url": "https://www.youtube.com/watch?v=9iDXWx7GtZQ",
+    "extractor": "youtube",
+    "id": "9iDXWx7GtZQ",
+    "format_id": "399+251",
+    "resolution": "1920x1080",
+    "vcodec": "av01.0.09M.08",
+    "acodec": "opus",
+    "source": "https://www.youtube.com/watch?v=9iDXWx7GtZQ",
+    "filename": "original.mkv",
+    "sha256": "35eda9852a53cf740599217b9a48597b8a22d421100c7c8418ebb8247e9b990f",
+    "collected_at": "2026-10-28T08:36:09.668733+00:00",
+    "source_kind": "url"
+  },
+  "technical": {
+    "duration": 33.308,
+    "fps": 59.94006309148265,
+    "fps_fraction": "19001/317",
+    "width": 1920,
+    "height": 1080,
+    "codec": "libdav1d",
+    "pixel_format": "yuv420p",
+    "container": "matroska,webm",
+    "bit_rate": 2064423,
+    "bytes": 8595229,
+    "has_audio": true,
+    "audio_codec": "opus",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 33.281,
+  "media": "videos/vf988c79f4b10/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.05121889477595687,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/vf988c79f4b10/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.36358713462236747,
+      "sharpness": 3.1707055355098186,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.001,
+      "image": "videos/vf988c79f4b10/frames/000001.jpg",
+      "objects": [
+        {
+          "label": "apple",
+          "confidence": 0.5522025227546692,
+          "xyxy": [
+            1120.5325927734375,
+            110.77686309814453,
+            1526.848388671875,
+            599.2747192382812
+          ]
+        }
+      ],
+      "brightness": 0.3821448688271605,
+      "sharpness": 3.69603731583751,
+      "scene_distance": 0.10112344895399092
+    },
+    {
+      "time": 2.002,
+      "image": "videos/vf988c79f4b10/frames/000002.jpg",
+      "objects": [],
+      "brightness": 0.3986988906287824,
+      "sharpness": 3.5808998772180294,
+      "scene_distance": 0.08806825741767842
+    },
+    {
+      "time": 3.003,
+      "image": "videos/vf988c79f4b10/frames/000003.jpg",
+      "objects": [],
+      "brightness": 0.40729818559368197,
+      "sharpness": 3.614526413165271,
+      "scene_distance": 0.07478377376613742
+    },
+    {
+      "time": 4.004,
+      "image": "videos/vf988c79f4b10/frames/000004.jpg",
+      "objects": [
+        {
+          "label": "apple",
+          "confidence": 0.46513646841049194,
+          "xyxy": [
+            1525.7274169921875,
+            52.74957275390625,
+            1919.633056640625,
+            543.1944580078125
+          ]
+        },
+        {
+          "label": "apple",
+          "confidence": 0.458535760641098,
+          "xyxy": [
+            1117.2393798828125,
+            108.06804656982422,
+            1519.07080078125,
+            593.9434814453125
+          ]
+        }
+      ],
+      "brightness": 0.40733711381929316,
+      "sharpness": 3.5723832909426916,
+      "scene_distance": 0.07683554190659309
+    },
+    {
+      "time": 5.005,
+      "image": "videos/vf988c79f4b10/frames/000005.jpg",
+      "objects": [],
+      "brightness": 0.40490311630053255,
+      "sharpness": 3.7054311160259252,
+      "scene_distance": 0.06993974137897467
+    },
+    {
+      "time": 6.006,
+      "image": "videos/vf988c79f4b10/frames/000006.jpg",
+      "objects": [],
+      "brightness": 0.4353616349703462,
+      "sharpness": 2.8565022139991276,
+      "scene_distance": 0.4290159959631791
+    },
+    {
+      "time": 7.007,
+      "image": "videos/vf988c79f4b10/frames/000007.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7858476638793945,
+          "xyxy": [
+            1213.3671875,
+            3.8894805908203125,
+            1751.829833984375,
+            486.6144104003906
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.49060001969337463,
+          "xyxy": [
+            592.4994506835938,
+            3.458404541015625,
+            1122.529296875,
+            420.8077697753906
+          ]
+        }
+      ],
+      "brightness": 0.4396262103606875,
+      "sharpness": 3.101560565181826,
+      "scene_distance": 0.16271338117998516
+    },
+    {
+      "time": 8.008,
+      "image": "videos/vf988c79f4b10/frames/000008.jpg",
+      "objects": [
+        {
+          "label": "apple",
+          "confidence": 0.4727157652378082,
+          "xyxy": [
+            578.592041015625,
+            7.4459381103515625,
+            1114.524658203125,
+            587.4119262695312
+          ]
+        },
+        {
+          "label": "orange",
+          "confidence": 0.45884594321250916,
+          "xyxy": [
+            1111.984130859375,
+            3.649749755859375,
+            1636.039306640625,
+            557.6793823242188
+          ]
+        }
+      ],
+      "brightness": 0.4450805930010893,
+      "sharpness": 3.815350100019141,
+      "scene_distance": 0.1540959857255797
+    },
+    {
+      "time": 9.009,
+      "image": "videos/vf988c79f4b10/frames/000009.jpg",
+      "objects": [],
+      "brightness": 0.2937914113562092,
+      "sharpness": 33.33521650395439,
+      "scene_distance": 0.606772192885342
+    },
+    {
+      "time": 10.009999,
+      "image": "videos/vf988c79f4b10/frames/000010.jpg",
+      "objects": [],
+      "brightness": 0.29644426289034137,
+      "sharpness": 33.252839017433665,
+      "scene_distance": 0.09664435002662507
+    },
+    {
+      "time": 11.010999,
+      "image": "videos/vf988c79f4b10/frames/000011.jpg",
+      "objects": [],
+      "brightness": 0.31412613282195595,
+      "sharpness": 31.562151216081304,
+      "scene_distance": 0.09457202786575492
+    },
+    {
+      "time": 12.011999,
+      "image": "videos/vf988c79f4b10/frames/000012.jpg",
+      "objects": [],
+      "brightness": 0.3365782611655773,
+      "sharpness": 33.0360924885277,
+      "scene_distance": 0.0973220938479524
+    },
+    {
+      "time": 13.012999,
+      "image": "videos/vf988c79f4b10/frames/000013.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.42184534668922424,
+          "xyxy": [
+            511.8765563964844,
+            683.5618286132812,
+            831.6290283203125,
+            963.3896484375
+          ]
+        }
+      ],
+      "brightness": 0.3599361345618494,
+      "sharpness": 36.244438168353796,
+      "scene_distance": 0.4534323740433856
+    },
+    {
+      "time": 14.013999,
+      "image": "videos/vf988c79f4b10/frames/000014.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.5147907733917236,
+          "xyxy": [
+            580.646484375,
+            3.4478759765625,
+            1539.1739501953125,
+            1025.72216796875
+          ]
+        }
+      ],
+      "brightness": 0.40106290660554345,
+      "sharpness": 458.8517539517122,
+      "scene_distance": 0.6100879484874944
+    },
+    {
+      "time": 15.014999,
+      "image": "videos/vf988c79f4b10/frames/000015.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.7312668561935425,
+          "xyxy": [
+            412.43182373046875,
+            118.13241577148438,
+            1376.7806396484375,
+            1062.0684814453125
+          ]
+        }
+      ],
+      "brightness": 0.4017464786068749,
+      "sharpness": 349.10843460534187,
+      "scene_distance": 0.44620279941660196
+    },
+    {
+      "time": 16.015999,
+      "image": "videos/vf988c79f4b10/frames/000016.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.8788852095603943,
+          "xyxy": [
+            564.4901123046875,
+            7.966278076171875,
+            1509.8724365234375,
+            1067.487060546875
+          ]
+        }
+      ],
+      "brightness": 0.4180782876422174,
+      "sharpness": 601.8290046256993,
+      "scene_distance": 0.16337064307736424
+    },
+    {
+      "time": 17.000316,
+      "image": "videos/vf988c79f4b10/frames/000017.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.8378406167030334,
+          "xyxy": [
+            671.99853515625,
+            119.42779541015625,
+            1547.4429931640625,
+            1064.6912841796875
+          ]
+        }
+      ],
+      "brightness": 0.3958688593106996,
+      "sharpness": 236.3382126823845,
+      "scene_distance": 0.15899345631449996
+    },
+    {
+      "time": 18.001316,
+      "image": "videos/vf988c79f4b10/frames/000018.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.6819623708724976,
+          "xyxy": [
+            569.7079467773438,
+            43.134613037109375,
+            1470.166748046875,
+            1065.0498046875
+          ]
+        }
+      ],
+      "brightness": 0.40932632458847734,
+      "sharpness": 53.26786843540429,
+      "scene_distance": 0.12800986682094723
+    },
+    {
+      "time": 19.002316,
+      "image": "videos/vf988c79f4b10/frames/000019.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.4459559917449951,
+          "xyxy": [
+            513.5806274414062,
+            70.45733642578125,
+            1365.5849609375,
+            934.5778198242188
+          ]
+        }
+      ],
+      "brightness": 0.376510552832244,
+      "sharpness": 79.19441690518009,
+      "scene_distance": 0.4280611259361465
+    },
+    {
+      "time": 20.003316,
+      "image": "videos/vf988c79f4b10/frames/000020.jpg",
+      "objects": [
+        {
+          "label": "bear",
+          "confidence": 0.6043993830680847,
+          "xyxy": [
+            709.178466796875,
+            363.7965087890625,
+            1752.980712890625,
+            941.757080078125
+          ]
+        }
+      ],
+      "brightness": 0.34396108123033164,
+      "sharpness": 214.46277183905963,
+      "scene_distance": 0.4641255053844071
+    },
+    {
+      "time": 21.004316,
+      "image": "videos/vf988c79f4b10/frames/000021.jpg",
+      "objects": [
+        {
+          "label": "cat",
+          "confidence": 0.5079756379127502,
+          "xyxy": [
+            703.714599609375,
+            345.1134338378906,
+            1901.984619140625,
+            954.9970703125
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.45938625931739807,
+          "xyxy": [
+            624.4107055664062,
+            1.539642333984375,
+            775.5369873046875,
+            205.2916259765625
+          ]
+        }
+      ],
+      "brightness": 0.3330318060094408,
+      "sharpness": 637.7764710720093,
+      "scene_distance": 0.3598318649760786
+    },
+    {
+      "time": 22.005316,
+      "image": "videos/vf988c79f4b10/frames/000022.jpg",
+      "objects": [
+        {
+          "label": "cat",
+          "confidence": 0.7462468147277832,
+          "xyxy": [
+            692.5973510742188,
+            264.41937255859375,
+            1899.44140625,
+            954.1886596679688
+          ]
+        }
+      ],
+      "brightness": 0.35843073710965867,
+      "sharpness": 842.177217172435,
+      "scene_distance": 0.15238373096285426
+    },
+    {
+      "time": 23.006315,
+      "image": "videos/vf988c79f4b10/frames/000023.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.5427019000053406,
+          "xyxy": [
+            637.634765625,
+            580.465087890625,
+            1919.0020751953125,
+            946.44384765625
+          ]
+        }
+      ],
+      "brightness": 0.35845823688271605,
+      "sharpness": 609.0110228868821,
+      "scene_distance": 0.13915804271645055
+    },
+    {
+      "time": 24.007315,
+      "image": "videos/vf988c79f4b10/frames/000024.jpg",
+      "objects": [
+        {
+          "label": "bear",
+          "confidence": 0.43915486335754395,
+          "xyxy": [
+            721.9002685546875,
+            334.5557556152344,
+            1893.8184814453125,
+            997.9927978515625
+          ]
+        }
+      ],
+      "brightness": 0.36546200413035584,
+      "sharpness": 590.0864233789812,
+      "scene_distance": 0.13749993827193727
+    },
+    {
+      "time": 25.008315,
+      "image": "videos/vf988c79f4b10/frames/000025.jpg",
+      "objects": [
+        {
+          "label": "bear",
+          "confidence": 0.5128419995307922,
+          "xyxy": [
+            728.6911010742188,
+            334.8785705566406,
+            1902.6995849609375,
+            997.1119995117188
+          ]
+        }
+      ],
+      "brightness": 0.3652007591230937,
+      "sharpness": 774.3365047642501,
+      "scene_distance": 0.11811408902656781
+    },
+    {
+      "time": 26.009315,
+      "image": "videos/vf988c79f4b10/frames/000026.jpg",
+      "objects": [
+        {
+          "label": "cat",
+          "confidence": 0.7520126104354858,
+          "xyxy": [
+            720.1646118164062,
+            218.97152709960938,
+            1920.0,
+            983.81494140625
+          ]
+        }
+      ],
+      "brightness": 0.3889394025357057,
+      "sharpness": 806.6461599296075,
+      "scene_distance": 0.1527776685449197
+    },
+    {
+      "time": 27.010315,
+      "image": "videos/vf988c79f4b10/frames/000027.jpg",
+      "objects": [],
+      "brightness": 0.40625228266460905,
+      "sharpness": 208.37186162612258,
+      "scene_distance": 0.4640741193246799
+    },
+    {
+      "time": 28.011315,
+      "image": "videos/vf988c79f4b10/frames/000028.jpg",
+      "objects": [],
+      "brightness": 0.41052796878782377,
+      "sharpness": 28.319627454539596,
+      "scene_distance": 0.42698609934549947
+    },
+    {
+      "time": 29.012315,
+      "image": "videos/vf988c79f4b10/frames/000029.jpg",
+      "objects": [],
+      "brightness": 0.41394583635923504,
+      "sharpness": 31.54797049600711,
+      "scene_distance": 0.09182292278581043
+    },
+    {
+      "time": 30.013315,
+      "image": "videos/vf988c79f4b10/frames/000030.jpg",
+      "objects": [],
+      "brightness": 0.4155076158163883,
+      "sharpness": 31.842766735633095,
+      "scene_distance": 0.07066735655668122
+    },
+    {
+      "time": 31.014315,
+      "image": "videos/vf988c79f4b10/frames/000031.jpg",
+      "objects": [],
+      "brightness": 0.41378549760953764,
+      "sharpness": 29.18763912789418,
+      "scene_distance": 0.06552824804567446
+    },
+    {
+      "time": 32.015315,
+      "image": "videos/vf988c79f4b10/frames/000032.jpg",
+      "objects": [],
+      "brightness": 0.4039605762829823,
+      "sharpness": 28.38412241941015,
+      "scene_distance": 0.07041190332890468
+    },
+    {
+      "time": 33.016315,
+      "image": "videos/vf988c79f4b10/frames/000033.jpg",
+      "objects": [],
+      "brightness": 0.3997011108841685,
+      "sharpness": 28.832225506464116,
+      "scene_distance": 0.07611395756321498
+    }
+  ],
+  "segments": [],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -19.504662686748006,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -15.600160820459344,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -17.08974194401453,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -18.629269933047404,
+      "peak": false
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -17.0745220209809,
+      "peak": false
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -16.68076579043683,
+      "peak": false
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -17.710195375314324,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -20.306364565536924,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -23.989591790056004,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -18.05430846569944,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -15.239532429110785,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "dbfs": -15.542107172970887,
+      "peak": false
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "dbfs": -15.697392684061608,
+      "peak": false
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "dbfs": -15.656162765859158,
+      "peak": false
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "dbfs": -15.530861003243672,
+      "peak": false
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "dbfs": -15.816080840894333,
+      "peak": false
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "dbfs": -16.6250006563839,
+      "peak": false
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "dbfs": -16.810171924728586,
+      "peak": false
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "dbfs": -16.756570965782537,
+      "peak": false
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "dbfs": -15.199235094269842,
+      "peak": true
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "dbfs": -14.695347094403958,
+      "peak": true
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "dbfs": -15.145770070181761,
+      "peak": true
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "dbfs": -15.575134617652083,
+      "peak": false
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "dbfs": -15.409583266905864,
+      "peak": false
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "dbfs": -15.206839834678956,
+      "peak": false
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "dbfs": -16.01746698879339,
+      "peak": false
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "dbfs": -15.459670598631305,
+      "peak": false
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "dbfs": -15.569405912351373,
+      "peak": false
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "dbfs": -16.11041386174834,
+      "peak": false
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "dbfs": -16.54146704630041,
+      "peak": false
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "dbfs": -15.924867830390362,
+      "peak": false
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "dbfs": -14.517621302970248,
+      "peak": true
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "dbfs": -15.685573595824682,
+      "peak": false
+    },
+    {
+      "start": 33.0,
+      "end": 33.281,
+      "dbfs": -16.087280261012186,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "object",
+      "label": "apple",
+      "start": 1.001,
+      "end": 2.002,
+      "confidence": 0.5522025227546692,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000001.jpg",
+      "id": "e00000"
+    },
+    {
+      "type": "object",
+      "label": "apple",
+      "start": 4.004,
+      "end": 5.005,
+      "confidence": 0.46513646841049194,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000004.jpg",
+      "id": "e00001"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 7.007,
+      "end": 9.009,
+      "confidence": 0.6223468035459518,
+      "samples": 2,
+      "frame": "videos/vf988c79f4b10/frames/000007.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "object",
+      "label": "apple",
+      "start": 8.008,
+      "end": 9.009,
+      "confidence": 0.4727157652378082,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000008.jpg",
+      "id": "e00003"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 9.009,
+      "end": 9.109,
+      "value": 0.606772192885342,
+      "frame": "videos/vf988c79f4b10/frames/000009.jpg",
+      "id": "e00004"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 13.013,
+      "end": 14.014,
+      "confidence": 0.42184534668922424,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000013.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 13.013,
+      "end": 13.113,
+      "value": 0.4534323740433856,
+      "frame": "videos/vf988c79f4b10/frames/000013.jpg",
+      "id": "e00006"
+    },
+    {
+      "type": "object",
+      "label": "bird",
+      "start": 14.014,
+      "end": 20.0033,
+      "confidence": 0.6817836364110311,
+      "samples": 6,
+      "frame": "videos/vf988c79f4b10/frames/000014.jpg",
+      "id": "e00007"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 14.014,
+      "end": 14.114,
+      "value": 0.6100879484874944,
+      "frame": "videos/vf988c79f4b10/frames/000014.jpg",
+      "id": "e00008"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 19.0,
+      "end": 22.0,
+      "value": -14.695347094403958,
+      "id": "e00009"
+    },
+    {
+      "type": "object",
+      "label": "bear",
+      "start": 20.0033,
+      "end": 21.0043,
+      "confidence": 0.6043993830680847,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000020.jpg",
+      "id": "e00010"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 20.0033,
+      "end": 20.1033,
+      "value": 0.4641255053844071,
+      "frame": "videos/vf988c79f4b10/frames/000020.jpg",
+      "id": "e00011"
+    },
+    {
+      "type": "object",
+      "label": "cat",
+      "start": 21.0043,
+      "end": 23.0063,
+      "confidence": 0.6271112263202667,
+      "samples": 2,
+      "frame": "videos/vf988c79f4b10/frames/000021.jpg",
+      "id": "e00012"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 21.0043,
+      "end": 22.0053,
+      "confidence": 0.45938625931739807,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000021.jpg",
+      "id": "e00013"
+    },
+    {
+      "type": "object",
+      "label": "bird",
+      "start": 23.0063,
+      "end": 24.0073,
+      "confidence": 0.5427019000053406,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000023.jpg",
+      "id": "e00014"
+    },
+    {
+      "type": "object",
+      "label": "bear",
+      "start": 24.0073,
+      "end": 26.0093,
+      "confidence": 0.4759984314441681,
+      "samples": 2,
+      "frame": "videos/vf988c79f4b10/frames/000024.jpg",
+      "id": "e00015"
+    },
+    {
+      "type": "object",
+      "label": "cat",
+      "start": 26.0093,
+      "end": 27.0103,
+      "confidence": 0.7520126104354858,
+      "samples": 1,
+      "frame": "videos/vf988c79f4b10/frames/000026.jpg",
+      "id": "e00016"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 27.0103,
+      "end": 27.1103,
+      "value": 0.4640741193246799,
+      "frame": "videos/vf988c79f4b10/frames/000027.jpg",
+      "id": "e00017"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 31.0,
+      "end": 32.0,
+      "value": -14.517621302970248,
+      "id": "e00018"
+    }
+  ],
+  "entities": [
+    {
+      "label": "apple",
+      "detections": 4,
+      "frames": 3,
+      "max_simultaneous": 2,
+      "intervals": 3,
+      "seconds": 3.0030000000000014,
+      "mean_confidence": 0.48714762926101685,
+      "frame_share": 0.08823529411764706,
+      "duration_share": 0.09023166371202793
+    },
+    {
+      "label": "bear",
+      "detections": 3,
+      "frames": 3,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 3.003,
+      "mean_confidence": 0.5187987486521403,
+      "frame_share": 0.08823529411764706,
+      "duration_share": 0.09023166371202788
+    },
+    {
+      "label": "bird",
+      "detections": 7,
+      "frames": 7,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 6.990300000000001,
+      "mean_confidence": 0.6619148169245038,
+      "frame_share": 0.20588235294117646,
+      "duration_share": 0.21003876085454168
+    },
+    {
+      "label": "cat",
+      "detections": 3,
+      "frames": 3,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 3.003,
+      "mean_confidence": 0.6687450210253397,
+      "frame_share": 0.08823529411764706,
+      "duration_share": 0.09023166371202788
+    },
+    {
+      "label": "orange",
+      "detections": 4,
+      "frames": 3,
+      "max_simultaneous": 2,
+      "intervals": 2,
+      "seconds": 3.003,
+      "mean_confidence": 0.5392847433686256,
+      "frame_share": 0.08823529411764706,
+      "duration_share": 0.09023166371202788
+    },
+    {
+      "label": "person",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0009999999999977,
+      "mean_confidence": 0.45938625931739807,
+      "frame_share": 0.029411764705882353,
+      "duration_share": 0.03007722123734256
+    }
+  ],
+  "warnings": [
+    "empty_transcript: речь не распознана; проверьте тишину/музыку/качество аудио"
+  ],
+  "detected_language": "en",
+  "signature": "4f4d535aefb830dc740e491c669aa51b36d8b2ae920ad6a68e5cd92539c7a1d1",
+  "processing_seconds": 56.672
+}

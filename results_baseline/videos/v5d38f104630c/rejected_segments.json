@@ -1,0 +1,11 @@
+[
+  {
+    "start": 50.52,
+    "end": 51.92,
+    "text": "You",
+    "avg_logprob": -0.9616933465003967,
+    "no_speech_prob": 0.7072707414627075,
+    "compression_ratio": 0.2727272727272727,
+    "reason": "high_no_speech_probability"
+  }
+]

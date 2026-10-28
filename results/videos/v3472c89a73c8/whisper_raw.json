@@ -1,0 +1,1798 @@
+{
+  "text": " Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy. The solar system came into being about 4.5 billion years ago when a cloud of interstellar gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that collided to form the solar system. The solar system is located in the Milky Way's Orion Star cluster. Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun. Revolving around the Sun are 8 planets. The planets are divided into 2 categories based on their composition, terrestrial and Jovian. Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material. Their surfaces are solid, they don't have ring systems, they have very few or no moons, and they are relatively small. The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system at about three Earth months. Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an atmosphere of carbon dioxide and extensive lava flows. Next to this world of fire is a world of water, Earth. The water systems on this planet helped",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.0599999999999996,
+      "end": 8.14,
+      "text": " Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy.",
+      "tokens": [
+        50364,
+        2621,
+        7936,
+        1185,
+        307,
+        472,
+        295,
+        670,
+        5923,
+        2570,
+        7936,
+        3652,
+        294,
+        264,
+        2302,
+        38465,
+        9558,
+        17639,
+        13,
+        50870
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14428119659423827,
+      "compression_ratio": 1.5520833333333333,
+      "no_speech_prob": 0.015818441286683083,
+      "words": [
+        {
+          "word": " Our",
+          "start": 2.0599999999999996,
+          "end": 2.7,
+          "probability": 0.8596779108047485
+        },
+        {
+          "word": " solar",
+          "start": 2.7,
+          "end": 2.98,
+          "probability": 0.799266517162323
+        },
+        {
+          "word": " system",
+          "start": 2.98,
+          "end": 3.52,
+          "probability": 0.9983342289924622
+        },
+        {
+          "word": " is",
+          "start": 3.52,
+          "end": 3.76,
+          "probability": 0.9934287667274475
+        },
+        {
+          "word": " one",
+          "start": 3.76,
+          "end": 3.98,
+          "probability": 0.878935694694519
+        },
+        {
+          "word": " of",
+          "start": 3.98,
+          "end": 4.08,
+          "probability": 0.9826194047927856
+        },
+        {
+          "word": " over",
+          "start": 4.08,
+          "end": 4.36,
+          "probability": 0.8961514234542847
+        },
+        {
+          "word": " 500",
+          "start": 4.36,
+          "end": 5.22,
+          "probability": 0.942607045173645
+        },
+        {
+          "word": " known",
+          "start": 5.22,
+          "end": 5.52,
+          "probability": 0.9923644065856934
+        },
+        {
+          "word": " solar",
+          "start": 5.52,
+          "end": 5.86,
+          "probability": 0.986761212348938
+        },
+        {
+          "word": " systems",
+          "start": 5.86,
+          "end": 6.3,
+          "probability": 0.9970172643661499
+        },
+        {
+          "word": " in",
+          "start": 6.3,
+          "end": 6.56,
+          "probability": 0.9959267973899841
+        },
+        {
+          "word": " the",
+          "start": 6.56,
+          "end": 6.68,
+          "probability": 0.9983823299407959
+        },
+        {
+          "word": " entire",
+          "start": 6.68,
+          "end": 7.12,
+          "probability": 0.9968166947364807
+        },
+        {
+          "word": " Milky",
+          "start": 7.12,
+          "end": 7.38,
+          "probability": 0.9893074631690979
+        },
+        {
+          "word": " Way",
+          "start": 7.38,
+          "end": 7.64,
+          "probability": 0.9911467432975769
+        },
+        {
+          "word": " galaxy.",
+          "start": 7.64,
+          "end": 8.14,
+          "probability": 0.8539329767227173
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.120000000000001,
+      "end": 16.04,
+      "text": " The solar system came into being about 4.5 billion years ago when a cloud of interstellar",
+      "tokens": [
+        50870,
+        440,
+        7936,
+        1185,
+        1361,
+        666,
+        885,
+        466,
+        1017,
+        13,
+        20,
+        5218,
+        924,
+        2057,
+        562,
+        257,
+        4588,
+        295,
+        728,
+        17816,
+        289,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14428119659423827,
+      "compression_ratio": 1.5520833333333333,
+      "no_speech_prob": 0.015818441286683083,
+      "words": [
+        {
+          "word": " The",
+          "start": 9.82,
+          "end": 10.14,
+          "probability": 0.9945631623268127
+        },
+        {
+          "word": " solar",
+          "start": 10.14,
+          "end": 10.44,
+          "probability": 0.978276789188385
+        },
+        {
+          "word": " system",
+          "start": 10.44,
+          "end": 10.88,
+          "probability": 0.9992126226425171
+        },
+        {
+          "word": " came",
+          "start": 10.88,
+          "end": 11.14,
+          "probability": 0.9982284903526306
+        },
+        {
+          "word": " into",
+          "start": 11.14,
+          "end": 11.4,
+          "probability": 0.9863525629043579
+        },
+        {
+          "word": " being",
+          "start": 11.4,
+          "end": 11.64,
+          "probability": 0.9992198944091797
+        },
+        {
+          "word": " about",
+          "start": 11.64,
+          "end": 12.02,
+          "probability": 0.9922985434532166
+        },
+        {
+          "word": " 4",
+          "start": 12.02,
+          "end": 12.38,
+          "probability": 0.984233558177948
+        },
+        {
+          "word": ".5",
+          "start": 12.38,
+          "end": 13.04,
+          "probability": 0.9978196918964386
+        },
+        {
+          "word": " billion",
+          "start": 13.04,
+          "end": 13.54,
+          "probability": 0.9920054078102112
+        },
+        {
+          "word": " years",
+          "start": 13.54,
+          "end": 13.86,
+          "probability": 0.9981827735900879
+        },
+        {
+          "word": " ago",
+          "start": 13.86,
+          "end": 14.26,
+          "probability": 0.9969382286071777
+        },
+        {
+          "word": " when",
+          "start": 14.26,
+          "end": 14.72,
+          "probability": 0.8092716932296753
+        },
+        {
+          "word": " a",
+          "start": 14.72,
+          "end": 14.86,
+          "probability": 0.9958856701850891
+        },
+        {
+          "word": " cloud",
+          "start": 14.86,
+          "end": 15.12,
+          "probability": 0.9765878319740295
+        },
+        {
+          "word": " of",
+          "start": 15.12,
+          "end": 15.36,
+          "probability": 0.9961141347885132
+        },
+        {
+          "word": " interstellar",
+          "start": 15.36,
+          "end": 16.04,
+          "probability": 0.9424769083658854
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.04,
+      "end": 21.72,
+      "text": " gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that",
+      "tokens": [
+        51164,
+        4211,
+        293,
+        8634,
+        24578,
+        11,
+        16505,
+        294,
+        257,
+        7936,
+        408,
+        37775,
+        11,
+        257,
+        30310,
+        278,
+        12355,
+        295,
+        2527,
+        300,
+        51450
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14428119659423827,
+      "compression_ratio": 1.5520833333333333,
+      "no_speech_prob": 0.015818441286683083,
+      "words": [
+        {
+          "word": " gas",
+          "start": 16.04,
+          "end": 16.28,
+          "probability": 0.9962108135223389
+        },
+        {
+          "word": " and",
+          "start": 16.28,
+          "end": 16.6,
+          "probability": 0.9888840913772583
+        },
+        {
+          "word": " dust",
+          "start": 16.6,
+          "end": 16.78,
+          "probability": 0.9984220266342163
+        },
+        {
+          "word": " collapsed,",
+          "start": 16.78,
+          "end": 17.32,
+          "probability": 0.9928493499755859
+        },
+        {
+          "word": " resulting",
+          "start": 18.02,
+          "end": 18.36,
+          "probability": 0.998429000377655
+        },
+        {
+          "word": " in",
+          "start": 18.36,
+          "end": 18.54,
+          "probability": 0.9989553689956665
+        },
+        {
+          "word": " a",
+          "start": 18.54,
+          "end": 18.64,
+          "probability": 0.9942481517791748
+        },
+        {
+          "word": " solar",
+          "start": 18.64,
+          "end": 18.9,
+          "probability": 0.9986218214035034
+        },
+        {
+          "word": " nebula,",
+          "start": 18.9,
+          "end": 19.4,
+          "probability": 0.9806245267391205
+        },
+        {
+          "word": " a",
+          "start": 19.9,
+          "end": 19.98,
+          "probability": 0.9950842261314392
+        },
+        {
+          "word": " swirling",
+          "start": 19.98,
+          "end": 20.58,
+          "probability": 0.9949619174003601
+        },
+        {
+          "word": " disk",
+          "start": 20.58,
+          "end": 20.82,
+          "probability": 0.527016818523407
+        },
+        {
+          "word": " of",
+          "start": 20.82,
+          "end": 21.02,
+          "probability": 0.9582818746566772
+        },
+        {
+          "word": " material",
+          "start": 21.02,
+          "end": 21.44,
+          "probability": 0.9982624650001526
+        },
+        {
+          "word": " that",
+          "start": 21.44,
+          "end": 21.72,
+          "probability": 0.9899841547012329
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.72,
+      "end": 23.8,
+      "text": " collided to form the solar system.",
+      "tokens": [
+        51450,
+        1263,
+        2112,
+        281,
+        1254,
+        264,
+        7936,
+        1185,
+        13,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14428119659423827,
+      "compression_ratio": 1.5520833333333333,
+      "no_speech_prob": 0.015818441286683083,
+      "words": [
+        {
+          "word": " collided",
+          "start": 21.72,
+          "end": 22.34,
+          "probability": 0.9921247065067291
+        },
+        {
+          "word": " to",
+          "start": 22.34,
+          "end": 22.54,
+          "probability": 0.9958523511886597
+        },
+        {
+          "word": " form",
+          "start": 22.54,
+          "end": 22.84,
+          "probability": 0.9972255825996399
+        },
+        {
+          "word": " the",
+          "start": 22.84,
+          "end": 23.08,
+          "probability": 0.9660934805870056
+        },
+        {
+          "word": " solar",
+          "start": 23.08,
+          "end": 23.4,
+          "probability": 0.9737743139266968
+        },
+        {
+          "word": " system.",
+          "start": 23.4,
+          "end": 23.8,
+          "probability": 0.9993523955345154
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2380,
+      "start": 25.28,
+      "end": 29.74,
+      "text": " The solar system is located in the Milky Way's Orion Star cluster.",
+      "tokens": [
+        50364,
+        440,
+        7936,
+        1185,
+        307,
+        6870,
+        294,
+        264,
+        38465,
+        9558,
+        311,
+        41028,
+        5705,
+        13630,
+        13,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20927518208821613,
+      "compression_ratio": 1.4898989898989898,
+      "no_speech_prob": 0.05837695300579071,
+      "words": [
+        {
+          "word": " The",
+          "start": 25.28,
+          "end": 26.0,
+          "probability": 0.5478374361991882
+        },
+        {
+          "word": " solar",
+          "start": 26.0,
+          "end": 26.32,
+          "probability": 0.9476869106292725
+        },
+        {
+          "word": " system",
+          "start": 26.32,
+          "end": 26.72,
+          "probability": 0.9967923760414124
+        },
+        {
+          "word": " is",
+          "start": 26.72,
+          "end": 26.88,
+          "probability": 0.9933956265449524
+        },
+        {
+          "word": " located",
+          "start": 26.88,
+          "end": 27.34,
+          "probability": 0.9959754347801208
+        },
+        {
+          "word": " in",
+          "start": 27.34,
+          "end": 27.64,
+          "probability": 0.9964874982833862
+        },
+        {
+          "word": " the",
+          "start": 27.64,
+          "end": 27.74,
+          "probability": 0.9858560562133789
+        },
+        {
+          "word": " Milky",
+          "start": 27.74,
+          "end": 28.02,
+          "probability": 0.9803342223167419
+        },
+        {
+          "word": " Way's",
+          "start": 28.02,
+          "end": 28.48,
+          "probability": 0.954812228679657
+        },
+        {
+          "word": " Orion",
+          "start": 28.48,
+          "end": 28.92,
+          "probability": 0.9635856747627258
+        },
+        {
+          "word": " Star",
+          "start": 28.92,
+          "end": 29.28,
+          "probability": 0.601677656173706
+        },
+        {
+          "word": " cluster.",
+          "start": 29.28,
+          "end": 29.74,
+          "probability": 0.7694042325019836
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2380,
+      "start": 30.4,
+      "end": 37.36,
+      "text": " Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun.",
+      "tokens": [
+        50664,
+        5686,
+        2119,
+        4,
+        295,
+        6105,
+        294,
+        264,
+        17639,
+        3975,
+        35788,
+        3652,
+        11,
+        293,
+        472,
+        295,
+        729,
+        6105,
+        307,
+        527,
+        1065,
+        6163,
+        13,
+        51064
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20927518208821613,
+      "compression_ratio": 1.4898989898989898,
+      "no_speech_prob": 0.05837695300579071,
+      "words": [
+        {
+          "word": " Only",
+          "start": 30.4,
+          "end": 30.66,
+          "probability": 0.9883900880813599
+        },
+        {
+          "word": " 15",
+          "start": 30.66,
+          "end": 31.38,
+          "probability": 0.9650911688804626
+        },
+        {
+          "word": "%",
+          "start": 31.38,
+          "end": 31.86,
+          "probability": 0.8952038288116455
+        },
+        {
+          "word": " of",
+          "start": 31.86,
+          "end": 32.04,
+          "probability": 0.9959356784820557
+        },
+        {
+          "word": " stars",
+          "start": 32.04,
+          "end": 32.34,
+          "probability": 0.7576419711112976
+        },
+        {
+          "word": " in",
+          "start": 32.34,
+          "end": 32.54,
+          "probability": 0.9944857954978943
+        },
+        {
+          "word": " the",
+          "start": 32.54,
+          "end": 32.6,
+          "probability": 0.9957358837127686
+        },
+        {
+          "word": " galaxy",
+          "start": 32.6,
+          "end": 33.04,
+          "probability": 0.8996613621711731
+        },
+        {
+          "word": " host",
+          "start": 33.04,
+          "end": 33.52,
+          "probability": 0.9823546409606934
+        },
+        {
+          "word": " planetary",
+          "start": 33.52,
+          "end": 33.92,
+          "probability": 0.9002153277397156
+        },
+        {
+          "word": " systems,",
+          "start": 33.92,
+          "end": 34.7,
+          "probability": 0.9937846660614014
+        },
+        {
+          "word": " and",
+          "start": 34.98,
+          "end": 35.08,
+          "probability": 0.9934491515159607
+        },
+        {
+          "word": " one",
+          "start": 35.08,
+          "end": 35.28,
+          "probability": 0.9802021384239197
+        },
+        {
+          "word": " of",
+          "start": 35.28,
+          "end": 35.4,
+          "probability": 0.9931586384773254
+        },
+        {
+          "word": " those",
+          "start": 35.4,
+          "end": 35.52,
+          "probability": 0.9481955170631409
+        },
+        {
+          "word": " stars",
+          "start": 35.52,
+          "end": 35.9,
+          "probability": 0.9921000599861145
+        },
+        {
+          "word": " is",
+          "start": 35.9,
+          "end": 36.22,
+          "probability": 0.9320704340934753
+        },
+        {
+          "word": " our",
+          "start": 36.22,
+          "end": 36.56,
+          "probability": 0.989282488822937
+        },
+        {
+          "word": " own",
+          "start": 36.56,
+          "end": 36.88,
+          "probability": 0.9853256344795227
+        },
+        {
+          "word": " Sun.",
+          "start": 36.88,
+          "end": 37.36,
+          "probability": 0.6698117256164551
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2380,
+      "start": 39.94,
+      "end": 42.6,
+      "text": " Revolving around the Sun are 8 planets.",
+      "tokens": [
+        51164,
+        1300,
+        9646,
+        798,
+        926,
+        264,
+        6163,
+        366,
+        1649,
+        15126,
+        13,
+        51314
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20927518208821613,
+      "compression_ratio": 1.4898989898989898,
+      "no_speech_prob": 0.05837695300579071,
+      "words": [
+        {
+          "word": " Revolving",
+          "start": 39.94,
+          "end": 40.66,
+          "probability": 0.8828508655230204
+        },
+        {
+          "word": " around",
+          "start": 40.66,
+          "end": 40.92,
+          "probability": 0.994684636592865
+        },
+        {
+          "word": " the",
+          "start": 40.92,
+          "end": 41.1,
+          "probability": 0.9655211567878723
+        },
+        {
+          "word": " Sun",
+          "start": 41.1,
+          "end": 41.42,
+          "probability": 0.9070656895637512
+        },
+        {
+          "word": " are",
+          "start": 41.42,
+          "end": 41.78,
+          "probability": 0.9625683426856995
+        },
+        {
+          "word": " 8",
+          "start": 41.78,
+          "end": 42.08,
+          "probability": 0.49186810851097107
+        },
+        {
+          "word": " planets.",
+          "start": 42.08,
+          "end": 42.6,
+          "probability": 0.9891933798789978
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2380,
+      "start": 43.34,
+      "end": 48.84,
+      "text": " The planets are divided into 2 categories based on their composition, terrestrial and Jovian.",
+      "tokens": [
+        51314,
+        440,
+        15126,
+        366,
+        6666,
+        666,
+        568,
+        10479,
+        2361,
+        322,
+        641,
+        12686,
+        11,
+        1796,
+        34539,
+        293,
+        3139,
+        85,
+        952,
+        13,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20927518208821613,
+      "compression_ratio": 1.4898989898989898,
+      "no_speech_prob": 0.05837695300579071,
+      "words": [
+        {
+          "word": " The",
+          "start": 43.34,
+          "end": 43.54,
+          "probability": 0.990132212638855
+        },
+        {
+          "word": " planets",
+          "start": 43.54,
+          "end": 43.9,
+          "probability": 0.9970988035202026
+        },
+        {
+          "word": " are",
+          "start": 43.9,
+          "end": 44.08,
+          "probability": 0.9983972907066345
+        },
+        {
+          "word": " divided",
+          "start": 44.08,
+          "end": 44.42,
+          "probability": 0.9973747730255127
+        },
+        {
+          "word": " into",
+          "start": 44.42,
+          "end": 44.68,
+          "probability": 0.9948425889015198
+        },
+        {
+          "word": " 2",
+          "start": 44.68,
+          "end": 45.04,
+          "probability": 0.5321328639984131
+        },
+        {
+          "word": " categories",
+          "start": 45.04,
+          "end": 45.64,
+          "probability": 0.9952127933502197
+        },
+        {
+          "word": " based",
+          "start": 45.64,
+          "end": 46.12,
+          "probability": 0.9385949373245239
+        },
+        {
+          "word": " on",
+          "start": 46.12,
+          "end": 46.2,
+          "probability": 0.9969602227210999
+        },
+        {
+          "word": " their",
+          "start": 46.2,
+          "end": 46.32,
+          "probability": 0.8338033556938171
+        },
+        {
+          "word": " composition,",
+          "start": 46.32,
+          "end": 46.9,
+          "probability": 0.9926510453224182
+        },
+        {
+          "word": " terrestrial",
+          "start": 47.48,
+          "end": 47.98,
+          "probability": 0.926259845495224
+        },
+        {
+          "word": " and",
+          "start": 47.98,
+          "end": 48.36,
+          "probability": 0.977393627166748
+        },
+        {
+          "word": " Jovian.",
+          "start": 48.36,
+          "end": 48.84,
+          "probability": 0.7951304713884989
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4884,
+      "start": 49.559999999999995,
+      "end": 55.5,
+      "text": " Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material.",
+      "tokens": [
+        50364,
+        6564,
+        34539,
+        15126,
+        11,
+        3009,
+        31780,
+        11,
+        23994,
+        11,
+        4755,
+        11,
+        293,
+        9692,
+        11,
+        366,
+        10029,
+        1027,
+        295,
+        33301,
+        2527,
+        13,
+        50714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17550019990830196,
+      "compression_ratio": 1.6093023255813954,
+      "no_speech_prob": 0.024992551654577255,
+      "words": [
+        {
+          "word": " Terrestrial",
+          "start": 49.559999999999995,
+          "end": 50.16,
+          "probability": 0.5640194341540337
+        },
+        {
+          "word": " planets,",
+          "start": 50.16,
+          "end": 50.6,
+          "probability": 0.9945312142372131
+        },
+        {
+          "word": " including",
+          "start": 50.82,
+          "end": 51.12,
+          "probability": 0.9975029826164246
+        },
+        {
+          "word": " Mercury,",
+          "start": 51.12,
+          "end": 51.52,
+          "probability": 0.3408253490924835
+        },
+        {
+          "word": " Venus,",
+          "start": 51.92,
+          "end": 52.1,
+          "probability": 0.9956554174423218
+        },
+        {
+          "word": " Earth,",
+          "start": 52.44,
+          "end": 52.64,
+          "probability": 0.9595423340797424
+        },
+        {
+          "word": " and",
+          "start": 52.74,
+          "end": 52.84,
+          "probability": 0.9900944828987122
+        },
+        {
+          "word": " Mars,",
+          "start": 52.84,
+          "end": 53.16,
+          "probability": 0.99854975938797
+        },
+        {
+          "word": " are",
+          "start": 53.48,
+          "end": 53.72,
+          "probability": 0.9960999488830566
+        },
+        {
+          "word": " primarily",
+          "start": 53.72,
+          "end": 54.3,
+          "probability": 0.9988490343093872
+        },
+        {
+          "word": " made",
+          "start": 54.3,
+          "end": 54.54,
+          "probability": 0.9985452890396118
+        },
+        {
+          "word": " of",
+          "start": 54.54,
+          "end": 54.72,
+          "probability": 0.9959864020347595
+        },
+        {
+          "word": " rocky",
+          "start": 54.72,
+          "end": 54.96,
+          "probability": 0.9196715950965881
+        },
+        {
+          "word": " material.",
+          "start": 54.96,
+          "end": 55.5,
+          "probability": 0.9925986528396606
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4884,
+      "start": 56.06,
+      "end": 61.24,
+      "text": " Their surfaces are solid, they don't have ring systems, they have very few or no moons,",
+      "tokens": [
+        50714,
+        6710,
+        16130,
+        366,
+        5100,
+        11,
+        436,
+        500,
+        380,
+        362,
+        4875,
+        3652,
+        11,
+        436,
+        362,
+        588,
+        1326,
+        420,
+        572,
+        34139,
+        11,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17550019990830196,
+      "compression_ratio": 1.6093023255813954,
+      "no_speech_prob": 0.024992551654577255,
+      "words": [
+        {
+          "word": " Their",
+          "start": 56.06,
+          "end": 56.3,
+          "probability": 0.9875920414924622
+        },
+        {
+          "word": " surfaces",
+          "start": 56.3,
+          "end": 56.68,
+          "probability": 0.9950963854789734
+        },
+        {
+          "word": " are",
+          "start": 56.68,
+          "end": 56.94,
+          "probability": 0.9984672665596008
+        },
+        {
+          "word": " solid,",
+          "start": 56.94,
+          "end": 57.42,
+          "probability": 0.9986950755119324
+        },
+        {
+          "word": " they",
+          "start": 57.78,
+          "end": 57.88,
+          "probability": 0.9924716949462891
+        },
+        {
+          "word": " don't",
+          "start": 57.88,
+          "end": 58.1,
+          "probability": 0.9917519688606262
+        },
+        {
+          "word": " have",
+          "start": 58.1,
+          "end": 58.3,
+          "probability": 0.9973213076591492
+        },
+        {
+          "word": " ring",
+          "start": 58.3,
+          "end": 58.44,
+          "probability": 0.9437636137008667
+        },
+        {
+          "word": " systems,",
+          "start": 58.44,
+          "end": 58.84,
+          "probability": 0.9654521346092224
+        },
+        {
+          "word": " they",
+          "start": 59.28,
+          "end": 59.42,
+          "probability": 0.9855506420135498
+        },
+        {
+          "word": " have",
+          "start": 59.42,
+          "end": 59.58,
+          "probability": 0.9945151805877686
+        },
+        {
+          "word": " very",
+          "start": 59.58,
+          "end": 59.88,
+          "probability": 0.9952356219291687
+        },
+        {
+          "word": " few",
+          "start": 59.88,
+          "end": 60.22,
+          "probability": 0.9996262788772583
+        },
+        {
+          "word": " or",
+          "start": 60.22,
+          "end": 60.56,
+          "probability": 0.8510037064552307
+        },
+        {
+          "word": " no",
+          "start": 60.56,
+          "end": 60.82,
+          "probability": 0.9909781217575073
+        },
+        {
+          "word": " moons,",
+          "start": 60.82,
+          "end": 61.24,
+          "probability": 0.9740327596664429
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4884,
+      "start": 61.64,
+      "end": 63.24,
+      "text": " and they are relatively small.",
+      "tokens": [
+        51014,
+        293,
+        436,
+        366,
+        7226,
+        1359,
+        13,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17550019990830196,
+      "compression_ratio": 1.6093023255813954,
+      "no_speech_prob": 0.024992551654577255,
+      "words": [
+        {
+          "word": " and",
+          "start": 61.64,
+          "end": 61.94,
+          "probability": 0.9943939447402954
+        },
+        {
+          "word": " they",
+          "start": 61.94,
+          "end": 62.2,
+          "probability": 0.97478187084198
+        },
+        {
+          "word": " are",
+          "start": 62.2,
+          "end": 62.3,
+          "probability": 0.9960577487945557
+        },
+        {
+          "word": " relatively",
+          "start": 62.3,
+          "end": 62.76,
+          "probability": 0.9984799027442932
+        },
+        {
+          "word": " small.",
+          "start": 62.76,
+          "end": 63.24,
+          "probability": 0.9996399879455566
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 4884,
+      "start": 65.24000000000001,
+      "end": 70.68,
+      "text": " The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system",
+      "tokens": [
+        51164,
+        440,
+        16998,
+        293,
+        13699,
+        281,
+        264,
+        6163,
+        307,
+        31780,
+        11,
+        597,
+        575,
+        264,
+        31875,
+        13991,
+        294,
+        264,
+        7936,
+        1185,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17550019990830196,
+      "compression_ratio": 1.6093023255813954,
+      "no_speech_prob": 0.024992551654577255,
+      "words": [
+        {
+          "word": " The",
+          "start": 65.24000000000001,
+          "end": 65.84,
+          "probability": 0.9759957194328308
+        },
+        {
+          "word": " smallest",
+          "start": 65.84,
+          "end": 66.28,
+          "probability": 0.9969196319580078
+        },
+        {
+          "word": " and",
+          "start": 66.28,
+          "end": 66.52,
+          "probability": 0.988172709941864
+        },
+        {
+          "word": " closest",
+          "start": 66.52,
+          "end": 66.82,
+          "probability": 0.9958508014678955
+        },
+        {
+          "word": " to",
+          "start": 66.82,
+          "end": 67.08,
+          "probability": 0.9977097511291504
+        },
+        {
+          "word": " the",
+          "start": 67.08,
+          "end": 67.2,
+          "probability": 0.9947915077209473
+        },
+        {
+          "word": " Sun",
+          "start": 67.2,
+          "end": 67.4,
+          "probability": 0.5166370868682861
+        },
+        {
+          "word": " is",
+          "start": 67.4,
+          "end": 67.64,
+          "probability": 0.9700798988342285
+        },
+        {
+          "word": " Mercury,",
+          "start": 67.64,
+          "end": 68.02,
+          "probability": 0.9559617042541504
+        },
+        {
+          "word": " which",
+          "start": 68.44,
+          "end": 68.7,
+          "probability": 0.9969831109046936
+        },
+        {
+          "word": " has",
+          "start": 68.7,
+          "end": 68.82,
+          "probability": 0.9970302581787109
+        },
+        {
+          "word": " the",
+          "start": 68.82,
+          "end": 69.0,
+          "probability": 0.9966878294944763
+        },
+        {
+          "word": " shortest",
+          "start": 69.0,
+          "end": 69.36,
+          "probability": 0.9954401254653931
+        },
+        {
+          "word": " orbit",
+          "start": 69.36,
+          "end": 69.76,
+          "probability": 0.997548520565033
+        },
+        {
+          "word": " in",
+          "start": 69.76,
+          "end": 69.96,
+          "probability": 0.9955654740333557
+        },
+        {
+          "word": " the",
+          "start": 69.96,
+          "end": 70.06,
+          "probability": 0.9551669955253601
+        },
+        {
+          "word": " solar",
+          "start": 70.06,
+          "end": 70.26,
+          "probability": 0.9251556396484375
+        },
+        {
+          "word": " system",
+          "start": 70.26,
+          "end": 70.68,
+          "probability": 0.9981096982955933
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 4884,
+      "start": 70.68,
+      "end": 72.28,
+      "text": " at about three Earth months.",
+      "tokens": [
+        51464,
+        412,
+        466,
+        1045,
+        4755,
+        2493,
+        13,
+        51564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17550019990830196,
+      "compression_ratio": 1.6093023255813954,
+      "no_speech_prob": 0.024992551654577255,
+      "words": [
+        {
+          "word": " at",
+          "start": 70.68,
+          "end": 70.98,
+          "probability": 0.8888075351715088
+        },
+        {
+          "word": " about",
+          "start": 70.98,
+          "end": 71.22,
+          "probability": 0.9933267831802368
+        },
+        {
+          "word": " three",
+          "start": 71.22,
+          "end": 71.54,
+          "probability": 0.8304979205131531
+        },
+        {
+          "word": " Earth",
+          "start": 71.54,
+          "end": 71.86,
+          "probability": 0.884373664855957
+        },
+        {
+          "word": " months.",
+          "start": 71.86,
+          "end": 72.28,
+          "probability": 0.9384232759475708
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7228,
+      "start": 73.16,
+      "end": 79.94,
+      "text": " Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an",
+      "tokens": [
+        50364,
+        23994,
+        307,
+        264,
+        32780,
+        5054,
+        365,
+        12633,
+        295,
+        493,
+        281,
+        26687,
+        22,
+        5310,
+        31199,
+        3462,
+        281,
+        364,
+        50744
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21243778864542642,
+      "compression_ratio": 1.3776223776223777,
+      "no_speech_prob": 0.14148052036762238,
+      "words": [
+        {
+          "word": " Venus",
+          "start": 73.16,
+          "end": 73.8,
+          "probability": 0.8237572908401489
+        },
+        {
+          "word": " is",
+          "start": 73.8,
+          "end": 74.08,
+          "probability": 0.9925931096076965
+        },
+        {
+          "word": " the",
+          "start": 74.08,
+          "end": 74.26,
+          "probability": 0.9955659508705139
+        },
+        {
+          "word": " hottest",
+          "start": 74.26,
+          "end": 74.54,
+          "probability": 0.9805117845535278
+        },
+        {
+          "word": " planet",
+          "start": 74.54,
+          "end": 75.06,
+          "probability": 0.998336911201477
+        },
+        {
+          "word": " with",
+          "start": 75.06,
+          "end": 75.4,
+          "probability": 0.673500120639801
+        },
+        {
+          "word": " temperatures",
+          "start": 75.4,
+          "end": 75.92,
+          "probability": 0.9967104196548462
+        },
+        {
+          "word": " of",
+          "start": 75.92,
+          "end": 76.24,
+          "probability": 0.9661622643470764
+        },
+        {
+          "word": " up",
+          "start": 76.24,
+          "end": 76.4,
+          "probability": 0.9932984709739685
+        },
+        {
+          "word": " to",
+          "start": 76.4,
+          "end": 76.58,
+          "probability": 0.9895254373550415
+        },
+        {
+          "word": " 867",
+          "start": 76.58,
+          "end": 78.02,
+          "probability": 0.7159746289253235
+        },
+        {
+          "word": " degrees",
+          "start": 78.02,
+          "end": 78.34,
+          "probability": 0.9110191464424133
+        },
+        {
+          "word": " Fahrenheit",
+          "start": 78.34,
+          "end": 79.04,
+          "probability": 0.9723756313323975
+        },
+        {
+          "word": " due",
+          "start": 79.04,
+          "end": 79.66,
+          "probability": 0.8749976754188538
+        },
+        {
+          "word": " to",
+          "start": 79.66,
+          "end": 79.78,
+          "probability": 0.9996329545974731
+        },
+        {
+          "word": " an",
+          "start": 79.78,
+          "end": 79.94,
+          "probability": 0.9915424585342407
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7228,
+      "start": 79.94,
+      "end": 82.98,
+      "text": " atmosphere of carbon dioxide and extensive lava flows.",
+      "tokens": [
+        50744,
+        8018,
+        295,
+        5954,
+        19590,
+        293,
+        13246,
+        22097,
+        12867,
+        13,
+        50964
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21243778864542642,
+      "compression_ratio": 1.3776223776223777,
+      "no_speech_prob": 0.14148052036762238,
+      "words": [
+        {
+          "word": " atmosphere",
+          "start": 79.94,
+          "end": 80.36,
+          "probability": 0.9952848553657532
+        },
+        {
+          "word": " of",
+          "start": 80.36,
+          "end": 80.6,
+          "probability": 0.9857446551322937
+        },
+        {
+          "word": " carbon",
+          "start": 80.6,
+          "end": 80.76,
+          "probability": 0.9938148260116577
+        },
+        {
+          "word": " dioxide",
+          "start": 80.76,
+          "end": 81.3,
+          "probability": 0.9964258074760437
+        },
+        {
+          "word": " and",
+          "start": 81.3,
+          "end": 81.66,
+          "probability": 0.9905327558517456
+        },
+        {
+          "word": " extensive",
+          "start": 81.66,
+          "end": 82.16,
+          "probability": 0.9965946078300476
+        },
+        {
+          "word": " lava",
+          "start": 82.16,
+          "end": 82.52,
+          "probability": 0.9945611357688904
+        },
+        {
+          "word": " flows.",
+          "start": 82.52,
+          "end": 82.98,
+          "probability": 0.9918116331100464
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7228,
+      "start": 83.76,
+      "end": 87.12,
+      "text": " Next to this world of fire is a world of water, Earth.",
+      "tokens": [
+        50964,
+        3087,
+        281,
+        341,
+        1002,
+        295,
+        2610,
+        307,
+        257,
+        1002,
+        295,
+        1281,
+        11,
+        4755,
+        13,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21243778864542642,
+      "compression_ratio": 1.3776223776223777,
+      "no_speech_prob": 0.14148052036762238,
+      "words": [
+        {
+          "word": " Next",
+          "start": 83.76,
+          "end": 84.2,
+          "probability": 0.9855378866195679
+        },
+        {
+          "word": " to",
+          "start": 84.2,
+          "end": 84.36,
+          "probability": 0.9907410144805908
+        },
+        {
+          "word": " this",
+          "start": 84.36,
+          "end": 84.54,
+          "probability": 0.9943376183509827
+        },
+        {
+          "word": " world",
+          "start": 84.54,
+          "end": 84.74,
+          "probability": 0.9701785445213318
+        },
+        {
+          "word": " of",
+          "start": 84.74,
+          "end": 84.9,
+          "probability": 0.9949725866317749
+        },
+        {
+          "word": " fire",
+          "start": 84.9,
+          "end": 85.26,
+          "probability": 0.98585444688797
+        },
+        {
+          "word": " is",
+          "start": 85.26,
+          "end": 85.56,
+          "probability": 0.9647388458251953
+        },
+        {
+          "word": " a",
+          "start": 85.56,
+          "end": 85.62,
+          "probability": 0.8796122670173645
+        },
+        {
+          "word": " world",
+          "start": 85.62,
+          "end": 85.8,
+          "probability": 0.9727785587310791
+        },
+        {
+          "word": " of",
+          "start": 85.8,
+          "end": 86.0,
+          "probability": 0.9991243481636047
+        },
+        {
+          "word": " water,",
+          "start": 86.0,
+          "end": 86.32,
+          "probability": 0.9963876008987427
+        },
+        {
+          "word": " Earth.",
+          "start": 86.88,
+          "end": 87.12,
+          "probability": 0.7716147899627686
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8712,
+      "start": 87.78,
+      "end": 89.94,
+      "text": " The water systems on this planet helped",
+      "tokens": [
+        50364,
+        440,
+        1281,
+        3652,
+        322,
+        341,
+        5054,
+        4254,
+        50510
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4748661994934082,
+      "compression_ratio": 0.8297872340425532,
+      "no_speech_prob": 0.5836451649665833,
+      "words": [
+        {
+          "word": " The",
+          "start": 87.78,
+          "end": 88.3,
+          "probability": 0.5054056644439697
+        },
+        {
+          "word": " water",
+          "start": 88.3,
+          "end": 88.54,
+          "probability": 0.9597615003585815
+        },
+        {
+          "word": " systems",
+          "start": 88.54,
+          "end": 88.96,
+          "probability": 0.6961032748222351
+        },
+        {
+          "word": " on",
+          "start": 88.96,
+          "end": 89.16,
+          "probability": 0.9942163228988647
+        },
+        {
+          "word": " this",
+          "start": 89.16,
+          "end": 89.34,
+          "probability": 0.9903575778007507
+        },
+        {
+          "word": " planet",
+          "start": 89.34,
+          "end": 89.68,
+          "probability": 0.9941644072532654
+        },
+        {
+          "word": " helped",
+          "start": 89.68,
+          "end": 89.94,
+          "probability": 0.3368756175041199
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

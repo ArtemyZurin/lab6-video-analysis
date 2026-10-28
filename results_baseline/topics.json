@@ -1,0 +1,63 @@
+{
+  "method": "TF-IDF + KMeans",
+  "selected_k": 2,
+  "seed": 42,
+  "silhouette": 0.06876083508071565,
+  "candidates": [
+    {
+      "k": 2,
+      "silhouette": 0.06876083508071565
+    },
+    {
+      "k": 3,
+      "silhouette": 0.040020804792272276
+    },
+    {
+      "k": 4,
+      "silhouette": 0.005971602607239503
+    }
+  ],
+  "topics": [
+    {
+      "cluster": 0,
+      "keywords": [
+        "w3c",
+        "traffic",
+        "scissors",
+        "test",
+        "timer",
+        "light"
+      ],
+      "video_ids": [
+        "vb03a107a1954"
+      ],
+      "count": 1,
+      "share": 0.2
+    },
+    {
+      "cluster": 1,
+      "keywords": [
+        "person",
+        "bird",
+        "opencv",
+        "car",
+        "pedestrians",
+        "truck",
+        "trailer",
+        "judge",
+        "don",
+        "gatekeepers"
+      ],
+      "video_ids": [
+        "v5d38f104630c",
+        "v2a202706f0e9",
+        "v8610ff647554",
+        "ve64a6d21c181"
+      ],
+      "count": 4,
+      "share": 0.8
+    }
+  ],
+  "unassigned": 0,
+  "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+}

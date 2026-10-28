@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.2199999999999984,
+      "end": 9.48,
+      "text": "Black holes are among the most fascinating objects in our universe, and also the most mysterious.",
+      "avg_logprob": -0.18451135808771307,
+      "no_speech_prob": 0.226235494017601,
+      "compression_ratio": 1.544871794871795
+    },
+    {
+      "start": 12.98,
+      "end": 21.76,
+      "text": "A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape.",
+      "avg_logprob": -0.18451135808771307,
+      "no_speech_prob": 0.226235494017601,
+      "compression_ratio": 1.544871794871795
+    },
+    {
+      "start": 22.54,
+      "end": 30.32,
+      "text": "The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see.",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 31.14,
+      "end": 36.62,
+      "text": "When something crosses the event horizon, it collapses into the black hole's singularity,",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 36.96,
+      "end": 43.62,
+      "text": "an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply.",
+      "avg_logprob": -0.14466432114722025,
+      "no_speech_prob": 0.2296152114868164,
+      "compression_ratio": 1.6243386243386244
+    },
+    {
+      "start": 45.4,
+      "end": 51.42,
+      "text": "Scientists have theorized several different types of black holes, with stellar and supermassive",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 51.42,
+      "end": 53.26,
+      "text": "black holes being the most common.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 53.94,
+      "end": 57.52,
+      "text": "Stellar black holes form when massive stars die and collapse.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 58.48,
+      "end": 63.3,
+      "text": "They roughly tend to 20 times the mass of our sun and scatter throughout the universe.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    },
+    {
+      "start": 64.4,
+      "end": 68.42,
+      "text": "There could be millions of these stellar black holes in the Milky Way alone.",
+      "avg_logprob": -0.19645453691482545,
+      "no_speech_prob": 0.3902103900909424,
+      "compression_ratio": 1.6713615023474178
+    }
+  ],
+  "warnings": [
+    "asr_quality: 5 подозрительных сегментов исключено из поиска; см. rejected_segments.json"
+  ]
+}

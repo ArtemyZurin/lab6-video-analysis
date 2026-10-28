@@ -1,0 +1,1749 @@
+{
+  "text": " Like fireflies, on a still summer night, they gently dot and illuminate the infinite Velveteen sky. Stars. Be they millions or billions of years old are all born in nebulae, clouds of dust and mostly hydrogen gas. Within these stellar nurseries, stars begin life as proto stars or hot cores formed by the collection and collapse of dust and gas. As the proto-stars become hotter, hydrogen nuclei inside of the cores begin to fuse and create helium. It is this chemical reaction, thermonuclear fusion, that generates a star's heat and energy and causes it to shine. Stars are categorized by a number of characteristics. One of these classifications is by surface temperature, called spectral classes, these seven major groups range from the coolest stars, which are designated as M, and up to the hottest stars, which are designated as O. Stars are also classified by the amount of light they emit or luminosity. Called luminosity classes, these nine major groups range from the small, less bright white dwarves, to the large and extremely bright, hypergiants. But no matter their luminosity or surface temperature.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.36,
+      "text": " Like fireflies, on a still summer night,",
+      "tokens": [
+        50364,
+        1743,
+        2610,
+        24471,
+        11,
+        322,
+        257,
+        920,
+        4266,
+        1818,
+        11,
+        50556
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " Like",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.47927728295326233
+        },
+        {
+          "word": " fireflies,",
+          "start": 0.62,
+          "end": 1.48,
+          "probability": 0.9099534749984741
+        },
+        {
+          "word": " on",
+          "start": 1.74,
+          "end": 1.98,
+          "probability": 0.9922371506690979
+        },
+        {
+          "word": " a",
+          "start": 1.98,
+          "end": 2.08,
+          "probability": 0.9887563586235046
+        },
+        {
+          "word": " still",
+          "start": 2.08,
+          "end": 2.44,
+          "probability": 0.978080153465271
+        },
+        {
+          "word": " summer",
+          "start": 2.44,
+          "end": 2.98,
+          "probability": 0.8640365600585938
+        },
+        {
+          "word": " night,",
+          "start": 2.98,
+          "end": 3.36,
+          "probability": 0.9982001781463623
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.78,
+      "end": 7.66,
+      "text": " they gently dot and illuminate the infinite Velveteen sky.",
+      "tokens": [
+        50556,
+        436,
+        13073,
+        5893,
+        293,
+        28593,
+        473,
+        264,
+        13785,
+        17814,
+        85,
+        3498,
+        268,
+        5443,
+        13,
+        50756
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " they",
+          "start": 3.78,
+          "end": 4.06,
+          "probability": 0.9910469651222229
+        },
+        {
+          "word": " gently",
+          "start": 4.06,
+          "end": 4.38,
+          "probability": 0.9837700128555298
+        },
+        {
+          "word": " dot",
+          "start": 4.38,
+          "end": 4.66,
+          "probability": 0.8608713150024414
+        },
+        {
+          "word": " and",
+          "start": 4.66,
+          "end": 5.06,
+          "probability": 0.9957239627838135
+        },
+        {
+          "word": " illuminate",
+          "start": 5.06,
+          "end": 5.78,
+          "probability": 0.9866401851177216
+        },
+        {
+          "word": " the",
+          "start": 5.78,
+          "end": 6.06,
+          "probability": 0.986101508140564
+        },
+        {
+          "word": " infinite",
+          "start": 6.06,
+          "end": 6.52,
+          "probability": 0.825270414352417
+        },
+        {
+          "word": " Velveteen",
+          "start": 6.52,
+          "end": 7.28,
+          "probability": 0.7183025032281876
+        },
+        {
+          "word": " sky.",
+          "start": 7.28,
+          "end": 7.66,
+          "probability": 0.8317527770996094
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.86,
+      "end": 12.62,
+      "text": " Stars.",
+      "tokens": [
+        50968,
+        20957,
+        13,
+        51056
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " Stars.",
+          "start": 11.86,
+          "end": 12.62,
+          "probability": 0.5689137578010559
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.62,
+      "end": 17.08,
+      "text": " Be they millions or billions of years old",
+      "tokens": [
+        51056,
+        879,
+        436,
+        6803,
+        420,
+        17375,
+        295,
+        924,
+        1331,
+        51236
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " Be",
+          "start": 13.62,
+          "end": 14.12,
+          "probability": 0.684970498085022
+        },
+        {
+          "word": " they",
+          "start": 14.12,
+          "end": 14.26,
+          "probability": 0.9558994174003601
+        },
+        {
+          "word": " millions",
+          "start": 14.26,
+          "end": 14.68,
+          "probability": 0.9730538725852966
+        },
+        {
+          "word": " or",
+          "start": 14.68,
+          "end": 15.78,
+          "probability": 0.293556272983551
+        },
+        {
+          "word": " billions",
+          "start": 15.78,
+          "end": 16.22,
+          "probability": 0.9951393604278564
+        },
+        {
+          "word": " of",
+          "start": 16.22,
+          "end": 16.42,
+          "probability": 0.9951608777046204
+        },
+        {
+          "word": " years",
+          "start": 16.42,
+          "end": 16.62,
+          "probability": 0.9972237348556519
+        },
+        {
+          "word": " old",
+          "start": 16.62,
+          "end": 17.08,
+          "probability": 0.9969557523727417
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.08,
+      "end": 22.02,
+      "text": " are all born in nebulae, clouds of dust and mostly hydrogen gas.",
+      "tokens": [
+        51236,
+        366,
+        439,
+        4232,
+        294,
+        408,
+        37775,
+        68,
+        11,
+        12193,
+        295,
+        8634,
+        293,
+        5240,
+        12697,
+        4211,
+        13,
+        51476
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " are",
+          "start": 17.08,
+          "end": 17.68,
+          "probability": 0.7233406901359558
+        },
+        {
+          "word": " all",
+          "start": 17.68,
+          "end": 18.0,
+          "probability": 0.9971420168876648
+        },
+        {
+          "word": " born",
+          "start": 18.0,
+          "end": 18.4,
+          "probability": 0.7094957232475281
+        },
+        {
+          "word": " in",
+          "start": 18.4,
+          "end": 18.6,
+          "probability": 0.7950825691223145
+        },
+        {
+          "word": " nebulae,",
+          "start": 18.6,
+          "end": 19.36,
+          "probability": 0.8890745639801025
+        },
+        {
+          "word": " clouds",
+          "start": 19.74,
+          "end": 19.98,
+          "probability": 0.9864634275436401
+        },
+        {
+          "word": " of",
+          "start": 19.98,
+          "end": 20.14,
+          "probability": 0.9968006610870361
+        },
+        {
+          "word": " dust",
+          "start": 20.14,
+          "end": 20.36,
+          "probability": 0.9933515191078186
+        },
+        {
+          "word": " and",
+          "start": 20.36,
+          "end": 20.72,
+          "probability": 0.9043468236923218
+        },
+        {
+          "word": " mostly",
+          "start": 20.72,
+          "end": 21.12,
+          "probability": 0.9961758852005005
+        },
+        {
+          "word": " hydrogen",
+          "start": 21.12,
+          "end": 21.6,
+          "probability": 0.9907201528549194
+        },
+        {
+          "word": " gas.",
+          "start": 21.6,
+          "end": 22.02,
+          "probability": 0.9926849603652954
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.26,
+      "end": 24.86,
+      "text": " Within these stellar nurseries,",
+      "tokens": [
+        51528,
+        15996,
+        613,
+        42333,
+        9070,
+        21659,
+        11,
+        51628
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " Within",
+          "start": 23.26,
+          "end": 23.64,
+          "probability": 0.9898806810379028
+        },
+        {
+          "word": " these",
+          "start": 23.64,
+          "end": 23.96,
+          "probability": 0.9767167568206787
+        },
+        {
+          "word": " stellar",
+          "start": 23.96,
+          "end": 24.24,
+          "probability": 0.9977619647979736
+        },
+        {
+          "word": " nurseries,",
+          "start": 24.24,
+          "end": 24.86,
+          "probability": 0.9947774112224579
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.5,
+      "end": 27.62,
+      "text": " stars begin life as proto stars",
+      "tokens": [
+        51628,
+        6105,
+        1841,
+        993,
+        382,
+        47896,
+        6105,
+        51760
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35158487466665417,
+      "compression_ratio": 1.489247311827957,
+      "no_speech_prob": 0.039433203637599945,
+      "words": [
+        {
+          "word": " stars",
+          "start": 25.5,
+          "end": 25.68,
+          "probability": 0.98703533411026
+        },
+        {
+          "word": " begin",
+          "start": 25.68,
+          "end": 26.0,
+          "probability": 0.9954723119735718
+        },
+        {
+          "word": " life",
+          "start": 26.0,
+          "end": 26.34,
+          "probability": 0.9847047328948975
+        },
+        {
+          "word": " as",
+          "start": 26.34,
+          "end": 26.72,
+          "probability": 0.9848200082778931
+        },
+        {
+          "word": " proto",
+          "start": 26.72,
+          "end": 27.08,
+          "probability": 0.8499810099601746
+        },
+        {
+          "word": " stars",
+          "start": 27.08,
+          "end": 27.62,
+          "probability": 0.3528679311275482
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2762,
+      "start": 27.62,
+      "end": 30.18,
+      "text": " or hot cores formed by the collection",
+      "tokens": [
+        50364,
+        420,
+        2368,
+        24826,
+        8693,
+        538,
+        264,
+        5765,
+        50489
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " or",
+          "start": 27.62,
+          "end": 28.16,
+          "probability": 0.8229789733886719
+        },
+        {
+          "word": " hot",
+          "start": 28.16,
+          "end": 28.52,
+          "probability": 0.9838093519210815
+        },
+        {
+          "word": " cores",
+          "start": 28.52,
+          "end": 28.98,
+          "probability": 0.9672753214836121
+        },
+        {
+          "word": " formed",
+          "start": 28.98,
+          "end": 29.36,
+          "probability": 0.992137610912323
+        },
+        {
+          "word": " by",
+          "start": 29.36,
+          "end": 29.62,
+          "probability": 0.9979797005653381
+        },
+        {
+          "word": " the",
+          "start": 29.62,
+          "end": 29.74,
+          "probability": 0.9963003396987915
+        },
+        {
+          "word": " collection",
+          "start": 29.74,
+          "end": 30.18,
+          "probability": 0.9863325953483582
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2762,
+      "start": 30.18,
+      "end": 32.16,
+      "text": " and collapse of dust and gas.",
+      "tokens": [
+        50494,
+        293,
+        15584,
+        295,
+        8634,
+        293,
+        4211,
+        13,
+        50654
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " and",
+          "start": 30.18,
+          "end": 30.54,
+          "probability": 0.5827783942222595
+        },
+        {
+          "word": " collapse",
+          "start": 30.54,
+          "end": 30.9,
+          "probability": 0.9899999499320984
+        },
+        {
+          "word": " of",
+          "start": 30.9,
+          "end": 31.34,
+          "probability": 0.9975864887237549
+        },
+        {
+          "word": " dust",
+          "start": 31.34,
+          "end": 31.56,
+          "probability": 0.9989225268363953
+        },
+        {
+          "word": " and",
+          "start": 31.56,
+          "end": 31.88,
+          "probability": 0.9951015114784241
+        },
+        {
+          "word": " gas.",
+          "start": 31.88,
+          "end": 32.16,
+          "probability": 0.9982113838195801
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2762,
+      "start": 33.08,
+      "end": 35.34,
+      "text": " As the proto-stars become hotter,",
+      "tokens": [
+        50659,
+        1018,
+        264,
+        47896,
+        12,
+        46903,
+        1813,
+        32149,
+        11,
+        50759
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " As",
+          "start": 33.08,
+          "end": 33.8,
+          "probability": 0.9825625419616699
+        },
+        {
+          "word": " the",
+          "start": 33.8,
+          "end": 33.94,
+          "probability": 0.9987896084785461
+        },
+        {
+          "word": " proto",
+          "start": 33.94,
+          "end": 34.14,
+          "probability": 0.533458411693573
+        },
+        {
+          "word": "-stars",
+          "start": 34.14,
+          "end": 34.46,
+          "probability": 0.7996043264865875
+        },
+        {
+          "word": " become",
+          "start": 34.46,
+          "end": 34.84,
+          "probability": 0.9967382550239563
+        },
+        {
+          "word": " hotter,",
+          "start": 34.84,
+          "end": 35.34,
+          "probability": 0.9974645376205444
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2762,
+      "start": 35.88,
+      "end": 37.88,
+      "text": " hydrogen nuclei inside of the cores",
+      "tokens": [
+        50764,
+        12697,
+        49919,
+        1854,
+        295,
+        264,
+        24826,
+        50884
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " hydrogen",
+          "start": 35.88,
+          "end": 36.12,
+          "probability": 0.9953711628913879
+        },
+        {
+          "word": " nuclei",
+          "start": 36.12,
+          "end": 36.66,
+          "probability": 0.9771468043327332
+        },
+        {
+          "word": " inside",
+          "start": 36.66,
+          "end": 37.24,
+          "probability": 0.9807499051094055
+        },
+        {
+          "word": " of",
+          "start": 37.24,
+          "end": 37.48,
+          "probability": 0.9124450087547302
+        },
+        {
+          "word": " the",
+          "start": 37.48,
+          "end": 37.54,
+          "probability": 0.9692249298095703
+        },
+        {
+          "word": " cores",
+          "start": 37.54,
+          "end": 37.88,
+          "probability": 0.9879774451255798
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2762,
+      "start": 37.88,
+      "end": 40.42,
+      "text": " begin to fuse and create helium.",
+      "tokens": [
+        50889,
+        1841,
+        281,
+        31328,
+        293,
+        1884,
+        40175,
+        13,
+        51034
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " begin",
+          "start": 37.88,
+          "end": 38.48,
+          "probability": 0.9735562205314636
+        },
+        {
+          "word": " to",
+          "start": 38.48,
+          "end": 38.72,
+          "probability": 0.998089611530304
+        },
+        {
+          "word": " fuse",
+          "start": 38.72,
+          "end": 39.06,
+          "probability": 0.9841619729995728
+        },
+        {
+          "word": " and",
+          "start": 39.06,
+          "end": 39.48,
+          "probability": 0.9986165761947632
+        },
+        {
+          "word": " create",
+          "start": 39.48,
+          "end": 39.86,
+          "probability": 0.9917809367179871
+        },
+        {
+          "word": " helium.",
+          "start": 39.86,
+          "end": 40.42,
+          "probability": 0.9958000779151917
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2762,
+      "start": 41.18,
+      "end": 42.84,
+      "text": " It is this chemical reaction,",
+      "tokens": [
+        51039,
+        467,
+        307,
+        341,
+        7313,
+        5480,
+        11,
+        51139
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " It",
+          "start": 41.18,
+          "end": 41.36,
+          "probability": 0.9939501285552979
+        },
+        {
+          "word": " is",
+          "start": 41.36,
+          "end": 41.52,
+          "probability": 0.9950398802757263
+        },
+        {
+          "word": " this",
+          "start": 41.52,
+          "end": 41.76,
+          "probability": 0.9970210194587708
+        },
+        {
+          "word": " chemical",
+          "start": 41.76,
+          "end": 42.16,
+          "probability": 0.9980813264846802
+        },
+        {
+          "word": " reaction,",
+          "start": 42.16,
+          "end": 42.84,
+          "probability": 0.9988547563552856
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2762,
+      "start": 43.46,
+      "end": 44.58,
+      "text": " thermonuclear fusion,",
+      "tokens": [
+        51144,
+        8810,
+        266,
+        30335,
+        23100,
+        11,
+        51224
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " thermonuclear",
+          "start": 43.46,
+          "end": 44.0,
+          "probability": 0.909114400545756
+        },
+        {
+          "word": " fusion,",
+          "start": 44.0,
+          "end": 44.58,
+          "probability": 0.9942465424537659
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2762,
+      "start": 45.04,
+      "end": 47.4,
+      "text": " that generates a star's heat and energy",
+      "tokens": [
+        51229,
+        300,
+        23815,
+        257,
+        3543,
+        311,
+        3738,
+        293,
+        2281,
+        51359
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " that",
+          "start": 45.04,
+          "end": 45.18,
+          "probability": 0.9974935054779053
+        },
+        {
+          "word": " generates",
+          "start": 45.18,
+          "end": 45.68,
+          "probability": 0.9965981841087341
+        },
+        {
+          "word": " a",
+          "start": 45.68,
+          "end": 45.92,
+          "probability": 0.9907545447349548
+        },
+        {
+          "word": " star's",
+          "start": 45.92,
+          "end": 46.4,
+          "probability": 0.9840759634971619
+        },
+        {
+          "word": " heat",
+          "start": 46.4,
+          "end": 46.62,
+          "probability": 0.9988316893577576
+        },
+        {
+          "word": " and",
+          "start": 46.62,
+          "end": 46.88,
+          "probability": 0.9905016422271729
+        },
+        {
+          "word": " energy",
+          "start": 46.88,
+          "end": 47.4,
+          "probability": 0.9986143112182617
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2762,
+      "start": 47.4,
+      "end": 48.9,
+      "text": " and causes it to shine.",
+      "tokens": [
+        51364,
+        293,
+        7700,
+        309,
+        281,
+        12207,
+        13,
+        51509
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " and",
+          "start": 47.4,
+          "end": 47.78,
+          "probability": 0.8770737648010254
+        },
+        {
+          "word": " causes",
+          "start": 47.78,
+          "end": 48.12,
+          "probability": 0.9965051412582397
+        },
+        {
+          "word": " it",
+          "start": 48.12,
+          "end": 48.36,
+          "probability": 0.9987095594406128
+        },
+        {
+          "word": " to",
+          "start": 48.36,
+          "end": 48.56,
+          "probability": 0.9992800354957581
+        },
+        {
+          "word": " shine.",
+          "start": 48.56,
+          "end": 48.9,
+          "probability": 0.9963158965110779
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2762,
+      "start": 50.62,
+      "end": 53.54,
+      "text": " Stars are categorized by a number of characteristics.",
+      "tokens": [
+        51514,
+        20957,
+        366,
+        19250,
+        1602,
+        538,
+        257,
+        1230,
+        295,
+        10891,
+        13,
+        51689
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21956275857013205,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.24441975355148315,
+      "words": [
+        {
+          "word": " Stars",
+          "start": 50.62,
+          "end": 51.06,
+          "probability": 0.7840096354484558
+        },
+        {
+          "word": " are",
+          "start": 51.06,
+          "end": 51.32,
+          "probability": 0.9994937181472778
+        },
+        {
+          "word": " categorized",
+          "start": 51.32,
+          "end": 52.16,
+          "probability": 0.9891759753227234
+        },
+        {
+          "word": " by",
+          "start": 52.16,
+          "end": 52.38,
+          "probability": 0.9984174966812134
+        },
+        {
+          "word": " a",
+          "start": 52.38,
+          "end": 52.48,
+          "probability": 0.9945196509361267
+        },
+        {
+          "word": " number",
+          "start": 52.48,
+          "end": 52.74,
+          "probability": 0.9992955923080444
+        },
+        {
+          "word": " of",
+          "start": 52.74,
+          "end": 52.9,
+          "probability": 0.9980010390281677
+        },
+        {
+          "word": " characteristics.",
+          "start": 52.9,
+          "end": 53.54,
+          "probability": 0.9972871541976929
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5354,
+      "start": 53.54,
+      "end": 59.3,
+      "text": " One of these classifications is by surface temperature, called spectral classes,",
+      "tokens": [
+        50364,
+        1485,
+        295,
+        613,
+        1508,
+        7833,
+        307,
+        538,
+        3753,
+        4292,
+        11,
+        1219,
+        42761,
+        5359,
+        11,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15117851893107095,
+      "compression_ratio": 1.849056603773585,
+      "no_speech_prob": 0.5068532228469849,
+      "words": [
+        {
+          "word": " One",
+          "start": 53.54,
+          "end": 54.56,
+          "probability": 0.28497034311294556
+        },
+        {
+          "word": " of",
+          "start": 54.56,
+          "end": 54.7,
+          "probability": 0.9884381890296936
+        },
+        {
+          "word": " these",
+          "start": 54.7,
+          "end": 54.9,
+          "probability": 0.976643979549408
+        },
+        {
+          "word": " classifications",
+          "start": 54.9,
+          "end": 55.74,
+          "probability": 0.9580617547035217
+        },
+        {
+          "word": " is",
+          "start": 55.74,
+          "end": 56.14,
+          "probability": 0.9897616505622864
+        },
+        {
+          "word": " by",
+          "start": 56.14,
+          "end": 56.32,
+          "probability": 0.9676932096481323
+        },
+        {
+          "word": " surface",
+          "start": 56.32,
+          "end": 56.72,
+          "probability": 0.853499710559845
+        },
+        {
+          "word": " temperature,",
+          "start": 56.72,
+          "end": 57.3,
+          "probability": 0.992793083190918
+        },
+        {
+          "word": " called",
+          "start": 57.7,
+          "end": 58.08,
+          "probability": 0.9929896593093872
+        },
+        {
+          "word": " spectral",
+          "start": 58.08,
+          "end": 58.74,
+          "probability": 0.9815989136695862
+        },
+        {
+          "word": " classes,",
+          "start": 58.74,
+          "end": 59.3,
+          "probability": 0.9366109371185303
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5354,
+      "start": 59.94,
+      "end": 64.82,
+      "text": " these seven major groups range from the coolest stars, which are designated as M,",
+      "tokens": [
+        50664,
+        613,
+        3407,
+        2563,
+        3935,
+        3613,
+        490,
+        264,
+        22013,
+        6105,
+        11,
+        597,
+        366,
+        21688,
+        382,
+        376,
+        11,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15117851893107095,
+      "compression_ratio": 1.849056603773585,
+      "no_speech_prob": 0.5068532228469849,
+      "words": [
+        {
+          "word": " these",
+          "start": 59.94,
+          "end": 60.08,
+          "probability": 0.6931390166282654
+        },
+        {
+          "word": " seven",
+          "start": 60.08,
+          "end": 60.42,
+          "probability": 0.846011221408844
+        },
+        {
+          "word": " major",
+          "start": 60.42,
+          "end": 60.74,
+          "probability": 0.9976721405982971
+        },
+        {
+          "word": " groups",
+          "start": 60.74,
+          "end": 61.14,
+          "probability": 0.9967285394668579
+        },
+        {
+          "word": " range",
+          "start": 61.14,
+          "end": 61.58,
+          "probability": 0.986257791519165
+        },
+        {
+          "word": " from",
+          "start": 61.58,
+          "end": 61.94,
+          "probability": 0.9972143769264221
+        },
+        {
+          "word": " the",
+          "start": 61.94,
+          "end": 62.12,
+          "probability": 0.9980691075325012
+        },
+        {
+          "word": " coolest",
+          "start": 62.12,
+          "end": 62.46,
+          "probability": 0.9877368211746216
+        },
+        {
+          "word": " stars,",
+          "start": 62.46,
+          "end": 62.96,
+          "probability": 0.9929555654525757
+        },
+        {
+          "word": " which",
+          "start": 63.32,
+          "end": 63.42,
+          "probability": 0.9945079684257507
+        },
+        {
+          "word": " are",
+          "start": 63.42,
+          "end": 63.56,
+          "probability": 0.9980812072753906
+        },
+        {
+          "word": " designated",
+          "start": 63.56,
+          "end": 64.02,
+          "probability": 0.9958370923995972
+        },
+        {
+          "word": " as",
+          "start": 64.02,
+          "end": 64.48,
+          "probability": 0.9935101866722107
+        },
+        {
+          "word": " M,",
+          "start": 64.48,
+          "end": 64.82,
+          "probability": 0.7577143907546997
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5354,
+      "start": 65.34,
+      "end": 68.56,
+      "text": " and up to the hottest stars, which are designated as O.",
+      "tokens": [
+        50914,
+        293,
+        493,
+        281,
+        264,
+        32780,
+        6105,
+        11,
+        597,
+        366,
+        21688,
+        382,
+        422,
+        13,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15117851893107095,
+      "compression_ratio": 1.849056603773585,
+      "no_speech_prob": 0.5068532228469849,
+      "words": [
+        {
+          "word": " and",
+          "start": 65.34,
+          "end": 65.52,
+          "probability": 0.9954196214675903
+        },
+        {
+          "word": " up",
+          "start": 65.52,
+          "end": 65.7,
+          "probability": 0.9942076206207275
+        },
+        {
+          "word": " to",
+          "start": 65.7,
+          "end": 65.9,
+          "probability": 0.9905930161476135
+        },
+        {
+          "word": " the",
+          "start": 65.9,
+          "end": 66.06,
+          "probability": 0.9975934624671936
+        },
+        {
+          "word": " hottest",
+          "start": 66.06,
+          "end": 66.34,
+          "probability": 0.9885030388832092
+        },
+        {
+          "word": " stars,",
+          "start": 66.34,
+          "end": 66.86,
+          "probability": 0.9908215999603271
+        },
+        {
+          "word": " which",
+          "start": 67.1,
+          "end": 67.18,
+          "probability": 0.9973356127738953
+        },
+        {
+          "word": " are",
+          "start": 67.18,
+          "end": 67.3,
+          "probability": 0.9970947504043579
+        },
+        {
+          "word": " designated",
+          "start": 67.3,
+          "end": 67.84,
+          "probability": 0.9987517595291138
+        },
+        {
+          "word": " as",
+          "start": 67.84,
+          "end": 68.32,
+          "probability": 0.9969123601913452
+        },
+        {
+          "word": " O.",
+          "start": 68.32,
+          "end": 68.56,
+          "probability": 0.9280853271484375
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5354,
+      "start": 69.48,
+      "end": 73.94,
+      "text": " Stars are also classified by the amount of light they emit or luminosity.",
+      "tokens": [
+        51114,
+        20957,
+        366,
+        611,
+        20627,
+        538,
+        264,
+        2372,
+        295,
+        1442,
+        436,
+        32084,
+        420,
+        32476,
+        20373,
+        13,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15117851893107095,
+      "compression_ratio": 1.849056603773585,
+      "no_speech_prob": 0.5068532228469849,
+      "words": [
+        {
+          "word": " Stars",
+          "start": 69.48,
+          "end": 69.94,
+          "probability": 0.910368800163269
+        },
+        {
+          "word": " are",
+          "start": 69.94,
+          "end": 70.12,
+          "probability": 0.9977031350135803
+        },
+        {
+          "word": " also",
+          "start": 70.12,
+          "end": 70.46,
+          "probability": 0.9965818524360657
+        },
+        {
+          "word": " classified",
+          "start": 70.46,
+          "end": 71.04,
+          "probability": 0.9742555022239685
+        },
+        {
+          "word": " by",
+          "start": 71.04,
+          "end": 71.3,
+          "probability": 0.997837245464325
+        },
+        {
+          "word": " the",
+          "start": 71.3,
+          "end": 71.42,
+          "probability": 0.9977328777313232
+        },
+        {
+          "word": " amount",
+          "start": 71.42,
+          "end": 71.66,
+          "probability": 0.9869155883789062
+        },
+        {
+          "word": " of",
+          "start": 71.66,
+          "end": 71.98,
+          "probability": 0.9974918365478516
+        },
+        {
+          "word": " light",
+          "start": 71.98,
+          "end": 72.18,
+          "probability": 0.986564040184021
+        },
+        {
+          "word": " they",
+          "start": 72.18,
+          "end": 72.4,
+          "probability": 0.9714632034301758
+        },
+        {
+          "word": " emit",
+          "start": 72.4,
+          "end": 72.6,
+          "probability": 0.9709317684173584
+        },
+        {
+          "word": " or",
+          "start": 72.6,
+          "end": 73.16,
+          "probability": 0.515346109867096
+        },
+        {
+          "word": " luminosity.",
+          "start": 73.16,
+          "end": 73.94,
+          "probability": 0.9870538413524628
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5354,
+      "start": 74.46,
+      "end": 81.22,
+      "text": " Called luminosity classes, these nine major groups range from the small, less bright white dwarves,",
+      "tokens": [
+        51364,
+        45001,
+        32476,
+        20373,
+        5359,
+        11,
+        613,
+        4949,
+        2563,
+        3935,
+        3613,
+        490,
+        264,
+        1359,
+        11,
+        1570,
+        4730,
+        2418,
+        24524,
+        977,
+        11,
+        51764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15117851893107095,
+      "compression_ratio": 1.849056603773585,
+      "no_speech_prob": 0.5068532228469849,
+      "words": [
+        {
+          "word": " Called",
+          "start": 74.46,
+          "end": 74.78,
+          "probability": 0.9585130214691162
+        },
+        {
+          "word": " luminosity",
+          "start": 74.78,
+          "end": 75.62,
+          "probability": 0.9731768071651459
+        },
+        {
+          "word": " classes,",
+          "start": 75.62,
+          "end": 76.14,
+          "probability": 0.9916816353797913
+        },
+        {
+          "word": " these",
+          "start": 76.7,
+          "end": 76.84,
+          "probability": 0.9966768026351929
+        },
+        {
+          "word": " nine",
+          "start": 76.84,
+          "end": 77.14,
+          "probability": 0.968957245349884
+        },
+        {
+          "word": " major",
+          "start": 77.14,
+          "end": 77.54,
+          "probability": 0.99912029504776
+        },
+        {
+          "word": " groups",
+          "start": 77.54,
+          "end": 77.94,
+          "probability": 0.9981056451797485
+        },
+        {
+          "word": " range",
+          "start": 77.94,
+          "end": 78.3,
+          "probability": 0.9967525005340576
+        },
+        {
+          "word": " from",
+          "start": 78.3,
+          "end": 78.66,
+          "probability": 0.9969576597213745
+        },
+        {
+          "word": " the",
+          "start": 78.66,
+          "end": 78.8,
+          "probability": 0.9788392186164856
+        },
+        {
+          "word": " small,",
+          "start": 78.8,
+          "end": 79.22,
+          "probability": 0.9858916401863098
+        },
+        {
+          "word": " less",
+          "start": 79.44,
+          "end": 79.72,
+          "probability": 0.9836195111274719
+        },
+        {
+          "word": " bright",
+          "start": 79.72,
+          "end": 80.18,
+          "probability": 0.9826117753982544
+        },
+        {
+          "word": " white",
+          "start": 80.18,
+          "end": 80.54,
+          "probability": 0.3634587824344635
+        },
+        {
+          "word": " dwarves,",
+          "start": 80.54,
+          "end": 81.22,
+          "probability": 0.9403219223022461
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8122,
+      "start": 81.22,
+      "end": 85.2,
+      "text": " to the large and extremely bright, hypergiants.",
+      "tokens": [
+        50364,
+        281,
+        264,
+        2416,
+        293,
+        4664,
+        4730,
+        11,
+        9848,
+        7834,
+        1719,
+        13,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36937713623046875,
+      "compression_ratio": 1.146067415730337,
+      "no_speech_prob": 0.3344818353652954,
+      "words": [
+        {
+          "word": " to",
+          "start": 81.22,
+          "end": 82.38,
+          "probability": 0.7160300016403198
+        },
+        {
+          "word": " the",
+          "start": 82.38,
+          "end": 82.5,
+          "probability": 0.9862989783287048
+        },
+        {
+          "word": " large",
+          "start": 82.5,
+          "end": 82.86,
+          "probability": 0.9851224422454834
+        },
+        {
+          "word": " and",
+          "start": 82.86,
+          "end": 83.12,
+          "probability": 0.943952202796936
+        },
+        {
+          "word": " extremely",
+          "start": 83.12,
+          "end": 83.64,
+          "probability": 0.9962567090988159
+        },
+        {
+          "word": " bright,",
+          "start": 83.64,
+          "end": 84.16,
+          "probability": 0.997590184211731
+        },
+        {
+          "word": " hypergiants.",
+          "start": 84.26,
+          "end": 85.2,
+          "probability": 0.6769259174664816
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8122,
+      "start": 86.88,
+      "end": 89.94,
+      "text": " But no matter their luminosity or surface temperature.",
+      "tokens": [
+        50664,
+        583,
+        572,
+        1871,
+        641,
+        32476,
+        20373,
+        420,
+        3753,
+        4292,
+        13,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36937713623046875,
+      "compression_ratio": 1.146067415730337,
+      "no_speech_prob": 0.3344818353652954,
+      "words": [
+        {
+          "word": " But",
+          "start": 86.88,
+          "end": 87.58,
+          "probability": 0.9708887338638306
+        },
+        {
+          "word": " no",
+          "start": 87.58,
+          "end": 87.74,
+          "probability": 0.9551874399185181
+        },
+        {
+          "word": " matter",
+          "start": 87.74,
+          "end": 87.98,
+          "probability": 0.9997981190681458
+        },
+        {
+          "word": " their",
+          "start": 87.98,
+          "end": 88.18,
+          "probability": 0.9347651600837708
+        },
+        {
+          "word": " luminosity",
+          "start": 88.18,
+          "end": 88.86,
+          "probability": 0.990511953830719
+        },
+        {
+          "word": " or",
+          "start": 88.86,
+          "end": 89.18,
+          "probability": 0.9268072247505188
+        },
+        {
+          "word": " surface",
+          "start": 89.18,
+          "end": 89.6,
+          "probability": 0.9939829707145691
+        },
+        {
+          "word": " temperature.",
+          "start": 89.6,
+          "end": 89.94,
+          "probability": 0.9046965837478638
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,6333 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-27T09:39:28.246259+00:00",
+  "config": {
+    "interval": null,
+    "confidence": 0.4,
+    "scene_threshold": 0.45,
+    "yolo": "yolov8n.pt",
+    "whisper": "base",
+    "language": null,
+    "device": "cpu"
+  },
+  "videos": [
+    {
+      "id": "v5d38f104630c",
+      "title": "Sintel — trailer",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\sintel\\original.mp4",
+      "metadata": {
+        "title": "Sintel — trailer",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\sintel\\original.mp4",
+        "filename": "original.mp4",
+        "sha256": "b670602fa00934ca27c4351bb0efe7ea7a07fae57284e44226025eeed7c51254",
+        "collected_at": "2026-10-27T08:58:04.012119+00:00",
+        "source_kind": "local",
+        "origin_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+      },
+      "technical": {
+        "duration": 52.208333,
+        "fps": 24.0,
+        "fps_fraction": "24/1",
+        "width": 854,
+        "height": 480,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "container": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bit_rate": 669988,
+        "bytes": 4372373,
+        "has_audio": true,
+        "audio_codec": "aac",
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 52.208333,
+      "media": "videos/v5d38f104630c/video.mp4",
+      "interval": 1.0,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.04868451505899429,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/v5d38f104630c/frames/000000.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 1.0,
+          "image": "videos/v5d38f104630c/frames/000001.jpg",
+          "objects": [],
+          "brightness": 0.03525673110774365,
+          "sharpness": 0.8379293520686963,
+          "scene_distance": 0.060435946361320415
+        },
+        {
+          "time": 2.0,
+          "image": "videos/v5d38f104630c/frames/000002.jpg",
+          "objects": [],
+          "brightness": 0.10638569362171098,
+          "sharpness": 9.432572208045126,
+          "scene_distance": 0.4569350483131934
+        },
+        {
+          "time": 3.0,
+          "image": "videos/v5d38f104630c/frames/000003.jpg",
+          "objects": [
+            {
+              "label": "horse",
+              "confidence": 0.458269864320755,
+              "xyxy": [
+                427.70025634765625,
+                262.120849609375,
+                584.39990234375,
+                418.0205078125
+              ]
+            }
+          ],
+          "brightness": 0.17664809776369564,
+          "sharpness": 29.457728327714673,
+          "scene_distance": 0.4267393695553783
+        },
+        {
+          "time": 4.0,
+          "image": "videos/v5d38f104630c/frames/000004.jpg",
+          "objects": [],
+          "brightness": 0.2740948688218457,
+          "sharpness": 63.243242574396966,
+          "scene_distance": 0.3375170620599764
+        },
+        {
+          "time": 5.0,
+          "image": "videos/v5d38f104630c/frames/000005.jpg",
+          "objects": [],
+          "brightness": 0.4165857613537218,
+          "sharpness": 138.8341310278167,
+          "scene_distance": 0.4166903828524508
+        },
+        {
+          "time": 6.0,
+          "image": "videos/v5d38f104630c/frames/000006.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8849170207977295,
+              "xyxy": [
+                187.8023681640625,
+                161.9918670654297,
+                357.4792785644531,
+                418.5564270019531
+              ]
+            }
+          ],
+          "brightness": 0.4356491654038665,
+          "sharpness": 175.8642418003983,
+          "scene_distance": 0.45396513379737247
+        },
+        {
+          "time": 7.0,
+          "image": "videos/v5d38f104630c/frames/000007.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8862490653991699,
+              "xyxy": [
+                191.41627502441406,
+                131.07167053222656,
+                384.2054138183594,
+                417.6772766113281
+              ]
+            }
+          ],
+          "brightness": 0.40961483637170715,
+          "sharpness": 160.78657786349643,
+          "scene_distance": 0.5795986078496264
+        },
+        {
+          "time": 8.0,
+          "image": "videos/v5d38f104630c/frames/000008.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.7280953526496887,
+              "xyxy": [
+                241.2747802734375,
+                157.2162628173828,
+                468.9527587890625,
+                418.3544616699219
+              ]
+            }
+          ],
+          "brightness": 0.3992273193430378,
+          "sharpness": 142.8154931088625,
+          "scene_distance": 0.1374236261189966
+        },
+        {
+          "time": 9.0,
+          "image": "videos/v5d38f104630c/frames/000009.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8256264328956604,
+              "xyxy": [
+                269.1291198730469,
+                109.64974212646484,
+                545.4281005859375,
+                416.55224609375
+              ]
+            }
+          ],
+          "brightness": 0.09298553711101927,
+          "sharpness": 8.626858898916549,
+          "scene_distance": 0.7926026156574126
+        },
+        {
+          "time": 10.0,
+          "image": "videos/v5d38f104630c/frames/000010.jpg",
+          "objects": [],
+          "brightness": 0.0021670799467327917,
+          "sharpness": 208.97286787665885,
+          "scene_distance": 0.6410313271140163
+        },
+        {
+          "time": 11.0,
+          "image": "videos/v5d38f104630c/frames/000011.jpg",
+          "objects": [],
+          "brightness": 0.0009891169582587132,
+          "sharpness": 30.518618266978923,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 12.0,
+          "image": "videos/v5d38f104630c/frames/000012.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5687847137451172,
+              "xyxy": [
+                144.24696350097656,
+                50.87117385864258,
+                851.038330078125,
+                418.374755859375
+              ]
+            }
+          ],
+          "brightness": 0.011302865408458465,
+          "sharpness": 2.4629952159547726,
+          "scene_distance": 0.49559527280070437
+        },
+        {
+          "time": 13.0,
+          "image": "videos/v5d38f104630c/frames/000013.jpg",
+          "objects": [],
+          "brightness": 0.06512856645390397,
+          "sharpness": 132.3167081338349,
+          "scene_distance": 0.44172189417603125
+        },
+        {
+          "time": 14.0,
+          "image": "videos/v5d38f104630c/frames/000014.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.905441164970398,
+              "xyxy": [
+                98.89540100097656,
+                59.9459228515625,
+                556.8789672851562,
+                418.1435546875
+              ]
+            }
+          ],
+          "brightness": 0.054259405948171614,
+          "sharpness": 57.03837577158841,
+          "scene_distance": 0.34014514502370685
+        },
+        {
+          "time": 15.0,
+          "image": "videos/v5d38f104630c/frames/000015.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.9007004499435425,
+              "xyxy": [
+                94.00152587890625,
+                59.48714065551758,
+                562.7269897460938,
+                417.6041564941406
+              ]
+            }
+          ],
+          "brightness": 0.0411599393855903,
+          "sharpness": 26.35292983496384,
+          "scene_distance": 0.12923667199980104
+        },
+        {
+          "time": 16.0,
+          "image": "videos/v5d38f104630c/frames/000016.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.4117056429386139,
+              "xyxy": [
+                49.89132308959961,
+                30.87801170349121,
+                564.6421508789062,
+                428.4230041503906
+              ]
+            }
+          ],
+          "brightness": 0.003949264131882261,
+          "sharpness": 0.5475897735905592,
+          "scene_distance": 0.44550939629618963
+        },
+        {
+          "time": 17.0,
+          "image": "videos/v5d38f104630c/frames/000017.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5776765942573547,
+              "xyxy": [
+                255.5994415283203,
+                58.58296585083008,
+                712.1943969726562,
+                416.1884765625
+              ]
+            }
+          ],
+          "brightness": 0.2976065918170547,
+          "sharpness": 102.77955209723049,
+          "scene_distance": 0.7356268112051703
+        },
+        {
+          "time": 18.0,
+          "image": "videos/v5d38f104630c/frames/000018.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.6930497331562804
+        },
+        {
+          "time": 19.0,
+          "image": "videos/v5d38f104630c/frames/000019.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.43038299679756165,
+              "xyxy": [
+                311.57879638671875,
+                228.41357421875,
+                348.2722473144531,
+                349.5039978027344
+              ]
+            }
+          ],
+          "brightness": 0.09350833639466716,
+          "sharpness": 109.9716185153614,
+          "scene_distance": 0.7289738007973895
+        },
+        {
+          "time": 20.0,
+          "image": "videos/v5d38f104630c/frames/000020.jpg",
+          "objects": [],
+          "brightness": 0.16918431716949073,
+          "sharpness": 402.7742285751068,
+          "scene_distance": 0.14902519545982337
+        },
+        {
+          "time": 21.0,
+          "image": "videos/v5d38f104630c/frames/000021.jpg",
+          "objects": [],
+          "brightness": 0.0809984635930875,
+          "sharpness": 73.78041322922185,
+          "scene_distance": 0.18841746209823101
+        },
+        {
+          "time": 22.0,
+          "image": "videos/v5d38f104630c/frames/000022.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.4578804671764374,
+              "xyxy": [
+                180.4116668701172,
+                209.2501678466797,
+                383.942626953125,
+                419.7257385253906
+              ]
+            }
+          ],
+          "brightness": 0.015128509053894783,
+          "sharpness": 2.384638465988594,
+          "scene_distance": 0.6670319920220475
+        },
+        {
+          "time": 23.0,
+          "image": "videos/v5d38f104630c/frames/000023.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.9013345241546631,
+              "xyxy": [
+                137.55648803710938,
+                64.60123443603516,
+                468.0343933105469,
+                418.5338439941406
+              ]
+            }
+          ],
+          "brightness": 0.1828928839295281,
+          "sharpness": 147.3535030743561,
+          "scene_distance": 0.6466692578044474
+        },
+        {
+          "time": 24.0,
+          "image": "videos/v5d38f104630c/frames/000024.jpg",
+          "objects": [],
+          "brightness": 0.2584766611562658,
+          "sharpness": 244.39569356523765,
+          "scene_distance": 0.26093776668499075
+        },
+        {
+          "time": 25.0,
+          "image": "videos/v5d38f104630c/frames/000025.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.41862672567367554,
+              "xyxy": [
+                0.0,
+                273.0997619628906,
+                191.22317504882812,
+                419.4202575683594
+              ]
+            }
+          ],
+          "brightness": 0.22948499755093293,
+          "sharpness": 279.63843428360514,
+          "scene_distance": 0.17715578306878213
+        },
+        {
+          "time": 26.0,
+          "image": "videos/v5d38f104630c/frames/000026.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.7377036213874817,
+              "xyxy": [
+                367.0023193359375,
+                331.94091796875,
+                444.7632141113281,
+                394.0492248535156
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.4788733422756195,
+              "xyxy": [
+                55.6138916015625,
+                58.65913772583008,
+                568.0802612304688,
+                418.2362976074219
+              ]
+            }
+          ],
+          "brightness": 0.5562793505380295,
+          "sharpness": 337.872504376812,
+          "scene_distance": 0.5442121323247545
+        },
+        {
+          "time": 27.0,
+          "image": "videos/v5d38f104630c/frames/000027.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.6268807053565979,
+              "xyxy": [
+                22.601343154907227,
+                58.619693756103516,
+                181.31320190429688,
+                112.2961654663086
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.5822449326515198,
+              "xyxy": [
+                579.70068359375,
+                67.5723876953125,
+                853.3969116210938,
+                415.121337890625
+              ]
+            }
+          ],
+          "brightness": 0.3881110422311001,
+          "sharpness": 211.87443647226166,
+          "scene_distance": 0.482706126826632
+        },
+        {
+          "time": 28.0,
+          "image": "videos/v5d38f104630c/frames/000028.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.7313675292304379
+        },
+        {
+          "time": 29.0,
+          "image": "videos/v5d38f104630c/frames/000029.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.6035974025726318,
+              "xyxy": [
+                490.1797790527344,
+                215.7539520263672,
+                629.08642578125,
+                305.4413757324219
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.43353337049484253,
+              "xyxy": [
+                27.666515350341797,
+                162.2310333251953,
+                278.550537109375,
+                417.4466247558594
+              ]
+            }
+          ],
+          "brightness": 0.37352227503023067,
+          "sharpness": 204.5399029047363,
+          "scene_distance": 0.7405804649892279
+        },
+        {
+          "time": 30.0,
+          "image": "videos/v5d38f104630c/frames/000030.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5863382816314697,
+              "xyxy": [
+                0.0,
+                57.27595901489258,
+                530.5934448242188,
+                418.3999938964844
+              ]
+            }
+          ],
+          "brightness": 0.32022871033659367,
+          "sharpness": 174.126780721951,
+          "scene_distance": 0.36282682206769523
+        },
+        {
+          "time": 31.0,
+          "image": "videos/v5d38f104630c/frames/000031.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.9287809133529663,
+              "xyxy": [
+                0.07555947452783585,
+                58.96879196166992,
+                323.9583740234375,
+                417.5850524902344
+              ]
+            }
+          ],
+          "brightness": 0.46004091663988,
+          "sharpness": 228.0021564050111,
+          "scene_distance": 0.3583013450761448
+        },
+        {
+          "time": 32.0,
+          "image": "videos/v5d38f104630c/frames/000032.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.778942346572876,
+              "xyxy": [
+                3.0797154903411865,
+                63.41357421875,
+                849.1347045898438,
+                467.4712219238281
+              ]
+            }
+          ],
+          "brightness": 0.06651641257595935,
+          "sharpness": 6.18545325654806,
+          "scene_distance": 0.3779706226749616
+        },
+        {
+          "time": 33.0,
+          "image": "videos/v5d38f104630c/frames/000033.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.6275166273117065,
+              "xyxy": [
+                135.08433532714844,
+                62.36409378051758,
+                624.4146728515625,
+                363.4049377441406
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.48308613896369934,
+              "xyxy": [
+                0.09529941529035568,
+                119.84737396240234,
+                163.16152954101562,
+                420.0166015625
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.43366000056266785,
+              "xyxy": [
+                143.86923217773438,
+                58.29304885864258,
+                625.343505859375,
+                364.1415710449219
+              ]
+            }
+          ],
+          "brightness": 0.41620982956023944,
+          "sharpness": 316.6420666410376,
+          "scene_distance": 0.49806068829415057
+        },
+        {
+          "time": 34.0,
+          "image": "videos/v5d38f104630c/frames/000034.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5055865049362183,
+              "xyxy": [
+                27.064136505126953,
+                58.67118453979492,
+                590.1820068359375,
+                339.9325256347656
+              ]
+            }
+          ],
+          "brightness": 0.39968804051675316,
+          "sharpness": 282.54822603968205,
+          "scene_distance": 0.12289390945366754
+        },
+        {
+          "time": 35.0,
+          "image": "videos/v5d38f104630c/frames/000035.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.4773826003074646,
+              "xyxy": [
+                87.9561996459961,
+                59.242095947265625,
+                590.7162475585938,
+                320.2388610839844
+              ]
+            }
+          ],
+          "brightness": 0.4125910746812386,
+          "sharpness": 180.51602496308158,
+          "scene_distance": 0.6640012969284805
+        },
+        {
+          "time": 36.0,
+          "image": "videos/v5d38f104630c/frames/000036.jpg",
+          "objects": [],
+          "brightness": 0.4253906166291653,
+          "sharpness": 96.98584113285501,
+          "scene_distance": 0.7756202486358368
+        },
+        {
+          "time": 37.0,
+          "image": "videos/v5d38f104630c/frames/000037.jpg",
+          "objects": [],
+          "brightness": 0.4046461767767216,
+          "sharpness": 105.26138514783956,
+          "scene_distance": 0.3461032668577115
+        },
+        {
+          "time": 38.0,
+          "image": "videos/v5d38f104630c/frames/000038.jpg",
+          "objects": [
+            {
+              "label": "airplane",
+              "confidence": 0.44164690375328064,
+              "xyxy": [
+                0.0,
+                177.2816925048828,
+                852.175537109375,
+                417.4496765136719
+              ]
+            }
+          ],
+          "brightness": 0.43632075507798745,
+          "sharpness": 148.91393686543827,
+          "scene_distance": 0.2806859536720793
+        },
+        {
+          "time": 39.0,
+          "image": "videos/v5d38f104630c/frames/000039.jpg",
+          "objects": [],
+          "brightness": 0.44646286793405887,
+          "sharpness": 169.55303717797997,
+          "scene_distance": 0.10693252650499369
+        },
+        {
+          "time": 40.0,
+          "image": "videos/v5d38f104630c/frames/000040.jpg",
+          "objects": [],
+          "brightness": 0.3193387423275321,
+          "sharpness": 84.61358313779245,
+          "scene_distance": 0.22489927657005607
+        },
+        {
+          "time": 41.0,
+          "image": "videos/v5d38f104630c/frames/000041.jpg",
+          "objects": [],
+          "brightness": 0.18141824899358652,
+          "sharpness": 145.73830991070173,
+          "scene_distance": 0.2886427428129311
+        },
+        {
+          "time": 42.0,
+          "image": "videos/v5d38f104630c/frames/000042.jpg",
+          "objects": [],
+          "brightness": 0.041804015321975786,
+          "sharpness": 508.75342505854803,
+          "scene_distance": 0.6488689484030575
+        },
+        {
+          "time": 43.0,
+          "image": "videos/v5d38f104630c/frames/000043.jpg",
+          "objects": [],
+          "brightness": 0.010251000673493441,
+          "sharpness": 569.7210236143637,
+          "scene_distance": 0.5802370590777814
+        },
+        {
+          "time": 44.0,
+          "image": "videos/v5d38f104630c/frames/000044.jpg",
+          "objects": [],
+          "brightness": 0.010847951202338859,
+          "sharpness": 590.077380952381,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 45.0,
+          "image": "videos/v5d38f104630c/frames/000045.jpg",
+          "objects": [],
+          "brightness": 0.011373601353109549,
+          "sharpness": 584.6831918423107,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 46.0,
+          "image": "videos/v5d38f104630c/frames/000046.jpg",
+          "objects": [],
+          "brightness": 0.00724802352635043,
+          "sharpness": 219.17035031225606,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 47.0,
+          "image": "videos/v5d38f104630c/frames/000047.jpg",
+          "objects": [],
+          "brightness": 0.0015716505181307496,
+          "sharpness": 7.313022053083529,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 48.0,
+          "image": "videos/v5d38f104630c/frames/000048.jpg",
+          "objects": [],
+          "brightness": 0.0020542315286770445,
+          "sharpness": 172.19993169398907,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 49.0,
+          "image": "videos/v5d38f104630c/frames/000049.jpg",
+          "objects": [],
+          "brightness": 0.035773130290367515,
+          "sharpness": 2508.1564597970337,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 50.0,
+          "image": "videos/v5d38f104630c/frames/000050.jpg",
+          "objects": [],
+          "brightness": 0.035773130290367515,
+          "sharpness": 2508.1564597970337,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 51.0,
+          "image": "videos/v5d38f104630c/frames/000051.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 52.0,
+          "image": "videos/v5d38f104630c/frames/000052.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "start": 11.819999999999997,
+          "end": 14.18,
+          "text": "What brings you to the land of the gatekeepers?",
+          "avg_logprob": -0.5009483669115149,
+          "no_speech_prob": 0.1109752357006073,
+          "compression_ratio": 0.9736842105263158
+        },
+        {
+          "start": 18.26,
+          "end": 19.76,
+          "text": "I'm searching for someone.",
+          "avg_logprob": -0.5009483669115149,
+          "no_speech_prob": 0.1109752357006073,
+          "compression_ratio": 0.9736842105263158
+        },
+        {
+          "start": 41.120000000000005,
+          "end": 43.74,
+          "text": "I've been alone for as long as I can remember.",
+          "avg_logprob": -0.676856803894043,
+          "no_speech_prob": 0.11882484704256058,
+          "compression_ratio": 0.92
+        }
+      ],
+      "audio": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "dbfs": -68.44465721203123,
+          "peak": false
+        },
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "dbfs": -41.717552521780604,
+          "peak": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "dbfs": -31.373652720832613,
+          "peak": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "dbfs": -32.608849916556515,
+          "peak": false
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "dbfs": -32.53353429471585,
+          "peak": false
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "dbfs": -17.579273095093114,
+          "peak": false
+        },
+        {
+          "start": 6.0,
+          "end": 7.0,
+          "dbfs": -16.05560357423651,
+          "peak": false
+        },
+        {
+          "start": 7.0,
+          "end": 8.0,
+          "dbfs": -20.55590382843452,
+          "peak": false
+        },
+        {
+          "start": 8.0,
+          "end": 9.0,
+          "dbfs": -25.262680889482773,
+          "peak": false
+        },
+        {
+          "start": 9.0,
+          "end": 10.0,
+          "dbfs": -12.014616311911592,
+          "peak": false
+        },
+        {
+          "start": 10.0,
+          "end": 11.0,
+          "dbfs": -12.563417004600467,
+          "peak": false
+        },
+        {
+          "start": 11.0,
+          "end": 12.0,
+          "dbfs": -23.223783760865892,
+          "peak": false
+        },
+        {
+          "start": 12.0,
+          "end": 13.0,
+          "dbfs": -19.553718339086533,
+          "peak": false
+        },
+        {
+          "start": 13.0,
+          "end": 14.0,
+          "dbfs": -19.75353868694932,
+          "peak": false
+        },
+        {
+          "start": 14.0,
+          "end": 15.0,
+          "dbfs": -24.333027365962604,
+          "peak": false
+        },
+        {
+          "start": 15.0,
+          "end": 16.0,
+          "dbfs": -24.70240407130905,
+          "peak": false
+        },
+        {
+          "start": 16.0,
+          "end": 17.0,
+          "dbfs": -13.967860542734796,
+          "peak": false
+        },
+        {
+          "start": 17.0,
+          "end": 18.0,
+          "dbfs": -11.761974454421933,
+          "peak": true
+        },
+        {
+          "start": 18.0,
+          "end": 19.0,
+          "dbfs": -18.22383252028448,
+          "peak": false
+        },
+        {
+          "start": 19.0,
+          "end": 20.0,
+          "dbfs": -23.329372608843588,
+          "peak": false
+        },
+        {
+          "start": 20.0,
+          "end": 21.0,
+          "dbfs": -23.93349908907126,
+          "peak": false
+        },
+        {
+          "start": 21.0,
+          "end": 22.0,
+          "dbfs": -24.60594800059767,
+          "peak": false
+        },
+        {
+          "start": 22.0,
+          "end": 23.0,
+          "dbfs": -21.425703349674347,
+          "peak": false
+        },
+        {
+          "start": 23.0,
+          "end": 24.0,
+          "dbfs": -17.608143366186816,
+          "peak": false
+        },
+        {
+          "start": 24.0,
+          "end": 25.0,
+          "dbfs": -19.512945761178443,
+          "peak": false
+        },
+        {
+          "start": 25.0,
+          "end": 26.0,
+          "dbfs": -16.29376783090233,
+          "peak": false
+        },
+        {
+          "start": 26.0,
+          "end": 27.0,
+          "dbfs": -12.413732346191988,
+          "peak": false
+        },
+        {
+          "start": 27.0,
+          "end": 28.0,
+          "dbfs": -10.57602773219881,
+          "peak": true
+        },
+        {
+          "start": 28.0,
+          "end": 29.0,
+          "dbfs": -10.82978985181278,
+          "peak": true
+        },
+        {
+          "start": 29.0,
+          "end": 30.0,
+          "dbfs": -11.561023285770256,
+          "peak": true
+        },
+        {
+          "start": 30.0,
+          "end": 31.0,
+          "dbfs": -10.433354933099775,
+          "peak": true
+        },
+        {
+          "start": 31.0,
+          "end": 32.0,
+          "dbfs": -11.982461709875295,
+          "peak": false
+        },
+        {
+          "start": 32.0,
+          "end": 33.0,
+          "dbfs": -12.32535461585455,
+          "peak": false
+        },
+        {
+          "start": 33.0,
+          "end": 34.0,
+          "dbfs": -18.488950176685293,
+          "peak": false
+        },
+        {
+          "start": 34.0,
+          "end": 35.0,
+          "dbfs": -24.016122082249236,
+          "peak": false
+        },
+        {
+          "start": 35.0,
+          "end": 36.0,
+          "dbfs": -27.186442922068753,
+          "peak": false
+        },
+        {
+          "start": 36.0,
+          "end": 37.0,
+          "dbfs": -23.948543566941716,
+          "peak": false
+        },
+        {
+          "start": 37.0,
+          "end": 38.0,
+          "dbfs": -21.035322057254604,
+          "peak": false
+        },
+        {
+          "start": 38.0,
+          "end": 39.0,
+          "dbfs": -21.359098005741302,
+          "peak": false
+        },
+        {
+          "start": 39.0,
+          "end": 40.0,
+          "dbfs": -26.886486692845693,
+          "peak": false
+        },
+        {
+          "start": 40.0,
+          "end": 41.0,
+          "dbfs": -16.15170030653217,
+          "peak": false
+        },
+        {
+          "start": 41.0,
+          "end": 42.0,
+          "dbfs": -19.63068672527842,
+          "peak": false
+        },
+        {
+          "start": 42.0,
+          "end": 43.0,
+          "dbfs": -22.664270854053036,
+          "peak": false
+        },
+        {
+          "start": 43.0,
+          "end": 44.0,
+          "dbfs": -25.691148935017196,
+          "peak": false
+        },
+        {
+          "start": 44.0,
+          "end": 45.0,
+          "dbfs": -28.04917491836466,
+          "peak": false
+        },
+        {
+          "start": 45.0,
+          "end": 46.0,
+          "dbfs": -26.42646186587287,
+          "peak": false
+        },
+        {
+          "start": 46.0,
+          "end": 47.0,
+          "dbfs": -18.077903824266365,
+          "peak": false
+        },
+        {
+          "start": 47.0,
+          "end": 48.0,
+          "dbfs": -9.645751210231786,
+          "peak": true
+        },
+        {
+          "start": 48.0,
+          "end": 49.0,
+          "dbfs": -12.00464097933325,
+          "peak": false
+        },
+        {
+          "start": 49.0,
+          "end": 50.0,
+          "dbfs": -19.783734294779162,
+          "peak": false
+        },
+        {
+          "start": 50.0,
+          "end": 51.0,
+          "dbfs": -33.93318674616742,
+          "peak": false
+        },
+        {
+          "start": 51.0,
+          "end": 51.9466875,
+          "dbfs": -56.55827101934471,
+          "peak": false
+        }
+      ],
+      "events": [
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 2.0,
+          "end": 2.1,
+          "value": 0.4569350483131934,
+          "frame": "videos/v5d38f104630c/frames/000002.jpg",
+          "id": "e00000"
+        },
+        {
+          "type": "object",
+          "label": "horse",
+          "start": 3.0,
+          "end": 4.0,
+          "confidence": 0.458269864320755,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000003.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 6.0,
+          "end": 10.0,
+          "confidence": 0.8312219679355621,
+          "samples": 4,
+          "frame": "videos/v5d38f104630c/frames/000006.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 6.0,
+          "end": 6.1,
+          "value": 0.45396513379737247,
+          "frame": "videos/v5d38f104630c/frames/000006.jpg",
+          "id": "e00003"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 7.0,
+          "end": 7.1,
+          "value": 0.5795986078496264,
+          "frame": "videos/v5d38f104630c/frames/000007.jpg",
+          "id": "e00004"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 9.0,
+          "end": 9.1,
+          "value": 0.7926026156574126,
+          "frame": "videos/v5d38f104630c/frames/000009.jpg",
+          "id": "e00005"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 10.0,
+          "end": 10.1,
+          "value": 0.6410313271140163,
+          "frame": "videos/v5d38f104630c/frames/000010.jpg",
+          "id": "e00006"
+        },
+        {
+          "type": "speech",
+          "label": "What brings you to the land of the gatekeepers?",
+          "start": 11.82,
+          "end": 14.18,
+          "avg_logprob": -0.5009483669115149,
+          "id": "e00007"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 12.0,
+          "end": 13.0,
+          "confidence": 0.5687847137451172,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000012.jpg",
+          "id": "e00008"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 12.0,
+          "end": 12.1,
+          "value": 0.49559527280070437,
+          "frame": "videos/v5d38f104630c/frames/000012.jpg",
+          "id": "e00009"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 14.0,
+          "end": 18.0,
+          "confidence": 0.6988809630274773,
+          "samples": 4,
+          "frame": "videos/v5d38f104630c/frames/000014.jpg",
+          "id": "e00010"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 17.0,
+          "end": 18.0,
+          "value": -11.761974454421933,
+          "id": "e00011"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 17.0,
+          "end": 17.1,
+          "value": 0.7356268112051703,
+          "frame": "videos/v5d38f104630c/frames/000017.jpg",
+          "id": "e00012"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 18.0,
+          "end": 18.1,
+          "value": 0.6930497331562804,
+          "frame": "videos/v5d38f104630c/frames/000018.jpg",
+          "id": "e00013"
+        },
+        {
+          "type": "speech",
+          "label": "I'm searching for someone.",
+          "start": 18.26,
+          "end": 19.76,
+          "avg_logprob": -0.5009483669115149,
+          "id": "e00014"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 19.0,
+          "end": 20.0,
+          "confidence": 0.43038299679756165,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000019.jpg",
+          "id": "e00015"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 19.0,
+          "end": 19.1,
+          "value": 0.7289738007973895,
+          "frame": "videos/v5d38f104630c/frames/000019.jpg",
+          "id": "e00016"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 22.0,
+          "end": 24.0,
+          "confidence": 0.6796074956655502,
+          "samples": 2,
+          "frame": "videos/v5d38f104630c/frames/000022.jpg",
+          "id": "e00017"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 22.0,
+          "end": 22.1,
+          "value": 0.6670319920220475,
+          "frame": "videos/v5d38f104630c/frames/000022.jpg",
+          "id": "e00018"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 23.0,
+          "end": 23.1,
+          "value": 0.6466692578044474,
+          "frame": "videos/v5d38f104630c/frames/000023.jpg",
+          "id": "e00019"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 25.0,
+          "end": 27.0,
+          "confidence": 0.4487500339746475,
+          "samples": 2,
+          "frame": "videos/v5d38f104630c/frames/000025.jpg",
+          "id": "e00020"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 26.0,
+          "end": 28.0,
+          "confidence": 0.6822921633720398,
+          "samples": 2,
+          "frame": "videos/v5d38f104630c/frames/000026.jpg",
+          "id": "e00021"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 26.0,
+          "end": 26.1,
+          "value": 0.5442121323247545,
+          "frame": "videos/v5d38f104630c/frames/000026.jpg",
+          "id": "e00022"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 27.0,
+          "end": 31.0,
+          "value": -10.433354933099775,
+          "id": "e00023"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 27.0,
+          "end": 27.1,
+          "value": 0.482706126826632,
+          "frame": "videos/v5d38f104630c/frames/000027.jpg",
+          "id": "e00024"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 28.0,
+          "end": 28.1,
+          "value": 0.7313675292304379,
+          "frame": "videos/v5d38f104630c/frames/000028.jpg",
+          "id": "e00025"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 29.0,
+          "end": 30.0,
+          "confidence": 0.6035974025726318,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000029.jpg",
+          "id": "e00026"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 29.0,
+          "end": 36.0,
+          "confidence": 0.5990928794656482,
+          "samples": 7,
+          "frame": "videos/v5d38f104630c/frames/000029.jpg",
+          "id": "e00027"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 29.0,
+          "end": 29.1,
+          "value": 0.7405804649892279,
+          "frame": "videos/v5d38f104630c/frames/000029.jpg",
+          "id": "e00028"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 33.0,
+          "end": 34.0,
+          "confidence": 0.6275166273117065,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000033.jpg",
+          "id": "e00029"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 33.0,
+          "end": 33.1,
+          "value": 0.49806068829415057,
+          "frame": "videos/v5d38f104630c/frames/000033.jpg",
+          "id": "e00030"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 35.0,
+          "end": 35.1,
+          "value": 0.6640012969284805,
+          "frame": "videos/v5d38f104630c/frames/000035.jpg",
+          "id": "e00031"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 36.0,
+          "end": 36.1,
+          "value": 0.7756202486358368,
+          "frame": "videos/v5d38f104630c/frames/000036.jpg",
+          "id": "e00032"
+        },
+        {
+          "type": "object",
+          "label": "airplane",
+          "start": 38.0,
+          "end": 39.0,
+          "confidence": 0.44164690375328064,
+          "samples": 1,
+          "frame": "videos/v5d38f104630c/frames/000038.jpg",
+          "id": "e00033"
+        },
+        {
+          "type": "speech",
+          "label": "I've been alone for as long as I can remember.",
+          "start": 41.12,
+          "end": 43.74,
+          "avg_logprob": -0.676856803894043,
+          "id": "e00034"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 42.0,
+          "end": 42.1,
+          "value": 0.6488689484030575,
+          "frame": "videos/v5d38f104630c/frames/000042.jpg",
+          "id": "e00035"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 43.0,
+          "end": 43.1,
+          "value": 0.5802370590777814,
+          "frame": "videos/v5d38f104630c/frames/000043.jpg",
+          "id": "e00036"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 47.0,
+          "end": 48.0,
+          "value": -9.645751210231786,
+          "id": "e00037"
+        }
+      ],
+      "entities": [
+        {
+          "label": "airplane",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 1.0,
+          "mean_confidence": 0.44164690375328064,
+          "frame_share": 0.018867924528301886,
+          "duration_share": 0.019154030449506976
+        },
+        {
+          "label": "bird",
+          "detections": 5,
+          "frames": 4,
+          "max_simultaneous": 2,
+          "intervals": 3,
+          "seconds": 4.0,
+          "mean_confidence": 0.6355886578559875,
+          "frame_share": 0.07547169811320754,
+          "duration_share": 0.0766161217980279
+        },
+        {
+          "label": "horse",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 1.0,
+          "mean_confidence": 0.458269864320755,
+          "frame_share": 0.018867924528301886,
+          "duration_share": 0.019154030449506976
+        },
+        {
+          "label": "person",
+          "detections": 22,
+          "frames": 21,
+          "max_simultaneous": 2,
+          "intervals": 7,
+          "seconds": 21.0,
+          "mean_confidence": 0.6365274841135199,
+          "frame_share": 0.39622641509433965,
+          "duration_share": 0.4022346394396465
+        }
+      ],
+      "warnings": [
+        "asr_quality: 1 подозрительных сегментов исключено из поиска; см. rejected_segments.json"
+      ],
+      "detected_language": "en",
+      "signature": "b6cef48e595b6f519e53a1aefea61b29f50d164e157ca6fc89a5aa4cdf928a6e",
+      "processing_seconds": 24.546,
+      "cluster": 1,
+      "topic_words": [
+        "person",
+        "bird",
+        "opencv",
+        "car",
+        "pedestrians",
+        "truck",
+        "trailer",
+        "judge",
+        "don",
+        "gatekeepers"
+      ]
+    },
+    {
+      "id": "v2a202706f0e9",
+      "title": "Big Buck Bunny — trailer",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\bunny\\original.mp4",
+      "metadata": {
+        "title": "Big Buck Bunny — trailer",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\bunny\\original.mp4",
+        "filename": "original.mp4",
+        "sha256": "b2ded9ae5a20fa36ca8cec49ef923bffb5e1a51d9e8c1f8336273d2fa9d35ff0",
+        "collected_at": "2026-10-27T08:58:19.734720+00:00",
+        "source_kind": "local",
+        "origin_url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
+      },
+      "technical": {
+        "duration": 33.002667,
+        "fps": 25.0308261405672,
+        "fps_fraction": "20300/811",
+        "width": 853,
+        "height": 480,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "container": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bit_rate": 2679509,
+        "bytes": 11053871,
+        "has_audio": true,
+        "audio_codec": "aac",
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 33.002,
+      "media": "videos/v2a202706f0e9/video.mp4",
+      "interval": 0.5,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.08128297838266008,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/v2a202706f0e9/frames/000000.jpg",
+          "objects": [],
+          "brightness": 0.9882352941176471,
+          "sharpness": 0.0,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 0.52,
+          "image": "videos/v2a202706f0e9/frames/000001.jpg",
+          "objects": [],
+          "brightness": 0.9861077549173034,
+          "sharpness": 18.5520672843792,
+          "scene_distance": 0.1837510930412356
+        },
+        {
+          "time": 1.0,
+          "image": "videos/v2a202706f0e9/frames/000002.jpg",
+          "objects": [],
+          "brightness": 0.9859445959526221,
+          "sharpness": 90.96633900625979,
+          "scene_distance": 0.1817383684321441
+        },
+        {
+          "time": 1.52,
+          "image": "videos/v2a202706f0e9/frames/000003.jpg",
+          "objects": [],
+          "brightness": 0.9856110765902605,
+          "sharpness": 94.51157081377151,
+          "scene_distance": 0.06193410992740576
+        },
+        {
+          "time": 2.0,
+          "image": "videos/v2a202706f0e9/frames/000004.jpg",
+          "objects": [],
+          "brightness": 0.985296860136856,
+          "sharpness": 95.04223395931142,
+          "scene_distance": 0.06163225032245542
+        },
+        {
+          "time": 2.52,
+          "image": "videos/v2a202706f0e9/frames/000005.jpg",
+          "objects": [],
+          "brightness": 0.9850065014268617,
+          "sharpness": 91.13147496087637,
+          "scene_distance": 0.05960354211858993
+        },
+        {
+          "time": 3.0,
+          "image": "videos/v2a202706f0e9/frames/000006.jpg",
+          "objects": [],
+          "brightness": 0.9847425415784467,
+          "sharpness": 89.04606318466354,
+          "scene_distance": 0.056566442347372854
+        },
+        {
+          "time": 3.52,
+          "image": "videos/v2a202706f0e9/frames/000007.jpg",
+          "objects": [],
+          "brightness": 0.9801470780017797,
+          "sharpness": 89.15838466874268,
+          "scene_distance": 0.30396212635145253
+        },
+        {
+          "time": 4.0,
+          "image": "videos/v2a202706f0e9/frames/000008.jpg",
+          "objects": [],
+          "brightness": 0.6570659482494092,
+          "sharpness": 144.65049278746073,
+          "scene_distance": 0.9129152512249288
+        },
+        {
+          "time": 4.52,
+          "image": "videos/v2a202706f0e9/frames/000009.jpg",
+          "objects": [],
+          "brightness": 0.4335033389333824,
+          "sharpness": 497.1814211313487,
+          "scene_distance": 0.6356563944427049
+        },
+        {
+          "time": 5.0,
+          "image": "videos/v2a202706f0e9/frames/000010.jpg",
+          "objects": [],
+          "brightness": 0.4315966948203382,
+          "sharpness": 573.60214824377,
+          "scene_distance": 0.11714813390567351
+        },
+        {
+          "time": 5.52,
+          "image": "videos/v2a202706f0e9/frames/000011.jpg",
+          "objects": [],
+          "brightness": 0.43553872664089105,
+          "sharpness": 431.34877138023757,
+          "scene_distance": 0.10894867994447335
+        },
+        {
+          "time": 6.0,
+          "image": "videos/v2a202706f0e9/frames/000012.jpg",
+          "objects": [],
+          "brightness": 0.4355483445334315,
+          "sharpness": 414.0678742484312,
+          "scene_distance": 0.10242776234885761
+        },
+        {
+          "time": 6.52,
+          "image": "videos/v2a202706f0e9/frames/000013.jpg",
+          "objects": [],
+          "brightness": 0.5792944992942404,
+          "sharpness": 226.8221045513211,
+          "scene_distance": 0.5116628165836465
+        },
+        {
+          "time": 7.0,
+          "image": "videos/v2a202706f0e9/frames/000014.jpg",
+          "objects": [],
+          "brightness": 0.8920795648071436,
+          "sharpness": 42.27523228550171,
+          "scene_distance": 0.8233723547996338
+        },
+        {
+          "time": 7.52,
+          "image": "videos/v2a202706f0e9/frames/000015.jpg",
+          "objects": [],
+          "brightness": 0.9817606113259075,
+          "sharpness": 52.47541079199943,
+          "scene_distance": 0.851253461235201
+        },
+        {
+          "time": 8.0,
+          "image": "videos/v2a202706f0e9/frames/000016.jpg",
+          "objects": [],
+          "brightness": 0.9811905090674768,
+          "sharpness": 57.88669307511737,
+          "scene_distance": 0.057348125262832776
+        },
+        {
+          "time": 8.52,
+          "image": "videos/v2a202706f0e9/frames/000017.jpg",
+          "objects": [],
+          "brightness": 0.9805502815367149,
+          "sharpness": 54.453594483568075,
+          "scene_distance": 0.05035361568336263
+        },
+        {
+          "time": 9.0,
+          "image": "videos/v2a202706f0e9/frames/000018.jpg",
+          "objects": [],
+          "brightness": 0.9800213933382429,
+          "sharpness": 50.902225156494524,
+          "scene_distance": 0.05996661786530791
+        },
+        {
+          "time": 9.52,
+          "image": "videos/v2a202706f0e9/frames/000019.jpg",
+          "objects": [
+            {
+              "label": "sheep",
+              "confidence": 0.8068218231201172,
+              "xyxy": [
+                267.23724365234375,
+                10.184356689453125,
+                512.0164794921875,
+                402.15850830078125
+              ]
+            }
+          ],
+          "brightness": 0.7418287228819541,
+          "sharpness": 195.42027188655433,
+          "scene_distance": 0.9891843367220383
+        },
+        {
+          "time": 10.0,
+          "image": "videos/v2a202706f0e9/frames/000020.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.6218374371528625,
+              "xyxy": [
+                269.92181396484375,
+                19.187423706054688,
+                527.5508422851562,
+                409.2078552246094
+              ]
+            },
+            {
+              "label": "sheep",
+              "confidence": 0.591781735420227,
+              "xyxy": [
+                270.721923828125,
+                20.445688247680664,
+                527.9916381835938,
+                409.44964599609375
+              ]
+            }
+          ],
+          "brightness": 0.7403292809690386,
+          "sharpness": 195.5812558705476,
+          "scene_distance": 0.061788783036570157
+        },
+        {
+          "time": 10.52,
+          "image": "videos/v2a202706f0e9/frames/000021.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.846796989440918,
+              "xyxy": [
+                269.9048767089844,
+                12.510251998901367,
+                539.8674926757812,
+                408.9337158203125
+              ]
+            }
+          ],
+          "brightness": 0.7399224527447912,
+          "sharpness": 197.1161872777711,
+          "scene_distance": 0.04778849787891856
+        },
+        {
+          "time": 11.0,
+          "image": "videos/v2a202706f0e9/frames/000022.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.8351374268531799,
+              "xyxy": [
+                269.185791015625,
+                12.231769561767578,
+                543.2183837890625,
+                409.1441955566406
+              ]
+            }
+          ],
+          "brightness": 0.739823138175458,
+          "sharpness": 196.78763329069085,
+          "scene_distance": 0.0331034134138094
+        },
+        {
+          "time": 11.52,
+          "image": "videos/v2a202706f0e9/frames/000023.jpg",
+          "objects": [],
+          "brightness": 0.9833600486360428,
+          "sharpness": 65.25494913315748,
+          "scene_distance": 0.9897272669586191
+        },
+        {
+          "time": 12.0,
+          "image": "videos/v2a202706f0e9/frames/000024.jpg",
+          "objects": [],
+          "brightness": 0.9825313756175396,
+          "sharpness": 69.847906885759,
+          "scene_distance": 0.06936469246432903
+        },
+        {
+          "time": 12.52,
+          "image": "videos/v2a202706f0e9/frames/000025.jpg",
+          "objects": [],
+          "brightness": 0.9817566414280893,
+          "sharpness": 58.17699530516432,
+          "scene_distance": 0.07296749868895222
+        },
+        {
+          "time": 13.0,
+          "image": "videos/v2a202706f0e9/frames/000026.jpg",
+          "objects": [],
+          "brightness": 0.9809221190432355,
+          "sharpness": 57.15160406885759,
+          "scene_distance": 0.0652699467558467
+        },
+        {
+          "time": 13.52,
+          "image": "videos/v2a202706f0e9/frames/000027.jpg",
+          "objects": [
+            {
+              "label": "cow",
+              "confidence": 0.4332793056964874,
+              "xyxy": [
+                386.988525390625,
+                79.52672576904297,
+                593.991943359375,
+                211.25527954101562
+              ]
+            }
+          ],
+          "brightness": 0.5576132667464482,
+          "sharpness": 391.71663878868816,
+          "scene_distance": 0.9907922872135221
+        },
+        {
+          "time": 14.0,
+          "image": "videos/v2a202706f0e9/frames/000028.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.8193379640579224,
+              "xyxy": [
+                269.29449462890625,
+                11.879233360290527,
+                543.8085327148438,
+                408.93817138671875
+              ]
+            }
+          ],
+          "brightness": 0.739870172834392,
+          "sharpness": 198.7672857026891,
+          "scene_distance": 0.6697707211201704
+        },
+        {
+          "time": 14.52,
+          "image": "videos/v2a202706f0e9/frames/000029.jpg",
+          "objects": [],
+          "brightness": 0.741141863435515,
+          "sharpness": 193.4005916989703,
+          "scene_distance": 0.05441003184364337
+        },
+        {
+          "time": 15.0,
+          "image": "videos/v2a202706f0e9/frames/000030.jpg",
+          "objects": [
+            {
+              "label": "cow",
+              "confidence": 0.6058979034423828,
+              "xyxy": [
+                510.291259765625,
+                208.6928253173828,
+                674.3538208007812,
+                402.49627685546875
+              ]
+            },
+            {
+              "label": "sheep",
+              "confidence": 0.42636099457740784,
+              "xyxy": [
+                509.7882080078125,
+                208.05422973632812,
+                675.0431518554688,
+                402.33746337890625
+              ]
+            }
+          ],
+          "brightness": 0.5674904684095861,
+          "sharpness": 291.30619443671463,
+          "scene_distance": 0.6360542045188277
+        },
+        {
+          "time": 15.52,
+          "image": "videos/v2a202706f0e9/frames/000031.jpg",
+          "objects": [
+            {
+              "label": "cow",
+              "confidence": 0.5896925926208496,
+              "xyxy": [
+                369.37237548828125,
+                90.16404724121094,
+                520.6929321289062,
+                281.27178955078125
+              ]
+            },
+            {
+              "label": "cow",
+              "confidence": 0.418728232383728,
+              "xyxy": [
+                505.6300048828125,
+                216.43377685546875,
+                669.7994995117188,
+                407.9097900390625
+              ]
+            }
+          ],
+          "brightness": 0.573567154561355,
+          "sharpness": 280.00341384385865,
+          "scene_distance": 0.08176827466282108
+        },
+        {
+          "time": 16.0,
+          "image": "videos/v2a202706f0e9/frames/000032.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8842337727546692,
+              "xyxy": [
+                188.14279174804688,
+                10.794153213500977,
+                775.3753662109375,
+                474.9401550292969
+              ]
+            }
+          ],
+          "brightness": 0.7466460116910615,
+          "sharpness": 4.94560844821858,
+          "scene_distance": 0.6780931488165121
+        },
+        {
+          "time": 16.52,
+          "image": "videos/v2a202706f0e9/frames/000033.jpg",
+          "objects": [],
+          "brightness": 0.7421400817760594,
+          "sharpness": 12.34881709344271,
+          "scene_distance": 0.13999197625414322
+        },
+        {
+          "time": 17.0,
+          "image": "videos/v2a202706f0e9/frames/000034.jpg",
+          "objects": [],
+          "brightness": 0.9889031766853847,
+          "sharpness": 64.56869620500783,
+          "scene_distance": 0.9984040784951187
+        },
+        {
+          "time": 17.52,
+          "image": "videos/v2a202706f0e9/frames/000035.jpg",
+          "objects": [],
+          "brightness": 0.9884176121544079,
+          "sharpness": 63.58034526604069,
+          "scene_distance": 0.0428928057529058
+        },
+        {
+          "time": 18.0,
+          "image": "videos/v2a202706f0e9/frames/000036.jpg",
+          "objects": [],
+          "brightness": 0.9879566149621039,
+          "sharpness": 61.28504010172144,
+          "scene_distance": 0.05169377919151488
+        },
+        {
+          "time": 18.52,
+          "image": "videos/v2a202706f0e9/frames/000037.jpg",
+          "objects": [],
+          "brightness": 0.9873960347049618,
+          "sharpness": 63.19106025039124,
+          "scene_distance": 0.05508842016453192
+        },
+        {
+          "time": 19.0,
+          "image": "videos/v2a202706f0e9/frames/000038.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5119855999946594,
+              "xyxy": [
+                2.355363368988037,
+                0.0,
+                838.2271118164062,
+                468.4070129394531
+              ]
+            }
+          ],
+          "brightness": 0.09375866856914909,
+          "sharpness": 2.697840847836848,
+          "scene_distance": 0.794894469408883
+        },
+        {
+          "time": 19.52,
+          "image": "videos/v2a202706f0e9/frames/000039.jpg",
+          "objects": [
+            {
+              "label": "apple",
+              "confidence": 0.47540193796157837,
+              "xyxy": [
+                286.27691650390625,
+                0.7283438444137573,
+                528.6436157226562,
+                151.80072021484375
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.4629910886287689,
+              "xyxy": [
+                0.37134674191474915,
+                2.287022829055786,
+                289.49530029296875,
+                265.9888610839844
+              ]
+            }
+          ],
+          "brightness": 0.3931482440393998,
+          "sharpness": 26.366937916084396,
+          "scene_distance": 0.5671199761563954
+        },
+        {
+          "time": 20.0,
+          "image": "videos/v2a202706f0e9/frames/000040.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.5586350560188293,
+              "xyxy": [
+                459.5650634765625,
+                174.71524047851562,
+                653.9111328125,
+                377.9029235839844
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.4286259710788727,
+              "xyxy": [
+                287.2723693847656,
+                110.63390350341797,
+                414.81573486328125,
+                305.0771789550781
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.4005347788333893,
+              "xyxy": [
+                692.0635986328125,
+                260.9864501953125,
+                804.721923828125,
+                335.0709533691406
+              ]
+            }
+          ],
+          "brightness": 0.08718616711160208,
+          "sharpness": 16.877415738685833,
+          "scene_distance": 0.6949097099292627
+        },
+        {
+          "time": 20.52,
+          "image": "videos/v2a202706f0e9/frames/000041.jpg",
+          "objects": [
+            {
+              "label": "bird",
+              "confidence": 0.8331570625305176,
+              "xyxy": [
+                308.57427978515625,
+                114.92141723632812,
+                447.9185791015625,
+                320.3161926269531
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.8308064341545105,
+              "xyxy": [
+                171.22474670410156,
+                198.06776428222656,
+                356.751708984375,
+                406.6366882324219
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.7578699588775635,
+              "xyxy": [
+                127.51731872558594,
+                40.713687896728516,
+                356.8045959472656,
+                270.4860534667969
+              ]
+            }
+          ],
+          "brightness": 0.3745568577587529,
+          "sharpness": 234.1715984025931,
+          "scene_distance": 0.4272186597851189
+        },
+        {
+          "time": 21.0,
+          "image": "videos/v2a202706f0e9/frames/000042.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.5704039335250854,
+              "xyxy": [
+                26.74541664123535,
+                31.748153686523438,
+                803.9348754882812,
+                420.2724304199219
+              ]
+            }
+          ],
+          "brightness": 0.08700591073675167,
+          "sharpness": 4.113555638684661,
+          "scene_distance": 0.7273323337216503
+        },
+        {
+          "time": 21.52,
+          "image": "videos/v2a202706f0e9/frames/000043.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.7664642930030823,
+              "xyxy": [
+                3.887958288192749,
+                13.06742000579834,
+                793.9386596679688,
+                446.0805358886719
+              ]
+            },
+            {
+              "label": "frisbee",
+              "confidence": 0.40172192454338074,
+              "xyxy": [
+                697.7406616210938,
+                90.78089141845703,
+                851.672119140625,
+                158.13209533691406
+              ]
+            }
+          ],
+          "brightness": 0.3643310530393691,
+          "sharpness": 35.75372870485146,
+          "scene_distance": 0.4418753855382831
+        },
+        {
+          "time": 22.0,
+          "image": "videos/v2a202706f0e9/frames/000044.jpg",
+          "objects": [
+            {
+              "label": "boat",
+              "confidence": 0.4149157404899597,
+              "xyxy": [
+                714.8016967773438,
+                12.74665641784668,
+                851.3937377929688,
+                443.4112854003906
+              ]
+            }
+          ],
+          "brightness": 0.08493721999754518,
+          "sharpness": 26.253579739859042,
+          "scene_distance": 0.7264514263194602
+        },
+        {
+          "time": 22.52,
+          "image": "videos/v2a202706f0e9/frames/000045.jpg",
+          "objects": [],
+          "brightness": 0.3008115756083341,
+          "sharpness": 237.59003288734533,
+          "scene_distance": 0.4235294754424398
+        },
+        {
+          "time": 23.0,
+          "image": "videos/v2a202706f0e9/frames/000046.jpg",
+          "objects": [],
+          "brightness": 0.6889981473810182,
+          "sharpness": 33.787568456787064,
+          "scene_distance": 0.9773890728959933
+        },
+        {
+          "time": 23.52,
+          "image": "videos/v2a202706f0e9/frames/000047.jpg",
+          "objects": [],
+          "brightness": 0.9745986951118475,
+          "sharpness": 55.746928788869546,
+          "scene_distance": 0.13956688814383728
+        },
+        {
+          "time": 24.0,
+          "image": "videos/v2a202706f0e9/frames/000048.jpg",
+          "objects": [],
+          "brightness": 0.9734276903249564,
+          "sharpness": 60.523782276995306,
+          "scene_distance": 0.06813580305328892
+        },
+        {
+          "time": 24.52,
+          "image": "videos/v2a202706f0e9/frames/000049.jpg",
+          "objects": [],
+          "brightness": 0.9722524087882415,
+          "sharpness": 59.23788634585289,
+          "scene_distance": 0.07359077306830991
+        },
+        {
+          "time": 25.0,
+          "image": "videos/v2a202706f0e9/frames/000050.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.7622121572494507,
+              "xyxy": [
+                1.1427022218704224,
+                49.39931869506836,
+                471.0632019042969,
+                472.16473388671875
+              ]
+            }
+          ],
+          "brightness": 0.6707536189358372,
+          "sharpness": 113.77187486903304,
+          "scene_distance": 0.9407926204306596
+        },
+        {
+          "time": 25.52,
+          "image": "videos/v2a202706f0e9/frames/000051.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.6452231407165527,
+              "xyxy": [
+                0.0,
+                46.87191390991211,
+                477.59649658203125,
+                474.35845947265625
+              ]
+            },
+            {
+              "label": "umbrella",
+              "confidence": 0.6213685870170593,
+              "xyxy": [
+                541.1716918945312,
+                1.391966700553894,
+                791.8984985351562,
+                435.8592529296875
+              ]
+            },
+            {
+              "label": "sports ball",
+              "confidence": 0.5988232493400574,
+              "xyxy": [
+                19.867923736572266,
+                50.19739532470703,
+                104.15970611572266,
+                135.61912536621094
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.4035833775997162,
+              "xyxy": [
+                571.1146850585938,
+                386.5475769042969,
+                827.1511840820312,
+                474.91595458984375
+              ]
+            }
+          ],
+          "brightness": 0.6903689703580963,
+          "sharpness": 116.02606608963809,
+          "scene_distance": 0.20340336632531061
+        },
+        {
+          "time": 26.0,
+          "image": "videos/v2a202706f0e9/frames/000052.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8590134978294373,
+              "xyxy": [
+                89.64128875732422,
+                5.4462971687316895,
+                709.6123046875,
+                476.19732666015625
+              ]
+            }
+          ],
+          "brightness": 0.7515241722667159,
+          "sharpness": 40.83323289170942,
+          "scene_distance": 0.7466616328720648
+        },
+        {
+          "time": 26.52,
+          "image": "videos/v2a202706f0e9/frames/000053.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8719391822814941,
+              "xyxy": [
+                69.41136932373047,
+                3.754990816116333,
+                700.3148193359375,
+                473.8939514160156
+              ]
+            }
+          ],
+          "brightness": 0.7498754372641075,
+          "sharpness": 23.373197748890952,
+          "scene_distance": 0.11392628608741351
+        },
+        {
+          "time": 27.0,
+          "image": "videos/v2a202706f0e9/frames/000054.jpg",
+          "objects": [],
+          "brightness": 0.8640593164104452,
+          "sharpness": 160.9462734741784,
+          "scene_distance": 0.9977458309626568
+        },
+        {
+          "time": 27.52,
+          "image": "videos/v2a202706f0e9/frames/000055.jpg",
+          "objects": [],
+          "brightness": 0.8703975363619626,
+          "sharpness": 146.40578051643192,
+          "scene_distance": 0.08630603160979403
+        },
+        {
+          "time": 28.0,
+          "image": "videos/v2a202706f0e9/frames/000056.jpg",
+          "objects": [],
+          "brightness": 0.8756793799288103,
+          "sharpness": 142.66733665884195,
+          "scene_distance": 0.07961827863880862
+        },
+        {
+          "time": 28.52,
+          "image": "videos/v2a202706f0e9/frames/000057.jpg",
+          "objects": [],
+          "brightness": 0.8808156318082788,
+          "sharpness": 159.55707159624413,
+          "scene_distance": 0.07953426275795195
+        },
+        {
+          "time": 29.0,
+          "image": "videos/v2a202706f0e9/frames/000058.jpg",
+          "objects": [],
+          "brightness": 0.8853411714842432,
+          "sharpness": 155.51438282472614,
+          "scene_distance": 0.07920176508069204
+        },
+        {
+          "time": 29.52,
+          "image": "videos/v2a202706f0e9/frames/000059.jpg",
+          "objects": [],
+          "brightness": 0.8903357056828991,
+          "sharpness": 129.48859546165883,
+          "scene_distance": 0.07988521354535673
+        },
+        {
+          "time": 30.0,
+          "image": "videos/v2a202706f0e9/frames/000060.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.6060093641281128,
+              "xyxy": [
+                1.8781641721725464,
+                30.86656951904297,
+                452.461181640625,
+                466.4335021972656
+              ]
+            }
+          ],
+          "brightness": 0.6583167825032987,
+          "sharpness": 94.1797043002922,
+          "scene_distance": 0.9405775688565371
+        },
+        {
+          "time": 30.52,
+          "image": "videos/v2a202706f0e9/frames/000061.jpg",
+          "objects": [],
+          "brightness": 0.9797512389149713,
+          "sharpness": 66.93623804249597,
+          "scene_distance": 0.9405954572442843
+        },
+        {
+          "time": 31.0,
+          "image": "videos/v2a202706f0e9/frames/000062.jpg",
+          "objects": [],
+          "brightness": 0.9785977151032558,
+          "sharpness": 60.350767801251955,
+          "scene_distance": 0.0489194317121068
+        },
+        {
+          "time": 31.52,
+          "image": "videos/v2a202706f0e9/frames/000063.jpg",
+          "objects": [],
+          "brightness": 0.9783491841572309,
+          "sharpness": 468.9159575508607,
+          "scene_distance": 0.06417652085243584
+        },
+        {
+          "time": 32.0,
+          "image": "videos/v2a202706f0e9/frames/000064.jpg",
+          "objects": [],
+          "brightness": 0.976875815075639,
+          "sharpness": 448.9408939749609,
+          "scene_distance": 0.06317497935653237
+        }
+      ],
+      "segments": [],
+      "audio": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "dbfs": -45.370709539354834,
+          "peak": false
+        },
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "dbfs": -45.16772588751572,
+          "peak": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "dbfs": -45.25002058931574,
+          "peak": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "dbfs": -43.99813592954585,
+          "peak": false
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "dbfs": -39.26346830821055,
+          "peak": false
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "dbfs": -36.52807522319415,
+          "peak": false
+        },
+        {
+          "start": 6.0,
+          "end": 7.0,
+          "dbfs": -32.978076795535536,
+          "peak": false
+        },
+        {
+          "start": 7.0,
+          "end": 8.0,
+          "dbfs": -31.67125334051503,
+          "peak": false
+        },
+        {
+          "start": 8.0,
+          "end": 9.0,
+          "dbfs": -27.45856058537583,
+          "peak": false
+        },
+        {
+          "start": 9.0,
+          "end": 10.0,
+          "dbfs": -23.200555755132832,
+          "peak": false
+        },
+        {
+          "start": 10.0,
+          "end": 11.0,
+          "dbfs": -36.207870771678245,
+          "peak": false
+        },
+        {
+          "start": 11.0,
+          "end": 12.0,
+          "dbfs": -43.6908672689549,
+          "peak": false
+        },
+        {
+          "start": 12.0,
+          "end": 13.0,
+          "dbfs": -43.716244441520914,
+          "peak": false
+        },
+        {
+          "start": 13.0,
+          "end": 14.0,
+          "dbfs": -40.726615878562,
+          "peak": false
+        },
+        {
+          "start": 14.0,
+          "end": 15.0,
+          "dbfs": -42.179330817723304,
+          "peak": false
+        },
+        {
+          "start": 15.0,
+          "end": 16.0,
+          "dbfs": -39.085044368076865,
+          "peak": false
+        },
+        {
+          "start": 16.0,
+          "end": 17.0,
+          "dbfs": -27.42641261187447,
+          "peak": false
+        },
+        {
+          "start": 17.0,
+          "end": 18.0,
+          "dbfs": -27.028665402524435,
+          "peak": false
+        },
+        {
+          "start": 18.0,
+          "end": 19.0,
+          "dbfs": -25.662692343143352,
+          "peak": false
+        },
+        {
+          "start": 19.0,
+          "end": 20.0,
+          "dbfs": -24.754681786991597,
+          "peak": false
+        },
+        {
+          "start": 20.0,
+          "end": 21.0,
+          "dbfs": -21.11471816733853,
+          "peak": true
+        },
+        {
+          "start": 21.0,
+          "end": 22.0,
+          "dbfs": -21.46920024857474,
+          "peak": true
+        },
+        {
+          "start": 22.0,
+          "end": 23.0,
+          "dbfs": -20.142775455082,
+          "peak": true
+        },
+        {
+          "start": 23.0,
+          "end": 24.0,
+          "dbfs": -31.592300389324663,
+          "peak": false
+        },
+        {
+          "start": 24.0,
+          "end": 25.0,
+          "dbfs": -34.889691719941105,
+          "peak": false
+        },
+        {
+          "start": 25.0,
+          "end": 26.0,
+          "dbfs": -34.06292120812523,
+          "peak": false
+        },
+        {
+          "start": 26.0,
+          "end": 27.0,
+          "dbfs": -26.44834544110301,
+          "peak": false
+        },
+        {
+          "start": 27.0,
+          "end": 28.0,
+          "dbfs": -24.700374259762707,
+          "peak": false
+        },
+        {
+          "start": 28.0,
+          "end": 29.0,
+          "dbfs": -24.430082547037454,
+          "peak": false
+        },
+        {
+          "start": 29.0,
+          "end": 30.0,
+          "dbfs": -27.82056927112616,
+          "peak": false
+        },
+        {
+          "start": 30.0,
+          "end": 31.0,
+          "dbfs": -21.508800650069336,
+          "peak": true
+        },
+        {
+          "start": 31.0,
+          "end": 32.0,
+          "dbfs": -39.17797264044138,
+          "peak": false
+        },
+        {
+          "start": 32.0,
+          "end": 33.0,
+          "dbfs": -63.61933602704979,
+          "peak": false
+        },
+        {
+          "start": 33.0,
+          "end": 33.002,
+          "dbfs": -90.30899869919436,
+          "peak": false
+        }
+      ],
+      "events": [
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 4.0,
+          "end": 4.1,
+          "value": 0.9129152512249288,
+          "frame": "videos/v2a202706f0e9/frames/000008.jpg",
+          "id": "e00000"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 4.52,
+          "end": 4.62,
+          "value": 0.6356563944427049,
+          "frame": "videos/v2a202706f0e9/frames/000009.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 6.52,
+          "end": 6.62,
+          "value": 0.5116628165836465,
+          "frame": "videos/v2a202706f0e9/frames/000013.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 7.0,
+          "end": 7.1,
+          "value": 0.8233723547996338,
+          "frame": "videos/v2a202706f0e9/frames/000014.jpg",
+          "id": "e00003"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 7.52,
+          "end": 7.62,
+          "value": 0.851253461235201,
+          "frame": "videos/v2a202706f0e9/frames/000015.jpg",
+          "id": "e00004"
+        },
+        {
+          "type": "object",
+          "label": "sheep",
+          "start": 9.52,
+          "end": 10.52,
+          "confidence": 0.6993017792701721,
+          "samples": 2,
+          "frame": "videos/v2a202706f0e9/frames/000019.jpg",
+          "id": "e00005"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 9.52,
+          "end": 9.62,
+          "value": 0.9891843367220383,
+          "frame": "videos/v2a202706f0e9/frames/000019.jpg",
+          "id": "e00006"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 10.0,
+          "end": 11.52,
+          "confidence": 0.7679239511489868,
+          "samples": 3,
+          "frame": "videos/v2a202706f0e9/frames/000020.jpg",
+          "id": "e00007"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 11.52,
+          "end": 11.62,
+          "value": 0.9897272669586191,
+          "frame": "videos/v2a202706f0e9/frames/000023.jpg",
+          "id": "e00008"
+        },
+        {
+          "type": "object",
+          "label": "cow",
+          "start": 13.52,
+          "end": 14.0,
+          "confidence": 0.4332793056964874,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000027.jpg",
+          "id": "e00009"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 13.52,
+          "end": 13.62,
+          "value": 0.9907922872135221,
+          "frame": "videos/v2a202706f0e9/frames/000027.jpg",
+          "id": "e00010"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 14.0,
+          "end": 14.52,
+          "confidence": 0.8193379640579224,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000028.jpg",
+          "id": "e00011"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 14.0,
+          "end": 14.1,
+          "value": 0.6697707211201704,
+          "frame": "videos/v2a202706f0e9/frames/000028.jpg",
+          "id": "e00012"
+        },
+        {
+          "type": "object",
+          "label": "cow",
+          "start": 15.0,
+          "end": 16.0,
+          "confidence": 0.5977952480316162,
+          "samples": 2,
+          "frame": "videos/v2a202706f0e9/frames/000030.jpg",
+          "id": "e00013"
+        },
+        {
+          "type": "object",
+          "label": "sheep",
+          "start": 15.0,
+          "end": 15.52,
+          "confidence": 0.42636099457740784,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000030.jpg",
+          "id": "e00014"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 15.0,
+          "end": 15.1,
+          "value": 0.6360542045188277,
+          "frame": "videos/v2a202706f0e9/frames/000030.jpg",
+          "id": "e00015"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 16.0,
+          "end": 16.52,
+          "confidence": 0.8842337727546692,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000032.jpg",
+          "id": "e00016"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 16.0,
+          "end": 16.1,
+          "value": 0.6780931488165121,
+          "frame": "videos/v2a202706f0e9/frames/000032.jpg",
+          "id": "e00017"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 17.0,
+          "end": 17.1,
+          "value": 0.9984040784951187,
+          "frame": "videos/v2a202706f0e9/frames/000034.jpg",
+          "id": "e00018"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 19.0,
+          "end": 19.52,
+          "confidence": 0.5119855999946594,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000038.jpg",
+          "id": "e00019"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 19.0,
+          "end": 19.1,
+          "value": 0.794894469408883,
+          "frame": "videos/v2a202706f0e9/frames/000038.jpg",
+          "id": "e00020"
+        },
+        {
+          "type": "object",
+          "label": "apple",
+          "start": 19.52,
+          "end": 20.0,
+          "confidence": 0.47540193796157837,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000039.jpg",
+          "id": "e00021"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 19.52,
+          "end": 21.0,
+          "confidence": 0.618261069059372,
+          "samples": 3,
+          "frame": "videos/v2a202706f0e9/frames/000039.jpg",
+          "id": "e00022"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 19.52,
+          "end": 19.62,
+          "value": 0.5671199761563954,
+          "frame": "videos/v2a202706f0e9/frames/000039.jpg",
+          "id": "e00023"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 20.0,
+          "end": 23.0,
+          "value": -20.142775455082,
+          "id": "e00024"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 20.0,
+          "end": 20.1,
+          "value": 0.6949097099292627,
+          "frame": "videos/v2a202706f0e9/frames/000040.jpg",
+          "id": "e00025"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 21.0,
+          "end": 22.0,
+          "confidence": 0.6684341132640839,
+          "samples": 2,
+          "frame": "videos/v2a202706f0e9/frames/000042.jpg",
+          "id": "e00026"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 21.0,
+          "end": 21.1,
+          "value": 0.7273323337216503,
+          "frame": "videos/v2a202706f0e9/frames/000042.jpg",
+          "id": "e00027"
+        },
+        {
+          "type": "object",
+          "label": "frisbee",
+          "start": 21.52,
+          "end": 22.0,
+          "confidence": 0.40172192454338074,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000043.jpg",
+          "id": "e00028"
+        },
+        {
+          "type": "object",
+          "label": "boat",
+          "start": 22.0,
+          "end": 22.52,
+          "confidence": 0.4149157404899597,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000044.jpg",
+          "id": "e00029"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 22.0,
+          "end": 22.1,
+          "value": 0.7264514263194602,
+          "frame": "videos/v2a202706f0e9/frames/000044.jpg",
+          "id": "e00030"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 23.0,
+          "end": 23.1,
+          "value": 0.9773890728959933,
+          "frame": "videos/v2a202706f0e9/frames/000046.jpg",
+          "id": "e00031"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 25.0,
+          "end": 27.0,
+          "confidence": 0.7845969945192337,
+          "samples": 4,
+          "frame": "videos/v2a202706f0e9/frames/000050.jpg",
+          "id": "e00032"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 25.0,
+          "end": 25.1,
+          "value": 0.9407926204306596,
+          "frame": "videos/v2a202706f0e9/frames/000050.jpg",
+          "id": "e00033"
+        },
+        {
+          "type": "object",
+          "label": "sports ball",
+          "start": 25.52,
+          "end": 26.0,
+          "confidence": 0.5988232493400574,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000051.jpg",
+          "id": "e00034"
+        },
+        {
+          "type": "object",
+          "label": "umbrella",
+          "start": 25.52,
+          "end": 26.0,
+          "confidence": 0.6213685870170593,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000051.jpg",
+          "id": "e00035"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 26.0,
+          "end": 26.1,
+          "value": 0.7466616328720648,
+          "frame": "videos/v2a202706f0e9/frames/000052.jpg",
+          "id": "e00036"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 27.0,
+          "end": 27.1,
+          "value": 0.9977458309626568,
+          "frame": "videos/v2a202706f0e9/frames/000054.jpg",
+          "id": "e00037"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 30.0,
+          "end": 31.0,
+          "value": -21.508800650069336,
+          "id": "e00038"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 30.0,
+          "end": 30.52,
+          "confidence": 0.6060093641281128,
+          "samples": 1,
+          "frame": "videos/v2a202706f0e9/frames/000060.jpg",
+          "id": "e00039"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 30.0,
+          "end": 30.1,
+          "value": 0.9405775688565371,
+          "frame": "videos/v2a202706f0e9/frames/000060.jpg",
+          "id": "e00040"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 30.52,
+          "end": 30.62,
+          "value": 0.9405954572442843,
+          "frame": "videos/v2a202706f0e9/frames/000061.jpg",
+          "id": "e00041"
+        }
+      ],
+      "entities": [
+        {
+          "label": "apple",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 0.4800000000000004,
+          "mean_confidence": 0.47540193796157837,
+          "frame_share": 0.015384615384615385,
+          "duration_share": 0.014544573056178425
+        },
+        {
+          "label": "bird",
+          "detections": 11,
+          "frames": 7,
+          "max_simultaneous": 3,
+          "intervals": 3,
+          "seconds": 3.5199999999999996,
+          "mean_confidence": 0.6723391061479395,
+          "frame_share": 0.1076923076923077,
+          "duration_share": 0.106660202411975
+        },
+        {
+          "label": "boat",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 0.5199999999999996,
+          "mean_confidence": 0.4149157404899597,
+          "frame_share": 0.015384615384615385,
+          "duration_share": 0.015756620810859934
+        },
+        {
+          "label": "cow",
+          "detections": 4,
+          "frames": 3,
+          "max_simultaneous": 2,
+          "intervals": 2,
+          "seconds": 1.4800000000000004,
+          "mean_confidence": 0.511899508535862,
+          "frame_share": 0.046153846153846156,
+          "duration_share": 0.04484576692321678
+        },
+        {
+          "label": "frisbee",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 0.4800000000000004,
+          "mean_confidence": 0.40172192454338074,
+          "frame_share": 0.015384615384615385,
+          "duration_share": 0.014544573056178425
+        },
+        {
+          "label": "person",
+          "detections": 10,
+          "frames": 9,
+          "max_simultaneous": 2,
+          "intervals": 5,
+          "seconds": 4.559999999999999,
+          "mean_confidence": 0.688106831908226,
+          "frame_share": 0.13846153846153847,
+          "duration_share": 0.1381734440336949
+        },
+        {
+          "label": "sheep",
+          "detections": 3,
+          "frames": 3,
+          "max_simultaneous": 1,
+          "intervals": 2,
+          "seconds": 1.5199999999999996,
+          "mean_confidence": 0.6083215177059174,
+          "frame_share": 0.046153846153846156,
+          "duration_share": 0.046057814677898296
+        },
+        {
+          "label": "sports ball",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 0.4800000000000004,
+          "mean_confidence": 0.5988232493400574,
+          "frame_share": 0.015384615384615385,
+          "duration_share": 0.014544573056178425
+        },
+        {
+          "label": "umbrella",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 0.4800000000000004,
+          "mean_confidence": 0.6213685870170593,
+          "frame_share": 0.015384615384615385,
+          "duration_share": 0.014544573056178425
+        }
+      ],
+      "warnings": [
+        "empty_transcript: речь не распознана; проверьте тишину/музыку/качество аудио"
+      ],
+      "detected_language": "en",
+      "signature": "acbdf15ce9a35a8fba121bc5c544ce96cab35c79ce3ffb0fa2329737c7da1930",
+      "processing_seconds": 44.094,
+      "cluster": 1,
+      "topic_words": [
+        "person",
+        "bird",
+        "opencv",
+        "car",
+        "pedestrians",
+        "truck",
+        "trailer",
+        "judge",
+        "don",
+        "gatekeepers"
+      ]
+    },
+    {
+      "id": "vb03a107a1954",
+      "title": "W3C — timer test",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\w3c_movie\\clip.mp4",
+      "metadata": {
+        "title": "W3C — timer test",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\w3c_movie\\clip.mp4",
+        "filename": "original.mp4",
+        "sha256": "974d7c6d818b3aba9f8e6379a37037d75f46da8c266dc1ef28ce742d6303df10",
+        "collected_at": "2026-10-27T08:58:26.991147+00:00",
+        "source_kind": "local",
+        "origin_url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+        "clip_seconds": 60
+      },
+      "technical": {
+        "duration": 60.0,
+        "fps": 24.0,
+        "fps_fraction": "24/1",
+        "width": 320,
+        "height": 240,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "container": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bit_rate": 73131,
+        "bytes": 548486,
+        "has_audio": true,
+        "audio_codec": "aac",
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 60.0,
+      "media": "videos/vb03a107a1954/video.mp4",
+      "interval": 1.0,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.011476205094368197,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/vb03a107a1954/frames/000000.jpg",
+          "objects": [],
+          "brightness": 0.9005753165849673,
+          "sharpness": 3469.2540104166665,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 1.0,
+          "image": "videos/vb03a107a1954/frames/000001.jpg",
+          "objects": [],
+          "brightness": 0.9081021752450981,
+          "sharpness": 3192.546640625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 2.0,
+          "image": "videos/vb03a107a1954/frames/000002.jpg",
+          "objects": [],
+          "brightness": 0.9024386233660131,
+          "sharpness": 3440.1517447916667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 3.0,
+          "image": "videos/vb03a107a1954/frames/000003.jpg",
+          "objects": [],
+          "brightness": 0.9028621323529411,
+          "sharpness": 3450.6865625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 4.0,
+          "image": "videos/vb03a107a1954/frames/000004.jpg",
+          "objects": [],
+          "brightness": 0.9020717422385621,
+          "sharpness": 3484.4296354166668,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 5.0,
+          "image": "videos/vb03a107a1954/frames/000005.jpg",
+          "objects": [],
+          "brightness": 0.9015125612745097,
+          "sharpness": 3421.8571875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 6.0,
+          "image": "videos/vb03a107a1954/frames/000006.jpg",
+          "objects": [],
+          "brightness": 0.8999868259803921,
+          "sharpness": 3503.4752864583334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 7.0,
+          "image": "videos/vb03a107a1954/frames/000007.jpg",
+          "objects": [],
+          "brightness": 0.9068225081699347,
+          "sharpness": 3234.753125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 8.0,
+          "image": "videos/vb03a107a1954/frames/000008.jpg",
+          "objects": [],
+          "brightness": 0.8992762459150326,
+          "sharpness": 3529.76171875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 9.0,
+          "image": "videos/vb03a107a1954/frames/000009.jpg",
+          "objects": [],
+          "brightness": 0.8998515114379084,
+          "sharpness": 3512.993151041667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 10.0,
+          "image": "videos/vb03a107a1954/frames/000010.jpg",
+          "objects": [],
+          "brightness": 0.9080920649509804,
+          "sharpness": 3165.132838541667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 11.0,
+          "image": "videos/vb03a107a1954/frames/000011.jpg",
+          "objects": [],
+          "brightness": 0.9156598243464051,
+          "sharpness": 2879.7297395833334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 12.0,
+          "image": "videos/vb03a107a1954/frames/000012.jpg",
+          "objects": [],
+          "brightness": 0.9090806781045752,
+          "sharpness": 3245.8284375,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 13.0,
+          "image": "videos/vb03a107a1954/frames/000013.jpg",
+          "objects": [],
+          "brightness": 0.9095130208333334,
+          "sharpness": 3248.0065885416666,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 14.0,
+          "image": "videos/vb03a107a1954/frames/000014.jpg",
+          "objects": [],
+          "brightness": 0.9100147569444444,
+          "sharpness": 3105.6547135416668,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 15.0,
+          "image": "videos/vb03a107a1954/frames/000015.jpg",
+          "objects": [],
+          "brightness": 0.8304269812091503,
+          "sharpness": 3929.09109375,
+          "scene_distance": 0.2766592169851148
+        },
+        {
+          "time": 16.0,
+          "image": "videos/vb03a107a1954/frames/000016.jpg",
+          "objects": [],
+          "brightness": 0.8281200980392157,
+          "sharpness": 4073.858880208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 17.0,
+          "image": "videos/vb03a107a1954/frames/000017.jpg",
+          "objects": [],
+          "brightness": 0.8349445465686275,
+          "sharpness": 3813.540052083333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 18.0,
+          "image": "videos/vb03a107a1954/frames/000018.jpg",
+          "objects": [],
+          "brightness": 0.8274672691993464,
+          "sharpness": 4133.9548958333335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 19.0,
+          "image": "videos/vb03a107a1954/frames/000019.jpg",
+          "objects": [],
+          "brightness": 0.8280274714052287,
+          "sharpness": 4111.981536458334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 20.0,
+          "image": "videos/vb03a107a1954/frames/000020.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.4296441078186035,
+              "xyxy": [
+                136.593017578125,
+                133.02345275878906,
+                184.50347900390625,
+                159.3097381591797
+              ]
+            }
+          ],
+          "brightness": 0.8241150939542483,
+          "sharpness": 4208.36453125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 21.0,
+          "image": "videos/vb03a107a1954/frames/000021.jpg",
+          "objects": [],
+          "brightness": 0.8316887765522876,
+          "sharpness": 3958.1649479166667,
+          "scene_distance": 0.04892639707097205
+        },
+        {
+          "time": 22.0,
+          "image": "videos/vb03a107a1954/frames/000022.jpg",
+          "objects": [],
+          "brightness": 0.8260447814542483,
+          "sharpness": 4265.3325,
+          "scene_distance": 0.015848910204817754
+        },
+        {
+          "time": 23.0,
+          "image": "videos/vb03a107a1954/frames/000023.jpg",
+          "objects": [],
+          "brightness": 0.8264712520424837,
+          "sharpness": 4250.578880208333,
+          "scene_distance": 0.015590261913382808
+        },
+        {
+          "time": 24.0,
+          "image": "videos/vb03a107a1954/frames/000024.jpg",
+          "objects": [],
+          "brightness": 0.8256287275326798,
+          "sharpness": 4281.750572916667,
+          "scene_distance": 0.013176827773516217
+        },
+        {
+          "time": 25.0,
+          "image": "videos/vb03a107a1954/frames/000025.jpg",
+          "objects": [],
+          "brightness": 0.8242052185457517,
+          "sharpness": 4321.404635416667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 26.0,
+          "image": "videos/vb03a107a1954/frames/000026.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.47167882323265076,
+              "xyxy": [
+                136.59393310546875,
+                132.90887451171875,
+                184.68402099609375,
+                156.47860717773438
+              ]
+            }
+          ],
+          "brightness": 0.8227070567810457,
+          "sharpness": 4395.584583333333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 27.0,
+          "image": "videos/vb03a107a1954/frames/000027.jpg",
+          "objects": [],
+          "brightness": 0.8295355392156863,
+          "sharpness": 4125.708411458333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 28.0,
+          "image": "videos/vb03a107a1954/frames/000028.jpg",
+          "objects": [],
+          "brightness": 0.8220121017156863,
+          "sharpness": 4412.793880208334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 29.0,
+          "image": "videos/vb03a107a1954/frames/000029.jpg",
+          "objects": [
+            {
+              "label": "scissors",
+              "confidence": 0.4322810471057892,
+              "xyxy": [
+                136.64944458007812,
+                132.75326538085938,
+                184.68173217773438,
+                164.06057739257812
+              ]
+            }
+          ],
+          "brightness": 0.8225440665849673,
+          "sharpness": 4399.172213541667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 30.0,
+          "image": "videos/vb03a107a1954/frames/000030.jpg",
+          "objects": [],
+          "brightness": 0.8239536356209151,
+          "sharpness": 4210.828515625,
+          "scene_distance": 0.3832052248947948
+        },
+        {
+          "time": 31.0,
+          "image": "videos/vb03a107a1954/frames/000031.jpg",
+          "objects": [],
+          "brightness": 0.8313716299019608,
+          "sharpness": 3940.407760416667,
+          "scene_distance": 0.037511688501330284
+        },
+        {
+          "time": 32.0,
+          "image": "videos/vb03a107a1954/frames/000032.jpg",
+          "objects": [],
+          "brightness": 0.8246767769607843,
+          "sharpness": 4364.6755989583335,
+          "scene_distance": 0.061610243555205724
+        },
+        {
+          "time": 33.0,
+          "image": "videos/vb03a107a1954/frames/000033.jpg",
+          "objects": [],
+          "brightness": 0.8251071282679738,
+          "sharpness": 4371.5447395833335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 34.0,
+          "image": "videos/vb03a107a1954/frames/000034.jpg",
+          "objects": [],
+          "brightness": 0.8256036049836601,
+          "sharpness": 4238.949921875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 35.0,
+          "image": "videos/vb03a107a1954/frames/000035.jpg",
+          "objects": [],
+          "brightness": 0.8249695159313726,
+          "sharpness": 4162.0448177083335,
+          "scene_distance": 0.009621944204793374
+        },
+        {
+          "time": 36.0,
+          "image": "videos/vb03a107a1954/frames/000036.jpg",
+          "objects": [],
+          "brightness": 0.8226811683006535,
+          "sharpness": 4303.7471875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 37.0,
+          "image": "videos/vb03a107a1954/frames/000037.jpg",
+          "objects": [],
+          "brightness": 0.8295121017156863,
+          "sharpness": 4035.212421875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 38.0,
+          "image": "videos/vb03a107a1954/frames/000038.jpg",
+          "objects": [],
+          "brightness": 0.8220545343137255,
+          "sharpness": 4379.6290625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 39.0,
+          "image": "videos/vb03a107a1954/frames/000039.jpg",
+          "objects": [],
+          "brightness": 0.8226287275326797,
+          "sharpness": 4330.656640625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 40.0,
+          "image": "videos/vb03a107a1954/frames/000040.jpg",
+          "objects": [],
+          "brightness": 0.8229778390522876,
+          "sharpness": 4310.126380208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 41.0,
+          "image": "videos/vb03a107a1954/frames/000041.jpg",
+          "objects": [],
+          "brightness": 0.8304924938725491,
+          "sharpness": 4018.0042708333335,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 42.0,
+          "image": "videos/vb03a107a1954/frames/000042.jpg",
+          "objects": [],
+          "brightness": 0.8246402675653596,
+          "sharpness": 4300.2853125,
+          "scene_distance": 0.025949929745901643
+        },
+        {
+          "time": 43.0,
+          "image": "videos/vb03a107a1954/frames/000043.jpg",
+          "objects": [],
+          "brightness": 0.8250730187908497,
+          "sharpness": 4306.245520833333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 44.0,
+          "image": "videos/vb03a107a1954/frames/000044.jpg",
+          "objects": [],
+          "brightness": 0.8242294730392157,
+          "sharpness": 4338.154739583333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 45.0,
+          "image": "videos/vb03a107a1954/frames/000045.jpg",
+          "objects": [],
+          "brightness": 0.7980551470588235,
+          "sharpness": 4852.09265625,
+          "scene_distance": 0.3833786372384975
+        },
+        {
+          "time": 46.0,
+          "image": "videos/vb03a107a1954/frames/000046.jpg",
+          "objects": [],
+          "brightness": 0.7965620404411765,
+          "sharpness": 4928.6736458333335,
+          "scene_distance": 0.01789045937785263
+        },
+        {
+          "time": 47.0,
+          "image": "videos/vb03a107a1954/frames/000047.jpg",
+          "objects": [],
+          "brightness": 0.8033945567810458,
+          "sharpness": 4672.7328125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 48.0,
+          "image": "videos/vb03a107a1954/frames/000048.jpg",
+          "objects": [
+            {
+              "label": "traffic light",
+              "confidence": 0.5164008736610413,
+              "xyxy": [
+                229.859619140625,
+                40.818931579589844,
+                273.2279052734375,
+                106.51622772216797
+              ]
+            }
+          ],
+          "brightness": 0.7958671364379085,
+          "sharpness": 4977.200416666667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 49.0,
+          "image": "videos/vb03a107a1954/frames/000049.jpg",
+          "objects": [],
+          "brightness": 0.7964072712418301,
+          "sharpness": 4935.369296875,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 50.0,
+          "image": "videos/vb03a107a1954/frames/000050.jpg",
+          "objects": [],
+          "brightness": 0.7973079554738562,
+          "sharpness": 4755.731536458334,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 51.0,
+          "image": "videos/vb03a107a1954/frames/000051.jpg",
+          "objects": [],
+          "brightness": 0.8048141339869281,
+          "sharpness": 4479.654661458333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 52.0,
+          "image": "videos/vb03a107a1954/frames/000052.jpg",
+          "objects": [],
+          "brightness": 0.7982288092320261,
+          "sharpness": 4860.873125,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 53.0,
+          "image": "videos/vb03a107a1954/frames/000053.jpg",
+          "objects": [],
+          "brightness": 0.798617289624183,
+          "sharpness": 4863.7667447916665,
+          "scene_distance": 0.026468736274944452
+        },
+        {
+          "time": 54.0,
+          "image": "videos/vb03a107a1954/frames/000054.jpg",
+          "objects": [],
+          "brightness": 0.7991156045751634,
+          "sharpness": 4719.449140625,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 55.0,
+          "image": "videos/vb03a107a1954/frames/000055.jpg",
+          "objects": [],
+          "brightness": 0.7985464154411764,
+          "sharpness": 4673.886927083333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 56.0,
+          "image": "videos/vb03a107a1954/frames/000056.jpg",
+          "objects": [],
+          "brightness": 0.7962206903594772,
+          "sharpness": 4824.074739583333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 57.0,
+          "image": "videos/vb03a107a1954/frames/000057.jpg",
+          "objects": [],
+          "brightness": 0.803095281862745,
+          "sharpness": 4549.107630208333,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 58.0,
+          "image": "videos/vb03a107a1954/frames/000058.jpg",
+          "objects": [],
+          "brightness": 0.7956136642156864,
+          "sharpness": 4890.572682291667,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 59.0,
+          "image": "videos/vb03a107a1954/frames/000059.jpg",
+          "objects": [],
+          "brightness": 0.7961774407679738,
+          "sharpness": 4859.102239583333,
+          "scene_distance": 0.0
+        }
+      ],
+      "segments": [],
+      "audio": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "dbfs": -36.43688327049617,
+          "peak": false
+        },
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "dbfs": -36.42774697111974,
+          "peak": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "dbfs": -36.34370342338866,
+          "peak": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "dbfs": -36.347366545607876,
+          "peak": false
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "dbfs": -36.39972644481766,
+          "peak": false
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "dbfs": -36.37449310149321,
+          "peak": false
+        },
+        {
+          "start": 6.0,
+          "end": 7.0,
+          "dbfs": -36.37707534639127,
+          "peak": false
+        },
+        {
+          "start": 7.0,
+          "end": 8.0,
+          "dbfs": -36.38263630789243,
+          "peak": false
+        },
+        {
+          "start": 8.0,
+          "end": 9.0,
+          "dbfs": -36.378643722007205,
+          "peak": false
+        },
+        {
+          "start": 9.0,
+          "end": 10.0,
+          "dbfs": -36.36101394097182,
+          "peak": false
+        },
+        {
+          "start": 10.0,
+          "end": 11.0,
+          "dbfs": -36.38781495120209,
+          "peak": false
+        },
+        {
+          "start": 11.0,
+          "end": 12.0,
+          "dbfs": -36.37794959290352,
+          "peak": false
+        },
+        {
+          "start": 12.0,
+          "end": 13.0,
+          "dbfs": -36.39735651691667,
+          "peak": false
+        },
+        {
+          "start": 13.0,
+          "end": 14.0,
+          "dbfs": -36.43016274885297,
+          "peak": false
+        },
+        {
+          "start": 14.0,
+          "end": 15.0,
+          "dbfs": -36.35766576584617,
+          "peak": false
+        },
+        {
+          "start": 15.0,
+          "end": 16.0,
+          "dbfs": -36.501318212914356,
+          "peak": false
+        },
+        {
+          "start": 16.0,
+          "end": 17.0,
+          "dbfs": -36.398545942178714,
+          "peak": false
+        },
+        {
+          "start": 17.0,
+          "end": 18.0,
+          "dbfs": -36.3655802634128,
+          "peak": false
+        },
+        {
+          "start": 18.0,
+          "end": 19.0,
+          "dbfs": -36.38420195362495,
+          "peak": false
+        },
+        {
+          "start": 19.0,
+          "end": 20.0,
+          "dbfs": -36.3872535066291,
+          "peak": false
+        },
+        {
+          "start": 20.0,
+          "end": 21.0,
+          "dbfs": -36.39110482771385,
+          "peak": false
+        },
+        {
+          "start": 21.0,
+          "end": 22.0,
+          "dbfs": -36.34764438345117,
+          "peak": false
+        },
+        {
+          "start": 22.0,
+          "end": 23.0,
+          "dbfs": -36.38065231737719,
+          "peak": false
+        },
+        {
+          "start": 23.0,
+          "end": 24.0,
+          "dbfs": -36.43208405329893,
+          "peak": false
+        },
+        {
+          "start": 24.0,
+          "end": 25.0,
+          "dbfs": -36.36168702996189,
+          "peak": false
+        },
+        {
+          "start": 25.0,
+          "end": 26.0,
+          "dbfs": -36.38094615404995,
+          "peak": false
+        },
+        {
+          "start": 26.0,
+          "end": 27.0,
+          "dbfs": -36.390071235589815,
+          "peak": false
+        },
+        {
+          "start": 27.0,
+          "end": 28.0,
+          "dbfs": -36.38702669758294,
+          "peak": false
+        },
+        {
+          "start": 28.0,
+          "end": 29.0,
+          "dbfs": -36.3429409319255,
+          "peak": false
+        },
+        {
+          "start": 29.0,
+          "end": 30.0,
+          "dbfs": -36.34056839749547,
+          "peak": false
+        },
+        {
+          "start": 30.0,
+          "end": 31.0,
+          "dbfs": -36.51388520980298,
+          "peak": false
+        },
+        {
+          "start": 31.0,
+          "end": 32.0,
+          "dbfs": -36.35660157820984,
+          "peak": false
+        },
+        {
+          "start": 32.0,
+          "end": 33.0,
+          "dbfs": -36.36843250560984,
+          "peak": false
+        },
+        {
+          "start": 33.0,
+          "end": 34.0,
+          "dbfs": -36.36317226694705,
+          "peak": false
+        },
+        {
+          "start": 34.0,
+          "end": 35.0,
+          "dbfs": -36.40356084508799,
+          "peak": false
+        },
+        {
+          "start": 35.0,
+          "end": 36.0,
+          "dbfs": -36.368498005837765,
+          "peak": false
+        },
+        {
+          "start": 36.0,
+          "end": 37.0,
+          "dbfs": -36.37787176007263,
+          "peak": false
+        },
+        {
+          "start": 37.0,
+          "end": 38.0,
+          "dbfs": -36.38597971706565,
+          "peak": false
+        },
+        {
+          "start": 38.0,
+          "end": 39.0,
+          "dbfs": -36.337217480587455,
+          "peak": false
+        },
+        {
+          "start": 39.0,
+          "end": 40.0,
+          "dbfs": -36.38701762534427,
+          "peak": false
+        },
+        {
+          "start": 40.0,
+          "end": 41.0,
+          "dbfs": -36.36594545998777,
+          "peak": false
+        },
+        {
+          "start": 41.0,
+          "end": 42.0,
+          "dbfs": -36.46121631585122,
+          "peak": false
+        },
+        {
+          "start": 42.0,
+          "end": 43.0,
+          "dbfs": -36.37253387907955,
+          "peak": false
+        },
+        {
+          "start": 43.0,
+          "end": 44.0,
+          "dbfs": -36.36099957521406,
+          "peak": false
+        },
+        {
+          "start": 44.0,
+          "end": 45.0,
+          "dbfs": -36.34195340319533,
+          "peak": false
+        },
+        {
+          "start": 45.0,
+          "end": 46.0,
+          "dbfs": -36.37681149049301,
+          "peak": false
+        },
+        {
+          "start": 46.0,
+          "end": 47.0,
+          "dbfs": -36.400038030220514,
+          "peak": false
+        },
+        {
+          "start": 47.0,
+          "end": 48.0,
+          "dbfs": -36.29936783011544,
+          "peak": false
+        },
+        {
+          "start": 48.0,
+          "end": 49.0,
+          "dbfs": -36.37105183471259,
+          "peak": false
+        },
+        {
+          "start": 49.0,
+          "end": 50.0,
+          "dbfs": -36.42460451634646,
+          "peak": false
+        },
+        {
+          "start": 50.0,
+          "end": 51.0,
+          "dbfs": -36.35207611551249,
+          "peak": false
+        },
+        {
+          "start": 51.0,
+          "end": 52.0,
+          "dbfs": -36.38482348920978,
+          "peak": false
+        },
+        {
+          "start": 52.0,
+          "end": 53.0,
+          "dbfs": -36.39625860716866,
+          "peak": false
+        },
+        {
+          "start": 53.0,
+          "end": 54.0,
+          "dbfs": -36.350587991685096,
+          "peak": false
+        },
+        {
+          "start": 54.0,
+          "end": 55.0,
+          "dbfs": -36.34263351175305,
+          "peak": false
+        },
+        {
+          "start": 55.0,
+          "end": 56.0,
+          "dbfs": -36.36687555618177,
+          "peak": false
+        },
+        {
+          "start": 56.0,
+          "end": 57.0,
+          "dbfs": -36.35123954595549,
+          "peak": false
+        },
+        {
+          "start": 57.0,
+          "end": 58.0,
+          "dbfs": -36.38505931091552,
+          "peak": false
+        },
+        {
+          "start": 58.0,
+          "end": 59.0,
+          "dbfs": -36.427875116481125,
+          "peak": false
+        },
+        {
+          "start": 59.0,
+          "end": 60.0,
+          "dbfs": -36.378655451239766,
+          "peak": false
+        }
+      ],
+      "events": [
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 20.0,
+          "end": 21.0,
+          "confidence": 0.4296441078186035,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000020.jpg",
+          "id": "e00000"
+        },
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 26.0,
+          "end": 27.0,
+          "confidence": 0.47167882323265076,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000026.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "object",
+          "label": "scissors",
+          "start": 29.0,
+          "end": 30.0,
+          "confidence": 0.4322810471057892,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000029.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "object",
+          "label": "traffic light",
+          "start": 48.0,
+          "end": 49.0,
+          "confidence": 0.5164008736610413,
+          "samples": 1,
+          "frame": "videos/vb03a107a1954/frames/000048.jpg",
+          "id": "e00003"
+        }
+      ],
+      "entities": [
+        {
+          "label": "scissors",
+          "detections": 3,
+          "frames": 3,
+          "max_simultaneous": 1,
+          "intervals": 3,
+          "seconds": 3.0,
+          "mean_confidence": 0.44453465938568115,
+          "frame_share": 0.05,
+          "duration_share": 0.05
+        },
+        {
+          "label": "traffic light",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 1.0,
+          "mean_confidence": 0.5164008736610413,
+          "frame_share": 0.016666666666666666,
+          "duration_share": 0.016666666666666666
+        }
+      ],
+      "warnings": [
+        "empty_transcript: речь не распознана; проверьте тишину/музыку/качество аудио"
+      ],
+      "detected_language": "en",
+      "signature": "ac26b15d220073f980802c3a64930aca8a4a40a492f806af9fa183c27d072850",
+      "processing_seconds": 64.688,
+      "cluster": 0,
+      "topic_words": [
+        "w3c",
+        "traffic",
+        "scissors",
+        "test",
+        "timer",
+        "light"
+      ]
+    },
+    {
+      "id": "v8610ff647554",
+      "title": "OpenCV — pedestrians",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\pedestrians\\clip.mp4",
+      "metadata": {
+        "title": "OpenCV — pedestrians",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\pedestrians\\clip.mp4",
+        "filename": "original.mp4",
+        "sha256": "78d5b2f7ffe4ec39e63bb9a81dbbf27cdc86cbdbf8d08ce9be3b60612af95ee1",
+        "collected_at": "2026-10-27T08:58:35.497962+00:00",
+        "source_kind": "local",
+        "origin_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi",
+        "clip_seconds": 15
+      },
+      "technical": {
+        "duration": 15.0,
+        "fps": 10.0,
+        "fps_fraction": "10/1",
+        "width": 768,
+        "height": 576,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "container": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bit_rate": 538242,
+        "bytes": 1009205,
+        "has_audio": false,
+        "audio_codec": null,
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 15.0,
+      "media": "videos/v8610ff647554/video.mp4",
+      "interval": 1.0,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.015135335910599679,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/v8610ff647554/frames/000000.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8313853740692139,
+              "xyxy": [
+                253.73236083984375,
+                219.07373046875,
+                282.2651672363281,
+                308.7475280761719
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8291708827018738,
+              "xyxy": [
+                640.474609375,
+                240.3329620361328,
+                683.787109375,
+                323.1070251464844
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8174774646759033,
+              "xyxy": [
+                499.31915283203125,
+                156.55935668945312,
+                530.26904296875,
+                231.13169860839844
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6970523595809937,
+              "xyxy": [
+                652.34912109375,
+                44.16437911987305,
+                722.6121215820312,
+                100.02079772949219
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6451928019523621,
+              "xyxy": [
+                734.120361328125,
+                49.86798095703125,
+                767.5630493164062,
+                94.59156036376953
+              ]
+            }
+          ],
+          "brightness": 0.4704863681945579,
+          "sharpness": 704.7705483750348,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 1.0,
+          "image": "videos/v8610ff647554/frames/000001.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8458143472671509,
+              "xyxy": [
+                317.0306396484375,
+                207.49107360839844,
+                355.5831298828125,
+                294.06298828125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8272045850753784,
+              "xyxy": [
+                464.46087646484375,
+                167.9220733642578,
+                501.8215637207031,
+                246.6365509033203
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7501174211502075,
+              "xyxy": [
+                549.6780395507812,
+                237.9412841796875,
+                583.0750122070312,
+                324.3908386230469
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6895298361778259,
+              "xyxy": [
+                652.3456420898438,
+                44.01493835449219,
+                722.6748046875,
+                100.0484390258789
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6829428672790527,
+              "xyxy": [
+                734.162841796875,
+                49.90667724609375,
+                767.6224975585938,
+                94.34874725341797
+              ]
+            },
+            {
+              "label": "bird",
+              "confidence": 0.4378887712955475,
+              "xyxy": [
+                29.40566062927246,
+                111.91983032226562,
+                49.762977600097656,
+                142.0320587158203
+              ]
+            }
+          ],
+          "brightness": 0.47057125005673567,
+          "sharpness": 749.9885016845282,
+          "scene_distance": 0.120682168510702
+        },
+        {
+          "time": 2.0,
+          "image": "videos/v8610ff647554/frames/000002.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8466094136238098,
+              "xyxy": [
+                685.9507446289062,
+                271.21282958984375,
+                723.1196899414062,
+                376.5561828613281
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8393845558166504,
+              "xyxy": [
+                363.0162353515625,
+                191.77072143554688,
+                397.6466064453125,
+                276.7922058105469
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7811314463615417,
+              "xyxy": [
+                727.0591430664062,
+                272.6278381347656,
+                756.5308227539062,
+                368.2064208984375
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.764806866645813,
+              "xyxy": [
+                438.27056884765625,
+                232.011962890625,
+                480.9896545410156,
+                317.8675537109375
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6860887408256531,
+              "xyxy": [
+                734.1625366210938,
+                49.86460876464844,
+                767.6219482421875,
+                94.31478118896484
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.678524374961853,
+              "xyxy": [
+                652.3385620117188,
+                44.032161712646484,
+                722.56494140625,
+                99.94528198242188
+              ]
+            }
+          ],
+          "brightness": 0.4668266878148829,
+          "sharpness": 762.5521081553104,
+          "scene_distance": 0.10450199604733601
+        },
+        {
+          "time": 3.0,
+          "image": "videos/v8610ff647554/frames/000003.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8783441185951233,
+              "xyxy": [
+                628.5794067382812,
+                251.4581298828125,
+                665.8218994140625,
+                350.8831481933594
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7822570204734802,
+              "xyxy": [
+                666.9081420898438,
+                248.574951171875,
+                697.5717163085938,
+                344.2749328613281
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7795157432556152,
+              "xyxy": [
+                377.389892578125,
+                180.96932983398438,
+                409.23223876953125,
+                265.2420349121094
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6904143691062927,
+              "xyxy": [
+                652.2970581054688,
+                44.06593322753906,
+                722.7166137695312,
+                99.87496185302734
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6661076545715332,
+              "xyxy": [
+                734.20751953125,
+                49.95863342285156,
+                767.583984375,
+                94.28902435302734
+              ]
+            }
+          ],
+          "brightness": 0.46904626651007625,
+          "sharpness": 749.3032269255245,
+          "scene_distance": 0.10051122278473551
+        },
+        {
+          "time": 4.0,
+          "image": "videos/v8610ff647554/frames/000004.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8415948748588562,
+              "xyxy": [
+                566.6929931640625,
+                234.411376953125,
+                604.8278198242188,
+                330.6159362792969
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7722128033638,
+              "xyxy": [
+                376.8223571777344,
+                177.7817840576172,
+                400.6150817871094,
+                257.67364501953125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7496473789215088,
+              "xyxy": [
+                601.2922973632812,
+                231.91146850585938,
+                635.7445678710938,
+                325.8216857910156
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7428357601165771,
+              "xyxy": [
+                734.7448120117188,
+                281.6999206542969,
+                767.80224609375,
+                395.68865966796875
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6934306025505066,
+              "xyxy": [
+                438.3278503417969,
+                185.33067321777344,
+                459.5157775878906,
+                267.8807678222656
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6933982968330383,
+              "xyxy": [
+                652.3916015625,
+                44.05237579345703,
+                722.8295288085938,
+                99.80400085449219
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6869137287139893,
+              "xyxy": [
+                396.2275695800781,
+                184.70603942871094,
+                418.6219482421875,
+                262.69677734375
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6648997664451599,
+              "xyxy": [
+                734.2368774414062,
+                50.00091552734375,
+                767.57177734375,
+                94.20247650146484
+              ]
+            }
+          ],
+          "brightness": 0.4681566957295071,
+          "sharpness": 773.5665448136904,
+          "scene_distance": 0.1012350263670996
+        },
+        {
+          "time": 5.0,
+          "image": "videos/v8610ff647554/frames/000005.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8721157908439636,
+              "xyxy": [
+                504.6065368652344,
+                215.85400390625,
+                541.0186157226562,
+                307.0282287597656
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.832926869392395,
+              "xyxy": [
+                373.0666198730469,
+                179.5228729248047,
+                400.0918273925781,
+                256.8959045410156
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7863239645957947,
+              "xyxy": [
+                552.8897094726562,
+                213.9957275390625,
+                586.5985107421875,
+                302.3610534667969
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7364038228988647,
+              "xyxy": [
+                669.4992065429688,
+                258.7013244628906,
+                713.6200561523438,
+                369.9134216308594
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6829861402511597,
+              "xyxy": [
+                433.2374267578125,
+                175.35984802246094,
+                459.8072814941406,
+                245.06906127929688
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6724825501441956,
+              "xyxy": [
+                734.2190551757812,
+                50.090545654296875,
+                767.58203125,
+                94.30769348144531
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6649479269981384,
+              "xyxy": [
+                652.3334350585938,
+                44.01522445678711,
+                722.7455444335938,
+                99.75621032714844
+              ]
+            }
+          ],
+          "brightness": 0.4695320301152869,
+          "sharpness": 781.1743203366408,
+          "scene_distance": 0.10292357293300354
+        },
+        {
+          "time": 6.0,
+          "image": "videos/v8610ff647554/frames/000006.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.866817831993103,
+              "xyxy": [
+                466.8941345214844,
+                203.44651794433594,
+                501.27752685546875,
+                290.9634704589844
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8459264039993286,
+              "xyxy": [
+                614.9572143554688,
+                233.34957885742188,
+                650.4879150390625,
+                341.4092712402344
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7995226383209229,
+              "xyxy": [
+                504.00579833984375,
+                201.4805450439453,
+                531.3120727539062,
+                285.0041809082031
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.7010447382926941,
+              "xyxy": [
+                652.3687744140625,
+                44.020790100097656,
+                722.8995361328125,
+                99.87631225585938
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6943628787994385,
+              "xyxy": [
+                365.6477966308594,
+                170.9677734375,
+                382.9139099121094,
+                235.99278259277344
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6788209080696106,
+              "xyxy": [
+                378.8233337402344,
+                182.31785583496094,
+                398.99920654296875,
+                258.62677001953125
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6781139969825745,
+              "xyxy": [
+                734.0863647460938,
+                50.08807373046875,
+                767.603759765625,
+                94.21147155761719
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5838504433631897,
+              "xyxy": [
+                399.07379150390625,
+                182.41465759277344,
+                423.3094177246094,
+                264.1583251953125
+              ]
+            }
+          ],
+          "brightness": 0.4710349133504675,
+          "sharpness": 781.0261743211728,
+          "scene_distance": 0.10325236686967161
+        },
+        {
+          "time": 7.0,
+          "image": "videos/v8610ff647554/frames/000007.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8608261346817017,
+              "xyxy": [
+                586.5414428710938,
+                208.99607849121094,
+                622.533203125,
+                309.1738586425781
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8511815667152405,
+              "xyxy": [
+                445.2767639160156,
+                189.43212890625,
+                475.6681823730469,
+                275.3899841308594
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.832377552986145,
+              "xyxy": [
+                290.8921203613281,
+                170.26490783691406,
+                325.7485046386719,
+                235.21534729003906
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8158453106880188,
+              "xyxy": [
+                479.1078796386719,
+                188.67543029785156,
+                507.2796936035156,
+                269.4097900390625
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.795548141002655,
+              "xyxy": [
+                370.6292724609375,
+                180.4423065185547,
+                400.775634765625,
+                260.2187805175781
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6958975791931152,
+              "xyxy": [
+                734.0821533203125,
+                50.18548583984375,
+                767.5886840820312,
+                94.17739868164062
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6781519651412964,
+              "xyxy": [
+                652.1380615234375,
+                43.92108917236328,
+                722.654296875,
+                99.82780456542969
+              ]
+            }
+          ],
+          "brightness": 0.473370321435866,
+          "sharpness": 799.9883011134268,
+          "scene_distance": 0.10717923816555726
+        },
+        {
+          "time": 8.0,
+          "image": "videos/v8610ff647554/frames/000008.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8669224977493286,
+              "xyxy": [
+                567.6696166992188,
+                187.90206909179688,
+                600.65478515625,
+                282.25390625
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8409171104431152,
+              "xyxy": [
+                442.1835021972656,
+                173.31390380859375,
+                475.02667236328125,
+                252.82540893554688
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8233258128166199,
+              "xyxy": [
+                259.0490417480469,
+                174.6610565185547,
+                285.9481201171875,
+                243.719970703125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7932415008544922,
+              "xyxy": [
+                474.8026123046875,
+                174.1094970703125,
+                501.7991638183594,
+                249.9822540283203
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7638050317764282,
+              "xyxy": [
+                372.08197021484375,
+                179.1383514404297,
+                397.7803039550781,
+                259.9544372558594
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.7065911889076233,
+              "xyxy": [
+                734.1221313476562,
+                50.00502395629883,
+                767.558349609375,
+                94.10466766357422
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6574568152427673,
+              "xyxy": [
+                652.1244506835938,
+                43.92586898803711,
+                722.7167358398438,
+                99.76719665527344
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5996796488761902,
+              "xyxy": [
+                273.05023193359375,
+                52.27275848388672,
+                287.1510314941406,
+                84.49649810791016
+              ]
+            }
+          ],
+          "brightness": 0.47648007372798656,
+          "sharpness": 794.631876104326,
+          "scene_distance": 0.11130458642613375
+        },
+        {
+          "time": 9.0,
+          "image": "videos/v8610ff647554/frames/000009.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8651708960533142,
+              "xyxy": [
+                571.196044921875,
+                173.64329528808594,
+                598.267822265625,
+                258.08966064453125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8587628602981567,
+              "xyxy": [
+                461.54473876953125,
+                159.1361083984375,
+                491.03863525390625,
+                234.81982421875
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8288218379020691,
+              "xyxy": [
+                372.85723876953125,
+                176.03811645507812,
+                404.7390441894531,
+                258.75433349609375
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7810637950897217,
+              "xyxy": [
+                489.1524353027344,
+                162.69715881347656,
+                518.9608154296875,
+                232.89511108398438
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7390646934509277,
+              "xyxy": [
+                291.5039367675781,
+                187.93649291992188,
+                316.654296875,
+                259.2256774902344
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6947548985481262,
+              "xyxy": [
+                734.1568603515625,
+                50.08209228515625,
+                767.56201171875,
+                94.2813949584961
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6632275581359863,
+              "xyxy": [
+                652.2003173828125,
+                43.90876388549805,
+                722.8828125,
+                99.82921600341797
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5763689875602722,
+              "xyxy": [
+                249.11712646484375,
+                57.47311782836914,
+                263.5665588378906,
+                89.89325714111328
+              ]
+            }
+          ],
+          "brightness": 0.47933498540475217,
+          "sharpness": 793.7138281497231,
+          "scene_distance": 0.1091466779637067
+        },
+        {
+          "time": 10.0,
+          "image": "videos/v8610ff647554/frames/000010.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8599611520767212,
+              "xyxy": [
+                589.7234497070312,
+                155.53854370117188,
+                618.6415405273438,
+                233.85231018066406
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8493849635124207,
+              "xyxy": [
+                376.1057434082031,
+                176.29080200195312,
+                410.118408203125,
+                256.6301574707031
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8404542803764343,
+              "xyxy": [
+                493.9070129394531,
+                148.61326599121094,
+                519.4021606445312,
+                218.76515197753906
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8102250695228577,
+              "xyxy": [
+                347.21075439453125,
+                199.3034210205078,
+                381.8077087402344,
+                274.5867919921875
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7439634799957275,
+              "xyxy": [
+                514.7500610351562,
+                151.5489959716797,
+                541.4035034179688,
+                221.64068603515625
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6910233497619629,
+              "xyxy": [
+                734.2000732421875,
+                50.17597961425781,
+                767.5844116210938,
+                94.32433319091797
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6504895687103271,
+              "xyxy": [
+                652.0993041992188,
+                44.53745651245117,
+                722.7522583007812,
+                100.56951141357422
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6197096705436707,
+              "xyxy": [
+                222.78143310546875,
+                59.796234130859375,
+                237.16905212402344,
+                95.65958404541016
+              ]
+            }
+          ],
+          "brightness": 0.4817020768087327,
+          "sharpness": 767.3687489254678,
+          "scene_distance": 0.10120512649915452
+        },
+        {
+          "time": 11.0,
+          "image": "videos/v8610ff647554/frames/000011.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8672685027122498,
+              "xyxy": [
+                525.9118041992188,
+                138.30894470214844,
+                552.0227661132812,
+                205.7285614013672
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8022585511207581,
+              "xyxy": [
+                372.3652648925781,
+                175.72219848632812,
+                402.4683837890625,
+                252.95851135253906
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7639245390892029,
+              "xyxy": [
+                617.2978515625,
+                140.92401123046875,
+                646.651123046875,
+                218.0087432861328
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6848448514938354,
+              "xyxy": [
+                549.8485107421875,
+                143.3743438720703,
+                573.4251708984375,
+                207.89874267578125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6699343323707581,
+              "xyxy": [
+                193.17752075195312,
+                64.61211395263672,
+                209.66342163085938,
+                100.92572021484375
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.6630704998970032,
+              "xyxy": [
+                734.3203125,
+                50.1549072265625,
+                767.5509033203125,
+                94.3125991821289
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6297937035560608,
+              "xyxy": [
+                652.19677734375,
+                44.395870208740234,
+                722.7389526367188,
+                100.01055145263672
+              ]
+            }
+          ],
+          "brightness": 0.4855938592161402,
+          "sharpness": 746.9224107481275,
+          "scene_distance": 0.1018571411143713
+        },
+        {
+          "time": 12.0,
+          "image": "videos/v8610ff647554/frames/000012.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8133816123008728,
+              "xyxy": [
+                649.8818359375,
+                130.06857299804688,
+                676.9692993164062,
+                202.9405975341797
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7905431389808655,
+              "xyxy": [
+                560.782958984375,
+                128.13587951660156,
+                584.3846435546875,
+                193.4882354736328
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7706711888313293,
+              "xyxy": [
+                373.4056091308594,
+                181.8236541748047,
+                400.6072998046875,
+                260.9674072265625
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7706497311592102,
+              "xyxy": [
+                586.71826171875,
+                132.7342987060547,
+                609.8478393554688,
+                198.20936584472656
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7576684951782227,
+              "xyxy": [
+                509.9898986816406,
+                212.93148803710938,
+                538.7669677734375,
+                295.58148193359375
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.7094260454177856,
+              "xyxy": [
+                734.2517700195312,
+                50.12416076660156,
+                767.5512084960938,
+                94.41911315917969
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6528226733207703,
+              "xyxy": [
+                652.1537475585938,
+                44.54045104980469,
+                722.6370239257812,
+                100.65599060058594
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.6279842257499695,
+              "xyxy": [
+                166.62327575683594,
+                70.0126724243164,
+                179.631591796875,
+                106.42587280273438
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5810533165931702,
+              "xyxy": [
+                689.5150146484375,
+                204.29443359375,
+                723.1221923828125,
+                303.7837829589844
+              ]
+            }
+          ],
+          "brightness": 0.48454737888355576,
+          "sharpness": 775.8616378176063,
+          "scene_distance": 0.09961028125538503
+        },
+        {
+          "time": 13.0,
+          "image": "videos/v8610ff647554/frames/000013.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8066839575767517,
+              "xyxy": [
+                380.6376647949219,
+                183.12557983398438,
+                406.3450927734375,
+                262.1942138671875
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7892712950706482,
+              "xyxy": [
+                683.1710815429688,
+                120.0549545288086,
+                703.7084350585938,
+                188.54067993164062
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7676905393600464,
+              "xyxy": [
+                591.0982055664062,
+                121.11050415039062,
+                613.7409057617188,
+                181.44631958007812
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7483669519424438,
+              "xyxy": [
+                616.2601928710938,
+                126.44758605957031,
+                638.7420654296875,
+                185.0511932373047
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.718208909034729,
+              "xyxy": [
+                734.1734008789062,
+                50.14583206176758,
+                767.5416870117188,
+                94.29717254638672
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7180412411689758,
+              "xyxy": [
+                591.4235229492188,
+                221.02252197265625,
+                636.8524169921875,
+                306.6805725097656
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.5989224314689636,
+              "xyxy": [
+                651.9627075195312,
+                44.407039642333984,
+                723.1740112304688,
+                100.32843017578125
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5724351406097412,
+              "xyxy": [
+                134.93133544921875,
+                77.14773559570312,
+                148.84837341308594,
+                113.53958129882812
+              ]
+            }
+          ],
+          "brightness": 0.4847140398766567,
+          "sharpness": 775.0478582812219,
+          "scene_distance": 0.09874786799461316
+        },
+        {
+          "time": 14.0,
+          "image": "videos/v8610ff647554/frames/000014.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8552679419517517,
+              "xyxy": [
+                513.8861083984375,
+                189.8353271484375,
+                555.0537719726562,
+                270.98577880859375
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.829114556312561,
+              "xyxy": [
+                705.397705078125,
+                112.87809753417969,
+                726.7826538085938,
+                181.6464385986328
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8039174675941467,
+              "xyxy": [
+                385.9827575683594,
+                183.2692108154297,
+                411.8548278808594,
+                265.5281066894531
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7446125149726868,
+              "xyxy": [
+                637.1007690429688,
+                119.55950927734375,
+                660.5266723632812,
+                175.81417846679688
+              ]
+            },
+            {
+              "label": "car",
+              "confidence": 0.7347686290740967,
+              "xyxy": [
+                734.1663818359375,
+                50.16775131225586,
+                767.5067749023438,
+                94.46819305419922
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.689606785774231,
+              "xyxy": [
+                616.8616943359375,
+                114.56806945800781,
+                637.4249877929688,
+                173.46734619140625
+              ]
+            },
+            {
+              "label": "truck",
+              "confidence": 0.6324018836021423,
+              "xyxy": [
+                652.1151733398438,
+                44.43404006958008,
+                722.8405151367188,
+                100.76850891113281
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.5763953924179077,
+              "xyxy": [
+                105.89535522460938,
+                81.9610824584961,
+                121.33236694335938,
+                120.4506607055664
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.4688466489315033,
+              "xyxy": [
+                679.2533569335938,
+                241.13043212890625,
+                710.5476684570312,
+                309.9246520996094
+              ]
+            }
+          ],
+          "brightness": 0.4835720486111111,
+          "sharpness": 782.0010601946794,
+          "scene_distance": 0.09383503488660726
+        }
+      ],
+      "segments": [],
+      "audio": [],
+      "events": [
+        {
+          "type": "object",
+          "label": "car",
+          "start": 0.0,
+          "end": 15.0,
+          "confidence": 0.6873046318689983,
+          "samples": 15,
+          "frame": "videos/v8610ff647554/frames/000000.jpg",
+          "id": "e00000"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 0.0,
+          "end": 15.0,
+          "confidence": 0.8518776297569275,
+          "samples": 15,
+          "frame": "videos/v8610ff647554/frames/000000.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "object",
+          "label": "truck",
+          "start": 0.0,
+          "end": 15.0,
+          "confidence": 0.6652119000752766,
+          "samples": 15,
+          "frame": "videos/v8610ff647554/frames/000000.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "object",
+          "label": "bird",
+          "start": 1.0,
+          "end": 2.0,
+          "confidence": 0.4378887712955475,
+          "samples": 1,
+          "frame": "videos/v8610ff647554/frames/000001.jpg",
+          "id": "e00003"
+        }
+      ],
+      "entities": [
+        {
+          "label": "bird",
+          "detections": 1,
+          "frames": 1,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 1.0,
+          "mean_confidence": 0.4378887712955475,
+          "frame_share": 0.06666666666666667,
+          "duration_share": 0.06666666666666667
+        },
+        {
+          "label": "car",
+          "detections": 15,
+          "frames": 15,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 15.0,
+          "mean_confidence": 0.6873046318689983,
+          "frame_share": 1.0,
+          "duration_share": 1.0
+        },
+        {
+          "label": "person",
+          "detections": 78,
+          "frames": 15,
+          "max_simultaneous": 7,
+          "intervals": 1,
+          "seconds": 15.0,
+          "mean_confidence": 0.7682944486538569,
+          "frame_share": 1.0,
+          "duration_share": 1.0
+        },
+        {
+          "label": "truck",
+          "detections": 15,
+          "frames": 15,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 15.0,
+          "mean_confidence": 0.6652119000752766,
+          "frame_share": 1.0,
+          "duration_share": 1.0
+        }
+      ],
+      "warnings": [
+        "no_audio: в файле отсутствует аудиодорожка"
+      ],
+      "detected_language": null,
+      "signature": "6744b47fda96c8e13af21c85f69230ad8b1feadd5885765084f69b163ab96dd4",
+      "processing_seconds": 1.281,
+      "cluster": 1,
+      "topic_words": [
+        "person",
+        "bird",
+        "opencv",
+        "car",
+        "pedestrians",
+        "truck",
+        "trailer",
+        "judge",
+        "don",
+        "gatekeepers"
+      ]
+    },
+    {
+      "id": "ve64a6d21c181",
+      "title": "OpenCV — Megamind sample",
+      "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\megamind\\original.avi",
+      "metadata": {
+        "title": "OpenCV — Megamind sample",
+        "description": "",
+        "tags": [],
+        "categories": [],
+        "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\megamind\\original.avi",
+        "filename": "original.avi",
+        "sha256": "0057387cb7e75c8fd1663b62cfdc51fa53f527795d0fe3c1fea2fd159d3130b5",
+        "collected_at": "2026-10-27T08:58:37.030882+00:00",
+        "source_kind": "local",
+        "origin_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi"
+      },
+      "technical": {
+        "duration": 11.261261,
+        "fps": 23.976,
+        "fps_fraction": "2997/125",
+        "width": 720,
+        "height": 528,
+        "codec": "mpeg4",
+        "pixel_format": "yuv420p",
+        "container": "avi",
+        "bit_rate": 844857,
+        "bytes": 1189270,
+        "has_audio": true,
+        "audio_codec": "ac3",
+        "probe_backend": "PyAV / libavformat",
+        "ffprobe": null
+      },
+      "duration": 11.302302,
+      "media": "videos/ve64a6d21c181/video.mp4",
+      "interval": 1.0,
+      "sampling": {
+        "pilot_seconds": 8,
+        "mean_frame_difference": 0.06537969200871885,
+        "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+      },
+      "frames": [
+        {
+          "time": 0.0,
+          "image": "videos/ve64a6d21c181/frames/000000.jpg",
+          "objects": [],
+          "brightness": 0.0,
+          "sharpness": 0.0,
+          "scene_distance": 0.0
+        },
+        {
+          "time": 1.001001,
+          "image": "videos/ve64a6d21c181/frames/000001.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8606781959533691,
+              "xyxy": [
+                76.71045684814453,
+                55.91872024536133,
+                413.2549743652344,
+                518.48583984375
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7737100720405579,
+              "xyxy": [
+                358.0671691894531,
+                149.0334930419922,
+                544.39306640625,
+                391.5398254394531
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.43444058299064636,
+              "xyxy": [
+                656.7290649414062,
+                317.0600280761719,
+                719.8180541992188,
+                526.0208740234375
+              ]
+            }
+          ],
+          "brightness": 0.13572256469928037,
+          "sharpness": 46.411250421410976,
+          "scene_distance": 0.9736315263991528
+        },
+        {
+          "time": 2.002002,
+          "image": "videos/ve64a6d21c181/frames/000002.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.9085147380828857,
+              "xyxy": [
+                33.94075012207031,
+                26.938074111938477,
+                414.1661071777344,
+                520.0897216796875
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8848817944526672,
+              "xyxy": [
+                363.4571838378906,
+                142.7469482421875,
+                561.3519287109375,
+                387.8247985839844
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.4729052484035492,
+              "xyxy": [
+                661.1138305664062,
+                342.148193359375,
+                719.8538818359375,
+                526.5072021484375
+              ]
+            },
+            {
+              "label": "chair",
+              "confidence": 0.46248915791511536,
+              "xyxy": [
+                438.98809814453125,
+                385.929931640625,
+                540.6535034179688,
+                524.919189453125
+              ]
+            }
+          ],
+          "brightness": 0.14017862448009505,
+          "sharpness": 55.07919029988409,
+          "scene_distance": 0.10244684292933676
+        },
+        {
+          "time": 3.003003,
+          "image": "videos/ve64a6d21c181/frames/000003.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8629106283187866,
+              "xyxy": [
+                384.839599609375,
+                138.20668029785156,
+                568.4060668945312,
+                389.2065124511719
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.7401803135871887,
+              "xyxy": [
+                92.5206069946289,
+                109.39402770996094,
+                426.12103271484375,
+                521.4990234375
+              ]
+            },
+            {
+              "label": "wine glass",
+              "confidence": 0.5098844766616821,
+              "xyxy": [
+                80.31759643554688,
+                297.2249755859375,
+                139.02447509765625,
+                431.5083312988281
+              ]
+            },
+            {
+              "label": "chair",
+              "confidence": 0.45954057574272156,
+              "xyxy": [
+                440.3811340332031,
+                388.37481689453125,
+                545.627685546875,
+                524.7274169921875
+              ]
+            }
+          ],
+          "brightness": 0.1443200076747871,
+          "sharpness": 34.69713504744165,
+          "scene_distance": 0.09781556105473406
+        },
+        {
+          "time": 4.004004,
+          "image": "videos/ve64a6d21c181/frames/000004.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.9037054777145386,
+              "xyxy": [
+                33.24407958984375,
+                11.123626708984375,
+                407.0261535644531,
+                518.52978515625
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.8577322959899902,
+              "xyxy": [
+                372.84912109375,
+                136.2035369873047,
+                571.6921997070312,
+                386.93280029296875
+              ]
+            },
+            {
+              "label": "chair",
+              "confidence": 0.5811965465545654,
+              "xyxy": [
+                446.0577697753906,
+                389.3470458984375,
+                551.7623291015625,
+                523.8501586914062
+              ]
+            },
+            {
+              "label": "wine glass",
+              "confidence": 0.45607811212539673,
+              "xyxy": [
+                118.47946166992188,
+                306.6042175292969,
+                168.75457763671875,
+                441.6730041503906
+              ]
+            },
+            {
+              "label": "cup",
+              "confidence": 0.4114537835121155,
+              "xyxy": [
+                568.584228515625,
+                310.8236083984375,
+                612.3067626953125,
+                408.2118835449219
+              ]
+            }
+          ],
+          "brightness": 0.14343638591800356,
+          "sharpness": 45.63208359089341,
+          "scene_distance": 0.09920801228887699
+        },
+        {
+          "time": 5.005005,
+          "image": "videos/ve64a6d21c181/frames/000005.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8593083024024963,
+              "xyxy": [
+                334.37451171875,
+                7.558228492736816,
+                718.0758666992188,
+                521.3567504882812
+              ]
+            }
+          ],
+          "brightness": 0.1378009981349442,
+          "sharpness": 51.454341463143635,
+          "scene_distance": 0.30012301083053783
+        },
+        {
+          "time": 6.006006,
+          "image": "videos/ve64a6d21c181/frames/000006.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.7407439947128296,
+              "xyxy": [
+                368.8345031738281,
+                9.465986251831055,
+                717.0275268554688,
+                522.6018676757812
+              ]
+            },
+            {
+              "label": "person",
+              "confidence": 0.4542941153049469,
+              "xyxy": [
+                0.7678070068359375,
+                9.13231372833252,
+                219.67784118652344,
+                517.700927734375
+              ]
+            }
+          ],
+          "brightness": 0.13898252335445963,
+          "sharpness": 50.286731490404705,
+          "scene_distance": 0.11018563575748053
+        },
+        {
+          "time": 7.007007,
+          "image": "videos/ve64a6d21c181/frames/000007.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8274328112602234,
+              "xyxy": [
+                20.711185455322266,
+                5.441547870635986,
+                444.7304382324219,
+                519.742431640625
+              ]
+            },
+            {
+              "label": "wine glass",
+              "confidence": 0.433733195066452,
+              "xyxy": [
+                88.47696685791016,
+                299.49249267578125,
+                141.22239685058594,
+                440.51983642578125
+              ]
+            }
+          ],
+          "brightness": 0.1603850494322308,
+          "sharpness": 51.49908285321004,
+          "scene_distance": 0.3355333729937488
+        },
+        {
+          "time": 8.008008,
+          "image": "videos/ve64a6d21c181/frames/000008.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8249906301498413,
+              "xyxy": [
+                84.579345703125,
+                21.387237548828125,
+                491.1526184082031,
+                523.9349975585938
+              ]
+            },
+            {
+              "label": "cup",
+              "confidence": 0.5502734184265137,
+              "xyxy": [
+                359.1187438964844,
+                422.19403076171875,
+                479.1031188964844,
+                525.4774780273438
+              ]
+            }
+          ],
+          "brightness": 0.15931467452300788,
+          "sharpness": 45.33289886265298,
+          "scene_distance": 0.10387091742407246
+        },
+        {
+          "time": 9.009009,
+          "image": "videos/ve64a6d21c181/frames/000009.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8260330557823181,
+              "xyxy": [
+                93.63201141357422,
+                1.578070878982544,
+                720.0,
+                519.4363403320312
+              ]
+            }
+          ],
+          "brightness": 0.16660398923879316,
+          "sharpness": 62.07620732779801,
+          "scene_distance": 0.32811761683495083
+        },
+        {
+          "time": 10.01001,
+          "image": "videos/ve64a6d21c181/frames/000010.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8469375371932983,
+              "xyxy": [
+                95.76940155029297,
+                5.337447166442871,
+                719.7323608398438,
+                520.8894653320312
+              ]
+            }
+          ],
+          "brightness": 0.15035463911995775,
+          "sharpness": 37.81495815679504,
+          "scene_distance": 0.1532558113751611
+        },
+        {
+          "time": 11.011011,
+          "image": "videos/ve64a6d21c181/frames/000011.jpg",
+          "objects": [
+            {
+              "label": "person",
+              "confidence": 0.8517492413520813,
+              "xyxy": [
+                130.0378875732422,
+                2.9204893112182617,
+                718.9381713867188,
+                519.2032470703125
+              ]
+            }
+          ],
+          "brightness": 0.13451191861424702,
+          "sharpness": 39.49175016819075,
+          "scene_distance": 0.11645561479313313
+        }
+      ],
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.2,
+          "text": "Of course. You don't judge a book by its cover or a person from the outside.",
+          "avg_logprob": -0.29754737327838765,
+          "no_speech_prob": 0.25040924549102783,
+          "compression_ratio": 1.3687943262411348
+        },
+        {
+          "start": 4.4,
+          "end": 6.1,
+          "text": "Oh, that's a relief to hear.",
+          "avg_logprob": -0.29754737327838765,
+          "no_speech_prob": 0.25040924549102783,
+          "compression_ratio": 1.3687943262411348
+        },
+        {
+          "start": 6.28,
+          "end": 7.76,
+          "text": "You judge them based on their actions.",
+          "avg_logprob": -0.29754737327838765,
+          "no_speech_prob": 0.25040924549102783,
+          "compression_ratio": 1.3687943262411348
+        },
+        {
+          "start": 9.26,
+          "end": 11.14,
+          "text": "Well, that seems kind of petty, don't you think?",
+          "avg_logprob": -0.29754737327838765,
+          "no_speech_prob": 0.25040924549102783,
+          "compression_ratio": 1.3687943262411348
+        }
+      ],
+      "audio": [
+        {
+          "start": 0.0,
+          "end": 1.0,
+          "dbfs": -38.49911079227161,
+          "peak": false
+        },
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "dbfs": -33.57165984460464,
+          "peak": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "dbfs": -34.8415516783877,
+          "peak": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "dbfs": -30.007985352596215,
+          "peak": true
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "dbfs": -28.242986156270877,
+          "peak": true
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "dbfs": -35.82782457750821,
+          "peak": false
+        },
+        {
+          "start": 6.0,
+          "end": 7.0,
+          "dbfs": -30.68526413273368,
+          "peak": false
+        },
+        {
+          "start": 7.0,
+          "end": 8.0,
+          "dbfs": -30.654229193402927,
+          "peak": false
+        },
+        {
+          "start": 8.0,
+          "end": 9.0,
+          "dbfs": -60.23111009790095,
+          "peak": false
+        },
+        {
+          "start": 9.0,
+          "end": 10.0,
+          "dbfs": -33.40395300503814,
+          "peak": false
+        },
+        {
+          "start": 10.0,
+          "end": 11.0,
+          "dbfs": -35.12853157437557,
+          "peak": false
+        },
+        {
+          "start": 11.0,
+          "end": 11.264,
+          "dbfs": -38.19920004836344,
+          "peak": false
+        }
+      ],
+      "events": [
+        {
+          "type": "speech",
+          "label": "Of course. You don't judge a book by its cover or a person from the outside.",
+          "start": 0.0,
+          "end": 4.2,
+          "avg_logprob": -0.29754737327838765,
+          "id": "e00000"
+        },
+        {
+          "type": "object",
+          "label": "person",
+          "start": 1.001,
+          "end": 11.3023,
+          "confidence": 0.8466367829929698,
+          "samples": 11,
+          "frame": "videos/ve64a6d21c181/frames/000001.jpg",
+          "id": "e00001"
+        },
+        {
+          "type": "scene",
+          "label": "Смена сцены",
+          "start": 1.001,
+          "end": 1.101,
+          "value": 0.9736315263991528,
+          "frame": "videos/ve64a6d21c181/frames/000001.jpg",
+          "id": "e00002"
+        },
+        {
+          "type": "object",
+          "label": "chair",
+          "start": 2.002,
+          "end": 5.005,
+          "confidence": 0.5010754267374674,
+          "samples": 3,
+          "frame": "videos/ve64a6d21c181/frames/000002.jpg",
+          "id": "e00003"
+        },
+        {
+          "type": "audio",
+          "label": "Пик громкости",
+          "start": 3.0,
+          "end": 5.0,
+          "value": -28.242986156270877,
+          "id": "e00004"
+        },
+        {
+          "type": "object",
+          "label": "wine glass",
+          "start": 3.003,
+          "end": 5.005,
+          "confidence": 0.48298129439353943,
+          "samples": 2,
+          "frame": "videos/ve64a6d21c181/frames/000003.jpg",
+          "id": "e00005"
+        },
+        {
+          "type": "object",
+          "label": "cup",
+          "start": 4.004,
+          "end": 5.005,
+          "confidence": 0.4114537835121155,
+          "samples": 1,
+          "frame": "videos/ve64a6d21c181/frames/000004.jpg",
+          "id": "e00006"
+        },
+        {
+          "type": "speech",
+          "label": "Oh, that's a relief to hear.",
+          "start": 4.4,
+          "end": 6.1,
+          "avg_logprob": -0.29754737327838765,
+          "id": "e00007"
+        },
+        {
+          "type": "speech",
+          "label": "You judge them based on their actions.",
+          "start": 6.28,
+          "end": 7.76,
+          "avg_logprob": -0.29754737327838765,
+          "id": "e00008"
+        },
+        {
+          "type": "object",
+          "label": "wine glass",
+          "start": 7.007,
+          "end": 8.008,
+          "confidence": 0.433733195066452,
+          "samples": 1,
+          "frame": "videos/ve64a6d21c181/frames/000007.jpg",
+          "id": "e00009"
+        },
+        {
+          "type": "object",
+          "label": "cup",
+          "start": 8.008,
+          "end": 9.009,
+          "confidence": 0.5502734184265137,
+          "samples": 1,
+          "frame": "videos/ve64a6d21c181/frames/000008.jpg",
+          "id": "e00010"
+        },
+        {
+          "type": "speech",
+          "label": "Well, that seems kind of petty, don't you think?",
+          "start": 9.26,
+          "end": 11.14,
+          "avg_logprob": -0.29754737327838765,
+          "id": "e00011"
+        }
+      ],
+      "entities": [
+        {
+          "label": "chair",
+          "detections": 3,
+          "frames": 3,
+          "max_simultaneous": 1,
+          "intervals": 1,
+          "seconds": 3.003,
+          "mean_confidence": 0.5010754267374674,
+          "frame_share": 0.25,
+          "duration_share": 0.26569808522193095
+        },
+        {
+          "label": "cup",
+          "detections": 2,
+          "frames": 2,
+          "max_simultaneous": 1,
+          "intervals": 2,
+          "seconds": 2.0020000000000016,
+          "mean_confidence": 0.4808636009693146,
+          "frame_share": 0.16666666666666666,
+          "duration_share": 0.17713205681462074
+        },
+        {
+          "label": "person",
+          "detections": 18,
+          "frames": 11,
+          "max_simultaneous": 3,
+          "intervals": 1,
+          "seconds": 10.301300000000001,
+          "mean_confidence": 0.7739527242051231,
+          "frame_share": 0.9166666666666666,
+          "duration_share": 0.9114337946375881
+        },
+        {
+          "label": "wine glass",
+          "detections": 3,
+          "frames": 3,
+          "max_simultaneous": 1,
+          "intervals": 2,
+          "seconds": 3.0029999999999992,
+          "mean_confidence": 0.4665652612845103,
+          "frame_share": 0.25,
+          "duration_share": 0.26569808522193084
+        }
+      ],
+      "warnings": [],
+      "detected_language": "en",
+      "signature": "7c16fd150d4faa45eb280f97ea009cbd7fd08e85c7b68f3e0a1d07ba015df363",
+      "processing_seconds": 6.141,
+      "cluster": 1,
+      "topic_words": [
+        "person",
+        "bird",
+        "opencv",
+        "car",
+        "pedestrians",
+        "truck",
+        "trailer",
+        "judge",
+        "don",
+        "gatekeepers"
+      ]
+    }
+  ],
+  "failures": [],
+  "topics": {
+    "method": "TF-IDF + KMeans",
+    "selected_k": 2,
+    "seed": 42,
+    "silhouette": 0.06876083508071565,
+    "candidates": [
+      {
+        "k": 2,
+        "silhouette": 0.06876083508071565
+      },
+      {
+        "k": 3,
+        "silhouette": 0.040020804792272276
+      },
+      {
+        "k": 4,
+        "silhouette": 0.005971602607239503
+      }
+    ],
+    "topics": [
+      {
+        "cluster": 0,
+        "keywords": [
+          "w3c",
+          "traffic",
+          "scissors",
+          "test",
+          "timer",
+          "light"
+        ],
+        "video_ids": [
+          "vb03a107a1954"
+        ],
+        "count": 1,
+        "share": 0.2
+      },
+      {
+        "cluster": 1,
+        "keywords": [
+          "person",
+          "bird",
+          "opencv",
+          "car",
+          "pedestrians",
+          "truck",
+          "trailer",
+          "judge",
+          "don",
+          "gatekeepers"
+        ],
+        "video_ids": [
+          "v5d38f104630c",
+          "v2a202706f0e9",
+          "v8610ff647554",
+          "ve64a6d21c181"
+        ],
+        "count": 4,
+        "share": 0.8
+      }
+    ],
+    "unassigned": 0,
+    "note": "Доли роликов в кластерах, не вероятности тем. Малый корпус даёт неустойчивую оценку."
+  }
+}

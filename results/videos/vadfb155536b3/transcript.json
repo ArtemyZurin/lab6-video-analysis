@@ -1,0 +1,174 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.74,
+      "text": "Our planet has a violent soul, majestic and often destructive volcanic explosions",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 6.74,
+      "end": 13.94,
+      "text": "rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko,",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 14.32,
+      "end": 20.66,
+      "text": "the images simultaneously strike fear and awe in our hearts. But how did these",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 20.66,
+      "end": 25.96,
+      "text": "giant mountains form and where does all that destructive force come from? At least",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 25.96,
+      "end": 31.1,
+      "text": "These 50 eruptions rock the Earth each year, meaning our planet is literally bursting",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 31.1,
+      "end": 32.12,
+      "text": "apart at the scenes.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 32.8,
+      "end": 38.26,
+      "text": "The Earth's crust is made up of about 17 slabs of land called tectonic plates that float",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 38.26,
+      "end": 41.92,
+      "text": "on the super-heated magma that makes up most of the planet's interior.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 42.38,
+      "end": 46.1,
+      "text": "Magma is the Earth's lifeblood churning restlessly beneath the crust.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 46.78,
+      "end": 49.66,
+      "text": "And wherever it can, it's trying to burst through.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 50.1,
+      "end": 52.44,
+      "text": "It's at these spots that Balkan was formed.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 52.44,
+      "end": 56.48,
+      "text": "Our planet is home to some 500 active volcanoes.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 57.22,
+      "end": 61.4,
+      "text": "While some volcanoes, like those in Hawaii, break through a thin point in the crest called",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 61.4,
+      "end": 66.78,
+      "text": "a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 66.78,
+      "end": 67.2,
+      "text": "meet.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 68.04,
+      "end": 73.38,
+      "text": "The most volatile region is the ring of fire, a geological fault belt that rims the Pacific",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 73.38,
+      "end": 78.02,
+      "text": "Ocean and holds roughly 75% of all the Earth's volcanoes.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 79.02,
+      "end": 81.96,
+      "text": "Typically, volcanoes take one of two forms.",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 82.68,
+      "end": 85.04,
+      "text": "Shield volcanoes widen broad with lava",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 85.04,
+      "end": 87.54,
+      "text": "usually slowly oozing out of them",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 87.54,
+      "end": 89.78,
+      "text": "and composite or strato volcanoes.",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    }
+  ],
+  "warnings": []
+}

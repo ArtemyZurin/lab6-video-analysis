@@ -1,0 +1,1965 @@
+{
+  "text": " Our planet has a violent soul, majestic and often destructive volcanic explosions rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko, the images simultaneously strike fear and awe in our hearts. But how did these giant mountains form and where does all that destructive force come from? At least These 50 eruptions rock the Earth each year, meaning our planet is literally bursting apart at the scenes. The Earth's crust is made up of about 17 slabs of land called tectonic plates that float on the super-heated magma that makes up most of the planet's interior. Magma is the Earth's lifeblood churning restlessly beneath the crust. And wherever it can, it's trying to burst through. It's at these spots that Balkan was formed. Our planet is home to some 500 active volcanoes. While some volcanoes, like those in Hawaii, break through a thin point in the crest called a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates meet. The most volatile region is the ring of fire, a geological fault belt that rims the Pacific Ocean and holds roughly 75% of all the Earth's volcanoes. Typically, volcanoes take one of two forms. Shield volcanoes widen broad with lava usually slowly oozing out of them and composite or strato volcanoes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.74,
+      "text": " Our planet has a violent soul, majestic and often destructive volcanic explosions",
+      "tokens": [
+        50364,
+        2621,
+        5054,
+        575,
+        257,
+        11867,
+        5133,
+        11,
+        49561,
+        293,
+        2049,
+        26960,
+        35813,
+        36872,
+        50707
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2811732351044078,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.2779083847999573,
+      "words": [
+        {
+          "word": " Our",
+          "start": 0.0,
+          "end": 1.16,
+          "probability": 0.695023238658905
+        },
+        {
+          "word": " planet",
+          "start": 1.16,
+          "end": 1.66,
+          "probability": 0.9702517986297607
+        },
+        {
+          "word": " has",
+          "start": 1.66,
+          "end": 1.96,
+          "probability": 0.9937986731529236
+        },
+        {
+          "word": " a",
+          "start": 1.96,
+          "end": 2.12,
+          "probability": 0.9979634284973145
+        },
+        {
+          "word": " violent",
+          "start": 2.12,
+          "end": 2.56,
+          "probability": 0.9702087044715881
+        },
+        {
+          "word": " soul,",
+          "start": 2.56,
+          "end": 3.02,
+          "probability": 0.9664772748947144
+        },
+        {
+          "word": " majestic",
+          "start": 3.32,
+          "end": 3.94,
+          "probability": 0.9723756313323975
+        },
+        {
+          "word": " and",
+          "start": 3.94,
+          "end": 4.28,
+          "probability": 0.9686892628669739
+        },
+        {
+          "word": " often",
+          "start": 4.28,
+          "end": 4.68,
+          "probability": 0.9910394549369812
+        },
+        {
+          "word": " destructive",
+          "start": 4.68,
+          "end": 5.28,
+          "probability": 0.9316208958625793
+        },
+        {
+          "word": " volcanic",
+          "start": 5.28,
+          "end": 5.96,
+          "probability": 0.7658301591873169
+        },
+        {
+          "word": " explosions",
+          "start": 5.96,
+          "end": 6.74,
+          "probability": 0.98836749792099
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.74,
+      "end": 13.94,
+      "text": " rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko,",
+      "tokens": [
+        50707,
+        367,
+        3327,
+        527,
+        12590,
+        12938,
+        13,
+        4779,
+        326,
+        2513,
+        64,
+        11,
+        8426,
+        745,
+        13,
+        6128,
+        694,
+        11,
+        3790,
+        629,
+        11,
+        20389,
+        12,
+        56,
+        267,
+        875,
+        3609,
+        78,
+        11,
+        51061
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2811732351044078,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.2779083847999573,
+      "words": [
+        {
+          "word": " rattle",
+          "start": 6.74,
+          "end": 7.44,
+          "probability": 0.9217256009578705
+        },
+        {
+          "word": " our",
+          "start": 7.44,
+          "end": 7.66,
+          "probability": 0.993493378162384
+        },
+        {
+          "word": " collective",
+          "start": 7.66,
+          "end": 8.18,
+          "probability": 0.9931963682174683
+        },
+        {
+          "word": " imagination.",
+          "start": 8.18,
+          "end": 8.96,
+          "probability": 0.9901493787765503
+        },
+        {
+          "word": " Cracatoa,",
+          "start": 9.82,
+          "end": 10.5,
+          "probability": 0.6832732036709785
+        },
+        {
+          "word": " Mount",
+          "start": 10.9,
+          "end": 11.0,
+          "probability": 0.7548494935035706
+        },
+        {
+          "word": " St.",
+          "start": 11.0,
+          "end": 11.22,
+          "probability": 0.8778804540634155
+        },
+        {
+          "word": " Helens,",
+          "start": 11.38,
+          "end": 11.68,
+          "probability": 0.9333678483963013
+        },
+        {
+          "word": " Etna,",
+          "start": 12.22,
+          "end": 12.5,
+          "probability": 0.9046227633953094
+        },
+        {
+          "word": " AF",
+          "start": 12.98,
+          "end": 13.22,
+          "probability": 0.5211447477340698
+        },
+        {
+          "word": "-Yatla",
+          "start": 13.22,
+          "end": 13.54,
+          "probability": 0.48043324798345566
+        },
+        {
+          "word": " Yorko,",
+          "start": 13.54,
+          "end": 13.94,
+          "probability": 0.4424586892127991
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.32,
+      "end": 20.66,
+      "text": " the images simultaneously strike fear and awe in our hearts. But how did these",
+      "tokens": [
+        51061,
+        264,
+        5267,
+        16561,
+        9302,
+        4240,
+        293,
+        30912,
+        294,
+        527,
+        8852,
+        13,
+        583,
+        577,
+        630,
+        613,
+        51395
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2811732351044078,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.2779083847999573,
+      "words": [
+        {
+          "word": " the",
+          "start": 14.32,
+          "end": 14.64,
+          "probability": 0.9404511451721191
+        },
+        {
+          "word": " images",
+          "start": 14.64,
+          "end": 15.0,
+          "probability": 0.9630753993988037
+        },
+        {
+          "word": " simultaneously",
+          "start": 15.0,
+          "end": 15.9,
+          "probability": 0.9979673027992249
+        },
+        {
+          "word": " strike",
+          "start": 15.9,
+          "end": 16.26,
+          "probability": 0.959565281867981
+        },
+        {
+          "word": " fear",
+          "start": 16.26,
+          "end": 16.64,
+          "probability": 0.9735910892486572
+        },
+        {
+          "word": " and",
+          "start": 16.64,
+          "end": 17.08,
+          "probability": 0.9716553688049316
+        },
+        {
+          "word": " awe",
+          "start": 17.08,
+          "end": 17.42,
+          "probability": 0.986484706401825
+        },
+        {
+          "word": " in",
+          "start": 17.42,
+          "end": 17.72,
+          "probability": 0.9945095181465149
+        },
+        {
+          "word": " our",
+          "start": 17.72,
+          "end": 17.96,
+          "probability": 0.9978051781654358
+        },
+        {
+          "word": " hearts.",
+          "start": 17.96,
+          "end": 18.44,
+          "probability": 0.9954637885093689
+        },
+        {
+          "word": " But",
+          "start": 19.22,
+          "end": 19.9,
+          "probability": 0.97865891456604
+        },
+        {
+          "word": " how",
+          "start": 19.9,
+          "end": 20.1,
+          "probability": 0.9834190607070923
+        },
+        {
+          "word": " did",
+          "start": 20.1,
+          "end": 20.38,
+          "probability": 0.9950336217880249
+        },
+        {
+          "word": " these",
+          "start": 20.38,
+          "end": 20.66,
+          "probability": 0.96098792552948
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.66,
+      "end": 25.96,
+      "text": " giant mountains form and where does all that destructive force come from? At least",
+      "tokens": [
+        51395,
+        7410,
+        10233,
+        1254,
+        293,
+        689,
+        775,
+        439,
+        300,
+        26960,
+        3464,
+        808,
+        490,
+        30,
+        1711,
+        1935,
+        51663
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2811732351044078,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.2779083847999573,
+      "words": [
+        {
+          "word": " giant",
+          "start": 20.66,
+          "end": 20.94,
+          "probability": 0.9920365810394287
+        },
+        {
+          "word": " mountains",
+          "start": 20.94,
+          "end": 21.22,
+          "probability": 0.9679305553436279
+        },
+        {
+          "word": " form",
+          "start": 21.22,
+          "end": 21.54,
+          "probability": 0.9833266139030457
+        },
+        {
+          "word": " and",
+          "start": 21.54,
+          "end": 21.84,
+          "probability": 0.7187221050262451
+        },
+        {
+          "word": " where",
+          "start": 21.84,
+          "end": 22.06,
+          "probability": 0.9913827776908875
+        },
+        {
+          "word": " does",
+          "start": 22.06,
+          "end": 22.32,
+          "probability": 0.9849678874015808
+        },
+        {
+          "word": " all",
+          "start": 22.32,
+          "end": 22.58,
+          "probability": 0.9900882840156555
+        },
+        {
+          "word": " that",
+          "start": 22.58,
+          "end": 22.74,
+          "probability": 0.9829046726226807
+        },
+        {
+          "word": " destructive",
+          "start": 22.74,
+          "end": 23.16,
+          "probability": 0.9976751208305359
+        },
+        {
+          "word": " force",
+          "start": 23.16,
+          "end": 23.44,
+          "probability": 0.9621355533599854
+        },
+        {
+          "word": " come",
+          "start": 23.44,
+          "end": 23.76,
+          "probability": 0.9980009198188782
+        },
+        {
+          "word": " from?",
+          "start": 23.76,
+          "end": 24.04,
+          "probability": 0.9991533756256104
+        },
+        {
+          "word": " At",
+          "start": 25.26,
+          "end": 25.76,
+          "probability": 0.9786835312843323
+        },
+        {
+          "word": " least",
+          "start": 25.76,
+          "end": 25.96,
+          "probability": 0.9937559366226196
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2596,
+      "start": 25.96,
+      "end": 31.1,
+      "text": " These 50 eruptions rock the Earth each year, meaning our planet is literally bursting",
+      "tokens": [
+        50364,
+        1981,
+        2625,
+        20999,
+        9799,
+        3727,
+        264,
+        4755,
+        1184,
+        1064,
+        11,
+        3620,
+        527,
+        5054,
+        307,
+        3736,
+        45713,
+        50626
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " These",
+          "start": 25.96,
+          "end": 26.04,
+          "probability": 0.06577477604150772
+        },
+        {
+          "word": " 50",
+          "start": 26.04,
+          "end": 26.58,
+          "probability": 0.8864248394966125
+        },
+        {
+          "word": " eruptions",
+          "start": 26.58,
+          "end": 27.16,
+          "probability": 0.9941571950912476
+        },
+        {
+          "word": " rock",
+          "start": 27.16,
+          "end": 27.44,
+          "probability": 0.9753549098968506
+        },
+        {
+          "word": " the",
+          "start": 27.44,
+          "end": 27.64,
+          "probability": 0.8943272233009338
+        },
+        {
+          "word": " Earth",
+          "start": 27.64,
+          "end": 27.82,
+          "probability": 0.6561233997344971
+        },
+        {
+          "word": " each",
+          "start": 27.82,
+          "end": 28.24,
+          "probability": 0.9376163482666016
+        },
+        {
+          "word": " year,",
+          "start": 28.24,
+          "end": 28.52,
+          "probability": 0.9992190599441528
+        },
+        {
+          "word": " meaning",
+          "start": 28.8,
+          "end": 28.96,
+          "probability": 0.9941509366035461
+        },
+        {
+          "word": " our",
+          "start": 28.96,
+          "end": 29.36,
+          "probability": 0.9733878970146179
+        },
+        {
+          "word": " planet",
+          "start": 29.36,
+          "end": 29.84,
+          "probability": 0.9972694516181946
+        },
+        {
+          "word": " is",
+          "start": 29.84,
+          "end": 30.12,
+          "probability": 0.9898868203163147
+        },
+        {
+          "word": " literally",
+          "start": 30.12,
+          "end": 30.52,
+          "probability": 0.9956210255622864
+        },
+        {
+          "word": " bursting",
+          "start": 30.52,
+          "end": 31.1,
+          "probability": 0.9746580719947815
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2596,
+      "start": 31.1,
+      "end": 32.12,
+      "text": " apart at the scenes.",
+      "tokens": [
+        50626,
+        4936,
+        412,
+        264,
+        8026,
+        13,
+        50712
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " apart",
+          "start": 31.1,
+          "end": 31.48,
+          "probability": 0.8307548761367798
+        },
+        {
+          "word": " at",
+          "start": 31.48,
+          "end": 31.66,
+          "probability": 0.9739824533462524
+        },
+        {
+          "word": " the",
+          "start": 31.66,
+          "end": 31.78,
+          "probability": 0.9960216879844666
+        },
+        {
+          "word": " scenes.",
+          "start": 31.78,
+          "end": 32.12,
+          "probability": 0.49087661504745483
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2596,
+      "start": 32.8,
+      "end": 38.26,
+      "text": " The Earth's crust is made up of about 17 slabs of land called tectonic plates that float",
+      "tokens": [
+        50712,
+        440,
+        4755,
+        311,
+        18156,
+        307,
+        1027,
+        493,
+        295,
+        466,
+        3282,
+        1061,
+        17243,
+        295,
+        2117,
+        1219,
+        535,
+        349,
+        11630,
+        14231,
+        300,
+        15706,
+        50982
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " The",
+          "start": 32.8,
+          "end": 32.96,
+          "probability": 0.958441972732544
+        },
+        {
+          "word": " Earth's",
+          "start": 32.96,
+          "end": 33.48,
+          "probability": 0.9752306640148163
+        },
+        {
+          "word": " crust",
+          "start": 33.48,
+          "end": 33.66,
+          "probability": 0.9959783554077148
+        },
+        {
+          "word": " is",
+          "start": 33.66,
+          "end": 33.94,
+          "probability": 0.9946105480194092
+        },
+        {
+          "word": " made",
+          "start": 33.94,
+          "end": 34.12,
+          "probability": 0.9970986843109131
+        },
+        {
+          "word": " up",
+          "start": 34.12,
+          "end": 34.34,
+          "probability": 0.9885860085487366
+        },
+        {
+          "word": " of",
+          "start": 34.34,
+          "end": 34.5,
+          "probability": 0.989250898361206
+        },
+        {
+          "word": " about",
+          "start": 34.5,
+          "end": 34.78,
+          "probability": 0.9830999374389648
+        },
+        {
+          "word": " 17",
+          "start": 34.78,
+          "end": 35.38,
+          "probability": 0.9316565990447998
+        },
+        {
+          "word": " slabs",
+          "start": 35.38,
+          "end": 35.94,
+          "probability": 0.945604145526886
+        },
+        {
+          "word": " of",
+          "start": 35.94,
+          "end": 36.08,
+          "probability": 0.995366096496582
+        },
+        {
+          "word": " land",
+          "start": 36.08,
+          "end": 36.34,
+          "probability": 0.9964048862457275
+        },
+        {
+          "word": " called",
+          "start": 36.34,
+          "end": 36.62,
+          "probability": 0.7860934734344482
+        },
+        {
+          "word": " tectonic",
+          "start": 36.62,
+          "end": 37.08,
+          "probability": 0.8963455359141032
+        },
+        {
+          "word": " plates",
+          "start": 37.08,
+          "end": 37.42,
+          "probability": 0.9926976561546326
+        },
+        {
+          "word": " that",
+          "start": 37.42,
+          "end": 38.02,
+          "probability": 0.7999873161315918
+        },
+        {
+          "word": " float",
+          "start": 38.02,
+          "end": 38.26,
+          "probability": 0.996179461479187
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2596,
+      "start": 38.26,
+      "end": 41.92,
+      "text": " on the super-heated magma that makes up most of the planet's interior.",
+      "tokens": [
+        50982,
+        322,
+        264,
+        1687,
+        12,
+        675,
+        770,
+        2258,
+        1696,
+        300,
+        1669,
+        493,
+        881,
+        295,
+        264,
+        5054,
+        311,
+        10636,
+        13,
+        51186
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " on",
+          "start": 38.26,
+          "end": 38.42,
+          "probability": 0.9951645135879517
+        },
+        {
+          "word": " the",
+          "start": 38.42,
+          "end": 38.54,
+          "probability": 0.7876502275466919
+        },
+        {
+          "word": " super",
+          "start": 38.54,
+          "end": 38.92,
+          "probability": 0.9705589413642883
+        },
+        {
+          "word": "-heated",
+          "start": 38.92,
+          "end": 39.24,
+          "probability": 0.8373973170916239
+        },
+        {
+          "word": " magma",
+          "start": 39.24,
+          "end": 39.7,
+          "probability": 0.983747273683548
+        },
+        {
+          "word": " that",
+          "start": 39.7,
+          "end": 40.04,
+          "probability": 0.9829882979393005
+        },
+        {
+          "word": " makes",
+          "start": 40.04,
+          "end": 40.22,
+          "probability": 0.9695472121238708
+        },
+        {
+          "word": " up",
+          "start": 40.22,
+          "end": 40.5,
+          "probability": 0.9958265423774719
+        },
+        {
+          "word": " most",
+          "start": 40.5,
+          "end": 40.76,
+          "probability": 0.996110737323761
+        },
+        {
+          "word": " of",
+          "start": 40.76,
+          "end": 40.94,
+          "probability": 0.9950013756752014
+        },
+        {
+          "word": " the",
+          "start": 40.94,
+          "end": 41.04,
+          "probability": 0.9922924041748047
+        },
+        {
+          "word": " planet's",
+          "start": 41.04,
+          "end": 41.5,
+          "probability": 0.9753162562847137
+        },
+        {
+          "word": " interior.",
+          "start": 41.5,
+          "end": 41.92,
+          "probability": 0.9963954091072083
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2596,
+      "start": 42.38,
+      "end": 46.1,
+      "text": " Magma is the Earth's lifeblood churning restlessly beneath the crust.",
+      "tokens": [
+        51186,
+        6395,
+        1696,
+        307,
+        264,
+        4755,
+        311,
+        993,
+        15962,
+        378,
+        417,
+        10656,
+        1472,
+        12048,
+        17149,
+        264,
+        18156,
+        13,
+        51412
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " Magma",
+          "start": 42.38,
+          "end": 42.94,
+          "probability": 0.9013393521308899
+        },
+        {
+          "word": " is",
+          "start": 42.94,
+          "end": 43.12,
+          "probability": 0.9978985786437988
+        },
+        {
+          "word": " the",
+          "start": 43.12,
+          "end": 43.24,
+          "probability": 0.769248902797699
+        },
+        {
+          "word": " Earth's",
+          "start": 43.24,
+          "end": 43.66,
+          "probability": 0.9552452862262726
+        },
+        {
+          "word": " lifeblood",
+          "start": 43.66,
+          "end": 44.2,
+          "probability": 0.9517332315444946
+        },
+        {
+          "word": " churning",
+          "start": 44.2,
+          "end": 44.62,
+          "probability": 0.810120701789856
+        },
+        {
+          "word": " restlessly",
+          "start": 44.62,
+          "end": 45.36,
+          "probability": 0.6351981312036514
+        },
+        {
+          "word": " beneath",
+          "start": 45.36,
+          "end": 45.62,
+          "probability": 0.9998742341995239
+        },
+        {
+          "word": " the",
+          "start": 45.62,
+          "end": 45.82,
+          "probability": 0.9779759049415588
+        },
+        {
+          "word": " crust.",
+          "start": 45.82,
+          "end": 46.1,
+          "probability": 0.9983013868331909
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2596,
+      "start": 46.78,
+      "end": 49.66,
+      "text": " And wherever it can, it's trying to burst through.",
+      "tokens": [
+        51412,
+        400,
+        8660,
+        309,
+        393,
+        11,
+        309,
+        311,
+        1382,
+        281,
+        12712,
+        807,
+        13,
+        51584
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " And",
+          "start": 46.78,
+          "end": 46.94,
+          "probability": 0.9782537221908569
+        },
+        {
+          "word": " wherever",
+          "start": 46.94,
+          "end": 47.18,
+          "probability": 0.9743109941482544
+        },
+        {
+          "word": " it",
+          "start": 47.18,
+          "end": 47.5,
+          "probability": 0.9985290765762329
+        },
+        {
+          "word": " can,",
+          "start": 47.5,
+          "end": 47.72,
+          "probability": 0.9897597432136536
+        },
+        {
+          "word": " it's",
+          "start": 48.1,
+          "end": 48.32,
+          "probability": 0.9895745515823364
+        },
+        {
+          "word": " trying",
+          "start": 48.32,
+          "end": 48.66,
+          "probability": 0.9903514981269836
+        },
+        {
+          "word": " to",
+          "start": 48.66,
+          "end": 48.94,
+          "probability": 0.9986292123794556
+        },
+        {
+          "word": " burst",
+          "start": 48.94,
+          "end": 49.26,
+          "probability": 0.9868084788322449
+        },
+        {
+          "word": " through.",
+          "start": 49.26,
+          "end": 49.66,
+          "probability": 0.995887815952301
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2596,
+      "start": 50.1,
+      "end": 52.44,
+      "text": " It's at these spots that Balkan was formed.",
+      "tokens": [
+        51584,
+        467,
+        311,
+        412,
+        613,
+        10681,
+        300,
+        36289,
+        282,
+        390,
+        8693,
+        13,
+        51728
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2010441155269228,
+      "compression_ratio": 1.6022304832713754,
+      "no_speech_prob": 0.08056941628456116,
+      "words": [
+        {
+          "word": " It's",
+          "start": 50.1,
+          "end": 50.4,
+          "probability": 0.9947066903114319
+        },
+        {
+          "word": " at",
+          "start": 50.4,
+          "end": 50.5,
+          "probability": 0.9084627628326416
+        },
+        {
+          "word": " these",
+          "start": 50.5,
+          "end": 50.78,
+          "probability": 0.9874622225761414
+        },
+        {
+          "word": " spots",
+          "start": 50.78,
+          "end": 51.18,
+          "probability": 0.9992318153381348
+        },
+        {
+          "word": " that",
+          "start": 51.18,
+          "end": 51.48,
+          "probability": 0.9937047362327576
+        },
+        {
+          "word": " Balkan",
+          "start": 51.48,
+          "end": 51.9,
+          "probability": 0.5745061039924622
+        },
+        {
+          "word": " was",
+          "start": 51.9,
+          "end": 52.08,
+          "probability": 0.9486917853355408
+        },
+        {
+          "word": " formed.",
+          "start": 52.08,
+          "end": 52.44,
+          "probability": 0.9279143214225769
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5244,
+      "start": 52.44,
+      "end": 56.48,
+      "text": " Our planet is home to some 500 active volcanoes.",
+      "tokens": [
+        50364,
+        2621,
+        5054,
+        307,
+        1280,
+        281,
+        512,
+        5923,
+        4967,
+        48221,
+        13,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " Our",
+          "start": 52.44,
+          "end": 53.2,
+          "probability": 0.9134887456893921
+        },
+        {
+          "word": " planet",
+          "start": 53.2,
+          "end": 53.72,
+          "probability": 0.9896609783172607
+        },
+        {
+          "word": " is",
+          "start": 53.72,
+          "end": 53.96,
+          "probability": 0.9959656000137329
+        },
+        {
+          "word": " home",
+          "start": 53.96,
+          "end": 54.1,
+          "probability": 0.992300271987915
+        },
+        {
+          "word": " to",
+          "start": 54.1,
+          "end": 54.28,
+          "probability": 0.997696578502655
+        },
+        {
+          "word": " some",
+          "start": 54.28,
+          "end": 54.54,
+          "probability": 0.9934158325195312
+        },
+        {
+          "word": " 500",
+          "start": 54.54,
+          "end": 55.54,
+          "probability": 0.9550203084945679
+        },
+        {
+          "word": " active",
+          "start": 55.54,
+          "end": 55.98,
+          "probability": 0.9897124767303467
+        },
+        {
+          "word": " volcanoes.",
+          "start": 55.98,
+          "end": 56.48,
+          "probability": 0.9696261286735535
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5244,
+      "start": 57.22,
+      "end": 61.4,
+      "text": " While some volcanoes, like those in Hawaii, break through a thin point in the crest called",
+      "tokens": [
+        50614,
+        3987,
+        512,
+        48221,
+        11,
+        411,
+        729,
+        294,
+        17930,
+        11,
+        1821,
+        807,
+        257,
+        5862,
+        935,
+        294,
+        264,
+        43799,
+        1219,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " While",
+          "start": 57.22,
+          "end": 57.44,
+          "probability": 0.9925273656845093
+        },
+        {
+          "word": " some",
+          "start": 57.44,
+          "end": 57.74,
+          "probability": 0.9947752952575684
+        },
+        {
+          "word": " volcanoes,",
+          "start": 57.74,
+          "end": 58.24,
+          "probability": 0.9918117523193359
+        },
+        {
+          "word": " like",
+          "start": 58.5,
+          "end": 58.6,
+          "probability": 0.9979054927825928
+        },
+        {
+          "word": " those",
+          "start": 58.6,
+          "end": 58.76,
+          "probability": 0.9911921620368958
+        },
+        {
+          "word": " in",
+          "start": 58.76,
+          "end": 58.94,
+          "probability": 0.9990353584289551
+        },
+        {
+          "word": " Hawaii,",
+          "start": 58.94,
+          "end": 59.28,
+          "probability": 0.9925313591957092
+        },
+        {
+          "word": " break",
+          "start": 59.62,
+          "end": 59.88,
+          "probability": 0.9810231328010559
+        },
+        {
+          "word": " through",
+          "start": 59.88,
+          "end": 60.08,
+          "probability": 0.9928677082061768
+        },
+        {
+          "word": " a",
+          "start": 60.08,
+          "end": 60.2,
+          "probability": 0.9966378211975098
+        },
+        {
+          "word": " thin",
+          "start": 60.2,
+          "end": 60.36,
+          "probability": 0.9925487041473389
+        },
+        {
+          "word": " point",
+          "start": 60.36,
+          "end": 60.66,
+          "probability": 0.9412016868591309
+        },
+        {
+          "word": " in",
+          "start": 60.66,
+          "end": 60.78,
+          "probability": 0.9251819252967834
+        },
+        {
+          "word": " the",
+          "start": 60.78,
+          "end": 60.88,
+          "probability": 0.9957246780395508
+        },
+        {
+          "word": " crest",
+          "start": 60.88,
+          "end": 61.1,
+          "probability": 0.8367828726768494
+        },
+        {
+          "word": " called",
+          "start": 61.1,
+          "end": 61.4,
+          "probability": 0.9450364112854004
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5244,
+      "start": 61.4,
+      "end": 66.78,
+      "text": " a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates",
+      "tokens": [
+        50814,
+        257,
+        36121,
+        17698,
+        11,
+        264,
+        8369,
+        6286,
+        295,
+        48221,
+        5160,
+        322,
+        4967,
+        7441,
+        3876,
+        689,
+        535,
+        349,
+        11630,
+        14231,
+        51090
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " a",
+          "start": 61.4,
+          "end": 61.56,
+          "probability": 0.8786550164222717
+        },
+        {
+          "word": " hotspot,",
+          "start": 61.56,
+          "end": 62.0,
+          "probability": 0.8714003562927246
+        },
+        {
+          "word": " the",
+          "start": 62.42,
+          "end": 62.54,
+          "probability": 0.995884120464325
+        },
+        {
+          "word": " vast",
+          "start": 62.54,
+          "end": 62.88,
+          "probability": 0.999889612197876
+        },
+        {
+          "word": " majority",
+          "start": 62.88,
+          "end": 63.48,
+          "probability": 0.9996582269668579
+        },
+        {
+          "word": " of",
+          "start": 63.48,
+          "end": 63.64,
+          "probability": 0.9987367987632751
+        },
+        {
+          "word": " volcanoes",
+          "start": 63.64,
+          "end": 64.0,
+          "probability": 0.9894576668739319
+        },
+        {
+          "word": " occur",
+          "start": 64.0,
+          "end": 64.44,
+          "probability": 0.97981858253479
+        },
+        {
+          "word": " on",
+          "start": 64.44,
+          "end": 64.7,
+          "probability": 0.9929196238517761
+        },
+        {
+          "word": " active",
+          "start": 64.7,
+          "end": 65.16,
+          "probability": 0.9943143725395203
+        },
+        {
+          "word": " fault",
+          "start": 65.16,
+          "end": 65.52,
+          "probability": 0.8867039084434509
+        },
+        {
+          "word": " lines",
+          "start": 65.52,
+          "end": 65.84,
+          "probability": 0.9476401209831238
+        },
+        {
+          "word": " where",
+          "start": 65.84,
+          "end": 66.12,
+          "probability": 0.9583684802055359
+        },
+        {
+          "word": " tectonic",
+          "start": 66.12,
+          "end": 66.54,
+          "probability": 0.9303112626075745
+        },
+        {
+          "word": " plates",
+          "start": 66.54,
+          "end": 66.78,
+          "probability": 0.9966455101966858
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5244,
+      "start": 66.78,
+      "end": 67.2,
+      "text": " meet.",
+      "tokens": [
+        51090,
+        1677,
+        13,
+        51152
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " meet.",
+          "start": 66.78,
+          "end": 67.2,
+          "probability": 0.9914494156837463
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5244,
+      "start": 68.04,
+      "end": 73.38,
+      "text": " The most volatile region is the ring of fire, a geological fault belt that rims the Pacific",
+      "tokens": [
+        51152,
+        440,
+        881,
+        34377,
+        4458,
+        307,
+        264,
+        4875,
+        295,
+        2610,
+        11,
+        257,
+        1519,
+        4383,
+        7441,
+        10750,
+        300,
+        15982,
+        82,
+        264,
+        13335,
+        51418
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " The",
+          "start": 68.04,
+          "end": 68.22,
+          "probability": 0.9939569234848022
+        },
+        {
+          "word": " most",
+          "start": 68.22,
+          "end": 68.52,
+          "probability": 0.9865321516990662
+        },
+        {
+          "word": " volatile",
+          "start": 68.52,
+          "end": 68.96,
+          "probability": 0.998706579208374
+        },
+        {
+          "word": " region",
+          "start": 68.96,
+          "end": 69.6,
+          "probability": 0.9985966086387634
+        },
+        {
+          "word": " is",
+          "start": 69.6,
+          "end": 69.8,
+          "probability": 0.9976894855499268
+        },
+        {
+          "word": " the",
+          "start": 69.8,
+          "end": 69.92,
+          "probability": 0.9973375201225281
+        },
+        {
+          "word": " ring",
+          "start": 69.92,
+          "end": 70.1,
+          "probability": 0.8052250742912292
+        },
+        {
+          "word": " of",
+          "start": 70.1,
+          "end": 70.24,
+          "probability": 0.9939855933189392
+        },
+        {
+          "word": " fire,",
+          "start": 70.24,
+          "end": 70.6,
+          "probability": 0.9971422553062439
+        },
+        {
+          "word": " a",
+          "start": 70.98,
+          "end": 71.06,
+          "probability": 0.9969009160995483
+        },
+        {
+          "word": " geological",
+          "start": 71.06,
+          "end": 71.72,
+          "probability": 0.9916137456893921
+        },
+        {
+          "word": " fault",
+          "start": 71.72,
+          "end": 72.1,
+          "probability": 0.7858902215957642
+        },
+        {
+          "word": " belt",
+          "start": 72.1,
+          "end": 72.36,
+          "probability": 0.7943675518035889
+        },
+        {
+          "word": " that",
+          "start": 72.36,
+          "end": 72.6,
+          "probability": 0.9965247511863708
+        },
+        {
+          "word": " rims",
+          "start": 72.6,
+          "end": 72.98,
+          "probability": 0.793267548084259
+        },
+        {
+          "word": " the",
+          "start": 72.98,
+          "end": 73.08,
+          "probability": 0.9908278584480286
+        },
+        {
+          "word": " Pacific",
+          "start": 73.08,
+          "end": 73.38,
+          "probability": 0.9861910343170166
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5244,
+      "start": 73.38,
+      "end": 78.02,
+      "text": " Ocean and holds roughly 75% of all the Earth's volcanoes.",
+      "tokens": [
+        51418,
+        18101,
+        293,
+        9190,
+        9810,
+        9562,
+        4,
+        295,
+        439,
+        264,
+        4755,
+        311,
+        48221,
+        13,
+        51690
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19672169287999472,
+      "compression_ratio": 1.5731707317073171,
+      "no_speech_prob": 0.0351930670440197,
+      "words": [
+        {
+          "word": " Ocean",
+          "start": 73.38,
+          "end": 73.84,
+          "probability": 0.7424178719520569
+        },
+        {
+          "word": " and",
+          "start": 73.84,
+          "end": 74.26,
+          "probability": 0.8779985308647156
+        },
+        {
+          "word": " holds",
+          "start": 74.26,
+          "end": 74.46,
+          "probability": 0.9959446787834167
+        },
+        {
+          "word": " roughly",
+          "start": 74.46,
+          "end": 74.96,
+          "probability": 0.9986602067947388
+        },
+        {
+          "word": " 75",
+          "start": 74.96,
+          "end": 75.7,
+          "probability": 0.9744231104850769
+        },
+        {
+          "word": "%",
+          "start": 75.7,
+          "end": 76.58,
+          "probability": 0.8834384083747864
+        },
+        {
+          "word": " of",
+          "start": 76.58,
+          "end": 76.84,
+          "probability": 0.9915237426757812
+        },
+        {
+          "word": " all",
+          "start": 76.84,
+          "end": 77.14,
+          "probability": 0.9860560894012451
+        },
+        {
+          "word": " the",
+          "start": 77.14,
+          "end": 77.28,
+          "probability": 0.9764063954353333
+        },
+        {
+          "word": " Earth's",
+          "start": 77.28,
+          "end": 77.62,
+          "probability": 0.9130007326602936
+        },
+        {
+          "word": " volcanoes.",
+          "start": 77.62,
+          "end": 78.02,
+          "probability": 0.9910984635353088
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 7802,
+      "start": 79.02,
+      "end": 81.96,
+      "text": " Typically, volcanoes take one of two forms.",
+      "tokens": [
+        50364,
+        23129,
+        11,
+        48221,
+        747,
+        472,
+        295,
+        732,
+        6422,
+        13,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23125287106162623,
+      "compression_ratio": 1.3130434782608695,
+      "no_speech_prob": 0.41487598419189453,
+      "words": [
+        {
+          "word": " Typically,",
+          "start": 79.02,
+          "end": 79.86,
+          "probability": 0.46349141001701355
+        },
+        {
+          "word": " volcanoes",
+          "start": 80.28,
+          "end": 80.62,
+          "probability": 0.9627915024757385
+        },
+        {
+          "word": " take",
+          "start": 80.62,
+          "end": 80.94,
+          "probability": 0.9977261424064636
+        },
+        {
+          "word": " one",
+          "start": 80.94,
+          "end": 81.18,
+          "probability": 0.9446189403533936
+        },
+        {
+          "word": " of",
+          "start": 81.18,
+          "end": 81.3,
+          "probability": 0.9916609525680542
+        },
+        {
+          "word": " two",
+          "start": 81.3,
+          "end": 81.54,
+          "probability": 0.9700072407722473
+        },
+        {
+          "word": " forms.",
+          "start": 81.54,
+          "end": 81.96,
+          "probability": 0.9941131472587585
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 7802,
+      "start": 82.68,
+      "end": 85.04,
+      "text": " Shield volcanoes widen broad with lava",
+      "tokens": [
+        50564,
+        28539,
+        48221,
+        32552,
+        4152,
+        365,
+        22097,
+        50714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23125287106162623,
+      "compression_ratio": 1.3130434782608695,
+      "no_speech_prob": 0.41487598419189453,
+      "words": [
+        {
+          "word": " Shield",
+          "start": 82.68,
+          "end": 82.88,
+          "probability": 0.9276111125946045
+        },
+        {
+          "word": " volcanoes",
+          "start": 82.88,
+          "end": 83.42,
+          "probability": 0.9856627583503723
+        },
+        {
+          "word": " widen",
+          "start": 83.42,
+          "end": 84.06,
+          "probability": 0.7936784625053406
+        },
+        {
+          "word": " broad",
+          "start": 84.06,
+          "end": 84.48,
+          "probability": 0.8877912163734436
+        },
+        {
+          "word": " with",
+          "start": 84.48,
+          "end": 84.8,
+          "probability": 0.9260969161987305
+        },
+        {
+          "word": " lava",
+          "start": 84.8,
+          "end": 85.04,
+          "probability": 0.9885622262954712
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 7802,
+      "start": 85.04,
+      "end": 87.54,
+      "text": " usually slowly oozing out of them",
+      "tokens": [
+        50714,
+        2673,
+        5692,
+        32685,
+        8781,
+        484,
+        295,
+        552,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23125287106162623,
+      "compression_ratio": 1.3130434782608695,
+      "no_speech_prob": 0.41487598419189453,
+      "words": [
+        {
+          "word": " usually",
+          "start": 85.04,
+          "end": 85.66,
+          "probability": 0.3843761384487152
+        },
+        {
+          "word": " slowly",
+          "start": 85.66,
+          "end": 86.3,
+          "probability": 0.9300051331520081
+        },
+        {
+          "word": " oozing",
+          "start": 86.3,
+          "end": 87.0,
+          "probability": 0.9932940900325775
+        },
+        {
+          "word": " out",
+          "start": 87.0,
+          "end": 87.26,
+          "probability": 0.9982272982597351
+        },
+        {
+          "word": " of",
+          "start": 87.26,
+          "end": 87.36,
+          "probability": 0.9956014156341553
+        },
+        {
+          "word": " them",
+          "start": 87.36,
+          "end": 87.54,
+          "probability": 0.9977630376815796
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 7802,
+      "start": 87.54,
+      "end": 89.78,
+      "text": " and composite or strato volcanoes.",
+      "tokens": [
+        50814,
+        293,
+        25557,
+        420,
+        1056,
+        2513,
+        48221,
+        13,
+        50964
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23125287106162623,
+      "compression_ratio": 1.3130434782608695,
+      "no_speech_prob": 0.41487598419189453,
+      "words": [
+        {
+          "word": " and",
+          "start": 87.54,
+          "end": 88.14,
+          "probability": 0.7765771150588989
+        },
+        {
+          "word": " composite",
+          "start": 88.14,
+          "end": 88.66,
+          "probability": 0.9866384267807007
+        },
+        {
+          "word": " or",
+          "start": 88.66,
+          "end": 88.88,
+          "probability": 0.9320753216743469
+        },
+        {
+          "word": " strato",
+          "start": 88.88,
+          "end": 89.3,
+          "probability": 0.496751070022583
+        },
+        {
+          "word": " volcanoes.",
+          "start": 89.3,
+          "end": 89.78,
+          "probability": 0.892551064491272
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

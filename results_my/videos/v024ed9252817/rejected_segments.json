@@ -1,0 +1,47 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.5,
+    "text": "First at 10, a hit and run caught on camera. The vehicle at the center of this crash stolen from an 80-year-old woman.",
+    "avg_logprob": -0.21688375368223087,
+    "no_speech_prob": 0.7194976210594177,
+    "compression_ratio": 1.4979591836734694,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 7.66,
+    "end": 11.86,
+    "text": "What did I ever do to take it? Nothing.",
+    "avg_logprob": -0.21688375368223087,
+    "no_speech_prob": 0.7194976210594177,
+    "compression_ratio": 1.4979591836734694,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 12.34,
+    "end": 16.7,
+    "text": "The emotional significance behind this car now heavily damaged.",
+    "avg_logprob": -0.21688375368223087,
+    "no_speech_prob": 0.7194976210594177,
+    "compression_ratio": 1.4979591836734694,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 17.16,
+    "end": 23.44,
+    "text": "And a big development tonight in the arrest of a student accused of reporting a teacher under her skirt.",
+    "avg_logprob": -0.21688375368223087,
+    "no_speech_prob": 0.7194976210594177,
+    "compression_ratio": 1.4979591836734694,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 23.82,
+    "end": 26.08,
+    "text": "The shocking way the teacher found out.",
+    "avg_logprob": -0.21688375368223087,
+    "no_speech_prob": 0.7194976210594177,
+    "compression_ratio": 1.4979591836734694,
+    "reason": "high_no_speech_probability"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "title": "vtest",
+  "description": null,
+  "tags": null,
+  "categories": null,
+  "upload_date": null,
+  "duration": null,
+  "view_count": null,
+  "like_count": null,
+  "comment_count": null,
+  "webpage_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi",
+  "extractor": "generic",
+  "id": "vtest",
+  "source": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi",
+  "filename": "original.avi",
+  "sha256": "45cddc9490be69345cbdab64ca583be65987e864ca408038e648db99e10516cf",
+  "collected_at": "2026-10-27T08:55:46.342312+00:00",
+  "source_kind": "url"
+}

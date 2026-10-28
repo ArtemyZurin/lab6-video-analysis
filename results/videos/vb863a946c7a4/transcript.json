@@ -1,0 +1,126 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "The ground starts to quiver. Glasses rattle. Soon wall shits and everything begins to collapse.",
+      "avg_logprob": -0.16580810913672814,
+      "no_speech_prob": 0.1758563369512558,
+      "compression_ratio": 1.5451263537906137
+    },
+    {
+      "start": 7.52,
+      "end": 10.4,
+      "text": "Tail-tail signs of what could be a devastating earthquake.",
+      "avg_logprob": -0.16580810913672814,
+      "no_speech_prob": 0.1758563369512558,
+      "compression_ratio": 1.5451263537906137
+    },
+    {
+      "start": 11.22,
+      "end": 15.14,
+      "text": "We've seen the destruction they unleash. Some of us may have even lived through one.",
+      "avg_logprob": -0.16580810913672814,
+      "no_speech_prob": 0.1758563369512558,
+      "compression_ratio": 1.5451263537906137
+    },
+    {
+      "start": 15.64,
+      "end": 19.88,
+      "text": "And we know they can be deadly. But where does this mountain moving force come from?",
+      "avg_logprob": -0.16580810913672814,
+      "no_speech_prob": 0.1758563369512558,
+      "compression_ratio": 1.5451263537906137
+    },
+    {
+      "start": 21.38,
+      "end": 26.6,
+      "text": "While we may think we're standing on solid ground, the Earth beneath us isn't completely stable at all.",
+      "avg_logprob": -0.16580810913672814,
+      "no_speech_prob": 0.1758563369512558,
+      "compression_ratio": 1.5451263537906137
+    },
+    {
+      "start": 26.6,
+      "end": 33.5,
+      "text": "Our planet's crust is made up of about 12 major tectonic plates that fit together like a giant jigsaw puzzle.",
+      "avg_logprob": -0.1142662982551419,
+      "no_speech_prob": 0.042901717126369476,
+      "compression_ratio": 1.5498154981549817
+    },
+    {
+      "start": 34.1,
+      "end": 40.54,
+      "text": "These huge slabs of land float on super-heated magma and constantly shift bump and grind against one another.",
+      "avg_logprob": -0.1142662982551419,
+      "no_speech_prob": 0.042901717126369476,
+      "compression_ratio": 1.5498154981549817
+    },
+    {
+      "start": 41.0,
+      "end": 44.18,
+      "text": "It's there along the seams where earthquakes tend to happen.",
+      "avg_logprob": -0.1142662982551419,
+      "no_speech_prob": 0.042901717126369476,
+      "compression_ratio": 1.5498154981549817
+    },
+    {
+      "start": 45.02,
+      "end": 52.28,
+      "text": "When friction between the two plates is violent enough, seismic shockwaves ripple through the ground rattling everything that stands on it.",
+      "avg_logprob": -0.1142662982551419,
+      "no_speech_prob": 0.042901717126369476,
+      "compression_ratio": 1.5498154981549817
+    },
+    {
+      "start": 52.28,
+      "end": 56.36,
+      "text": "The stronger and shallower the quake, the more violent the destruction.",
+      "avg_logprob": -0.19241812115623838,
+      "no_speech_prob": 0.02817424200475216,
+      "compression_ratio": 1.6105769230769231
+    },
+    {
+      "start": 56.98,
+      "end": 63.22,
+      "text": "The most violent type of earthquake is born in a subduction zone, where one tectonic plate is shoved beneath another.",
+      "avg_logprob": -0.19241812115623838,
+      "no_speech_prob": 0.02817424200475216,
+      "compression_ratio": 1.6105769230769231
+    },
+    {
+      "start": 63.86,
+      "end": 68.88,
+      "text": "While one plate is forced downward into the mantle, the other jets upward often violently.",
+      "avg_logprob": -0.19241812115623838,
+      "no_speech_prob": 0.02817424200475216,
+      "compression_ratio": 1.6105769230769231
+    },
+    {
+      "start": 69.68,
+      "end": 73.2,
+      "text": "This is the type of quake that rocknapple in May 2015.",
+      "avg_logprob": -0.19241812115623838,
+      "no_speech_prob": 0.02817424200475216,
+      "compression_ratio": 1.6105769230769231
+    },
+    {
+      "start": 76.82,
+      "end": 82.2,
+      "text": "And when subduction happens under the ocean, it can create giant unstoppable waves called",
+      "avg_logprob": -0.21226541416065112,
+      "no_speech_prob": 0.2549898326396942,
+      "compression_ratio": 1.3464566929133859
+    },
+    {
+      "start": 82.2,
+      "end": 86.42,
+      "text": "tsunamis, like the ones that killed hundreds of thousands in Japan and Indonesia.",
+      "avg_logprob": -0.21226541416065112,
+      "no_speech_prob": 0.2549898326396942,
+      "compression_ratio": 1.3464566929133859
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,330 @@
+﻿video_id,title,id,type,start,end,label,confidence,value,frame
+v3472c89a73c8,Solar System 101 | National Geographic,e00000,audio,2.0,4.0,Пик громкости,,-20.797306320031595,
+v3472c89a73c8,Solar System 101 | National Geographic,e00001,speech,2.06,8.14,Our solar system is one of over 500 known solar systems in the entire Milky Way galaxy.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00002,scene,7.0066,7.1066,Смена сцены,,0.762107615796154,videos/v3472c89a73c8/frames/000007.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00003,scene,8.0075,8.1075,Смена сцены,,0.9386478847908813,videos/v3472c89a73c8/frames/000008.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00004,scene,9.0084,9.1084,Смена сцены,,0.9821133130853533,videos/v3472c89a73c8/frames/000009.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00005,scene,10.0094,10.1094,Смена сцены,,0.938866385593659,videos/v3472c89a73c8/frames/000010.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00006,speech,10.12,16.04,The solar system came into being about 4.5 billion years ago when a cloud of interstellar,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00007,scene,11.0103,11.1103,Смена сцены,,0.9807939073181676,videos/v3472c89a73c8/frames/000011.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00008,speech,16.04,21.72,"gas and dust collapsed, resulting in a solar nebula, a swirling disk of material that",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00009,audio,20.0,21.0,Пик громкости,,-21.646873776587817,
+v3472c89a73c8,Solar System 101 | National Geographic,e00010,speech,21.72,23.8,collided to form the solar system.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00011,scene,25.0234,25.1234,Смена сцены,,0.7068286261638068,videos/v3472c89a73c8/frames/000025.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00012,speech,25.28,29.74,The solar system is located in the Milky Way's Orion Star cluster.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00013,audio,27.0,28.0,Пик громкости,,-20.525005527332745,
+v3472c89a73c8,Solar System 101 | National Geographic,e00014,speech,30.4,37.36,"Only 15% of stars in the galaxy host planetary systems, and one of those stars is our own Sun.",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00015,audio,35.0,36.0,Пик громкости,,-20.899300869266384,
+v3472c89a73c8,Solar System 101 | National Geographic,e00016,object,39.0032,40.0041,orange,0.4606468677520752,,videos/v3472c89a73c8/frames/000039.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00017,speech,39.94,42.6,Revolving around the Sun are 8 planets.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00018,audio,40.0,41.0,Пик громкости,,-19.540567979252728,
+v3472c89a73c8,Solar System 101 | National Geographic,e00019,scene,40.0041,40.1041,Смена сцены,,0.684902147284002,videos/v3472c89a73c8/frames/000040.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00020,object,41.005,65.0275,orange,0.7432557096083959,,videos/v3472c89a73c8/frames/000041.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00021,object,43.0069,44.0078,sports ball,0.4279516041278839,,videos/v3472c89a73c8/frames/000043.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00022,speech,43.34,48.84,"The planets are divided into 2 categories based on their composition, terrestrial and Jovian.",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00023,speech,49.56,55.5,"Terrestrial planets, including Mercury, Venus, Earth, and Mars, are primarily made of rocky material.",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00024,audio,54.0,55.0,Пик громкости,,-21.393563398116683,
+v3472c89a73c8,Solar System 101 | National Geographic,e00025,object,55.0182,59.0219,donut,0.541587807238102,,videos/v3472c89a73c8/frames/000055.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00026,speech,56.06,61.24,"Their surfaces are solid, they don't have ring systems, they have very few or no moons,",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00027,object,60.0228,65.0275,donut,0.5695363104343414,,videos/v3472c89a73c8/frames/000060.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00028,speech,61.64,63.24,and they are relatively small.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00029,audio,62.0,63.0,Пик громкости,,-21.49385093695875,
+v3472c89a73c8,Solar System 101 | National Geographic,e00030,scene,65.0275,65.1275,Смена сцены,,0.893305376821246,videos/v3472c89a73c8/frames/000065.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00031,speech,65.24,70.68,"The smallest and closest to the Sun is Mercury, which has the shortest orbit in the solar system",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00032,audio,66.0,67.0,Пик громкости,,-21.526549212184754,
+v3472c89a73c8,Solar System 101 | National Geographic,e00033,speech,70.68,72.28,at about three Earth months.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00034,speech,73.16,79.94,Venus is the hottest planet with temperatures of up to 867 degrees Fahrenheit due to an,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00035,audio,74.0,75.0,Пик громкости,,-21.454524295665212,
+v3472c89a73c8,Solar System 101 | National Geographic,e00036,scene,74.0026,74.1026,Смена сцены,,0.7418395743447148,videos/v3472c89a73c8/frames/000074.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00037,speech,79.94,82.98,atmosphere of carbon dioxide and extensive lava flows.,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00038,speech,83.76,87.12,"Next to this world of fire is a world of water, Earth.",,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00039,scene,87.0148,87.1148,Смена сцены,,0.9345644276690798,videos/v3472c89a73c8/frames/000087.jpg
+v3472c89a73c8,Solar System 101 | National Geographic,e00040,speech,87.78,89.94,The water systems on this planet helped,,,
+v3472c89a73c8,Solar System 101 | National Geographic,e00041,scene,89.0166,89.1166,Смена сцены,,0.7671406077059042,videos/v3472c89a73c8/frames/000089.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00000,speech,2.22,9.48,"Black holes are among the most fascinating objects in our universe, and also the most mysterious.",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00001,audio,3.0,4.0,Пик громкости,,-23.73466222575371,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00002,object,5.0048,6.0057,person,0.5678589344024658,,videos/vdcf99b90407e/frames/000005.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00003,scene,7.0067,7.1067,Смена сцены,,0.7524383369719015,videos/vdcf99b90407e/frames/000007.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00004,scene,8.0076,8.1076,Смена сцены,,0.7473084040538873,videos/vdcf99b90407e/frames/000008.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00005,scene,10.0095,10.1095,Смена сцены,,0.5368349171100854,videos/vdcf99b90407e/frames/000010.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00006,scene,11.0105,11.1105,Смена сцены,,0.6266941694181771,videos/vdcf99b90407e/frames/000011.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00007,scene,12.0114,12.1114,Смена сцены,,0.9313479457062385,videos/vdcf99b90407e/frames/000012.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00008,speech,12.98,21.76,"A black hole is a region in space where the force of gravity is so strong, not even light, the fastest known entity in our universe can escape.",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00009,audio,14.0,15.0,Пик громкости,,-24.375019655180576,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00010,speech,22.54,30.32,"The boundary of a black hole is called the event horizon, a point of no return, beyond which we truly cannot see.",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00011,audio,23.0,24.0,Пик громкости,,-23.08330683132674,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00012,speech,31.14,36.62,"When something crosses the event horizon, it collapses into the black hole's singularity,",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00013,speech,36.96,43.62,"an infinitely small, infinitely dense point where space, time, and the laws of physics no longer apply.",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00014,audio,37.0,38.0,Пик громкости,,-24.175052848391758,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00015,speech,45.4,51.42,"Scientists have theorized several different types of black holes, with stellar and supermassive",,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00016,scene,46.0104,46.1104,Смена сцены,,0.9524298401008354,videos/vdcf99b90407e/frames/000046.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00017,speech,51.42,53.26,black holes being the most common.,,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00018,speech,53.94,57.52,Stellar black holes form when massive stars die and collapse.,,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00019,audio,54.0,55.0,Пик громкости,,-24.388229806187226,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00020,scene,55.019,55.119,Смена сцены,,0.9317569914796157,videos/vdcf99b90407e/frames/000055.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00021,scene,57.0209,57.1209,Смена сцены,,0.620564753546562,videos/vdcf99b90407e/frames/000057.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00022,speech,58.48,63.3,They roughly tend to 20 times the mass of our sun and scatter throughout the universe.,,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00023,speech,64.4,68.42,There could be millions of these stellar black holes in the Milky Way alone.,,,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00024,audio,65.0,66.0,Пик громкости,,-22.338200948153307,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00025,scene,65.0285,65.1285,Смена сцены,,0.8265315139250108,videos/vdcf99b90407e/frames/000065.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00026,object,66.0295,67.0304,surfboard,0.4835790991783142,,videos/vdcf99b90407e/frames/000066.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00027,audio,70.0,71.0,Пик громкости,,-24.405460712571035,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00028,scene,70.0333,70.1333,Смена сцены,,0.500934477255972,videos/vdcf99b90407e/frames/000070.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00029,scene,71.0009,71.1009,Смена сцены,,0.9197489833382584,videos/vdcf99b90407e/frames/000071.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00030,audio,74.0,76.0,Пик громкости,,-23.41461355930995,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00031,scene,74.0037,74.1037,Смена сцены,,0.8524848252542392,videos/vdcf99b90407e/frames/000074.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00032,audio,79.0,80.0,Пик громкости,,-23.563093920894083,
+vdcf99b90407e,Black Holes 101 | National Geographic,e00033,scene,79.0085,79.1085,Смена сцены,,0.600233141813226,videos/vdcf99b90407e/frames/000079.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00034,object,80.0095,82.0114,cake,0.4283207654953003,,videos/vdcf99b90407e/frames/000080.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00035,object,83.0123,85.0142,cake,0.43654675781726837,,videos/vdcf99b90407e/frames/000083.jpg
+vdcf99b90407e,Black Holes 101 | National Geographic,e00036,scene,87.0161,87.1161,Смена сцены,,0.7982524939035983,videos/vdcf99b90407e/frames/000087.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00000,speech,0.0,3.36,"Like fireflies, on a still summer night,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00001,speech,3.78,7.66,they gently dot and illuminate the infinite Velveteen sky.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00002,object,4.0038,6.0057,frisbee,0.6123908758163452,,videos/vfe7b0ab20012/frames/000004.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00003,audio,5.0,8.0,Пик громкости,,-23.91896734065788,
+vfe7b0ab20012,Stars 101 | National Geographic,e00004,object,8.0076,9.0085,tv,0.44189947843551636,,videos/vfe7b0ab20012/frames/000008.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00005,scene,11.0104,11.1104,Смена сцены,,0.8621818188094438,videos/vfe7b0ab20012/frames/000011.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00006,speech,11.86,12.62,Stars.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00007,speech,13.62,17.08,Be they millions or billions of years old,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00008,audio,14.0,15.0,Пик громкости,,-24.660562349363296,
+vfe7b0ab20012,Stars 101 | National Geographic,e00009,scene,14.0132,14.1132,Смена сцены,,0.9222807109825796,videos/vfe7b0ab20012/frames/000014.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00010,scene,16.0151,16.1151,Смена сцены,,0.6581806595259531,videos/vfe7b0ab20012/frames/000016.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00011,speech,17.08,22.02,"are all born in nebulae, clouds of dust and mostly hydrogen gas.",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00012,audio,18.0,19.0,Пик громкости,,-23.93028738089116,
+vfe7b0ab20012,Stars 101 | National Geographic,e00013,object,18.017,20.0189,pizza,0.5429523438215256,,videos/vfe7b0ab20012/frames/000018.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00014,scene,18.017,18.117,Смена сцены,,0.7854222639929301,videos/vfe7b0ab20012/frames/000018.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00015,scene,20.0189,20.1189,Смена сцены,,0.46628313594399373,videos/vfe7b0ab20012/frames/000020.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00016,speech,23.26,24.86,"Within these stellar nurseries,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00017,scene,24.0227,24.1227,Смена сцены,,0.8622629178645264,videos/vfe7b0ab20012/frames/000024.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00018,scene,25.0236,25.1236,Смена сцены,,0.6970731466809507,videos/vfe7b0ab20012/frames/000025.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00019,speech,25.5,27.62,stars begin life as proto stars,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00020,speech,27.62,30.18,or hot cores formed by the collection,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00021,scene,30.0284,30.1284,Смена сцены,,0.839798653225348,videos/vfe7b0ab20012/frames/000030.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00022,speech,30.18,32.16,and collapse of dust and gas.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00023,object,33.0312,34.0321,orange,0.8578281402587891,,videos/vfe7b0ab20012/frames/000033.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00024,scene,33.0312,33.1312,Смена сцены,,0.7437414366862114,videos/vfe7b0ab20012/frames/000033.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00025,speech,33.08,35.34,"As the proto-stars become hotter,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00026,scene,34.0321,34.1321,Смена сцены,,0.6672303939729528,videos/vfe7b0ab20012/frames/000034.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00027,speech,35.88,37.88,hydrogen nuclei inside of the cores,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00028,scene,36.0007,36.1007,Смена сцены,,0.9352352466476088,videos/vfe7b0ab20012/frames/000036.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00029,scene,37.0016,37.1016,Смена сцены,,0.701628286189987,videos/vfe7b0ab20012/frames/000037.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00030,speech,37.88,40.42,begin to fuse and create helium.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00031,scene,38.0025,38.1025,Смена сцены,,0.5461455133376346,videos/vfe7b0ab20012/frames/000038.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00032,scene,40.0044,40.1044,Смена сцены,,0.9455658001904488,videos/vfe7b0ab20012/frames/000040.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00033,scene,41.0054,41.1054,Смена сцены,,0.949152388181664,videos/vfe7b0ab20012/frames/000041.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00034,speech,41.18,42.84,"It is this chemical reaction,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00035,object,42.0063,43.0073,orange,0.7129499912261963,,videos/vfe7b0ab20012/frames/000042.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00036,scene,42.0063,42.1063,Смена сцены,,0.7243112943380717,videos/vfe7b0ab20012/frames/000042.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00037,speech,43.46,44.58,"thermonuclear fusion,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00038,audio,45.0,46.0,Пик громкости,,-24.67610167627182,
+vfe7b0ab20012,Stars 101 | National Geographic,e00039,object,45.0092,46.0101,orange,0.5054774284362793,,videos/vfe7b0ab20012/frames/000045.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00040,speech,45.04,47.4,that generates a star's heat and energy,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00041,object,46.0101,47.0111,clock,0.4168750047683716,,videos/vfe7b0ab20012/frames/000046.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00042,speech,47.4,48.9,and causes it to shine.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00043,object,48.012,51.0148,orange,0.6432874004046122,,videos/vfe7b0ab20012/frames/000048.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00044,speech,50.62,53.54,Stars are categorized by a number of characteristics.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00045,object,51.0148,54.0177,cake,0.6257509191830953,,videos/vfe7b0ab20012/frames/000051.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00046,scene,51.0148,51.1148,Смена сцены,,0.94462534107644,videos/vfe7b0ab20012/frames/000051.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00047,object,52.0158,55.0186,pizza,0.4673703412214915,,videos/vfe7b0ab20012/frames/000052.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00048,speech,53.54,59.3,"One of these classifications is by surface temperature, called spectral classes,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00049,audio,54.0,55.0,Пик громкости,,-24.418597268707288,
+vfe7b0ab20012,Stars 101 | National Geographic,e00050,scene,54.0177,54.1177,Смена сцены,,0.9271845946100281,videos/vfe7b0ab20012/frames/000054.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00051,scene,59.0224,59.1224,Смена сцены,,0.9042215190324817,videos/vfe7b0ab20012/frames/000059.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00052,speech,59.94,64.82,"these seven major groups range from the coolest stars, which are designated as M,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00053,audio,60.0,61.0,Пик громкости,,-24.310723213024286,
+vfe7b0ab20012,Stars 101 | National Geographic,e00054,scene,60.0233,60.1233,Смена сцены,,0.6535425646022537,videos/vfe7b0ab20012/frames/000060.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00055,speech,65.34,68.56,"and up to the hottest stars, which are designated as O.",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00056,speech,69.48,73.94,Stars are also classified by the amount of light they emit or luminosity.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00057,object,74.0032,75.0041,frisbee,0.739606499671936,,videos/vfe7b0ab20012/frames/000074.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00058,speech,74.46,81.22,"Called luminosity classes, these nine major groups range from the small, less bright white dwarves,",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00059,object,76.0051,78.007,frisbee,0.8681252300739288,,videos/vfe7b0ab20012/frames/000076.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00060,audio,77.0,78.0,Пик громкости,,-23.668878862118888,
+vfe7b0ab20012,Stars 101 | National Geographic,e00061,object,78.007,83.0117,surfboard,0.589671277999878,,videos/vfe7b0ab20012/frames/000078.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00062,speech,81.22,85.2,"to the large and extremely bright, hypergiants.",,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00063,object,84.0127,86.0145,apple,0.5796400904655457,,videos/vfe7b0ab20012/frames/000084.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00064,scene,86.0145,86.1145,Смена сцены,,0.9217672997642865,videos/vfe7b0ab20012/frames/000086.jpg
+vfe7b0ab20012,Stars 101 | National Geographic,e00065,speech,86.88,89.94,But no matter their luminosity or surface temperature.,,,
+vfe7b0ab20012,Stars 101 | National Geographic,e00066,audio,87.0,88.0,Пик громкости,,-23.53941845902744,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00000,speech,0.0,6.74,"Our planet has a violent soul, majestic and often destructive volcanic explosions",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00001,scene,1.0009,1.1009,Смена сцены,,0.5814978397529291,videos/vadfb155536b3/frames/000001.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00002,scene,4.0038,4.1038,Смена сцены,,0.9698495440106059,videos/vadfb155536b3/frames/000004.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00003,audio,5.0,6.0,Пик громкости,,-19.392244254660177,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00004,speech,6.74,13.94,"rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko,",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00005,scene,7.0066,7.1066,Смена сцены,,0.8303765874741921,videos/vadfb155536b3/frames/000007.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00006,scene,10.0095,10.1095,Смена сцены,,0.9970643725536775,videos/vadfb155536b3/frames/000010.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00007,scene,11.0104,11.1104,Смена сцены,,0.7425107251766836,videos/vadfb155536b3/frames/000011.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00008,scene,12.0114,12.1114,Смена сцены,,0.7835135459476117,videos/vadfb155536b3/frames/000012.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00009,scene,13.0123,13.1123,Смена сцены,,1.0,videos/vadfb155536b3/frames/000013.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00010,object,14.0133,15.0142,orange,0.4059164226055145,,videos/vadfb155536b3/frames/000014.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00011,speech,14.32,20.66,the images simultaneously strike fear and awe in our hearts. But how did these,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00012,audio,15.0,18.0,Пик громкости,,-15.47071426546848,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00013,object,15.0142,17.0161,person,0.7032807469367981,,videos/vadfb155536b3/frames/000015.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00014,scene,15.0142,15.1142,Смена сцены,,0.9754877768588123,videos/vadfb155536b3/frames/000015.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00015,scene,17.0161,17.1161,Смена сцены,,0.7268968395890878,videos/vadfb155536b3/frames/000017.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00016,audio,19.0,20.0,Пик громкости,,-19.343535185627637,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00017,scene,20.0189,20.1189,Смена сцены,,0.5709624912093615,videos/vadfb155536b3/frames/000020.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00018,speech,20.66,25.96,giant mountains form and where does all that destructive force come from? At least,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00019,scene,21.0199,21.1199,Смена сцены,,0.552340813876183,videos/vadfb155536b3/frames/000021.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00020,scene,23.0218,23.1218,Смена сцены,,0.9315336547469774,videos/vadfb155536b3/frames/000023.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00021,scene,25.0237,25.1237,Смена сцены,,0.9997514004767214,videos/vadfb155536b3/frames/000025.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00022,speech,25.96,31.1,"These 50 eruptions rock the Earth each year, meaning our planet is literally bursting",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00023,speech,31.1,32.12,apart at the scenes.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00024,speech,32.8,38.26,The Earth's crust is made up of about 17 slabs of land called tectonic plates that float,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00025,object,33.0312,34.0322,bird,0.5189535617828369,,videos/vadfb155536b3/frames/000033.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00026,scene,33.0312,33.1312,Смена сцены,,0.9945256252471284,videos/vadfb155536b3/frames/000033.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00027,speech,38.26,41.92,on the super-heated magma that makes up most of the planet's interior.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00028,object,39.0035,43.0073,stop sign,0.42542943358421326,,videos/vadfb155536b3/frames/000039.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00029,scene,39.0035,39.1035,Смена сцены,,0.6581169192545417,videos/vadfb155536b3/frames/000039.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00030,speech,42.38,46.1,Magma is the Earth's lifeblood churning restlessly beneath the crust.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00031,scene,43.0073,43.1073,Смена сцены,,0.9779220913955241,videos/vadfb155536b3/frames/000043.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00032,speech,46.78,49.66,"And wherever it can, it's trying to burst through.",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00033,speech,50.1,52.44,It's at these spots that Balkan was formed.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00034,audio,51.0,52.0,Пик громкости,,-18.49404505073094,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00035,speech,52.44,56.48,Our planet is home to some 500 active volcanoes.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00036,scene,54.0177,54.1177,Смена сцены,,0.6386310785873393,videos/vadfb155536b3/frames/000054.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00037,audio,57.0,58.0,Пик громкости,,-17.225665345693997,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00038,speech,57.22,61.4,"While some volcanoes, like those in Hawaii, break through a thin point in the crest called",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00039,scene,58.0215,58.1215,Смена сцены,,0.9914022007722086,videos/vadfb155536b3/frames/000058.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00040,audio,59.0,60.0,Пик громкости,,-18.881360225757902,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00041,speech,61.4,66.78,"a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00042,object,64.0272,65.0282,frisbee,0.762423574924469,,videos/vadfb155536b3/frames/000064.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00043,speech,66.78,67.2,meet.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00044,audio,68.0,69.0,Пик громкости,,-17.49037792803659,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00045,speech,68.04,73.38,"The most volatile region is the ring of fire, a geological fault belt that rims the Pacific",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00046,object,72.0014,74.0033,vase,0.5985079258680344,,videos/vadfb155536b3/frames/000072.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00047,speech,73.38,78.02,Ocean and holds roughly 75% of all the Earth's volcanoes.,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00048,scene,79.008,79.108,Смена сцены,,0.8849816835700668,videos/vadfb155536b3/frames/000079.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00049,speech,79.02,81.96,"Typically, volcanoes take one of two forms.",,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00050,speech,82.68,85.04,Shield volcanoes widen broad with lava,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00051,scene,83.0118,83.1118,Смена сцены,,0.8019096703052,videos/vadfb155536b3/frames/000083.jpg
+vadfb155536b3,Volcanoes 101 | National Geographic,e00052,audio,84.0,85.0,Пик громкости,,-18.145249804063504,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00053,speech,85.04,87.54,usually slowly oozing out of them,,,
+vadfb155536b3,Volcanoes 101 | National Geographic,e00054,speech,87.54,89.78,and composite or strato volcanoes.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00000,speech,0.0,6.76,The ground starts to quiver. Glasses rattle. Soon wall shits and everything begins to collapse.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00001,scene,0.5005,0.6005,Смена сцены,,0.5142004805863623,videos/vb863a946c7a4/frames/000001.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00002,scene,3.0028,3.1028,Смена сцены,,0.8774621848598244,videos/vb863a946c7a4/frames/000006.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00003,scene,4.5042,4.6042,Смена сцены,,0.8977317481411725,videos/vb863a946c7a4/frames/000009.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00004,object,5.0046,6.0056,potted plant,0.7969519793987274,,videos/vb863a946c7a4/frames/000010.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00005,scene,5.0046,5.1046,Смена сцены,,0.8473301451775781,videos/vb863a946c7a4/frames/000010.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00006,object,6.506,11.5107,person,0.7985230147838592,,videos/vb863a946c7a4/frames/000013.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00007,scene,6.506,6.606,Смена сцены,,0.9631462755225338,videos/vb863a946c7a4/frames/000013.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00008,speech,7.52,10.4,Tail-tail signs of what could be a devastating earthquake.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00009,object,10.0093,10.5097,car,0.5012094974517822,,videos/vb863a946c7a4/frames/000020.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00010,speech,11.22,15.14,We've seen the destruction they unleash. Some of us may have even lived through one.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00011,scene,11.5107,11.6107,Смена сцены,,0.6107538362206926,videos/vb863a946c7a4/frames/000023.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00012,object,13.5125,18.0167,person,0.8560618691974216,,videos/vb863a946c7a4/frames/000027.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00013,scene,13.5125,13.6125,Смена сцены,,0.8304372196006273,videos/vb863a946c7a4/frames/000027.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00014,speech,15.64,19.88,And we know they can be deadly. But where does this mountain moving force come from?,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00015,scene,16.0148,16.1148,Смена сцены,,0.5309032288944308,videos/vb863a946c7a4/frames/000032.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00016,scene,16.5153,16.6153,Смена сцены,,0.7261575778639615,videos/vb863a946c7a4/frames/000033.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00017,object,17.0158,17.5162,baseball bat,0.47364771366119385,,videos/vb863a946c7a4/frames/000034.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00018,audio,18.0,19.0,Пик громкости,,-11.765036181557653,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00019,scene,18.0167,18.1167,Смена сцены,,0.8816187496958187,videos/vb863a946c7a4/frames/000036.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00020,audio,20.0,21.0,Пик громкости,,-10.417839164556987,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00021,speech,21.38,26.6,"While we may think we're standing on solid ground, the Earth beneath us isn't completely stable at all.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00022,scene,21.5199,21.6199,Смена сцены,,0.7951337286811206,videos/vb863a946c7a4/frames/000043.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00023,object,22.5209,23.5218,clock,0.5759506821632385,,videos/vb863a946c7a4/frames/000045.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00024,audio,24.0,25.0,Пик громкости,,-11.503339419689148,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00025,audio,26.0,27.0,Пик громкости,,-11.130753215736878,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00026,speech,26.6,33.5,Our planet's crust is made up of about 12 major tectonic plates that fit together like a giant jigsaw puzzle.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00027,scene,27.025,27.125,Смена сцены,,0.9251582511354581,videos/vb863a946c7a4/frames/000054.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00028,scene,27.5255,27.6255,Смена сцены,,0.49012141922044894,videos/vb863a946c7a4/frames/000055.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00029,speech,34.1,40.54,These huge slabs of land float on super-heated magma and constantly shift bump and grind against one another.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00030,scene,34.532,34.632,Смена сцены,,0.9974921601740091,videos/vb863a946c7a4/frames/000069.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00031,speech,41.0,44.18,It's there along the seams where earthquakes tend to happen.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00032,speech,45.02,52.28,"When friction between the two plates is violent enough, seismic shockwaves ripple through the ground rattling everything that stands on it.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00033,scene,45.5088,45.6088,Смена сцены,,0.614916092864395,videos/vb863a946c7a4/frames/000091.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00034,scene,46.0093,46.1093,Смена сцены,,0.6540048136044184,videos/vb863a946c7a4/frames/000092.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00035,scene,46.5097,46.6097,Смена сцены,,0.643212094262699,videos/vb863a946c7a4/frames/000093.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00036,scene,47.0102,47.1102,Смена сцены,,0.5393141581726336,videos/vb863a946c7a4/frames/000094.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00037,object,48.0111,48.5116,stop sign,0.4178406298160553,,videos/vb863a946c7a4/frames/000096.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00038,audio,50.0,51.0,Пик громкости,,-11.218016077682131,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00039,audio,52.0,56.0,Пик громкости,,-10.91890044069981,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00040,speech,52.28,56.36,"The stronger and shallower the quake, the more violent the destruction.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00041,scene,56.519,56.619,Смена сцены,,0.7113152714368082,videos/vb863a946c7a4/frames/000113.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00042,speech,56.98,63.22,"The most violent type of earthquake is born in a subduction zone, where one tectonic plate is shoved beneath another.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00043,object,58.0204,58.5209,stop sign,0.43432119488716125,,videos/vb863a946c7a4/frames/000116.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00044,object,62.0241,62.5246,stop sign,0.42146649956703186,,videos/vb863a946c7a4/frames/000124.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00045,object,63.025,64.5264,stop sign,0.4654366771380107,,videos/vb863a946c7a4/frames/000126.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00046,speech,63.86,68.88,"While one plate is forced downward into the mantle, the other jets upward often violently.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00047,speech,69.68,73.2,This is the type of quake that rocknapple in May 2015.,,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00048,object,71.0324,71.5329,umbrella,0.5429943799972534,,videos/vb863a946c7a4/frames/000142.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00049,scene,73.0009,73.1009,Смена сцены,,0.9533911459360496,videos/vb863a946c7a4/frames/000146.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00050,scene,74.5023,74.6023,Смена сцены,,0.6937341215812179,videos/vb863a946c7a4/frames/000149.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00051,scene,75.0028,75.1028,Смена сцены,,0.8023147114916273,videos/vb863a946c7a4/frames/000150.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00052,object,76.0037,77.0046,banana,0.649968147277832,,videos/vb863a946c7a4/frames/000152.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00053,speech,76.82,82.2,"And when subduction happens under the ocean, it can create giant unstoppable waves called",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00054,object,77.0046,77.5051,umbrella,0.577641487121582,,videos/vb863a946c7a4/frames/000154.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00055,scene,77.0046,77.1046,Смена сцены,,0.7749039918437691,videos/vb863a946c7a4/frames/000154.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00056,scene,77.5051,77.6051,Смена сцены,,0.7616289545808624,videos/vb863a946c7a4/frames/000155.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00057,scene,78.506,78.606,Смена сцены,,0.5394400906705881,videos/vb863a946c7a4/frames/000157.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00058,audio,81.0,82.0,Пик громкости,,-11.430630206033083,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00059,speech,82.2,86.42,"tsunamis, like the ones that killed hundreds of thousands in Japan and Indonesia.",,,
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00060,object,87.0139,87.5144,person,0.6062354445457458,,videos/vb863a946c7a4/frames/000174.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00061,scene,87.0139,87.1139,Смена сцены,,0.9457361994029371,videos/vb863a946c7a4/frames/000174.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00062,scene,88.0148,88.1148,Смена сцены,,0.8809964117928909,videos/vb863a946c7a4/frames/000176.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00063,scene,88.5153,88.6153,Смена сцены,,0.7642160973634494,videos/vb863a946c7a4/frames/000177.jpg
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00064,scene,89.5162,89.6162,Смена сцены,,0.8935517443196381,videos/vb863a946c7a4/frames/000179.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00000,scene,0.5005,0.6005,Смена сцены,,0.9927568903991483,videos/v14d850d4e682/frames/000001.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00001,speech,0.94,5.68,Talk about the ultimate breakup. Europe and Africa have been splitting apart from the,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00002,scene,1.0009,1.1009,Смена сцены,,0.6597006053385073,videos/v14d850d4e682/frames/000002.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00003,object,1.5014,2.0019,umbrella,0.4313186705112457,,videos/v14d850d4e682/frames/000003.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00004,scene,1.5014,1.6014,Смена сцены,,0.8910622933155031,videos/v14d850d4e682/frames/000003.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00005,object,2.0019,2.5024,cake,0.4383940100669861,,videos/v14d850d4e682/frames/000004.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00006,scene,2.0019,2.1019,Смена сцены,,0.566843046116761,videos/v14d850d4e682/frames/000004.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00007,object,2.5024,15.0142,person,0.9160362076759339,,videos/v14d850d4e682/frames/000005.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00008,scene,2.5024,2.6024,Смена сцены,,0.6072933002636945,videos/v14d850d4e682/frames/000005.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00009,object,3.0028,3.5033,tv,0.8315132856369019,,videos/v14d850d4e682/frames/000006.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00010,scene,3.0028,3.1028,Смена сцены,,0.5080715472360837,videos/v14d850d4e682/frames/000006.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00011,object,4.0038,4.5043,dog,0.5035175681114197,,videos/v14d850d4e682/frames/000008.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00012,object,4.0038,4.5043,tv,0.444375216960907,,videos/v14d850d4e682/frames/000008.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00013,object,5.0047,6.0057,dog,0.4768064022064209,,videos/v14d850d4e682/frames/000010.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00014,speech,5.68,11.34,American continents for millions of years. At a rate of approximately 2.5 centimeters per,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00015,speech,11.34,15.9,"year, the continents are moving about as fast as our fingernails grow, and as they continue",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00016,audio,14.0,15.0,Пик громкости,,-19.899493726151128,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00017,scene,15.0142,15.1142,Смена сцены,,0.9245428857282783,videos/v14d850d4e682/frames/000030.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00018,speech,15.9,20.5,"to split, the rift between them. Otherwise known as the Atlantic Ocean, we'll get even",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00019,object,16.5157,17.0161,person,0.5878024101257324,,videos/v14d850d4e682/frames/000033.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00020,speech,20.5,26.44,wider. And all this drama is leaving behind a major scar. An underwater valley called,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00021,audio,21.0,22.0,Пик громкости,,-19.373074992083698,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00022,object,21.5204,22.0209,frisbee,0.7894658446311951,,videos/v14d850d4e682/frames/000043.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00023,object,21.5204,45.0093,person,0.9354628362554185,,videos/v14d850d4e682/frames/000043.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00024,scene,21.5204,21.6204,Смена сцены,,0.5768847814369525,videos/v14d850d4e682/frames/000043.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00025,scene,22.0209,22.1209,Смена сцены,,0.5236920110174115,videos/v14d850d4e682/frames/000044.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00026,object,23.0218,23.5223,kite,0.5220758318901062,,videos/v14d850d4e682/frames/000046.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00027,audio,24.0,26.0,Пик громкости,,-17.84252558421597,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00028,object,25.5242,27.5261,tv,0.5840238332748413,,videos/v14d850d4e682/frames/000051.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00029,speech,26.44,31.06,"the mid-Atlantic ridge, which tears more and more as the continents slowly move apart.",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00030,speech,31.42,36.64,"Looking back on the continental relationship, puts us in mere 300 million years ago, when",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00031,scene,31.5299,31.6299,Смена сцены,,0.48602820920506723,videos/v14d850d4e682/frames/000063.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00032,speech,36.64,42.12,"Africa, Europe, the Americas, and all the other continents for one big landmass, the",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00033,audio,39.0,40.0,Пик громкости,,-18.731353636639646,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00034,object,41.0055,41.506,frisbee,0.6098069548606873,,videos/v14d850d4e682/frames/000082.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00035,speech,42.12,44.42,"famed supercontinent, Pangaea.",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00036,object,44.5089,45.0093,pizza,0.43387091159820557,,videos/v14d850d4e682/frames/000089.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00037,scene,44.5089,44.6089,Смена сцены,,0.5323534289056608,videos/v14d850d4e682/frames/000089.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00038,speech,44.92,50.1,"Due to the constant churning of magma underneath the Earth's crust, they all split up and",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00039,object,45.0093,45.5098,cake,0.6487480401992798,,videos/v14d850d4e682/frames/000090.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00040,scene,45.0093,45.1093,Смена сцены,,0.5595317848722147,videos/v14d850d4e682/frames/000090.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00041,object,46.0103,48.0122,cake,0.7934033572673798,,videos/v14d850d4e682/frames/000092.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00042,object,48.5127,49.0131,cake,0.4677780568599701,,videos/v14d850d4e682/frames/000097.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00043,audio,49.0,50.0,Пик громкости,,-19.832126774733037,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00044,object,49.5136,50.0141,cake,0.5236701369285583,,videos/v14d850d4e682/frames/000099.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00045,speech,50.1,51.62,moved to their modern day positions.,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00046,speech,51.62,56.64,"But if destiny and the form of magma and tectonic plates has anything to say about it,",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00047,object,52.5165,72.007,person,0.9305629317577069,,videos/v14d850d4e682/frames/000105.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00048,object,52.5165,53.5174,sports ball,0.43679870665073395,,videos/v14d850d4e682/frames/000105.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00049,scene,52.5165,52.6165,Смена сцены,,0.9287187258077936,videos/v14d850d4e682/frames/000105.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00050,object,55.0188,55.5193,kite,0.4187503159046173,,videos/v14d850d4e682/frames/000110.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00051,speech,56.88,60.74,"the continents might have a chance of getting back together, but how will these stubborn",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00052,object,57.5212,59.0226,frisbee,0.5817704200744629,,videos/v14d850d4e682/frames/000115.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00053,scene,59.5231,59.6231,Смена сцены,,0.5034789231784388,videos/v14d850d4e682/frames/000119.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00054,object,60.5241,62.0255,kite,0.5569509863853455,,videos/v14d850d4e682/frames/000121.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00055,speech,60.74,61.96,continents kiss and make up?,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00056,speech,62.34,66.64,"Scientists believe the plates will shift, causing the continents to rearrange and get back",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00057,speech,66.64,67.18,together.,,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00058,audio,67.0,68.0,Пик громкости,,-19.795681688449896,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00059,object,67.0302,67.5307,cake,0.4000849425792694,,videos/v14d850d4e682/frames/000134.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00060,speech,67.68,72.0,"But in true tectonic plate style, it'll take about 250 minutes.",,,
+v14d850d4e682,Continental Drift 101 | National Geographic,e00061,object,68.0312,69.5326,cake,0.6474460164705912,,videos/v14d850d4e682/frames/000136.jpg
+v14d850d4e682,Continental Drift 101 | National Geographic,e00062,audio,69.0,70.0,Пик громкости,,-19.74823683135749,

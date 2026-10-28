@@ -1,0 +1,2493 @@
+{
+  "id": "vfe7b0ab20012",
+  "title": "Stars 101 | National Geographic",
+  "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\stars\\clip.mp4",
+  "metadata": {
+    "title": "Stars 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\stars\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "587b36059347d2a61e94630676d8214961413fd9fb321fbbfb8f20c6480243eb",
+    "collected_at": "2026-10-28T09:23:27.226100+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=EFO_bsg1sw8",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018326,
+    "fps": 29.971674876847292,
+    "fps_fraction": "24337/812",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2512553,
+    "bytes": 28271980,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 90.018326,
+  "media": "videos/vfe7b0ab20012/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.02322559224558063,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/vfe7b0ab20012/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.10464956086601307,
+      "sharpness": 17.57315537783055,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.000945,
+      "image": "videos/vfe7b0ab20012/frames/000001.jpg",
+      "objects": [],
+      "brightness": 0.10470825201222464,
+      "sharpness": 18.91218026208981,
+      "scene_distance": 0.09215644166946858
+    },
+    {
+      "time": 2.00189,
+      "image": "videos/vfe7b0ab20012/frames/000002.jpg",
+      "objects": [],
+      "brightness": 0.1070945934701041,
+      "sharpness": 19.65105034601659,
+      "scene_distance": 0.10632127124146047
+    },
+    {
+      "time": 3.002835,
+      "image": "videos/vfe7b0ab20012/frames/000003.jpg",
+      "objects": [],
+      "brightness": 0.10521736564996369,
+      "sharpness": 19.359933406868556,
+      "scene_distance": 0.09690608972793839
+    },
+    {
+      "time": 4.00378,
+      "image": "videos/vfe7b0ab20012/frames/000004.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.5109543204307556,
+          "xyxy": [
+            1235.935546875,
+            224.9967498779297,
+            1398.365478515625,
+            390.5971374511719
+          ]
+        }
+      ],
+      "brightness": 0.10277037755688695,
+      "sharpness": 13.78516685829436,
+      "scene_distance": 0.16310507816820738
+    },
+    {
+      "time": 5.004725,
+      "image": "videos/vfe7b0ab20012/frames/000005.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.7138274312019348,
+          "xyxy": [
+            1235.82861328125,
+            548.1507568359375,
+            1398.3369140625,
+            713.8114013671875
+          ]
+        }
+      ],
+      "brightness": 0.08835893246187364,
+      "sharpness": 17.39862552331902,
+      "scene_distance": 0.27167416543977196
+    },
+    {
+      "time": 6.00567,
+      "image": "videos/vfe7b0ab20012/frames/000006.jpg",
+      "objects": [],
+      "brightness": 0.0892608535312273,
+      "sharpness": 12.193311576332544,
+      "scene_distance": 0.36984737572373155
+    },
+    {
+      "time": 7.006615,
+      "image": "videos/vfe7b0ab20012/frames/000007.jpg",
+      "objects": [],
+      "brightness": 0.08162589831457275,
+      "sharpness": 11.768222414445288,
+      "scene_distance": 0.3548462853006085
+    },
+    {
+      "time": 8.007561,
+      "image": "videos/vfe7b0ab20012/frames/000008.jpg",
+      "objects": [
+        {
+          "label": "tv",
+          "confidence": 0.44189947843551636,
+          "xyxy": [
+            27.84228515625,
+            0.0,
+            1872.3504638671875,
+            1056.4720458984375
+          ]
+        }
+      ],
+      "brightness": 0.08282307174412976,
+      "sharpness": 75.46425635963725,
+      "scene_distance": 0.2995399632527229
+    },
+    {
+      "time": 9.008506,
+      "image": "videos/vfe7b0ab20012/frames/000009.jpg",
+      "objects": [],
+      "brightness": 0.08421321449104333,
+      "sharpness": 186.1736096539977,
+      "scene_distance": 0.3207555758162069
+    },
+    {
+      "time": 10.009451,
+      "image": "videos/vfe7b0ab20012/frames/000010.jpg",
+      "objects": [],
+      "brightness": 0.09078814149116436,
+      "sharpness": 180.47051842204908,
+      "scene_distance": 0.1955746854419172
+    },
+    {
+      "time": 11.010396,
+      "image": "videos/vfe7b0ab20012/frames/000011.jpg",
+      "objects": [],
+      "brightness": 0.2737045566297507,
+      "sharpness": 439.66628423094335,
+      "scene_distance": 0.8621818188094438
+    },
+    {
+      "time": 12.011341,
+      "image": "videos/vfe7b0ab20012/frames/000012.jpg",
+      "objects": [],
+      "brightness": 0.27393144252299684,
+      "sharpness": 444.45228637914016,
+      "scene_distance": 0.1365373543944452
+    },
+    {
+      "time": 13.012286,
+      "image": "videos/vfe7b0ab20012/frames/000013.jpg",
+      "objects": [],
+      "brightness": 0.2761680358871944,
+      "sharpness": 439.71857119713303,
+      "scene_distance": 0.0948366479355909
+    },
+    {
+      "time": 14.013231,
+      "image": "videos/vfe7b0ab20012/frames/000014.jpg",
+      "objects": [],
+      "brightness": 0.18862205920176714,
+      "sharpness": 19.42129147355612,
+      "scene_distance": 0.9222807109825796
+    },
+    {
+      "time": 15.014176,
+      "image": "videos/vfe7b0ab20012/frames/000015.jpg",
+      "objects": [],
+      "brightness": 0.19678245468712177,
+      "sharpness": 18.780230516346442,
+      "scene_distance": 0.10246621813450296
+    },
+    {
+      "time": 16.015121,
+      "image": "videos/vfe7b0ab20012/frames/000016.jpg",
+      "objects": [],
+      "brightness": 0.10824252602275478,
+      "sharpness": 10.723252289488155,
+      "scene_distance": 0.6581806595259531
+    },
+    {
+      "time": 17.016066,
+      "image": "videos/vfe7b0ab20012/frames/000017.jpg",
+      "objects": [],
+      "brightness": 0.11029737805616073,
+      "sharpness": 10.051705123656241,
+      "scene_distance": 0.07795575912874214
+    },
+    {
+      "time": 18.017011,
+      "image": "videos/vfe7b0ab20012/frames/000018.jpg",
+      "objects": [
+        {
+          "label": "pizza",
+          "confidence": 0.5981107354164124,
+          "xyxy": [
+            6.15985107421875,
+            30.3284912109375,
+            1874.80517578125,
+            1058.77294921875
+          ]
+        }
+      ],
+      "brightness": 0.17587782921810702,
+      "sharpness": 26.332770042970388,
+      "scene_distance": 0.7854222639929301
+    },
+    {
+      "time": 19.017956,
+      "image": "videos/vfe7b0ab20012/frames/000019.jpg",
+      "objects": [
+        {
+          "label": "pizza",
+          "confidence": 0.4877939522266388,
+          "xyxy": [
+            0.0,
+            27.283721923828125,
+            1874.6400146484375,
+            1060.491943359375
+          ]
+        }
+      ],
+      "brightness": 0.1766092955700799,
+      "sharpness": 27.02953797712915,
+      "scene_distance": 0.12139456906793629
+    },
+    {
+      "time": 20.018901,
+      "image": "videos/vfe7b0ab20012/frames/000020.jpg",
+      "objects": [],
+      "brightness": 0.22088856360445414,
+      "sharpness": 28.096418725693848,
+      "scene_distance": 0.46628313594399373
+    },
+    {
+      "time": 21.019846,
+      "image": "videos/vfe7b0ab20012/frames/000021.jpg",
+      "objects": [],
+      "brightness": 0.22411958174473495,
+      "sharpness": 44.04955579802146,
+      "scene_distance": 0.3252868791256812
+    },
+    {
+      "time": 22.020791,
+      "image": "videos/vfe7b0ab20012/frames/000022.jpg",
+      "objects": [],
+      "brightness": 0.23379517293028323,
+      "sharpness": 48.36383147309019,
+      "scene_distance": 0.11993488005531419
+    },
+    {
+      "time": 23.021736,
+      "image": "videos/vfe7b0ab20012/frames/000023.jpg",
+      "objects": [],
+      "brightness": 0.2436918175835149,
+      "sharpness": 47.329076000473286,
+      "scene_distance": 0.12245446661945378
+    },
+    {
+      "time": 24.022682,
+      "image": "videos/vfe7b0ab20012/frames/000024.jpg",
+      "objects": [],
+      "brightness": 0.17784177938150567,
+      "sharpness": 7.350152389920337,
+      "scene_distance": 0.8622629178645264
+    },
+    {
+      "time": 25.023627,
+      "image": "videos/vfe7b0ab20012/frames/000025.jpg",
+      "objects": [],
+      "brightness": 0.38431640152202856,
+      "sharpness": 5.299890998712653,
+      "scene_distance": 0.6970731466809507
+    },
+    {
+      "time": 26.024572,
+      "image": "videos/vfe7b0ab20012/frames/000026.jpg",
+      "objects": [],
+      "brightness": 0.39189194126724763,
+      "sharpness": 4.353722019831281,
+      "scene_distance": 0.12226496986454612
+    },
+    {
+      "time": 27.025517,
+      "image": "videos/vfe7b0ab20012/frames/000027.jpg",
+      "objects": [],
+      "brightness": 0.3728615593228032,
+      "sharpness": 5.653192013754698,
+      "scene_distance": 0.16379571009195337
+    },
+    {
+      "time": 28.026462,
+      "image": "videos/vfe7b0ab20012/frames/000028.jpg",
+      "objects": [],
+      "brightness": 0.2552883306100218,
+      "sharpness": 4.781791084270713,
+      "scene_distance": 0.33194511663857956
+    },
+    {
+      "time": 29.027407,
+      "image": "videos/vfe7b0ab20012/frames/000029.jpg",
+      "objects": [],
+      "brightness": 0.20086698703401112,
+      "sharpness": 4.945007233693733,
+      "scene_distance": 0.2521211609757855
+    },
+    {
+      "time": 30.028352,
+      "image": "videos/vfe7b0ab20012/frames/000030.jpg",
+      "objects": [],
+      "brightness": 0.4744105732570806,
+      "sharpness": 4.621424574939116,
+      "scene_distance": 0.839798653225348
+    },
+    {
+      "time": 31.029297,
+      "image": "videos/vfe7b0ab20012/frames/000031.jpg",
+      "objects": [],
+      "brightness": 0.4151041174957637,
+      "sharpness": 3.6296956982836317,
+      "scene_distance": 0.15615548745867705
+    },
+    {
+      "time": 32.030242,
+      "image": "videos/vfe7b0ab20012/frames/000032.jpg",
+      "objects": [],
+      "brightness": 0.28278143722766885,
+      "sharpness": 3.955918692110792,
+      "scene_distance": 0.27070407267986746
+    },
+    {
+      "time": 33.031187,
+      "image": "videos/vfe7b0ab20012/frames/000033.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.8578281402587891,
+          "xyxy": [
+            739.9253540039062,
+            313.6941833496094,
+            1199.447509765625,
+            771.1920776367188
+          ]
+        }
+      ],
+      "brightness": 0.24702258268276447,
+      "sharpness": 13.744298321747864,
+      "scene_distance": 0.7437414366862114
+    },
+    {
+      "time": 34.032132,
+      "image": "videos/vfe7b0ab20012/frames/000034.jpg",
+      "objects": [],
+      "brightness": 0.7075281711450012,
+      "sharpness": 6.064533632285361,
+      "scene_distance": 0.6672303939729528
+    },
+    {
+      "time": 35.033077,
+      "image": "videos/vfe7b0ab20012/frames/000035.jpg",
+      "objects": [],
+      "brightness": 0.7027269880174292,
+      "sharpness": 6.148833422497827,
+      "scene_distance": 0.2592922160402918
+    },
+    {
+      "time": 36.000657,
+      "image": "videos/vfe7b0ab20012/frames/000036.jpg",
+      "objects": [],
+      "brightness": 0.1913615725611232,
+      "sharpness": 46.178835840915426,
+      "scene_distance": 0.9352352466476088
+    },
+    {
+      "time": 37.001602,
+      "image": "videos/vfe7b0ab20012/frames/000037.jpg",
+      "objects": [],
+      "brightness": 0.19080964619644153,
+      "sharpness": 151.37483458648782,
+      "scene_distance": 0.701628286189987
+    },
+    {
+      "time": 38.002548,
+      "image": "videos/vfe7b0ab20012/frames/000038.jpg",
+      "objects": [],
+      "brightness": 0.177350683097313,
+      "sharpness": 89.68734519545107,
+      "scene_distance": 0.5461455133376346
+    },
+    {
+      "time": 39.003493,
+      "image": "videos/vfe7b0ab20012/frames/000039.jpg",
+      "objects": [],
+      "brightness": 0.17594913459210845,
+      "sharpness": 86.35422019674041,
+      "scene_distance": 0.40356463626263567
+    },
+    {
+      "time": 40.004438,
+      "image": "videos/vfe7b0ab20012/frames/000040.jpg",
+      "objects": [],
+      "brightness": 0.9721962580942871,
+      "sharpness": 0.2376707175925926,
+      "scene_distance": 0.9455658001904488
+    },
+    {
+      "time": 41.005383,
+      "image": "videos/vfe7b0ab20012/frames/000041.jpg",
+      "objects": [],
+      "brightness": 0.17281465217259742,
+      "sharpness": 94.61000964416773,
+      "scene_distance": 0.949152388181664
+    },
+    {
+      "time": 42.006328,
+      "image": "videos/vfe7b0ab20012/frames/000042.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7129499912261963,
+          "xyxy": [
+            0.3084869384765625,
+            211.29867553710938,
+            419.1395263671875,
+            952.9605712890625
+          ]
+        }
+      ],
+      "brightness": 0.12323083658617769,
+      "sharpness": 84.46274160363306,
+      "scene_distance": 0.7243112943380717
+    },
+    {
+      "time": 43.007273,
+      "image": "videos/vfe7b0ab20012/frames/000043.jpg",
+      "objects": [],
+      "brightness": 0.12747644146393125,
+      "sharpness": 94.24105174455589,
+      "scene_distance": 0.10419179148298832
+    },
+    {
+      "time": 44.008218,
+      "image": "videos/vfe7b0ab20012/frames/000044.jpg",
+      "objects": [],
+      "brightness": 0.13492399124001453,
+      "sharpness": 213.7821730067728,
+      "scene_distance": 0.11309715102440296
+    },
+    {
+      "time": 45.009163,
+      "image": "videos/vfe7b0ab20012/frames/000045.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.5054774284362793,
+          "xyxy": [
+            0.2362060546875,
+            212.84051513671875,
+            418.752685546875,
+            965.114013671875
+          ]
+        }
+      ],
+      "brightness": 0.13212762875211811,
+      "sharpness": 230.689429885714,
+      "scene_distance": 0.09937064632426501
+    },
+    {
+      "time": 46.010108,
+      "image": "videos/vfe7b0ab20012/frames/000046.jpg",
+      "objects": [
+        {
+          "label": "clock",
+          "confidence": 0.4168750047683716,
+          "xyxy": [
+            0.1837921142578125,
+            212.8181915283203,
+            418.990478515625,
+            958.3950805664062
+          ]
+        }
+      ],
+      "brightness": 0.13755679050169453,
+      "sharpness": 329.177082351111,
+      "scene_distance": 0.10236870241559526
+    },
+    {
+      "time": 47.011053,
+      "image": "videos/vfe7b0ab20012/frames/000047.jpg",
+      "objects": [],
+      "brightness": 0.1380240880688695,
+      "sharpness": 353.97232102711996,
+      "scene_distance": 0.09789467047616435
+    },
+    {
+      "time": 48.011998,
+      "image": "videos/vfe7b0ab20012/frames/000048.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.5751164555549622,
+          "xyxy": [
+            0.0,
+            214.19586181640625,
+            424.8377380371094,
+            983.0427856445312
+          ]
+        }
+      ],
+      "brightness": 0.14001663489469862,
+      "sharpness": 347.92182000952806,
+      "scene_distance": 0.10079635623430995
+    },
+    {
+      "time": 49.012943,
+      "image": "videos/vfe7b0ab20012/frames/000049.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.7289198637008667,
+          "xyxy": [
+            0.172393798828125,
+            214.09927368164062,
+            419.537841796875,
+            977.7013549804688
+          ]
+        }
+      ],
+      "brightness": 0.1401561705700799,
+      "sharpness": 348.7901078889424,
+      "scene_distance": 0.09487714024969393
+    },
+    {
+      "time": 50.013888,
+      "image": "videos/vfe7b0ab20012/frames/000050.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.6258258819580078,
+          "xyxy": [
+            0.456756591796875,
+            212.93609619140625,
+            422.41204833984375,
+            986.4305419921875
+          ]
+        }
+      ],
+      "brightness": 0.1408890723341806,
+      "sharpness": 350.63513646456033,
+      "scene_distance": 0.10131733419957503
+    },
+    {
+      "time": 51.014833,
+      "image": "videos/vfe7b0ab20012/frames/000051.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.600272536277771,
+          "xyxy": [
+            93.76812744140625,
+            140.7037353515625,
+            1742.943603515625,
+            1063.0262451171875
+          ]
+        }
+      ],
+      "brightness": 0.20758210973432584,
+      "sharpness": 27.307304181431945,
+      "scene_distance": 0.94462534107644
+    },
+    {
+      "time": 52.015778,
+      "image": "videos/vfe7b0ab20012/frames/000052.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.5928229093551636,
+          "xyxy": [
+            91.84149169921875,
+            140.57803344726562,
+            1736.9298095703125,
+            1062.3367919921875
+          ]
+        },
+        {
+          "label": "pizza",
+          "confidence": 0.4350806772708893,
+          "xyxy": [
+            97.10467529296875,
+            146.65869140625,
+            1743.60205078125,
+            1057.7904052734375
+          ]
+        }
+      ],
+      "brightness": 0.20794958658617768,
+      "sharpness": 27.030244469260154,
+      "scene_distance": 0.05597026851143393
+    },
+    {
+      "time": 53.016724,
+      "image": "videos/vfe7b0ab20012/frames/000053.jpg",
+      "objects": [
+        {
+          "label": "cake",
+          "confidence": 0.6841573119163513,
+          "xyxy": [
+            97.9903564453125,
+            138.52020263671875,
+            1748.4237060546875,
+            1062.9248046875
+          ]
+        },
+        {
+          "label": "pizza",
+          "confidence": 0.4998963177204132,
+          "xyxy": [
+            101.79052734375,
+            144.58868408203125,
+            1756.1363525390625,
+            1058.424072265625
+          ]
+        }
+      ],
+      "brightness": 0.20780038315480512,
+      "sharpness": 27.214114037951745,
+      "scene_distance": 0.04870582612661994
+    },
+    {
+      "time": 54.017669,
+      "image": "videos/vfe7b0ab20012/frames/000054.jpg",
+      "objects": [
+        {
+          "label": "pizza",
+          "confidence": 0.467134028673172,
+          "xyxy": [
+            3.37261962890625,
+            1.004058837890625,
+            1614.0579833984375,
+            1061.40771484375
+          ]
+        }
+      ],
+      "brightness": 0.23045619061667877,
+      "sharpness": 23.296947322241362,
+      "scene_distance": 0.9271845946100281
+    },
+    {
+      "time": 55.018614,
+      "image": "videos/vfe7b0ab20012/frames/000055.jpg",
+      "objects": [],
+      "brightness": 0.23281721662430405,
+      "sharpness": 23.086975274704717,
+      "scene_distance": 0.09438540858171517
+    },
+    {
+      "time": 56.019559,
+      "image": "videos/vfe7b0ab20012/frames/000056.jpg",
+      "objects": [],
+      "brightness": 0.23449304988198982,
+      "sharpness": 23.23656584410491,
+      "scene_distance": 0.08221976642740955
+    },
+    {
+      "time": 57.020504,
+      "image": "videos/vfe7b0ab20012/frames/000057.jpg",
+      "objects": [],
+      "brightness": 0.2366507239469862,
+      "sharpness": 23.337582910319977,
+      "scene_distance": 0.08467374396370642
+    },
+    {
+      "time": 58.021449,
+      "image": "videos/vfe7b0ab20012/frames/000058.jpg",
+      "objects": [],
+      "brightness": 0.23611835058097314,
+      "sharpness": 19.441377756626874,
+      "scene_distance": 0.08055563818188576
+    },
+    {
+      "time": 59.022394,
+      "image": "videos/vfe7b0ab20012/frames/000059.jpg",
+      "objects": [],
+      "brightness": 0.1259020288671024,
+      "sharpness": 250.54750234116918,
+      "scene_distance": 0.9042215190324817
+    },
+    {
+      "time": 60.023339,
+      "image": "videos/vfe7b0ab20012/frames/000060.jpg",
+      "objects": [],
+      "brightness": 0.13130128714294362,
+      "sharpness": 529.9732235208168,
+      "scene_distance": 0.6535425646022537
+    },
+    {
+      "time": 61.024284,
+      "image": "videos/vfe7b0ab20012/frames/000061.jpg",
+      "objects": [],
+      "brightness": 0.13144921023965142,
+      "sharpness": 538.528465952904,
+      "scene_distance": 0.07748956344121717
+    },
+    {
+      "time": 62.025229,
+      "image": "videos/vfe7b0ab20012/frames/000062.jpg",
+      "objects": [],
+      "brightness": 0.1329601091594045,
+      "sharpness": 574.7456997492096,
+      "scene_distance": 0.06451541758236659
+    },
+    {
+      "time": 63.026174,
+      "image": "videos/vfe7b0ab20012/frames/000063.jpg",
+      "objects": [],
+      "brightness": 0.1346736489348826,
+      "sharpness": 613.4706124613742,
+      "scene_distance": 0.11921739601057567
+    },
+    {
+      "time": 64.027119,
+      "image": "videos/vfe7b0ab20012/frames/000064.jpg",
+      "objects": [],
+      "brightness": 0.14419051077221012,
+      "sharpness": 598.4788237847164,
+      "scene_distance": 0.14402572834389946
+    },
+    {
+      "time": 65.028064,
+      "image": "videos/vfe7b0ab20012/frames/000065.jpg",
+      "objects": [],
+      "brightness": 0.1578767361111111,
+      "sharpness": 542.5657846257695,
+      "scene_distance": 0.13559795992871032
+    },
+    {
+      "time": 66.029009,
+      "image": "videos/vfe7b0ab20012/frames/000066.jpg",
+      "objects": [],
+      "brightness": 0.17302165032679737,
+      "sharpness": 526.63554253467,
+      "scene_distance": 0.13760069167179173
+    },
+    {
+      "time": 67.029954,
+      "image": "videos/vfe7b0ab20012/frames/000067.jpg",
+      "objects": [],
+      "brightness": 0.18317057953582666,
+      "sharpness": 497.9411385995312,
+      "scene_distance": 0.15984732502102042
+    },
+    {
+      "time": 68.030899,
+      "image": "videos/vfe7b0ab20012/frames/000068.jpg",
+      "objects": [],
+      "brightness": 0.190068069550351,
+      "sharpness": 474.0526263503086,
+      "scene_distance": 0.15472354630100987
+    },
+    {
+      "time": 69.031845,
+      "image": "videos/vfe7b0ab20012/frames/000069.jpg",
+      "objects": [],
+      "brightness": 0.1521407119946744,
+      "sharpness": 392.74231815539406,
+      "scene_distance": 0.2689877226780584
+    },
+    {
+      "time": 70.03279,
+      "image": "videos/vfe7b0ab20012/frames/000070.jpg",
+      "objects": [],
+      "brightness": 0.12620694141854275,
+      "sharpness": 635.9585821759223,
+      "scene_distance": 0.23301767988489014
+    },
+    {
+      "time": 71.00037,
+      "image": "videos/vfe7b0ab20012/frames/000071.jpg",
+      "objects": [],
+      "brightness": 0.12672951842774147,
+      "sharpness": 571.8441384186586,
+      "scene_distance": 0.0876072494319173
+    },
+    {
+      "time": 72.001315,
+      "image": "videos/vfe7b0ab20012/frames/000072.jpg",
+      "objects": [],
+      "brightness": 0.11519519902868555,
+      "sharpness": 509.5902083329231,
+      "scene_distance": 0.08212385663847084
+    },
+    {
+      "time": 73.00226,
+      "image": "videos/vfe7b0ab20012/frames/000073.jpg",
+      "objects": [],
+      "brightness": 0.11509863683127572,
+      "sharpness": 523.5219931520003,
+      "scene_distance": 0.06044132634694825
+    },
+    {
+      "time": 74.003205,
+      "image": "videos/vfe7b0ab20012/frames/000074.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.739606499671936,
+          "xyxy": [
+            711.0535278320312,
+            247.66099548339844,
+            1127.5054931640625,
+            322.8173522949219
+          ]
+        }
+      ],
+      "brightness": 0.11941694467138707,
+      "sharpness": 355.0028959297818,
+      "scene_distance": 0.09762301688030599
+    },
+    {
+      "time": 75.00415,
+      "image": "videos/vfe7b0ab20012/frames/000075.jpg",
+      "objects": [],
+      "brightness": 0.13453251709634473,
+      "sharpness": 628.4795191936671,
+      "scene_distance": 0.11950484006559897
+    },
+    {
+      "time": 76.005095,
+      "image": "videos/vfe7b0ab20012/frames/000076.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.8723285794258118,
+          "xyxy": [
+            648.728759765625,
+            724.5470581054688,
+            996.8959350585938,
+            865.9059448242188
+          ]
+        }
+      ],
+      "brightness": 0.1512742639494069,
+      "sharpness": 909.8864091435177,
+      "scene_distance": 0.07324017174957552
+    },
+    {
+      "time": 77.00604,
+      "image": "videos/vfe7b0ab20012/frames/000077.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.8639218807220459,
+          "xyxy": [
+            648.823974609375,
+            724.4535522460938,
+            996.479736328125,
+            865.8292846679688
+          ]
+        }
+      ],
+      "brightness": 0.1520224124757928,
+      "sharpness": 937.0847849151198,
+      "scene_distance": 0.05691107327031126
+    },
+    {
+      "time": 78.006985,
+      "image": "videos/vfe7b0ab20012/frames/000078.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.8800523281097412,
+          "xyxy": [
+            380.4493103027344,
+            690.485107421875,
+            927.84521484375,
+            909.376708984375
+          ]
+        }
+      ],
+      "brightness": 0.17421064247458243,
+      "sharpness": 270.90572234219013,
+      "scene_distance": 0.12985587513491265
+    },
+    {
+      "time": 79.00793,
+      "image": "videos/vfe7b0ab20012/frames/000079.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.6262072324752808,
+          "xyxy": [
+            82.77914428710938,
+            657.2952880859375,
+            851.1151123046875,
+            962.9317016601562
+          ]
+        }
+      ],
+      "brightness": 0.17308152724824497,
+      "sharpness": 538.8398553240406,
+      "scene_distance": 0.3267581640953498
+    },
+    {
+      "time": 80.008875,
+      "image": "videos/vfe7b0ab20012/frames/000080.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.5517438054084778,
+          "xyxy": [
+            82.36669921875,
+            657.4891357421875,
+            851.62060546875,
+            962.8740844726562
+          ]
+        }
+      ],
+      "brightness": 0.17364945874183005,
+      "sharpness": 551.440282600305,
+      "scene_distance": 0.10498544955986659
+    },
+    {
+      "time": 81.00982,
+      "image": "videos/vfe7b0ab20012/frames/000081.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.4643789231777191,
+          "xyxy": [
+            82.85687255859375,
+            657.3499755859375,
+            851.1157836914062,
+            963.0687255859375
+          ]
+        }
+      ],
+      "brightness": 0.17363839528867103,
+      "sharpness": 551.0669179204966,
+      "scene_distance": 0.07000155982400977
+    },
+    {
+      "time": 82.010766,
+      "image": "videos/vfe7b0ab20012/frames/000082.jpg",
+      "objects": [
+        {
+          "label": "surfboard",
+          "confidence": 0.4259741008281708,
+          "xyxy": [
+            81.2010498046875,
+            757.710205078125,
+            850.2057495117188,
+            1062.9744873046875
+          ]
+        }
+      ],
+      "brightness": 0.16728597418905833,
+      "sharpness": 361.1137735014373,
+      "scene_distance": 0.12104916782533305
+    },
+    {
+      "time": 83.011711,
+      "image": "videos/vfe7b0ab20012/frames/000083.jpg",
+      "objects": [],
+      "brightness": 0.17843391998002905,
+      "sharpness": 335.03749117679445,
+      "scene_distance": 0.26830982921449764
+    },
+    {
+      "time": 84.012656,
+      "image": "videos/vfe7b0ab20012/frames/000084.jpg",
+      "objects": [
+        {
+          "label": "apple",
+          "confidence": 0.5857272744178772,
+          "xyxy": [
+            1292.361328125,
+            299.40911865234375,
+            1701.671630859375,
+            723.0802001953125
+          ]
+        }
+      ],
+      "brightness": 0.19537022474885016,
+      "sharpness": 700.7811619783927,
+      "scene_distance": 0.20238684709230403
+    },
+    {
+      "time": 85.013601,
+      "image": "videos/vfe7b0ab20012/frames/000085.jpg",
+      "objects": [
+        {
+          "label": "apple",
+          "confidence": 0.5735529065132141,
+          "xyxy": [
+            1292.388427734375,
+            299.64013671875,
+            1701.7939453125,
+            723.281005859375
+          ]
+        }
+      ],
+      "brightness": 0.19528649426591624,
+      "sharpness": 700.2502944818169,
+      "scene_distance": 0.07110376320227255
+    },
+    {
+      "time": 86.014546,
+      "image": "videos/vfe7b0ab20012/frames/000086.jpg",
+      "objects": [],
+      "brightness": 0.26199814852638587,
+      "sharpness": 219.6388376976484,
+      "scene_distance": 0.9217672997642865
+    },
+    {
+      "time": 87.015491,
+      "image": "videos/vfe7b0ab20012/frames/000087.jpg",
+      "objects": [],
+      "brightness": 0.2780741118978456,
+      "sharpness": 224.8779878853669,
+      "scene_distance": 0.11309517656816069
+    },
+    {
+      "time": 88.016436,
+      "image": "videos/vfe7b0ab20012/frames/000088.jpg",
+      "objects": [],
+      "brightness": 0.2962484775931978,
+      "sharpness": 218.72816105207394,
+      "scene_distance": 0.08914289845304994
+    },
+    {
+      "time": 89.017381,
+      "image": "videos/vfe7b0ab20012/frames/000089.jpg",
+      "objects": [],
+      "brightness": 0.3145338466019124,
+      "sharpness": 192.80848764556805,
+      "scene_distance": 0.09280162094121971
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Like fireflies, on a still summer night,",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 3.78,
+      "end": 7.66,
+      "text": "they gently dot and illuminate the infinite Velveteen sky.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 11.86,
+      "end": 12.62,
+      "text": "Stars.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 13.62,
+      "end": 17.08,
+      "text": "Be they millions or billions of years old",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 17.08,
+      "end": 22.02,
+      "text": "are all born in nebulae, clouds of dust and mostly hydrogen gas.",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 23.26,
+      "end": 24.86,
+      "text": "Within these stellar nurseries,",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 25.5,
+      "end": 27.62,
+      "text": "stars begin life as proto stars",
+      "avg_logprob": -0.35158487466665417,
+      "no_speech_prob": 0.039433203637599945,
+      "compression_ratio": 1.489247311827957
+    },
+    {
+      "start": 27.62,
+      "end": 30.18,
+      "text": "or hot cores formed by the collection",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 30.18,
+      "end": 32.16,
+      "text": "and collapse of dust and gas.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 33.08,
+      "end": 35.34,
+      "text": "As the proto-stars become hotter,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 35.88,
+      "end": 37.88,
+      "text": "hydrogen nuclei inside of the cores",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 37.88,
+      "end": 40.42,
+      "text": "begin to fuse and create helium.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 41.18,
+      "end": 42.84,
+      "text": "It is this chemical reaction,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 43.46,
+      "end": 44.58,
+      "text": "thermonuclear fusion,",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 45.04,
+      "end": 47.4,
+      "text": "that generates a star's heat and energy",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 47.4,
+      "end": 48.9,
+      "text": "and causes it to shine.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 50.62,
+      "end": 53.54,
+      "text": "Stars are categorized by a number of characteristics.",
+      "avg_logprob": -0.21956275857013205,
+      "no_speech_prob": 0.24441975355148315,
+      "compression_ratio": 1.619047619047619
+    },
+    {
+      "start": 53.54,
+      "end": 59.3,
+      "text": "One of these classifications is by surface temperature, called spectral classes,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 59.94,
+      "end": 64.82,
+      "text": "these seven major groups range from the coolest stars, which are designated as M,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 65.34,
+      "end": 68.56,
+      "text": "and up to the hottest stars, which are designated as O.",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 69.48,
+      "end": 73.94,
+      "text": "Stars are also classified by the amount of light they emit or luminosity.",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 74.46,
+      "end": 81.22,
+      "text": "Called luminosity classes, these nine major groups range from the small, less bright white dwarves,",
+      "avg_logprob": -0.15117851893107095,
+      "no_speech_prob": 0.5068532228469849,
+      "compression_ratio": 1.849056603773585
+    },
+    {
+      "start": 81.22,
+      "end": 85.2,
+      "text": "to the large and extremely bright, hypergiants.",
+      "avg_logprob": -0.36937713623046875,
+      "no_speech_prob": 0.3344818353652954,
+      "compression_ratio": 1.146067415730337
+    },
+    {
+      "start": 86.88,
+      "end": 89.94,
+      "text": "But no matter their luminosity or surface temperature.",
+      "avg_logprob": -0.36937713623046875,
+      "no_speech_prob": 0.3344818353652954,
+      "compression_ratio": 1.146067415730337
+    }
+  ],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -25.431937903759913,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -27.65906148775867,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -25.284849179062657,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -27.593215781291125,
+      "peak": false
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -26.179999972910572,
+      "peak": false
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -23.91896734065788,
+      "peak": true
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -24.805660462907085,
+      "peak": true
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -24.772025390224137,
+      "peak": true
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -27.95912394822397,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -28.898313711440817,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -32.74317543051723,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "dbfs": -27.992444397416897,
+      "peak": false
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "dbfs": -27.53518380226042,
+      "peak": false
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "dbfs": -29.37956507713531,
+      "peak": false
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "dbfs": -24.660562349363296,
+      "peak": true
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "dbfs": -30.116667233294237,
+      "peak": false
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "dbfs": -25.78103755400179,
+      "peak": false
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "dbfs": -26.627483012432684,
+      "peak": false
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "dbfs": -23.93028738089116,
+      "peak": true
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "dbfs": -28.050549071841747,
+      "peak": false
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "dbfs": -27.94482914205929,
+      "peak": false
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "dbfs": -26.058316515750942,
+      "peak": false
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "dbfs": -30.880136680230144,
+      "peak": false
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "dbfs": -25.21185699063681,
+      "peak": false
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "dbfs": -26.77975183744577,
+      "peak": false
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "dbfs": -26.301870135869287,
+      "peak": false
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "dbfs": -27.688808484995562,
+      "peak": false
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "dbfs": -26.574434224080573,
+      "peak": false
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "dbfs": -25.57805236119831,
+      "peak": false
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "dbfs": -27.46366870992222,
+      "peak": false
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "dbfs": -27.28592623664675,
+      "peak": false
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "dbfs": -28.243995075104195,
+      "peak": false
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "dbfs": -26.328529292459095,
+      "peak": false
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "dbfs": -25.549997627379856,
+      "peak": false
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "dbfs": -25.600697349981985,
+      "peak": false
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "dbfs": -26.342318403449664,
+      "peak": false
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "dbfs": -25.68442308375161,
+      "peak": false
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "dbfs": -26.004522660020992,
+      "peak": false
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "dbfs": -26.69724954136594,
+      "peak": false
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "dbfs": -27.442606263832424,
+      "peak": false
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "dbfs": -27.7551035583801,
+      "peak": false
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "dbfs": -26.325316164720856,
+      "peak": false
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "dbfs": -26.02229418570836,
+      "peak": false
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "dbfs": -25.83311946202123,
+      "peak": false
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "dbfs": -26.18924398660539,
+      "peak": false
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "dbfs": -24.67610167627182,
+      "peak": true
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "dbfs": -27.515159522784582,
+      "peak": false
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "dbfs": -26.645162850651978,
+      "peak": false
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "dbfs": -27.167744188420038,
+      "peak": false
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "dbfs": -32.354216462449244,
+      "peak": false
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "dbfs": -26.542128905587266,
+      "peak": false
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "dbfs": -26.051583534317086,
+      "peak": false
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "dbfs": -26.55796052429645,
+      "peak": false
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "dbfs": -28.785796397695343,
+      "peak": false
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "dbfs": -24.418597268707288,
+      "peak": true
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "dbfs": -27.842238421989457,
+      "peak": false
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "dbfs": -27.28138170758625,
+      "peak": false
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "dbfs": -28.198960493656273,
+      "peak": false
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "dbfs": -28.41148570008103,
+      "peak": false
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "dbfs": -28.231583576815492,
+      "peak": false
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "dbfs": -24.310723213024286,
+      "peak": true
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "dbfs": -27.06743654561626,
+      "peak": false
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "dbfs": -28.08029250497285,
+      "peak": false
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "dbfs": -27.742811427034813,
+      "peak": false
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "dbfs": -27.35500056825329,
+      "peak": false
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "dbfs": -26.863738419403155,
+      "peak": false
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "dbfs": -27.86831328375075,
+      "peak": false
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "dbfs": -28.04406687041066,
+      "peak": false
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "dbfs": -28.93657786100028,
+      "peak": false
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "dbfs": -28.581351908973826,
+      "peak": false
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "dbfs": -26.809007553434725,
+      "peak": false
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "dbfs": -26.960714848181464,
+      "peak": false
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "dbfs": -27.587956510335268,
+      "peak": false
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "dbfs": -26.084324783868354,
+      "peak": false
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "dbfs": -27.982291263723752,
+      "peak": false
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "dbfs": -25.468566337962027,
+      "peak": false
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "dbfs": -26.637187532476876,
+      "peak": false
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "dbfs": -23.668878862118888,
+      "peak": true
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "dbfs": -27.649006313441745,
+      "peak": false
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "dbfs": -26.857242918271574,
+      "peak": false
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "dbfs": -26.68955338299941,
+      "peak": false
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "dbfs": -34.132228913729406,
+      "peak": false
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "dbfs": -25.37584379352875,
+      "peak": false
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "dbfs": -25.17134729314327,
+      "peak": false
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "dbfs": -30.641735809601794,
+      "peak": false
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "dbfs": -30.848393793973656,
+      "peak": false
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "dbfs": -28.866806791957607,
+      "peak": false
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "dbfs": -23.53941845902744,
+      "peak": true
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "dbfs": -25.660923844148684,
+      "peak": false
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "dbfs": -28.476446858470585,
+      "peak": false
+    },
+    {
+      "start": 90.0,
+      "end": 90.018326,
+      "dbfs": -38.89192005524428,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "speech",
+      "label": "Like fireflies, on a still summer night,",
+      "start": 0.0,
+      "end": 3.36,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00000"
+    },
+    {
+      "type": "speech",
+      "label": "they gently dot and illuminate the infinite Velveteen sky.",
+      "start": 3.78,
+      "end": 7.66,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00001"
+    },
+    {
+      "type": "object",
+      "label": "frisbee",
+      "start": 4.0038,
+      "end": 6.0057,
+      "confidence": 0.6123908758163452,
+      "samples": 2,
+      "frame": "videos/vfe7b0ab20012/frames/000004.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 5.0,
+      "end": 8.0,
+      "value": -23.91896734065788,
+      "id": "e00003"
+    },
+    {
+      "type": "object",
+      "label": "tv",
+      "start": 8.0076,
+      "end": 9.0085,
+      "confidence": 0.44189947843551636,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000008.jpg",
+      "id": "e00004"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 11.0104,
+      "end": 11.1104,
+      "value": 0.8621818188094438,
+      "frame": "videos/vfe7b0ab20012/frames/000011.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "speech",
+      "label": "Stars.",
+      "start": 11.86,
+      "end": 12.62,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00006"
+    },
+    {
+      "type": "speech",
+      "label": "Be they millions or billions of years old",
+      "start": 13.62,
+      "end": 17.08,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00007"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 14.0,
+      "end": 15.0,
+      "value": -24.660562349363296,
+      "id": "e00008"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 14.0132,
+      "end": 14.1132,
+      "value": 0.9222807109825796,
+      "frame": "videos/vfe7b0ab20012/frames/000014.jpg",
+      "id": "e00009"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 16.0151,
+      "end": 16.1151,
+      "value": 0.6581806595259531,
+      "frame": "videos/vfe7b0ab20012/frames/000016.jpg",
+      "id": "e00010"
+    },
+    {
+      "type": "speech",
+      "label": "are all born in nebulae, clouds of dust and mostly hydrogen gas.",
+      "start": 17.08,
+      "end": 22.02,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00011"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 18.0,
+      "end": 19.0,
+      "value": -23.93028738089116,
+      "id": "e00012"
+    },
+    {
+      "type": "object",
+      "label": "pizza",
+      "start": 18.017,
+      "end": 20.0189,
+      "confidence": 0.5429523438215256,
+      "samples": 2,
+      "frame": "videos/vfe7b0ab20012/frames/000018.jpg",
+      "id": "e00013"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 18.017,
+      "end": 18.117,
+      "value": 0.7854222639929301,
+      "frame": "videos/vfe7b0ab20012/frames/000018.jpg",
+      "id": "e00014"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 20.0189,
+      "end": 20.1189,
+      "value": 0.46628313594399373,
+      "frame": "videos/vfe7b0ab20012/frames/000020.jpg",
+      "id": "e00015"
+    },
+    {
+      "type": "speech",
+      "label": "Within these stellar nurseries,",
+      "start": 23.26,
+      "end": 24.86,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00016"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 24.0227,
+      "end": 24.1227,
+      "value": 0.8622629178645264,
+      "frame": "videos/vfe7b0ab20012/frames/000024.jpg",
+      "id": "e00017"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 25.0236,
+      "end": 25.1236,
+      "value": 0.6970731466809507,
+      "frame": "videos/vfe7b0ab20012/frames/000025.jpg",
+      "id": "e00018"
+    },
+    {
+      "type": "speech",
+      "label": "stars begin life as proto stars",
+      "start": 25.5,
+      "end": 27.62,
+      "avg_logprob": -0.35158487466665417,
+      "id": "e00019"
+    },
+    {
+      "type": "speech",
+      "label": "or hot cores formed by the collection",
+      "start": 27.62,
+      "end": 30.18,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00020"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 30.0284,
+      "end": 30.1284,
+      "value": 0.839798653225348,
+      "frame": "videos/vfe7b0ab20012/frames/000030.jpg",
+      "id": "e00021"
+    },
+    {
+      "type": "speech",
+      "label": "and collapse of dust and gas.",
+      "start": 30.18,
+      "end": 32.16,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00022"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 33.0312,
+      "end": 34.0321,
+      "confidence": 0.8578281402587891,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000033.jpg",
+      "id": "e00023"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 33.0312,
+      "end": 33.1312,
+      "value": 0.7437414366862114,
+      "frame": "videos/vfe7b0ab20012/frames/000033.jpg",
+      "id": "e00024"
+    },
+    {
+      "type": "speech",
+      "label": "As the proto-stars become hotter,",
+      "start": 33.08,
+      "end": 35.34,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00025"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 34.0321,
+      "end": 34.1321,
+      "value": 0.6672303939729528,
+      "frame": "videos/vfe7b0ab20012/frames/000034.jpg",
+      "id": "e00026"
+    },
+    {
+      "type": "speech",
+      "label": "hydrogen nuclei inside of the cores",
+      "start": 35.88,
+      "end": 37.88,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00027"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 36.0007,
+      "end": 36.1007,
+      "value": 0.9352352466476088,
+      "frame": "videos/vfe7b0ab20012/frames/000036.jpg",
+      "id": "e00028"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 37.0016,
+      "end": 37.1016,
+      "value": 0.701628286189987,
+      "frame": "videos/vfe7b0ab20012/frames/000037.jpg",
+      "id": "e00029"
+    },
+    {
+      "type": "speech",
+      "label": "begin to fuse and create helium.",
+      "start": 37.88,
+      "end": 40.42,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00030"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 38.0025,
+      "end": 38.1025,
+      "value": 0.5461455133376346,
+      "frame": "videos/vfe7b0ab20012/frames/000038.jpg",
+      "id": "e00031"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 40.0044,
+      "end": 40.1044,
+      "value": 0.9455658001904488,
+      "frame": "videos/vfe7b0ab20012/frames/000040.jpg",
+      "id": "e00032"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 41.0054,
+      "end": 41.1054,
+      "value": 0.949152388181664,
+      "frame": "videos/vfe7b0ab20012/frames/000041.jpg",
+      "id": "e00033"
+    },
+    {
+      "type": "speech",
+      "label": "It is this chemical reaction,",
+      "start": 41.18,
+      "end": 42.84,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00034"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 42.0063,
+      "end": 43.0073,
+      "confidence": 0.7129499912261963,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000042.jpg",
+      "id": "e00035"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 42.0063,
+      "end": 42.1063,
+      "value": 0.7243112943380717,
+      "frame": "videos/vfe7b0ab20012/frames/000042.jpg",
+      "id": "e00036"
+    },
+    {
+      "type": "speech",
+      "label": "thermonuclear fusion,",
+      "start": 43.46,
+      "end": 44.58,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00037"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 45.0,
+      "end": 46.0,
+      "value": -24.67610167627182,
+      "id": "e00038"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 45.0092,
+      "end": 46.0101,
+      "confidence": 0.5054774284362793,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000045.jpg",
+      "id": "e00039"
+    },
+    {
+      "type": "speech",
+      "label": "that generates a star's heat and energy",
+      "start": 45.04,
+      "end": 47.4,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00040"
+    },
+    {
+      "type": "object",
+      "label": "clock",
+      "start": 46.0101,
+      "end": 47.0111,
+      "confidence": 0.4168750047683716,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000046.jpg",
+      "id": "e00041"
+    },
+    {
+      "type": "speech",
+      "label": "and causes it to shine.",
+      "start": 47.4,
+      "end": 48.9,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00042"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 48.012,
+      "end": 51.0148,
+      "confidence": 0.6432874004046122,
+      "samples": 3,
+      "frame": "videos/vfe7b0ab20012/frames/000048.jpg",
+      "id": "e00043"
+    },
+    {
+      "type": "speech",
+      "label": "Stars are categorized by a number of characteristics.",
+      "start": 50.62,
+      "end": 53.54,
+      "avg_logprob": -0.21956275857013205,
+      "id": "e00044"
+    },
+    {
+      "type": "object",
+      "label": "cake",
+      "start": 51.0148,
+      "end": 54.0177,
+      "confidence": 0.6257509191830953,
+      "samples": 3,
+      "frame": "videos/vfe7b0ab20012/frames/000051.jpg",
+      "id": "e00045"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 51.0148,
+      "end": 51.1148,
+      "value": 0.94462534107644,
+      "frame": "videos/vfe7b0ab20012/frames/000051.jpg",
+      "id": "e00046"
+    },
+    {
+      "type": "object",
+      "label": "pizza",
+      "start": 52.0158,
+      "end": 55.0186,
+      "confidence": 0.4673703412214915,
+      "samples": 3,
+      "frame": "videos/vfe7b0ab20012/frames/000052.jpg",
+      "id": "e00047"
+    },
+    {
+      "type": "speech",
+      "label": "One of these classifications is by surface temperature, called spectral classes,",
+      "start": 53.54,
+      "end": 59.3,
+      "avg_logprob": -0.15117851893107095,
+      "id": "e00048"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 54.0,
+      "end": 55.0,
+      "value": -24.418597268707288,
+      "id": "e00049"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 54.0177,
+      "end": 54.1177,
+      "value": 0.9271845946100281,
+      "frame": "videos/vfe7b0ab20012/frames/000054.jpg",
+      "id": "e00050"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 59.0224,
+      "end": 59.1224,
+      "value": 0.9042215190324817,
+      "frame": "videos/vfe7b0ab20012/frames/000059.jpg",
+      "id": "e00051"
+    },
+    {
+      "type": "speech",
+      "label": "these seven major groups range from the coolest stars, which are designated as M,",
+      "start": 59.94,
+      "end": 64.82,
+      "avg_logprob": -0.15117851893107095,
+      "id": "e00052"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 60.0,
+      "end": 61.0,
+      "value": -24.310723213024286,
+      "id": "e00053"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 60.0233,
+      "end": 60.1233,
+      "value": 0.6535425646022537,
+      "frame": "videos/vfe7b0ab20012/frames/000060.jpg",
+      "id": "e00054"
+    },
+    {
+      "type": "speech",
+      "label": "and up to the hottest stars, which are designated as O.",
+      "start": 65.34,
+      "end": 68.56,
+      "avg_logprob": -0.15117851893107095,
+      "id": "e00055"
+    },
+    {
+      "type": "speech",
+      "label": "Stars are also classified by the amount of light they emit or luminosity.",
+      "start": 69.48,
+      "end": 73.94,
+      "avg_logprob": -0.15117851893107095,
+      "id": "e00056"
+    },
+    {
+      "type": "object",
+      "label": "frisbee",
+      "start": 74.0032,
+      "end": 75.0041,
+      "confidence": 0.739606499671936,
+      "samples": 1,
+      "frame": "videos/vfe7b0ab20012/frames/000074.jpg",
+      "id": "e00057"
+    },
+    {
+      "type": "speech",
+      "label": "Called luminosity classes, these nine major groups range from the small, less bright white dwarves,",
+      "start": 74.46,
+      "end": 81.22,
+      "avg_logprob": -0.15117851893107095,
+      "id": "e00058"
+    },
+    {
+      "type": "object",
+      "label": "frisbee",
+      "start": 76.0051,
+      "end": 78.007,
+      "confidence": 0.8681252300739288,
+      "samples": 2,
+      "frame": "videos/vfe7b0ab20012/frames/000076.jpg",
+      "id": "e00059"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 77.0,
+      "end": 78.0,
+      "value": -23.668878862118888,
+      "id": "e00060"
+    },
+    {
+      "type": "object",
+      "label": "surfboard",
+      "start": 78.007,
+      "end": 83.0117,
+      "confidence": 0.589671277999878,
+      "samples": 5,
+      "frame": "videos/vfe7b0ab20012/frames/000078.jpg",
+      "id": "e00061"
+    },
+    {
+      "type": "speech",
+      "label": "to the large and extremely bright, hypergiants.",
+      "start": 81.22,
+      "end": 85.2,
+      "avg_logprob": -0.36937713623046875,
+      "id": "e00062"
+    },
+    {
+      "type": "object",
+      "label": "apple",
+      "start": 84.0127,
+      "end": 86.0145,
+      "confidence": 0.5796400904655457,
+      "samples": 2,
+      "frame": "videos/vfe7b0ab20012/frames/000084.jpg",
+      "id": "e00063"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 86.0145,
+      "end": 86.1145,
+      "value": 0.9217672997642865,
+      "frame": "videos/vfe7b0ab20012/frames/000086.jpg",
+      "id": "e00064"
+    },
+    {
+      "type": "speech",
+      "label": "But no matter their luminosity or surface temperature.",
+      "start": 86.88,
+      "end": 89.94,
+      "avg_logprob": -0.36937713623046875,
+      "id": "e00065"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 87.0,
+      "end": 88.0,
+      "value": -23.53941845902744,
+      "id": "e00066"
+    }
+  ],
+  "entities": [
+    {
+      "label": "apple",
+      "detections": 2,
+      "frames": 2,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 2.001800000000003,
+      "mean_confidence": 0.5796400904655457,
+      "frame_share": 0.022222222222222223,
+      "duration_share": 0.022237694133525686
+    },
+    {
+      "label": "cake",
+      "detections": 3,
+      "frames": 3,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 3.002899999999997,
+      "mean_confidence": 0.6257509191830953,
+      "frame_share": 0.03333333333333333,
+      "duration_share": 0.03335876297010896
+    },
+    {
+      "label": "clock",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0009999999999977,
+      "mean_confidence": 0.4168750047683716,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.01111995795167306
+    },
+    {
+      "label": "frisbee",
+      "detections": 5,
+      "frames": 5,
+      "max_simultaneous": 1,
+      "intervals": 3,
+      "seconds": 5.0046999999999935,
+      "mean_confidence": 0.7401277422904968,
+      "frame_share": 0.05555555555555555,
+      "duration_share": 0.05559645710363458
+    },
+    {
+      "label": "orange",
+      "detections": 6,
+      "frames": 6,
+      "max_simultaneous": 1,
+      "intervals": 4,
+      "seconds": 6.005600000000001,
+      "mean_confidence": 0.6676862935225168,
+      "frame_share": 0.06666666666666667,
+      "duration_share": 0.06671530417039749
+    },
+    {
+      "label": "pizza",
+      "detections": 5,
+      "frames": 5,
+      "max_simultaneous": 1,
+      "intervals": 2,
+      "seconds": 5.0047,
+      "mean_confidence": 0.49760314226150515,
+      "frame_share": 0.05555555555555555,
+      "duration_share": 0.05559645710363465
+    },
+    {
+      "label": "surfboard",
+      "detections": 5,
+      "frames": 5,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 5.0047,
+      "mean_confidence": 0.589671277999878,
+      "frame_share": 0.05555555555555555,
+      "duration_share": 0.05559645710363465
+    },
+    {
+      "label": "tv",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0008999999999997,
+      "mean_confidence": 0.44189947843551636,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011118847066762824
+    }
+  ],
+  "warnings": [],
+  "detected_language": "en",
+  "signature": "baa5a657422d74aac6f6a1a2464ffb548d78e096a297e9c83b6389f74422f849",
+  "processing_seconds": 53.859
+}

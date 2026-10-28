@@ -1,0 +1,46 @@
+{
+  "source": {
+    "title": "Big Buck Bunny — trailer",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\bunny\\original.mp4",
+    "filename": "original.mp4",
+    "sha256": "b2ded9ae5a20fa36ca8cec49ef923bffb5e1a51d9e8c1f8336273d2fa9d35ff0",
+    "collected_at": "2026-10-27T08:58:19.734720+00:00",
+    "source_kind": "local",
+    "origin_url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
+  },
+  "technical": {
+    "duration": 33.002667,
+    "fps": 25.0308261405672,
+    "fps_fraction": "20300/811",
+    "width": 853,
+    "height": 480,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2679509,
+    "bytes": 11053871,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 33.002,
+    "fps": 25.0,
+    "fps_fraction": "25/1",
+    "width": 852,
+    "height": 480,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 913983,
+    "bytes": 3770411,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

@@ -1,0 +1,2149 @@
+{
+  "id": "vadfb155536b3",
+  "title": "Volcanoes 101 | National Geographic",
+  "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\volcanoes\\clip.mp4",
+  "metadata": {
+    "title": "Volcanoes 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\volcanoes\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "3d58af6fb71dffce7f1f1055e6572b58dc8539a5ee19581cf5b8f31231574920",
+    "collected_at": "2026-10-28T09:24:21.111632+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=yDy28QtdYJY",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018457,
+    "fps": 29.97163120567376,
+    "fps_fraction": "4226/141",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2673928,
+    "bytes": 30087865,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "duration": 90.018457,
+  "media": "videos/vadfb155536b3/video.mp4",
+  "interval": 1.0,
+  "sampling": {
+    "pilot_seconds": 8,
+    "mean_frame_difference": 0.061137282056733966,
+    "rule": "0.5 s if difference > 0.07; otherwise 2 s for >600 s, else 1 s"
+  },
+  "frames": [
+    {
+      "time": 0.0,
+      "image": "videos/vadfb155536b3/frames/000000.jpg",
+      "objects": [],
+      "brightness": 0.2805100270818204,
+      "sharpness": 6.537167694918576,
+      "scene_distance": 0.0
+    },
+    {
+      "time": 1.000947,
+      "image": "videos/vadfb155536b3/frames/000001.jpg",
+      "objects": [],
+      "brightness": 0.24042724975792787,
+      "sharpness": 13.458735532406477,
+      "scene_distance": 0.5814978397529291
+    },
+    {
+      "time": 2.001893,
+      "image": "videos/vadfb155536b3/frames/000002.jpg",
+      "objects": [],
+      "brightness": 0.23372190261135317,
+      "sharpness": 22.134355707642957,
+      "scene_distance": 0.1773827187553828
+    },
+    {
+      "time": 3.00284,
+      "image": "videos/vadfb155536b3/frames/000003.jpg",
+      "objects": [],
+      "brightness": 0.22434201767126605,
+      "sharpness": 33.80377071524808,
+      "scene_distance": 0.12938180053262727
+    },
+    {
+      "time": 4.003786,
+      "image": "videos/vadfb155536b3/frames/000004.jpg",
+      "objects": [],
+      "brightness": 0.3609028118191721,
+      "sharpness": 177.806526788251,
+      "scene_distance": 0.9698495440106059
+    },
+    {
+      "time": 5.004733,
+      "image": "videos/vadfb155536b3/frames/000005.jpg",
+      "objects": [],
+      "brightness": 0.35826508979363353,
+      "sharpness": 186.30188824929866,
+      "scene_distance": 0.10948160556905359
+    },
+    {
+      "time": 6.005679,
+      "image": "videos/vadfb155536b3/frames/000006.jpg",
+      "objects": [],
+      "brightness": 0.35926620937726944,
+      "sharpness": 193.13264109640238,
+      "scene_distance": 0.13198717717510747
+    },
+    {
+      "time": 7.006626,
+      "image": "videos/vadfb155536b3/frames/000007.jpg",
+      "objects": [],
+      "brightness": 0.43181397701827645,
+      "sharpness": 2.3507218072275804,
+      "scene_distance": 0.8303765874741921
+    },
+    {
+      "time": 8.007572,
+      "image": "videos/vadfb155536b3/frames/000008.jpg",
+      "objects": [],
+      "brightness": 0.389429789624183,
+      "sharpness": 4.641694283243164,
+      "scene_distance": 0.33965048166467987
+    },
+    {
+      "time": 9.008519,
+      "image": "videos/vadfb155536b3/frames/000009.jpg",
+      "objects": [],
+      "brightness": 0.41081275341926893,
+      "sharpness": 2.9005281222852335,
+      "scene_distance": 0.2945204539116272
+    },
+    {
+      "time": 10.009465,
+      "image": "videos/vadfb155536b3/frames/000010.jpg",
+      "objects": [],
+      "brightness": 0.4104701343500363,
+      "sharpness": 11.663595156318234,
+      "scene_distance": 0.9970643725536775
+    },
+    {
+      "time": 11.010412,
+      "image": "videos/vadfb155536b3/frames/000011.jpg",
+      "objects": [],
+      "brightness": 0.3342271695715323,
+      "sharpness": 4.193299060659318,
+      "scene_distance": 0.7425107251766836
+    },
+    {
+      "time": 12.011358,
+      "image": "videos/vadfb155536b3/frames/000012.jpg",
+      "objects": [],
+      "brightness": 0.6359759592108448,
+      "sharpness": 1.6044371869817917,
+      "scene_distance": 0.7835135459476117
+    },
+    {
+      "time": 13.012305,
+      "image": "videos/vadfb155536b3/frames/000013.jpg",
+      "objects": [],
+      "brightness": 0.06321071812212539,
+      "sharpness": 13.538353587962963,
+      "scene_distance": 1.0
+    },
+    {
+      "time": 14.013251,
+      "image": "videos/vadfb155536b3/frames/000014.jpg",
+      "objects": [
+        {
+          "label": "orange",
+          "confidence": 0.4059164226055145,
+          "xyxy": [
+            100.4454345703125,
+            174.37261962890625,
+            1898.5323486328125,
+            1029.50390625
+          ]
+        }
+      ],
+      "brightness": 0.06420744258351489,
+      "sharpness": 14.96693962146333,
+      "scene_distance": 0.05058548302176921
+    },
+    {
+      "time": 15.014198,
+      "image": "videos/vadfb155536b3/frames/000015.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.7148110866546631,
+          "xyxy": [
+            555.0972290039062,
+            689.618408203125,
+            769.7814331054688,
+            962.032470703125
+          ]
+        }
+      ],
+      "brightness": 0.30410300736807067,
+      "sharpness": 9.729346063862218,
+      "scene_distance": 0.9754877768588123
+    },
+    {
+      "time": 16.015144,
+      "image": "videos/vadfb155536b3/frames/000016.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.6917504072189331,
+          "xyxy": [
+            576.2352905273438,
+            671.9185180664062,
+            756.101806640625,
+            964.094970703125
+          ]
+        }
+      ],
+      "brightness": 0.3092059050472041,
+      "sharpness": 9.642553527227124,
+      "scene_distance": 0.10314280110189275
+    },
+    {
+      "time": 17.016091,
+      "image": "videos/vadfb155536b3/frames/000017.jpg",
+      "objects": [],
+      "brightness": 0.24745053974521908,
+      "sharpness": 4.921052276201078,
+      "scene_distance": 0.7268968395890878
+    },
+    {
+      "time": 18.017037,
+      "image": "videos/vadfb155536b3/frames/000018.jpg",
+      "objects": [],
+      "brightness": 0.26266567001028807,
+      "sharpness": 5.44005593730576,
+      "scene_distance": 0.21192123171201896
+    },
+    {
+      "time": 19.017984,
+      "image": "videos/vadfb155536b3/frames/000019.jpg",
+      "objects": [],
+      "brightness": 0.27331219362745096,
+      "sharpness": 5.847599811028002,
+      "scene_distance": 0.22932451269504878
+    },
+    {
+      "time": 20.01893,
+      "image": "videos/vadfb155536b3/frames/000020.jpg",
+      "objects": [],
+      "brightness": 0.36770265787642215,
+      "sharpness": 15.943707561050227,
+      "scene_distance": 0.5709624912093615
+    },
+    {
+      "time": 21.019877,
+      "image": "videos/vadfb155536b3/frames/000021.jpg",
+      "objects": [],
+      "brightness": 0.36529177446441535,
+      "sharpness": 266.4596416854858,
+      "scene_distance": 0.552340813876183
+    },
+    {
+      "time": 22.020823,
+      "image": "videos/vadfb155536b3/frames/000022.jpg",
+      "objects": [],
+      "brightness": 0.36457013283708545,
+      "sharpness": 267.02310715470986,
+      "scene_distance": 0.07689738364785434
+    },
+    {
+      "time": 23.02177,
+      "image": "videos/vadfb155536b3/frames/000023.jpg",
+      "objects": [],
+      "brightness": 0.38898205640280803,
+      "sharpness": 397.5093390453197,
+      "scene_distance": 0.9315336547469774
+    },
+    {
+      "time": 24.022717,
+      "image": "videos/vadfb155536b3/frames/000024.jpg",
+      "objects": [],
+      "brightness": 0.39855760749515856,
+      "sharpness": 425.96314165103445,
+      "scene_distance": 0.09747025426827464
+    },
+    {
+      "time": 25.023663,
+      "image": "videos/vadfb155536b3/frames/000025.jpg",
+      "objects": [],
+      "brightness": 0.3261092085754055,
+      "sharpness": 12.733031360842858,
+      "scene_distance": 0.9997514004767214
+    },
+    {
+      "time": 26.02461,
+      "image": "videos/vadfb155536b3/frames/000026.jpg",
+      "objects": [],
+      "brightness": 0.33192230429980635,
+      "sharpness": 67.48007272643879,
+      "scene_distance": 0.30555810502765574
+    },
+    {
+      "time": 27.025556,
+      "image": "videos/vadfb155536b3/frames/000027.jpg",
+      "objects": [],
+      "brightness": 0.37403234499818444,
+      "sharpness": 121.91835837328294,
+      "scene_distance": 0.19662374959626516
+    },
+    {
+      "time": 28.026503,
+      "image": "videos/vadfb155536b3/frames/000028.jpg",
+      "objects": [],
+      "brightness": 0.38036196592834665,
+      "sharpness": 116.41483909081538,
+      "scene_distance": 0.12981582141164225
+    },
+    {
+      "time": 29.027449,
+      "image": "videos/vadfb155536b3/frames/000029.jpg",
+      "objects": [],
+      "brightness": 0.385108992979908,
+      "sharpness": 186.83579702322004,
+      "scene_distance": 0.1408834740196284
+    },
+    {
+      "time": 30.028396,
+      "image": "videos/vadfb155536b3/frames/000030.jpg",
+      "objects": [],
+      "brightness": 0.39160435956790124,
+      "sharpness": 175.7076343933745,
+      "scene_distance": 0.16483748674117735
+    },
+    {
+      "time": 31.029342,
+      "image": "videos/vadfb155536b3/frames/000031.jpg",
+      "objects": [],
+      "brightness": 0.3980016302045509,
+      "sharpness": 176.06837113593576,
+      "scene_distance": 0.1760139063196893
+    },
+    {
+      "time": 32.030289,
+      "image": "videos/vadfb155536b3/frames/000032.jpg",
+      "objects": [],
+      "brightness": 0.39206111754115225,
+      "sharpness": 178.70404492899627,
+      "scene_distance": 0.2156109817113923
+    },
+    {
+      "time": 33.031235,
+      "image": "videos/vadfb155536b3/frames/000033.jpg",
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.5189535617828369,
+          "xyxy": [
+            1214.82177734375,
+            116.55794525146484,
+            1317.027587890625,
+            253.2967987060547
+          ]
+        }
+      ],
+      "brightness": 0.4586477339778504,
+      "sharpness": 17.966489197530866,
+      "scene_distance": 0.9945256252471284
+    },
+    {
+      "time": 34.032182,
+      "image": "videos/vadfb155536b3/frames/000034.jpg",
+      "objects": [],
+      "brightness": 0.45488129765795204,
+      "sharpness": 19.554075038580248,
+      "scene_distance": 0.05058825140723793
+    },
+    {
+      "time": 35.033128,
+      "image": "videos/vadfb155536b3/frames/000035.jpg",
+      "objects": [],
+      "brightness": 0.46502108297022515,
+      "sharpness": 44.57124131944445,
+      "scene_distance": 0.07488706231103748
+    },
+    {
+      "time": 36.00071,
+      "image": "videos/vadfb155536b3/frames/000036.jpg",
+      "objects": [],
+      "brightness": 0.47221130060820626,
+      "sharpness": 107.04650270061728,
+      "scene_distance": 0.0631693635031872
+    },
+    {
+      "time": 37.001656,
+      "image": "videos/vadfb155536b3/frames/000037.jpg",
+      "objects": [],
+      "brightness": 0.4738689046992254,
+      "sharpness": 134.94685570987653,
+      "scene_distance": 0.023298048420711478
+    },
+    {
+      "time": 38.002603,
+      "image": "videos/vadfb155536b3/frames/000038.jpg",
+      "objects": [],
+      "brightness": 0.4743647251724764,
+      "sharpness": 145.68105034722223,
+      "scene_distance": 0.008413224226653766
+    },
+    {
+      "time": 39.003549,
+      "image": "videos/vadfb155536b3/frames/000039.jpg",
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.42793920636177063,
+          "xyxy": [
+            0.0,
+            181.8629150390625,
+            1229.47705078125,
+            1073.170654296875
+          ]
+        }
+      ],
+      "brightness": 0.6137362680797628,
+      "sharpness": 39.15865596036325,
+      "scene_distance": 0.6581169192545417
+    },
+    {
+      "time": 40.004496,
+      "image": "videos/vadfb155536b3/frames/000040.jpg",
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.42566797137260437,
+          "xyxy": [
+            0.0,
+            181.76129150390625,
+            1229.522216796875,
+            1073.11279296875
+          ]
+        }
+      ],
+      "brightness": 0.6137396930222706,
+      "sharpness": 39.5119087574472,
+      "scene_distance": 0.03813994670270681
+    },
+    {
+      "time": 41.005442,
+      "image": "videos/vadfb155536b3/frames/000041.jpg",
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.42370694875717163,
+          "xyxy": [
+            0.0,
+            181.76138305664062,
+            1229.5262451171875,
+            1073.1383056640625
+          ]
+        }
+      ],
+      "brightness": 0.6137391181009441,
+      "sharpness": 39.52059413553362,
+      "scene_distance": 0.013842670673674399
+    },
+    {
+      "time": 42.006389,
+      "image": "videos/vadfb155536b3/frames/000042.jpg",
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.4244036078453064,
+          "xyxy": [
+            0.0,
+            181.790771484375,
+            1229.5328369140625,
+            1073.15771484375
+          ]
+        }
+      ],
+      "brightness": 0.6137404362593802,
+      "sharpness": 39.52997781608918,
+      "scene_distance": 0.010826713221069489
+    },
+    {
+      "time": 43.007336,
+      "image": "videos/vadfb155536b3/frames/000043.jpg",
+      "objects": [],
+      "brightness": 0.5140007961903897,
+      "sharpness": 59.653183833388105,
+      "scene_distance": 0.9779220913955241
+    },
+    {
+      "time": 44.008282,
+      "image": "videos/vadfb155536b3/frames/000044.jpg",
+      "objects": [],
+      "brightness": 0.5118340047052771,
+      "sharpness": 77.8094748243774,
+      "scene_distance": 0.07581261144496444
+    },
+    {
+      "time": 45.009229,
+      "image": "videos/vadfb155536b3/frames/000045.jpg",
+      "objects": [],
+      "brightness": 0.5103143930797628,
+      "sharpness": 67.8369333517004,
+      "scene_distance": 0.06877905081204957
+    },
+    {
+      "time": 46.010175,
+      "image": "videos/vadfb155536b3/frames/000046.jpg",
+      "objects": [],
+      "brightness": 0.5069316713568144,
+      "sharpness": 76.37811969521395,
+      "scene_distance": 0.06039471337135863
+    },
+    {
+      "time": 47.011122,
+      "image": "videos/vadfb155536b3/frames/000047.jpg",
+      "objects": [],
+      "brightness": 0.5071405663731542,
+      "sharpness": 70.3273813650114,
+      "scene_distance": 0.0661967087262439
+    },
+    {
+      "time": 48.012068,
+      "image": "videos/vadfb155536b3/frames/000048.jpg",
+      "objects": [],
+      "brightness": 0.47185001361655776,
+      "sharpness": 77.46232976466027,
+      "scene_distance": 0.27800589286333194
+    },
+    {
+      "time": 49.013015,
+      "image": "videos/vadfb155536b3/frames/000049.jpg",
+      "objects": [],
+      "brightness": 0.4583987722403776,
+      "sharpness": 44.76057725693864,
+      "scene_distance": 0.14273354210778344
+    },
+    {
+      "time": 50.013961,
+      "image": "videos/vadfb155536b3/frames/000050.jpg",
+      "objects": [],
+      "brightness": 0.45730570495945294,
+      "sharpness": 45.046885609075794,
+      "scene_distance": 0.059183638872074396
+    },
+    {
+      "time": 51.014908,
+      "image": "videos/vadfb155536b3/frames/000051.jpg",
+      "objects": [],
+      "brightness": 0.4621710636801017,
+      "sharpness": 137.95670862253982,
+      "scene_distance": 0.10737032596687551
+    },
+    {
+      "time": 52.015854,
+      "image": "videos/vadfb155536b3/frames/000052.jpg",
+      "objects": [],
+      "brightness": 0.4593735797173808,
+      "sharpness": 98.33638888740046,
+      "scene_distance": 0.07547427350720294
+    },
+    {
+      "time": 53.016801,
+      "image": "videos/vadfb155536b3/frames/000053.jpg",
+      "objects": [],
+      "brightness": 0.3533620907467926,
+      "sharpness": 161.28950472605214,
+      "scene_distance": 0.4150761979859389
+    },
+    {
+      "time": 54.017747,
+      "image": "videos/vadfb155536b3/frames/000054.jpg",
+      "objects": [],
+      "brightness": 0.1880030126633987,
+      "sharpness": 93.50498167437901,
+      "scene_distance": 0.6386310785873393
+    },
+    {
+      "time": 55.018694,
+      "image": "videos/vadfb155536b3/frames/000055.jpg",
+      "objects": [],
+      "brightness": 0.19368034941600096,
+      "sharpness": 173.14192274285998,
+      "scene_distance": 0.19353140571539712
+    },
+    {
+      "time": 56.01964,
+      "image": "videos/vadfb155536b3/frames/000056.jpg",
+      "objects": [],
+      "brightness": 0.19659798437121762,
+      "sharpness": 186.92815248772237,
+      "scene_distance": 0.11178263714870981
+    },
+    {
+      "time": 57.020587,
+      "image": "videos/vadfb155536b3/frames/000057.jpg",
+      "objects": [],
+      "brightness": 0.19267036204914065,
+      "sharpness": 184.47416762953185,
+      "scene_distance": 0.17717570324182222
+    },
+    {
+      "time": 58.021533,
+      "image": "videos/vadfb155536b3/frames/000058.jpg",
+      "objects": [],
+      "brightness": 0.14688060926531105,
+      "sharpness": 9.068825231481481,
+      "scene_distance": 0.9914022007722086
+    },
+    {
+      "time": 59.02248,
+      "image": "videos/vadfb155536b3/frames/000059.jpg",
+      "objects": [],
+      "brightness": 0.1422333915819414,
+      "sharpness": 32.136184413580246,
+      "scene_distance": 0.08899715690881486
+    },
+    {
+      "time": 60.023426,
+      "image": "videos/vadfb155536b3/frames/000060.jpg",
+      "objects": [],
+      "brightness": 0.13900891317175018,
+      "sharpness": 26.418930362654322,
+      "scene_distance": 0.06365163801853056
+    },
+    {
+      "time": 61.024373,
+      "image": "videos/vadfb155536b3/frames/000061.jpg",
+      "objects": [],
+      "brightness": 0.13857634539155167,
+      "sharpness": 17.590904224391682,
+      "scene_distance": 0.09203359405377574
+    },
+    {
+      "time": 62.025319,
+      "image": "videos/vadfb155536b3/frames/000062.jpg",
+      "objects": [],
+      "brightness": 0.13240447039155168,
+      "sharpness": 131.61729263117283,
+      "scene_distance": 0.10702573387637887
+    },
+    {
+      "time": 63.026266,
+      "image": "videos/vadfb155536b3/frames/000063.jpg",
+      "objects": [],
+      "brightness": 0.1323356424745824,
+      "sharpness": 127.95317226080248,
+      "scene_distance": 0.05501211679223687
+    },
+    {
+      "time": 64.027212,
+      "image": "videos/vadfb155536b3/frames/000064.jpg",
+      "objects": [
+        {
+          "label": "frisbee",
+          "confidence": 0.762423574924469,
+          "xyxy": [
+            764.2640380859375,
+            357.5849304199219,
+            1055.8653564453125,
+            649.2640380859375
+          ]
+        }
+      ],
+      "brightness": 0.12388465640885983,
+      "sharpness": 4.840381944444444,
+      "scene_distance": 0.10895194185706747
+    },
+    {
+      "time": 65.028159,
+      "image": "videos/vadfb155536b3/frames/000065.jpg",
+      "objects": [],
+      "brightness": 0.253795027308763,
+      "sharpness": 30.314345510407723,
+      "scene_distance": 0.3962507781786646
+    },
+    {
+      "time": 66.029106,
+      "image": "videos/vadfb155536b3/frames/000066.jpg",
+      "objects": [],
+      "brightness": 0.274172092486686,
+      "sharpness": 52.68796517951662,
+      "scene_distance": 0.10965764314459109
+    },
+    {
+      "time": 67.030052,
+      "image": "videos/vadfb155536b3/frames/000067.jpg",
+      "objects": [],
+      "brightness": 0.2754406299170903,
+      "sharpness": 50.72377893455632,
+      "scene_distance": 0.05178350049788554
+    },
+    {
+      "time": 68.030999,
+      "image": "videos/vadfb155536b3/frames/000068.jpg",
+      "objects": [],
+      "brightness": 0.27235836132292424,
+      "sharpness": 70.2843984279533,
+      "scene_distance": 0.1562278697628939
+    },
+    {
+      "time": 69.031945,
+      "image": "videos/vadfb155536b3/frames/000069.jpg",
+      "objects": [],
+      "brightness": 0.27319371822803196,
+      "sharpness": 66.24230130166657,
+      "scene_distance": 0.08791250794896506
+    },
+    {
+      "time": 70.032892,
+      "image": "videos/vadfb155536b3/frames/000070.jpg",
+      "objects": [],
+      "brightness": 0.3282707312091503,
+      "sharpness": 54.73458138955198,
+      "scene_distance": 0.39439941150252733
+    },
+    {
+      "time": 71.000473,
+      "image": "videos/vadfb155536b3/frames/000071.jpg",
+      "objects": [],
+      "brightness": 0.3420095051137739,
+      "sharpness": 102.05889029825099,
+      "scene_distance": 0.11415671429528673
+    },
+    {
+      "time": 72.00142,
+      "image": "videos/vadfb155536b3/frames/000072.jpg",
+      "objects": [
+        {
+          "label": "vase",
+          "confidence": 0.47872158885002136,
+          "xyxy": [
+            1284.0118408203125,
+            621.9216918945312,
+            1725.3099365234375,
+            1071.6536865234375
+          ]
+        }
+      ],
+      "brightness": 0.34422567364137013,
+      "sharpness": 88.26376196489792,
+      "scene_distance": 0.0967149273320274
+    },
+    {
+      "time": 73.002366,
+      "image": "videos/vadfb155536b3/frames/000073.jpg",
+      "objects": [
+        {
+          "label": "vase",
+          "confidence": 0.7182942628860474,
+          "xyxy": [
+            1293.3623046875,
+            625.7759399414062,
+            1740.35498046875,
+            1072.5609130859375
+          ]
+        }
+      ],
+      "brightness": 0.3457587297264585,
+      "sharpness": 94.62794315575492,
+      "scene_distance": 0.1069625345476899
+    },
+    {
+      "time": 74.003313,
+      "image": "videos/vadfb155536b3/frames/000074.jpg",
+      "objects": [],
+      "brightness": 0.3475604556251513,
+      "sharpness": 83.18603995413773,
+      "scene_distance": 0.09561564590545152
+    },
+    {
+      "time": 75.004259,
+      "image": "videos/vadfb155536b3/frames/000075.jpg",
+      "objects": [],
+      "brightness": 0.33447088515190027,
+      "sharpness": 48.94608550269986,
+      "scene_distance": 0.10878488595988219
+    },
+    {
+      "time": 76.005206,
+      "image": "videos/vadfb155536b3/frames/000076.jpg",
+      "objects": [],
+      "brightness": 0.3613987268518518,
+      "sharpness": 107.70152640311834,
+      "scene_distance": 0.1534964785572371
+    },
+    {
+      "time": 77.006152,
+      "image": "videos/vadfb155536b3/frames/000077.jpg",
+      "objects": [],
+      "brightness": 0.3619916674231421,
+      "sharpness": 119.66529488675512,
+      "scene_distance": 0.09299206855054357
+    },
+    {
+      "time": 78.007099,
+      "image": "videos/vadfb155536b3/frames/000078.jpg",
+      "objects": [],
+      "brightness": 0.36303046137436457,
+      "sharpness": 103.94200663826375,
+      "scene_distance": 0.09595061485897041
+    },
+    {
+      "time": 79.008045,
+      "image": "videos/vadfb155536b3/frames/000079.jpg",
+      "objects": [],
+      "brightness": 0.38857151718712174,
+      "sharpness": 92.38714632452611,
+      "scene_distance": 0.8849816835700668
+    },
+    {
+      "time": 80.008992,
+      "image": "videos/vadfb155536b3/frames/000080.jpg",
+      "objects": [],
+      "brightness": 0.3764318113047688,
+      "sharpness": 67.32357104390881,
+      "scene_distance": 0.18635027975248022
+    },
+    {
+      "time": 81.009938,
+      "image": "videos/vadfb155536b3/frames/000081.jpg",
+      "objects": [],
+      "brightness": 0.36649181304466233,
+      "sharpness": 73.90499290884209,
+      "scene_distance": 0.22590156826466526
+    },
+    {
+      "time": 82.010885,
+      "image": "videos/vadfb155536b3/frames/000082.jpg",
+      "objects": [],
+      "brightness": 0.3470998547567175,
+      "sharpness": 57.0074491592384,
+      "scene_distance": 0.22204923117202952
+    },
+    {
+      "time": 83.011832,
+      "image": "videos/vadfb155536b3/frames/000083.jpg",
+      "objects": [],
+      "brightness": 0.26477813899479546,
+      "sharpness": 106.99394627644776,
+      "scene_distance": 0.8019096703052
+    },
+    {
+      "time": 84.012778,
+      "image": "videos/vadfb155536b3/frames/000084.jpg",
+      "objects": [],
+      "brightness": 0.2409211639130961,
+      "sharpness": 109.17437451718851,
+      "scene_distance": 0.3956294987383397
+    },
+    {
+      "time": 85.013725,
+      "image": "videos/vadfb155536b3/frames/000085.jpg",
+      "objects": [],
+      "brightness": 0.24412218402021302,
+      "sharpness": 100.39807195157908,
+      "scene_distance": 0.06037322594038686
+    },
+    {
+      "time": 86.014671,
+      "image": "videos/vadfb155536b3/frames/000086.jpg",
+      "objects": [],
+      "brightness": 0.2472593292332365,
+      "sharpness": 97.35309413517359,
+      "scene_distance": 0.04370919741904302
+    },
+    {
+      "time": 87.015618,
+      "image": "videos/vadfb155536b3/frames/000087.jpg",
+      "objects": [],
+      "brightness": 0.24716040683248608,
+      "sharpness": 98.47923514602354,
+      "scene_distance": 0.04733161388355893
+    },
+    {
+      "time": 88.016564,
+      "image": "videos/vadfb155536b3/frames/000088.jpg",
+      "objects": [],
+      "brightness": 0.18090634077705156,
+      "sharpness": 43.487225114397425,
+      "scene_distance": 0.39758345470898737
+    },
+    {
+      "time": 89.017511,
+      "image": "videos/vadfb155536b3/frames/000089.jpg",
+      "objects": [],
+      "brightness": 0.22103787294238683,
+      "sharpness": 136.14949604552447,
+      "scene_distance": 0.256528114854361
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.74,
+      "text": "Our planet has a violent soul, majestic and often destructive volcanic explosions",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 6.74,
+      "end": 13.94,
+      "text": "rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko,",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 14.32,
+      "end": 20.66,
+      "text": "the images simultaneously strike fear and awe in our hearts. But how did these",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 20.66,
+      "end": 25.96,
+      "text": "giant mountains form and where does all that destructive force come from? At least",
+      "avg_logprob": -0.2811732351044078,
+      "no_speech_prob": 0.2779083847999573,
+      "compression_ratio": 1.4774774774774775
+    },
+    {
+      "start": 25.96,
+      "end": 31.1,
+      "text": "These 50 eruptions rock the Earth each year, meaning our planet is literally bursting",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 31.1,
+      "end": 32.12,
+      "text": "apart at the scenes.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 32.8,
+      "end": 38.26,
+      "text": "The Earth's crust is made up of about 17 slabs of land called tectonic plates that float",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 38.26,
+      "end": 41.92,
+      "text": "on the super-heated magma that makes up most of the planet's interior.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 42.38,
+      "end": 46.1,
+      "text": "Magma is the Earth's lifeblood churning restlessly beneath the crust.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 46.78,
+      "end": 49.66,
+      "text": "And wherever it can, it's trying to burst through.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 50.1,
+      "end": 52.44,
+      "text": "It's at these spots that Balkan was formed.",
+      "avg_logprob": -0.2010441155269228,
+      "no_speech_prob": 0.08056941628456116,
+      "compression_ratio": 1.6022304832713754
+    },
+    {
+      "start": 52.44,
+      "end": 56.48,
+      "text": "Our planet is home to some 500 active volcanoes.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 57.22,
+      "end": 61.4,
+      "text": "While some volcanoes, like those in Hawaii, break through a thin point in the crest called",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 61.4,
+      "end": 66.78,
+      "text": "a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 66.78,
+      "end": 67.2,
+      "text": "meet.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 68.04,
+      "end": 73.38,
+      "text": "The most volatile region is the ring of fire, a geological fault belt that rims the Pacific",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 73.38,
+      "end": 78.02,
+      "text": "Ocean and holds roughly 75% of all the Earth's volcanoes.",
+      "avg_logprob": -0.19672169287999472,
+      "no_speech_prob": 0.0351930670440197,
+      "compression_ratio": 1.5731707317073171
+    },
+    {
+      "start": 79.02,
+      "end": 81.96,
+      "text": "Typically, volcanoes take one of two forms.",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 82.68,
+      "end": 85.04,
+      "text": "Shield volcanoes widen broad with lava",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 85.04,
+      "end": 87.54,
+      "text": "usually slowly oozing out of them",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    },
+    {
+      "start": 87.54,
+      "end": 89.78,
+      "text": "and composite or strato volcanoes.",
+      "avg_logprob": -0.23125287106162623,
+      "no_speech_prob": 0.41487598419189453,
+      "compression_ratio": 1.3130434782608695
+    }
+  ],
+  "audio": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "dbfs": -26.7883208268327,
+      "peak": false
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "dbfs": -19.42905932199405,
+      "peak": false
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "dbfs": -20.063748991460212,
+      "peak": false
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "dbfs": -20.369079464398155,
+      "peak": false
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "dbfs": -21.510210484284503,
+      "peak": false
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "dbfs": -19.392244254660177,
+      "peak": true
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "dbfs": -20.25531908373685,
+      "peak": false
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "dbfs": -19.942282561500676,
+      "peak": false
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "dbfs": -22.180528040168973,
+      "peak": false
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "dbfs": -26.412955687215124,
+      "peak": false
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "dbfs": -23.965215811285493,
+      "peak": false
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "dbfs": -25.79806262713547,
+      "peak": false
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "dbfs": -23.637833527635802,
+      "peak": false
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "dbfs": -22.021323632186714,
+      "peak": false
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "dbfs": -24.901578952364662,
+      "peak": false
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "dbfs": -18.07925716616482,
+      "peak": true
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "dbfs": -17.561813692003877,
+      "peak": true
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "dbfs": -15.47071426546848,
+      "peak": true
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "dbfs": -20.059040172437275,
+      "peak": false
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "dbfs": -19.343535185627637,
+      "peak": true
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "dbfs": -23.18799392937665,
+      "peak": false
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "dbfs": -24.273873841394682,
+      "peak": false
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "dbfs": -20.562285185245685,
+      "peak": false
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "dbfs": -20.788281503399865,
+      "peak": false
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "dbfs": -26.089075932401236,
+      "peak": false
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "dbfs": -24.928757912839576,
+      "peak": false
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "dbfs": -24.068691947501136,
+      "peak": false
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "dbfs": -24.13373277926739,
+      "peak": false
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "dbfs": -26.844447198537196,
+      "peak": false
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "dbfs": -23.67853407958495,
+      "peak": false
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "dbfs": -20.58584691549013,
+      "peak": false
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "dbfs": -22.55887940663023,
+      "peak": false
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "dbfs": -24.627963577139944,
+      "peak": false
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "dbfs": -24.833108298103955,
+      "peak": false
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "dbfs": -19.742316866060825,
+      "peak": false
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "dbfs": -19.755074320273735,
+      "peak": false
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "dbfs": -24.62685336922818,
+      "peak": false
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "dbfs": -24.445216765545233,
+      "peak": false
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "dbfs": -22.226546384535368,
+      "peak": false
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "dbfs": -19.48160967910297,
+      "peak": false
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "dbfs": -19.882480198086483,
+      "peak": false
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "dbfs": -24.695240414828625,
+      "peak": false
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "dbfs": -22.44000799005292,
+      "peak": false
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "dbfs": -23.260282103314896,
+      "peak": false
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "dbfs": -22.76391979801653,
+      "peak": false
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "dbfs": -28.773923786433762,
+      "peak": false
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "dbfs": -28.70888779827174,
+      "peak": false
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "dbfs": -23.947978724598535,
+      "peak": false
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "dbfs": -22.97188916700861,
+      "peak": false
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "dbfs": -22.286738068998254,
+      "peak": false
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "dbfs": -20.085001366479833,
+      "peak": false
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "dbfs": -18.49404505073094,
+      "peak": true
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "dbfs": -21.69573130900141,
+      "peak": false
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "dbfs": -20.48526037601124,
+      "peak": false
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "dbfs": -20.990841714600457,
+      "peak": false
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "dbfs": -24.714321751601368,
+      "peak": false
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "dbfs": -27.02572168355396,
+      "peak": false
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "dbfs": -17.225665345693997,
+      "peak": true
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "dbfs": -25.022161244267625,
+      "peak": false
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "dbfs": -18.881360225757902,
+      "peak": true
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "dbfs": -23.838785232856303,
+      "peak": false
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "dbfs": -21.715847636673956,
+      "peak": false
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "dbfs": -20.283671621430983,
+      "peak": false
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "dbfs": -20.114789861799046,
+      "peak": false
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "dbfs": -20.74386576385359,
+      "peak": false
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "dbfs": -20.996743701200625,
+      "peak": false
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "dbfs": -25.933536542618366,
+      "peak": false
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "dbfs": -27.25027981015867,
+      "peak": false
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "dbfs": -17.49037792803659,
+      "peak": true
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "dbfs": -22.479306675075247,
+      "peak": false
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "dbfs": -20.579112025798707,
+      "peak": false
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "dbfs": -20.026647597663004,
+      "peak": false
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "dbfs": -22.99546482607733,
+      "peak": false
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "dbfs": -25.02834813505329,
+      "peak": false
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "dbfs": -20.701586914061636,
+      "peak": false
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "dbfs": -23.885275640460684,
+      "peak": false
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "dbfs": -20.42095681465198,
+      "peak": false
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "dbfs": -22.43192722233509,
+      "peak": false
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "dbfs": -26.726228929651437,
+      "peak": false
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "dbfs": -24.784146250671483,
+      "peak": false
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "dbfs": -22.57311164582672,
+      "peak": false
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "dbfs": -23.148727279333276,
+      "peak": false
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "dbfs": -22.079000835399064,
+      "peak": false
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "dbfs": -21.168016985409732,
+      "peak": false
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "dbfs": -18.145249804063504,
+      "peak": true
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "dbfs": -22.57878425534679,
+      "peak": false
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "dbfs": -20.21188241683539,
+      "peak": false
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "dbfs": -20.305934860999923,
+      "peak": false
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "dbfs": -21.998778909148825,
+      "peak": false
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "dbfs": -21.669053957125172,
+      "peak": false
+    },
+    {
+      "start": 90.0,
+      "end": 90.018457,
+      "dbfs": -44.66309597049821,
+      "peak": false
+    }
+  ],
+  "events": [
+    {
+      "type": "speech",
+      "label": "Our planet has a violent soul, majestic and often destructive volcanic explosions",
+      "start": 0.0,
+      "end": 6.74,
+      "avg_logprob": -0.2811732351044078,
+      "id": "e00000"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 1.0009,
+      "end": 1.1009,
+      "value": 0.5814978397529291,
+      "frame": "videos/vadfb155536b3/frames/000001.jpg",
+      "id": "e00001"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 4.0038,
+      "end": 4.1038,
+      "value": 0.9698495440106059,
+      "frame": "videos/vadfb155536b3/frames/000004.jpg",
+      "id": "e00002"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 5.0,
+      "end": 6.0,
+      "value": -19.392244254660177,
+      "id": "e00003"
+    },
+    {
+      "type": "speech",
+      "label": "rattle our collective imagination. Cracatoa, Mount St. Helens, Etna, AF-Yatla Yorko,",
+      "start": 6.74,
+      "end": 13.94,
+      "avg_logprob": -0.2811732351044078,
+      "id": "e00004"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 7.0066,
+      "end": 7.1066,
+      "value": 0.8303765874741921,
+      "frame": "videos/vadfb155536b3/frames/000007.jpg",
+      "id": "e00005"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 10.0095,
+      "end": 10.1095,
+      "value": 0.9970643725536775,
+      "frame": "videos/vadfb155536b3/frames/000010.jpg",
+      "id": "e00006"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 11.0104,
+      "end": 11.1104,
+      "value": 0.7425107251766836,
+      "frame": "videos/vadfb155536b3/frames/000011.jpg",
+      "id": "e00007"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 12.0114,
+      "end": 12.1114,
+      "value": 0.7835135459476117,
+      "frame": "videos/vadfb155536b3/frames/000012.jpg",
+      "id": "e00008"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 13.0123,
+      "end": 13.1123,
+      "value": 1.0,
+      "frame": "videos/vadfb155536b3/frames/000013.jpg",
+      "id": "e00009"
+    },
+    {
+      "type": "object",
+      "label": "orange",
+      "start": 14.0133,
+      "end": 15.0142,
+      "confidence": 0.4059164226055145,
+      "samples": 1,
+      "frame": "videos/vadfb155536b3/frames/000014.jpg",
+      "id": "e00010"
+    },
+    {
+      "type": "speech",
+      "label": "the images simultaneously strike fear and awe in our hearts. But how did these",
+      "start": 14.32,
+      "end": 20.66,
+      "avg_logprob": -0.2811732351044078,
+      "id": "e00011"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 15.0,
+      "end": 18.0,
+      "value": -15.47071426546848,
+      "id": "e00012"
+    },
+    {
+      "type": "object",
+      "label": "person",
+      "start": 15.0142,
+      "end": 17.0161,
+      "confidence": 0.7032807469367981,
+      "samples": 2,
+      "frame": "videos/vadfb155536b3/frames/000015.jpg",
+      "id": "e00013"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 15.0142,
+      "end": 15.1142,
+      "value": 0.9754877768588123,
+      "frame": "videos/vadfb155536b3/frames/000015.jpg",
+      "id": "e00014"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 17.0161,
+      "end": 17.1161,
+      "value": 0.7268968395890878,
+      "frame": "videos/vadfb155536b3/frames/000017.jpg",
+      "id": "e00015"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 19.0,
+      "end": 20.0,
+      "value": -19.343535185627637,
+      "id": "e00016"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 20.0189,
+      "end": 20.1189,
+      "value": 0.5709624912093615,
+      "frame": "videos/vadfb155536b3/frames/000020.jpg",
+      "id": "e00017"
+    },
+    {
+      "type": "speech",
+      "label": "giant mountains form and where does all that destructive force come from? At least",
+      "start": 20.66,
+      "end": 25.96,
+      "avg_logprob": -0.2811732351044078,
+      "id": "e00018"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 21.0199,
+      "end": 21.1199,
+      "value": 0.552340813876183,
+      "frame": "videos/vadfb155536b3/frames/000021.jpg",
+      "id": "e00019"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 23.0218,
+      "end": 23.1218,
+      "value": 0.9315336547469774,
+      "frame": "videos/vadfb155536b3/frames/000023.jpg",
+      "id": "e00020"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 25.0237,
+      "end": 25.1237,
+      "value": 0.9997514004767214,
+      "frame": "videos/vadfb155536b3/frames/000025.jpg",
+      "id": "e00021"
+    },
+    {
+      "type": "speech",
+      "label": "These 50 eruptions rock the Earth each year, meaning our planet is literally bursting",
+      "start": 25.96,
+      "end": 31.1,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00022"
+    },
+    {
+      "type": "speech",
+      "label": "apart at the scenes.",
+      "start": 31.1,
+      "end": 32.12,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00023"
+    },
+    {
+      "type": "speech",
+      "label": "The Earth's crust is made up of about 17 slabs of land called tectonic plates that float",
+      "start": 32.8,
+      "end": 38.26,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00024"
+    },
+    {
+      "type": "object",
+      "label": "bird",
+      "start": 33.0312,
+      "end": 34.0322,
+      "confidence": 0.5189535617828369,
+      "samples": 1,
+      "frame": "videos/vadfb155536b3/frames/000033.jpg",
+      "id": "e00025"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 33.0312,
+      "end": 33.1312,
+      "value": 0.9945256252471284,
+      "frame": "videos/vadfb155536b3/frames/000033.jpg",
+      "id": "e00026"
+    },
+    {
+      "type": "speech",
+      "label": "on the super-heated magma that makes up most of the planet's interior.",
+      "start": 38.26,
+      "end": 41.92,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00027"
+    },
+    {
+      "type": "object",
+      "label": "stop sign",
+      "start": 39.0035,
+      "end": 43.0073,
+      "confidence": 0.42542943358421326,
+      "samples": 4,
+      "frame": "videos/vadfb155536b3/frames/000039.jpg",
+      "id": "e00028"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 39.0035,
+      "end": 39.1035,
+      "value": 0.6581169192545417,
+      "frame": "videos/vadfb155536b3/frames/000039.jpg",
+      "id": "e00029"
+    },
+    {
+      "type": "speech",
+      "label": "Magma is the Earth's lifeblood churning restlessly beneath the crust.",
+      "start": 42.38,
+      "end": 46.1,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00030"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 43.0073,
+      "end": 43.1073,
+      "value": 0.9779220913955241,
+      "frame": "videos/vadfb155536b3/frames/000043.jpg",
+      "id": "e00031"
+    },
+    {
+      "type": "speech",
+      "label": "And wherever it can, it's trying to burst through.",
+      "start": 46.78,
+      "end": 49.66,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00032"
+    },
+    {
+      "type": "speech",
+      "label": "It's at these spots that Balkan was formed.",
+      "start": 50.1,
+      "end": 52.44,
+      "avg_logprob": -0.2010441155269228,
+      "id": "e00033"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 51.0,
+      "end": 52.0,
+      "value": -18.49404505073094,
+      "id": "e00034"
+    },
+    {
+      "type": "speech",
+      "label": "Our planet is home to some 500 active volcanoes.",
+      "start": 52.44,
+      "end": 56.48,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00035"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 54.0177,
+      "end": 54.1177,
+      "value": 0.6386310785873393,
+      "frame": "videos/vadfb155536b3/frames/000054.jpg",
+      "id": "e00036"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 57.0,
+      "end": 58.0,
+      "value": -17.225665345693997,
+      "id": "e00037"
+    },
+    {
+      "type": "speech",
+      "label": "While some volcanoes, like those in Hawaii, break through a thin point in the crest called",
+      "start": 57.22,
+      "end": 61.4,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00038"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 58.0215,
+      "end": 58.1215,
+      "value": 0.9914022007722086,
+      "frame": "videos/vadfb155536b3/frames/000058.jpg",
+      "id": "e00039"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 59.0,
+      "end": 60.0,
+      "value": -18.881360225757902,
+      "id": "e00040"
+    },
+    {
+      "type": "speech",
+      "label": "a hotspot, the vast majority of volcanoes occur on active fault lines where tectonic plates",
+      "start": 61.4,
+      "end": 66.78,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00041"
+    },
+    {
+      "type": "object",
+      "label": "frisbee",
+      "start": 64.0272,
+      "end": 65.0282,
+      "confidence": 0.762423574924469,
+      "samples": 1,
+      "frame": "videos/vadfb155536b3/frames/000064.jpg",
+      "id": "e00042"
+    },
+    {
+      "type": "speech",
+      "label": "meet.",
+      "start": 66.78,
+      "end": 67.2,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00043"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 68.0,
+      "end": 69.0,
+      "value": -17.49037792803659,
+      "id": "e00044"
+    },
+    {
+      "type": "speech",
+      "label": "The most volatile region is the ring of fire, a geological fault belt that rims the Pacific",
+      "start": 68.04,
+      "end": 73.38,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00045"
+    },
+    {
+      "type": "object",
+      "label": "vase",
+      "start": 72.0014,
+      "end": 74.0033,
+      "confidence": 0.5985079258680344,
+      "samples": 2,
+      "frame": "videos/vadfb155536b3/frames/000072.jpg",
+      "id": "e00046"
+    },
+    {
+      "type": "speech",
+      "label": "Ocean and holds roughly 75% of all the Earth's volcanoes.",
+      "start": 73.38,
+      "end": 78.02,
+      "avg_logprob": -0.19672169287999472,
+      "id": "e00047"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 79.008,
+      "end": 79.108,
+      "value": 0.8849816835700668,
+      "frame": "videos/vadfb155536b3/frames/000079.jpg",
+      "id": "e00048"
+    },
+    {
+      "type": "speech",
+      "label": "Typically, volcanoes take one of two forms.",
+      "start": 79.02,
+      "end": 81.96,
+      "avg_logprob": -0.23125287106162623,
+      "id": "e00049"
+    },
+    {
+      "type": "speech",
+      "label": "Shield volcanoes widen broad with lava",
+      "start": 82.68,
+      "end": 85.04,
+      "avg_logprob": -0.23125287106162623,
+      "id": "e00050"
+    },
+    {
+      "type": "scene",
+      "label": "Смена сцены",
+      "start": 83.0118,
+      "end": 83.1118,
+      "value": 0.8019096703052,
+      "frame": "videos/vadfb155536b3/frames/000083.jpg",
+      "id": "e00051"
+    },
+    {
+      "type": "audio",
+      "label": "Пик громкости",
+      "start": 84.0,
+      "end": 85.0,
+      "value": -18.145249804063504,
+      "id": "e00052"
+    },
+    {
+      "type": "speech",
+      "label": "usually slowly oozing out of them",
+      "start": 85.04,
+      "end": 87.54,
+      "avg_logprob": -0.23125287106162623,
+      "id": "e00053"
+    },
+    {
+      "type": "speech",
+      "label": "and composite or strato volcanoes.",
+      "start": 87.54,
+      "end": 89.78,
+      "avg_logprob": -0.23125287106162623,
+      "id": "e00054"
+    }
+  ],
+  "entities": [
+    {
+      "label": "bird",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0010000000000048,
+      "mean_confidence": 0.5189535617828369,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011119941769275214
+    },
+    {
+      "label": "frisbee",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0010000000000048,
+      "mean_confidence": 0.762423574924469,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011119941769275214
+    },
+    {
+      "label": "orange",
+      "detections": 1,
+      "frames": 1,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 1.0009000000000015,
+      "mean_confidence": 0.4059164226055145,
+      "frame_share": 0.011111111111111112,
+      "duration_share": 0.011118830885981543
+    },
+    {
+      "label": "person",
+      "detections": 2,
+      "frames": 2,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 2.001900000000001,
+      "mean_confidence": 0.7032807469367981,
+      "frame_share": 0.022222222222222223,
+      "duration_share": 0.0222387726552567
+    },
+    {
+      "label": "stop sign",
+      "detections": 4,
+      "frames": 4,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 4.003799999999998,
+      "mean_confidence": 0.42542943358421326,
+      "frame_share": 0.044444444444444446,
+      "duration_share": 0.04447754531051336
+    },
+    {
+      "label": "vase",
+      "detections": 2,
+      "frames": 2,
+      "max_simultaneous": 1,
+      "intervals": 1,
+      "seconds": 2.001899999999992,
+      "mean_confidence": 0.5985079258680344,
+      "frame_share": 0.022222222222222223,
+      "duration_share": 0.0222387726552566
+    }
+  ],
+  "warnings": [],
+  "detected_language": "en",
+  "signature": "4f5a380dd5f6f92c6f1fc7482ed4e6ee1cfd372f16da63b577c18f5464824113",
+  "processing_seconds": 56.032
+}

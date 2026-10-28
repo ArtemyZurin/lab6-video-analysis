@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Black Holes 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\black_holes\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "27fcef91951bfd4dc16a4e40a6adb14e9dea51f6ac09036fdaac434d54188be9",
+    "collected_at": "2026-10-28T09:22:34.267876+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.018978,
+    "fps": 29.971457696228338,
+    "fps_fraction": "29402/981",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2097527,
+    "bytes": 23602162,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 90.018978,
+    "fps": 29.971457696228338,
+    "fps_fraction": "29402/981",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2056198,
+    "bytes": 23137106,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

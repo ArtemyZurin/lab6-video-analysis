@@ -1,0 +1,6 @@
+video_id,title,id,type,start,end,label,frame,verdict,comment
+v3472c89a73c8,Solar System 101 | National Geographic,e00005,scene,10.0094,10.1094,Смена сцены,videos/v3472c89a73c8/frames/000010.jpg,confirmed,После яркого перехода появляется изображение Млечного Пути с подписью; точность ограничена шагом 1 с.
+vdcf99b90407e,Black Holes 101 | National Geographic,e00002,object,5.0048,6.0057,person,videos/vdcf99b90407e/frames/000005.jpg,false_positive,Рамка охватывает анимацию чёрной дыры; человека нет.
+vfe7b0ab20012,Stars 101 | National Geographic,e00032,scene,40.0044,40.1044,Смена сцены,videos/vfe7b0ab20012/frames/000040.jpg,partial,Вспышка внутри анимации перехода от водорода к гелию; изменение изображения есть без самостоятельной новой сцены.
+vadfb155536b3,Volcanoes 101 | National Geographic,e00010,object,14.0133,15.0142,orange,videos/vadfb155536b3/frames/000014.jpg,false_positive,Рамка на извержении вулкана; апельсина нет.
+vb863a946c7a4,Earthquakes 101 | National Geographic,e00019,scene,18.0167,18.1167,Смена сцены,videos/vb863a946c7a4/frames/000036.jpg,confirmed,Спасатели сменяются изображением треснувшей дороги; монтажный переход подтверждён с точностью шага 0.5 с.

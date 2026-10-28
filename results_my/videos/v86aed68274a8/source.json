@@ -1,0 +1,25 @@
+{
+  "title": "WDSU Best Newscast LAB  :30 second clip",
+  "description": "",
+  "tags": [],
+  "categories": [
+    "News & Politics"
+  ],
+  "upload_date": "20200131",
+  "duration": 35,
+  "view_count": 328,
+  "like_count": null,
+  "comment_count": null,
+  "webpage_url": "https://www.youtube.com/watch?v=IZgPfBi3bq0",
+  "extractor": "youtube",
+  "id": "IZgPfBi3bq0",
+  "format_id": "137+251",
+  "resolution": "1920x1080",
+  "vcodec": "avc1.640028",
+  "acodec": "opus",
+  "source": "https://www.youtube.com/watch?v=IZgPfBi3bq0",
+  "filename": "original.mkv",
+  "sha256": "7498f9f16b7074e257592ce07e94cf9c6688223eb4c4563b2e4626524f121edd",
+  "collected_at": "2026-10-27T09:59:11.946892+00:00",
+  "source_kind": "url"
+}

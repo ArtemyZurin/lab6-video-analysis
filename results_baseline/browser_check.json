@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "search_hits": 14,
+  "time_after_click": 6,
+  "speech_time_after_click": 6.28,
+  "javascript_errors": [],
+  "checks": [
+    "video cards",
+    "Russian object search",
+    "seek from result",
+    "speech search and cross-video seek",
+    "timeline click",
+    "empty search",
+    "mobile width"
+  ]
+}

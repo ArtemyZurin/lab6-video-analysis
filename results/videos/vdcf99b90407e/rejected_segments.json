@@ -1,0 +1,47 @@
+[
+  {
+    "start": 70.46000000000001,
+    "end": 76.36,
+    "text": "Supermassive black holes are giants by comparison, measuring millions, even billions of times",
+    "avg_logprob": -0.21286826347237203,
+    "no_speech_prob": 0.6870532631874084,
+    "compression_ratio": 1.4861878453038675,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 76.36,
+    "end": 77.82,
+    "text": "more massive than our Sun.",
+    "avg_logprob": -0.21286826347237203,
+    "no_speech_prob": 0.6870532631874084,
+    "compression_ratio": 1.4861878453038675,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 78.84,
+    "end": 83.74,
+    "text": "Scientists can only guess how they form, but we do know they exist at the center of just",
+    "avg_logprob": -0.21286826347237203,
+    "no_speech_prob": 0.6870532631874084,
+    "compression_ratio": 1.4861878453038675,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 83.74,
+    "end": 87.26,
+    "text": "about every large galaxy, including our own.",
+    "avg_logprob": -0.21286826347237203,
+    "no_speech_prob": 0.6870532631874084,
+    "compression_ratio": 1.4861878453038675,
+    "reason": "high_no_speech_probability"
+  },
+  {
+    "start": 89.42,
+    "end": 89.86,
+    "text": "Sagittarius A.",
+    "avg_logprob": -0.21286826347237203,
+    "no_speech_prob": 0.6870532631874084,
+    "compression_ratio": 1.4861878453038675,
+    "reason": "high_no_speech_probability"
+  }
+]

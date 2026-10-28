@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Earthquakes 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\earthquakes\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "feae8774618bd8ea12532d6aac8237a758983b3550a3f5a81eb3fd45318414f6",
+    "collected_at": "2026-10-28T09:25:17.122181+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=e7ho6z32yyo",
+    "clip_seconds": 90
+  },
+  "technical": {
+    "duration": 90.016682,
+    "fps": 29.97222222222222,
+    "fps_fraction": "1079/36",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 3038239,
+    "bytes": 34186525,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 90.016682,
+    "fps": 29.97222222222222,
+    "fps_fraction": "1079/36",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 2919294,
+    "bytes": 32848152,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}

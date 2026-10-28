@@ -1,0 +1,38 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Of course. You don't judge a book by its cover or a person from the outside.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 4.4,
+      "end": 6.1,
+      "text": "Oh, that's a relief to hear.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 6.28,
+      "end": 7.76,
+      "text": "You judge them based on their actions.",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    },
+    {
+      "start": 9.26,
+      "end": 11.14,
+      "text": "Well, that seems kind of petty, don't you think?",
+      "avg_logprob": -0.29754737327838765,
+      "no_speech_prob": 0.25040924549102783,
+      "compression_ratio": 1.3687943262411348
+    }
+  ],
+  "warnings": []
+}

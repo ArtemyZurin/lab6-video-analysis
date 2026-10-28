@@ -1,0 +1,8 @@
+[
+  {"source": "https://www.youtube.com/watch?v=libKVRa01L8", "name": "solar_system", "title": "Solar System 101 | National Geographic", "language": "en", "clip_seconds": 90},
+  {"source": "https://www.youtube.com/watch?v=kOEDG3j1bjs", "name": "black_holes", "title": "Black Holes 101 | National Geographic", "language": "en", "clip_seconds": 90},
+  {"source": "https://www.youtube.com/watch?v=EFO_bsg1sw8", "name": "stars", "title": "Stars 101 | National Geographic", "language": "en", "clip_seconds": 90},
+  {"source": "https://www.youtube.com/watch?v=yDy28QtdYJY", "name": "volcanoes", "title": "Volcanoes 101 | National Geographic", "language": "en", "clip_seconds": 90},
+  {"source": "https://www.youtube.com/watch?v=e7ho6z32yyo", "name": "earthquakes", "title": "Earthquakes 101 | National Geographic", "language": "en", "clip_seconds": 90},
+  {"source": "https://www.youtube.com/watch?v=Wq9kLzm36h0", "name": "continental_drift", "title": "Continental Drift 101 | National Geographic", "language": "en", "clip_seconds": 72}
+]

@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "index_sha256": "d856a543cce05c556315945408dc45508b31011db34255df13a89c8c5869f088",
+  "videos": 6,
+  "search_hits": 9,
+  "time_after_click": 5.0048,
+  "speech_time_after_click": 2.06,
+  "javascript_errors": [],
+  "speech_query": "solar",
+  "checks": [
+    "video cards",
+    "Russian object search",
+    "seek from result",
+    "speech search and cross-video seek",
+    "timeline click",
+    "empty search",
+    "mobile width"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {"source": "https://media.w3.org/2010/05/sintel/trailer.mp4", "name": "sintel", "title": "Sintel — trailer", "language": "en"},
+  {"source": "https://media.w3.org/2010/05/bunny/trailer.mp4", "name": "bunny", "title": "Big Buck Bunny — trailer", "language": "en"},
+  {"source": "https://media.w3.org/2010/05/video/movie_300.mp4", "name": "w3c_movie", "title": "W3C — timer test", "language": "en", "clip_seconds": 60},
+  {"source": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi", "name": "pedestrians", "title": "OpenCV — pedestrians", "language": "en", "clip_seconds": 15},
+  {"source": "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/Megamind.avi", "name": "megamind", "title": "OpenCV — Megamind sample", "language": "en"}
+]

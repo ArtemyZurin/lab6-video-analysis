@@ -1,0 +1,47 @@
+{
+  "source": {
+    "title": "Continental Drift 101 | National Geographic",
+    "description": "",
+    "tags": [],
+    "categories": [],
+    "source": "E:\\desktop1\\Labs\\Lab6 Zurin\\data\\demo\\continental_drift\\clip.mp4",
+    "filename": "original.mp4",
+    "sha256": "a403f99233daacebe8a9672f66aea7086ddc7a2e61d718c04b906975c2b4da78",
+    "collected_at": "2026-10-28T09:29:16.380163+00:00",
+    "source_kind": "local",
+    "origin_url": "https://www.youtube.com/watch?v=Wq9kLzm36h0",
+    "clip_seconds": 72
+  },
+  "technical": {
+    "duration": 72.007,
+    "fps": 29.971553610503282,
+    "fps_fraction": "13697/457",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 3602503,
+    "bytes": 32425683,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  },
+  "normalized": {
+    "duration": 72.007,
+    "fps": 29.971553610503282,
+    "fps_fraction": "13697/457",
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "bit_rate": 3454398,
+    "bytes": 31092610,
+    "has_audio": true,
+    "audio_codec": "aac",
+    "probe_backend": "PyAV / libavformat",
+    "ffprobe": null
+  }
+}
